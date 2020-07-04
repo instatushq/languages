@@ -1,4 +1,4 @@
-# status-page-locales
+# status-page-languages
 
 JSON files for the languages supported by Instatus. 
 If you'd like to add your language, please create a pull request ✌️ 
