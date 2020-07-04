@@ -1,0 +1,71 @@
+{
+  "languageCode": "ru",
+  "languageName": "Русский",
+  "langageNameShort": "RUS",
+
+  "isOk": "Все системы работают",
+
+  "underMaintenance": "На технических работах",
+  "operational": "Работает",
+  "degradedPerformance": "Ухудшенная производительность",
+  "partialOutage": "Частичное отключение",
+  "minorOutage": "Незначительное отключение",
+  "majorOutage": "Большой сбой",
+
+  "incidents": "Прошлые Проблемы",
+  "incidentHistory": "История проблем",
+
+  "started": "Началось на",
+  "resolvedAfter": "Решено после",
+  "inUnderAMinute": "менее чем за минуту",
+  "ofDowntime": "отключения",
+  "notResolved": "Еще не решено.",
+  "affected": "Затронутые",
+
+  "noDowntime": "О простоях не сообщается.",
+  "noIncidents": "Об инцидентах не сообщалось.",
+  "noIncidentsMonth": "В этом месяце инцидентов не зарегистрировано.",
+
+  "prev": "Предыдущая",
+  "next": "Следующая",
+  
+  "goBack": "Вернуться назад к",
+  "poweredBy": "Питаться от",
+  "showIncidentHistory": "Показать историю проблем",
+  "showCurrent": "Показать текущий статус",
+
+  "getUpdates": "Получать обновления",
+  "toAllComponents": "Получить все обновления статуса",
+  "toCertainComponents": "Только те, что об определенных компонентах",
+  "subscribe": "Подписывайся",
+  "working": "Подписывайся…",
+  "subscribed": "Вы подписаны",
+  "getStatusUpdates": "Получать обновления статуса",
+  "email": "Электронное письмо",
+  "getUpdatesEmailShort": "Получать обновления по электронной почте",
+  "getUpdatesEmailLong": "Получайте обновления в свой почтовый ящик",
+  "sms": "смс",
+  "getUpdatesSmsShort": "Получать обновления по смс",
+  "getUpdatesSmsLong": "Получайте обновления на свой телефон",
+  "getUpdatesRss": "Получать обновления по rss",
+  "twitter": "щебет",
+  "getUpdatesTwitterShort": "Следите за обновлениями в Твиттере",
+  "getUpdatesTwitterLong": "Следите за обновлениями",
+
+  "reportAnIssue": "сообщить о проблеме",
+  "copied": "скопированный",
+  "toClipboard": "в буфер обмена!",
+
+  "enterEmailError": "Пожалуйста, введите свой адрес электронной почты.",
+  "enterPhoneError": "пожалуйста введите ваш номер телефона.",
+  "invalidEmailError": "Пожалуйста, введите действительный адрес электронной почты.",
+
+  "resolved": "Решено",
+  "investigating": "Исследуя",
+  "identified": "идентифицированный",
+  "monitoring": "Мониторинг",
+
+  "notStartedYet": "Еще не началось",
+  "inProgress": "В ходе выполнения",
+  "completed": "Завершенный"
+}

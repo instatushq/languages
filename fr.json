@@ -1,0 +1,71 @@
+{
+  "languageCode": "fr",
+  "languageName": "French",
+  "langageNameShort": "FRE",
+
+  "isOk": "Tous les systèmes sont opérationnels",
+
+  "underMaintenance": "Maintenance",
+  "operational": "Opérationnel",
+  "degradedPerformance": "Des performances dégradées",
+  "partialOutage": "Panne partielle",
+  "minorOutage": "Interruption mineure",
+  "majorOutage": "Panne majeure",
+
+  "incidents": "Incidents",
+  "incidentHistory": "Historique des incidents",
+
+  "started": "Commencé sur",
+  "resolvedAfter": "Résolu après",
+  "inUnderAMinute": "en moins d'une minute",
+  "ofDowntime": "of downtime",
+  "notResolved": "Pas encore résolu.",
+  "affected": "Concernés",
+
+  "noDowntime": "Aucun temps d'arrêt signalé.",
+  "noIncidents": "Aucun incident signalé.",
+  "noIncidentsMonth": "Aucun incident signalé ce mois-ci.",
+
+  "prev": "Précédent",
+  "next": "Suivant",
+  
+  "goBack": "Retourner à",
+  "poweredBy": "Propulsé par",
+  "showIncidentHistory": "Voir l’historique des problèmes",
+  "showCurrent": "Voir l’état actuel",
+
+  "getUpdates": "Obtenir les mises à jour",
+  "toAllComponents": "Obtenez toutes les mises à jour de statut",
+  "toCertainComponents": "Uniquement ceux concernant certains composants",
+  "subscribe": "Souscrire",
+  "working": "Souscrire…",
+  "subscribed": "Vous êtes maintenant abonné",
+  "getStatusUpdates": "Obtenir des mises à jour de statut",
+  "email": "Email",
+  "getUpdatesEmailShort": "Recevez les mises à jour par e-mail",
+  "getUpdatesEmailLong": "Recevez des mises à jour dans votre boîte de réception",
+  "sms": "SMS",
+  "getUpdatesSmsShort": "Recevez des mises à jour par SMS",
+  "getUpdatesSmsLong": "Recevez des mises à jour sur votre téléphone",
+  "getUpdatesRss": "Recevez les mises à jour par RSS",
+  "twitter": "Twitter",
+  "getUpdatesTwitterShort": "Suivez les mises à jour sur Twitter",
+  "getUpdatesTwitterLong": "Suivez-nous pour les mises à jour",
+
+  "reportAnIssue": "Signaler un problème",
+  "copied": "Copié",
+  "toClipboard": " dans le presse-papiers!",
+
+  "enterEmailError": "Veuillez saisir votre adresse e-mail.",
+  "enterPhoneError": "Veuillez entrer votre numéro de téléphone.",
+  "invalidEmailError": "S'il vous plaît, mettez une adresse email valide.",
+
+  "resolved": "Résolu",
+  "investigating": "Enquêter",
+  "identified": "Identifiés",
+  "monitoring": "Surveillance",
+
+  "notStartedYet": "Pas encore commencé",
+  "inProgress": "En cours",
+  "completed": "Terminé"
+}

@@ -1,0 +1,74 @@
+{
+  "languageCode": "en",
+  "languageName": "English",
+  "langageNameShort": "ENG",
+
+  "isDown": "Experiencing issues",
+  "isDisrupted": "Experiencing disruptions",
+  "isNotice": "Maintenance in progress",
+  "isOk": "All systems operational",
+
+  "operational": "Operational",
+  "underMaintenance": "Maintenenace",
+  "degradedPerformance": "Degraded performance",
+  "partialOutage": "Partial Outage",
+  "minorOutage": "Minor Outage",
+  "majorOutage": "Major Outage",
+
+  "incidents": "Previous incidents",
+  "incidentHistory": "Incident history",
+
+  "started": "Started on",
+  "resolvedAfter": "Resolved after",
+  "inUnderAMinute": "in under a minute",
+  "ofDowntime": "of downtime",
+  "notResolved": "Not resolved yet.",
+  "affected": "Affected",
+
+  "noDowntime": "No downtime reported.",
+  "noIncidents": "No incidents reported.",
+  "noIncidentsMonth": "No incidents reported this month.",
+
+  "prev": "Previous",
+  "next": "Next",
+  
+  "goBack": "Go back to",
+  "poweredBy": "Powered by",
+  "showIncidentHistory": "Show incident history",
+  "showCurrent": "Show current status",
+
+  "getUpdates": "Get updates",
+  "toAllComponents": "Get all status updates",
+  "toCertainComponents": "Only those about certain components",
+  "subscribe": "Subscribe",
+  "working": "Working…",
+  "subscribed": "You are now subscribed",
+  "getStatusUpdates": "Get status updates",
+  "email": "Email",
+  "getUpdatesEmailShort": "Get updates by email",
+  "getUpdatesEmailLong": "Get updates in your inbox",
+  "sms": "SMS",
+  "getUpdatesSmsShort": "Get updates by SMS",
+  "getUpdatesSmsLong": "Get updates on your phone",
+  "getUpdatesRss": "Get updates by RSS",
+  "twitter": "Twitter",
+  "getUpdatesTwitterShort": "Follow updates on Twitter",
+  "getUpdatesTwitterLong": "Follow us for updates",
+
+  "reportAnIssue": "Report an issue",
+  "copied": "Copied",
+  "toClipboard": "to clipboard!",
+
+  "enterEmailError": "Please enter your email address.",
+  "enterPhoneError": "Please enter your phone number.",
+  "invalidEmailError": "Please enter a valid email address.",
+
+  "resolved": "Resolved",
+  "investigating": "Investigating",
+  "identified": "Identified",
+  "monitoring": "Monitoring",
+
+  "notstartedyet": "Not started yet",
+  "inprogress": "In progress",
+  "completed": "Completed"
+}

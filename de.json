@@ -1,0 +1,71 @@
+{
+  "languageCode": "de",
+  "languageName": "German",
+  "langageNameShort": "DE",
+
+  "isOk": "Alle Systeme Funktionsfähig",
+
+  "operational": "Funktionsfähig",
+  "underMaintenance": "Wartung",
+  "degradedPerformance": "Beeinträchtigte Leistung",
+  "partialOutage": "Teilausfall",
+  "minorOutage": "Kleiner Ausfall",
+  "majorOutage": "Großer Ausfall",
+
+  "incidents": "Vorfälle",
+  "incidentHistory": "Vorfalls Historie",
+
+  "started": "Begann am",
+  "resolvedAfter": "Gelöst nach",
+  "inUnderAMinute": "in unter einer Minute",
+  "ofDowntime": "Ausfallzeit",
+  "notResolved": "Ungelöst",
+  "affected": "Betroffen",
+
+  "noDowntime": "Es wurden keine Ausfallzeiten gemeldet.",
+  "noIncidents": "Es wurden keine Vorfälle gemeldet.",
+  "noIncidentsMonth": "In diesem Monat wurden keine Vorfälle gemeldet.",
+
+  "prev": "Nächste",
+  "next": "Vorherige",
+  
+  "goBack": "Zurück zu",
+  "poweredBy": "Unterstützt von",
+  "showIncidentHistory": "Vergangene Probleme anzeigen",
+  "showCurrent": "Aktuellen Status anzeigen",
+
+  "getUpdates": "Erhalte Meldungen",
+  "toAllComponents": "Holen Sie sich alle Statusaktualisierungen",
+  "toCertainComponents": "Nur die über bestimmte Komponenten",
+  "subscribe": "Abonnieren",
+  "working": "Abonnieren…",
+  "subscribed": "Sie sind jetzt abonniert",
+  "getStatusUpdates": "Erhalte Status-Meldungen",
+  "email": "E-Mail",
+  "getUpdatesEmailShort": "Erhalte Meldungen per E-Mail",
+  "getUpdatesEmailLong": "Erhalten Meldungen in Ihrem Posteingang",
+  "sms": "SMS",
+  "getUpdatesSmsShort": "Erhalte Meldungen per SMS",
+  "getUpdatesSmsLong": "Erhalten Meldungen in Ihrem Telefon",
+  "getUpdatesRss": "Erhalte Meldungen per RSS",
+  "twitter": "Twitter",
+  "getUpdatesTwitterShort": "Folgen Sie Twitter-Updates",
+  "getUpdatesTwitterLong": "Folgen Sie uns für Updates",
+
+  "reportAnIssue": "Ein Problem melden",
+  "copied": "Kopiert",
+  "toClipboard": "in die Zwischenablage!",
+
+  "enterEmailError": "Geben Sie bitte Ihre Email-Adresse ein.",
+  "invalidEmailError": "Bitte geben Sie eine gültige E-Mail-Adresse ein.",
+  "enterPhoneError": "Bitte geben sie ihre Telefonnummer ein.",
+
+  "resolved": "Gelöst",
+  "investigating": "Nachforschungen anstellen",
+  "identified": "Identifiziert",
+  "monitoring": "Überwachung",
+
+  "notStartedYet": "Noch nicht angefangen",
+  "inProgress": "In Bearbeitung",
+  "completed": "Abgeschlossen"
+}
