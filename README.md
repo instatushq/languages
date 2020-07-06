@@ -10,3 +10,4 @@ Contributers:
 - 🇫🇷 [Joshua Tabakhoff](https://twitter.com/joshtab_)
 - 🇷🇺 [Vova Pilipchatin](https://twitter.com/VPilipchatin)
 - 🇳🇱 [Ezra van den Broek](https://twitter.com/ezraistaken)
+- 🇪🇸 [Agusti Fernandez Pardo](https://github.com/agustif)
