@@ -9,4 +9,4 @@ Contributers:
 - 🇩🇪 [An](https://twitter.com/AnTheMaker)
 - 🇫🇷 [Joshua Tabakhoff](https://twitter.com/joshtab_)
 - 🇷🇺 [Vova Pilipchatin](https://twitter.com/VPilipchatin)
-- 🇳🇱 [Ezra van den Broek](https://twitter.com/ezraistaken]
+- 🇳🇱 [Ezra van den Broek](https://twitter.com/ezraistaken)
