@@ -1,0 +1,74 @@
+{
+  "languageCode": "es",
+  "languageName": "Spanish",
+  "langageNameShort": "SPA",
+
+  "isDown": "Experimentando problemas",
+  "isDisrupted": "Experimentando interrupciones",
+  "isNotice": "Mantenimiento en curso",
+  "isOk": "Todos los sistemas están operativos",
+
+  "operational": "Operativo",
+  "underMaintenance": "Mantenimiento",
+  "degradedPerformance": "Rendimiento degradado",
+  "partialOutage": "Interrupción parcial",
+  "minorOutage": "Interrupción menor",
+  "majorOutage": "Interrupción mayor",
+
+  "incidents": "Incidencias anteriores",
+  "incidentHistory": "Historial de incidencias",
+
+  "started": "Iniciado el",
+  "resolvedAfter": "Resuelto despúes",
+  "inUnderAMinute": "de un minuto",
+  "ofDowntime": "de tiempo de inactividad",
+  "notResolved": "Aún no esta resuleto.",
+  "affected": "Afectado",
+
+  "noDowntime": "No hay tiempo de inactividad a reportar.",
+  "noIncidents": "No hay ninguna incidencia a reportar.",
+  "noIncidentsMonth": "Sin incidencis reportadas este mes.",
+
+  "prev": "Anterior",
+  "next": "Siguiente",
+
+  "goBack": "Go back to",
+  "poweredBy": "Creado con",
+  "showIncidentHistory": "Mostrar histórico de incidencias",
+  "showCurrent": "Mostrar estado actual",
+
+  "getUpdates": "Suscribeme a las actualizaciones",
+  "toAllComponents": "Suscribirse a todas las actualizaciones de estado",
+  "toCertainComponents": "Sólo aquellas sobre ciertos componentees",
+  "subscribe": "Suscribéte",
+  "working": "Trabajando...",
+  "subscribed": "You are now subscribed",
+  "getStatusUpdates": "Suscripción de actualizaciones de estado",
+  "email": "Email",
+  "getUpdatesEmailShort": "Suscribirse a actualizaciones por email",
+  "getUpdatesEmailLong": "Recibe las actualizaciones en tu bandej de entrada",
+  "sms": "SMS",
+  "getUpdatesSmsShort": "Suscribirse a actualizaciones por SMS",
+  "getUpdatesSmsLong": "Suscribirse a actualizaciones en tu teléfono móvil",
+  "getUpdatesRss": "Suscribirse a actualizaciones por RSS",
+  "twitter": "Twitter",
+  "getUpdatesTwitterShort": "Sigue nuestras actualizaciones en Twitter",
+  "getUpdatesTwitterLong": "Síguenos para recibir todas las actualizaciones",
+
+  "reportAnIssue": "Reportar un problema",
+  "copied": "Copiado",
+  "toClipboard": "al portapapeles!",
+
+  "enterEmailError": "Porfavor introduzca su dirección de email.",
+  "enterPhoneError": "Porfavor introduzca su número de teléfono.",
+  "invalidEmailError": "Porfavor introduzca una dirección de email válida.",
+
+  "resolved": "Resuelto",
+  "investigating": "Investigando",
+  "identified": "Identificado",
+  "monitoring": "Monitorizado",
+
+  "notstartedyet": "Aún no iniciado.",
+  "inprogress": "En progreso",
+  "completed": "Completado"
+}
