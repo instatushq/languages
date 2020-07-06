@@ -43,13 +43,13 @@
   "getStatusUpdates": "Erhalte Status-Meldungen",
   "email": "E-Mail",
   "getUpdatesEmailShort": "Erhalte Meldungen per E-Mail",
-  "getUpdatesEmailLong": "Erhalten Meldungen in Ihrem Posteingang",
+  "getUpdatesEmailLong": "Erhalten Sie Meldungen in Ihrem Posteingang",
   "sms": "SMS",
   "getUpdatesSmsShort": "Erhalte Meldungen per SMS",
-  "getUpdatesSmsLong": "Erhalten Meldungen in Ihrem Telefon",
+  "getUpdatesSmsLong": "Erhalten Sie Meldungen auf Ihrem Telefon",
   "getUpdatesRss": "Erhalte Meldungen per RSS",
   "twitter": "Twitter",
-  "getUpdatesTwitterShort": "Folgen Sie Twitter-Updates",
+  "getUpdatesTwitterShort": "Folgen Sie uns auf Twitter",
   "getUpdatesTwitterLong": "Folgen Sie uns für Updates",
 
   "reportAnIssue": "Ein Problem melden",
@@ -65,7 +65,7 @@
   "identified": "Identifiziert",
   "monitoring": "Überwachung",
 
-  "notStartedYet": "Noch nicht angefangen",
+  "notStartedYet": "Noch nicht begonnen",
   "inProgress": "In Bearbeitung",
   "completed": "Abgeschlossen"
 }
