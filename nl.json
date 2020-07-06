@@ -1,0 +1,74 @@
+{
+  "languageCode": "nl",
+  "languageName": "Ducth",
+  "langageNameShort": "NL",
+
+  "isDown": "Problemen ervaren",
+  "isDisrupted": "Verstoringen ervaren",
+  "isNotice": "Onderhoud in uitvoering",
+  "isOk": "Alle systemen operationeel",
+
+  "operational": "Operationeel",
+  "underMaintenance": "Onderhoud",
+  "degradedPerformance": "Verminderde prestaties",
+  "partialOutage": "Gedeeltelijke storing",
+  "minorOutage": "Kleine storing",
+  "majorOutage": "Grote storing",
+
+  "incidents": "Eerdere incidenten",
+  "incidentHistory": "Incidentgeschiedenis",
+
+  "started": "Begon op",
+  "resolvedAfter": "Opgelost na",
+  "inUnderAMinute": "in minder dan een minuut",
+  "ofDowntime": "van downtime",
+  "notResolved": "Nog niet opgelost.",
+  "affected": "Getroffen",
+
+  "noDowntime": "Geen downtime gemeld.",
+  "noIncidents": "Geen incidenten gemeld.",
+  "noIncidentsMonth": "Geen incidenten gemeld deze maand.",
+
+  "prev": "Vorige",
+  "next": "Volgende",
+  
+  "goBack": "Ga terug naar",
+  "poweredBy": "Aangedreven door",
+  "showIncidentHistory": "Toon incidentgeschiedenis",
+  "showCurrent": "Toon huidige status",
+
+  "getUpdates": "Krijg updates",
+  "toAllComponents": "Ontvang alle statusupdates",
+  "toCertainComponents": "Alleen die over bepaalde componenten",
+  "subscribe": "Inschrijven",
+  "working": "Bezig…",
+  "subscribed": "Je bent nu geabonneerd",
+  "getStatusUpdates": "Ontvang statusupdates",
+  "email": "Email",
+  "getUpdatesEmailShort": "Ontvang updates per e-mail",
+  "getUpdatesEmailLong": "Ontvang updates in je inbox",
+  "sms": "SMS",
+  "getUpdatesSmsShort": "Ontvang updates via sms",
+  "getUpdatesSmsLong": "Ontvang updates op je telefoon",
+  "getUpdatesRss": "Ontvang updates via RSS",
+  "twitter": "Twitter",
+  "getUpdatesTwitterShort": "Volg updates op Twitter",
+  "getUpdatesTwitterLong": "Volg ons voor updates",
+
+  "reportAnIssue": "Een probleem melden",
+  "copied": "Gekopieerd",
+  "toClipboard": "naar klembord!",
+
+  "enterEmailError": "Vul alstublieft uw e-mail adres in.",
+  "enterPhoneError": "Voer uw telefoonnummer in.",
+  "invalidEmailError": "Vul een geldig e-mailadres in.",
+
+  "resolved": "Opgelost",
+  "investigating": "Onderzoeken",
+  "identified": "Geïdentificeerd",
+  "monitoring": "Toezicht houden",
+
+  "notstartedyet": "Nog niet begonnen",
+  "inprogress": "Bezig",
+  "completed": "Voltooid"
+}
