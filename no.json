@@ -1,0 +1,74 @@
+{
+  "languageCode": "no",
+  "languageName": "Norwegian",
+  "langageNameShort": "NOR",
+
+  "isDown": "Opplever problemer",
+  "isDisrupted": "Opplever forstyrrelser",
+  "isNotice": "Vedlikehold pågår",
+  "isOk": "Alle systemer er operative",
+
+  "operational": "Operasjonell",
+  "underMaintenance": "Vedlikehold",
+  "degradedPerformance": "Nedsatt ytelse",
+  "partialOutage": "Delvis brudd",
+  "minorOutage": "Mindre brudd",
+  "majorOutage": "Større brudd",
+
+  "incidents": "Tidligere hendelser",
+  "incidentHistory": "Hendelseshistorikk",
+
+  "started": "Begynte på",
+  "resolvedAfter": "Løst etter",
+  "inUnderAMinute": "på under et minutt",
+  "ofDowntime": "med nedetid",
+  "notResolved": "Ikke løst ennå.",
+  "affected": "Påvirket",
+
+  "noDowntime": "Ingen nedetid rapportert.",
+  "noIncidents": "Ingen hendelser rapportert.",
+  "noIncidentsMonth": "Ingen hendelser rapportert denne måneden.",
+
+  "prev": "Forrige",
+  "next": "Neste",
+  
+  "goBack": "Gå tilbake til",
+  "poweredBy": "Drevet av",
+  "showIncidentHistory": "Vis hendelseshistorikk",
+  "showCurrent": "Vis nåværende status",
+
+  "getUpdates": "Få oppdateringer",
+  "toAllComponents": "Få alle statusoppdateringer",
+  "toCertainComponents": "Bare de om visse komponenter",
+  "subscribe": "Abonnere",
+  "working": "Jobber…",
+  "subscribed": "Du har nå startet abonnement",
+  "getStatusUpdates": "Motta status oppdateringer",
+  "email": "E-post",
+  "getUpdatesEmailShort": "Motta oppdateringer på e-post",
+  "getUpdatesEmailLong": "Få oppdateringer i innboksen",
+  "sms": "SMS",
+  "getUpdatesSmsShort": "Motta oppdateringer på SMS",
+  "getUpdatesSmsLong": "Få opdateringer på telefonene",
+  "getUpdatesRss": "Få oppdateringer via RSS",
+  "twitter": "Twitter",
+  "getUpdatesTwitterShort": "Følg oppdateringer på Twitter",
+  "getUpdatesTwitterLong": "Følg oss for oppdateringer",
+
+  "reportAnIssue": "Rapporter er problem",
+  "copied": "Kopiert",
+  "toClipboard": "til utklippstavlen!",
+
+  "enterEmailError": "Venligst tast inn din e-postadresse.",
+  "enterPhoneError": "Vennligst tast inn ditt telefonnummer.",
+  "invalidEmailError": "Vennligst oppgi en gyldig e-postadresse.",
+
+  "resolved": "Løst",
+  "investigating": "Undersøker",
+  "identified": "Identifisert",
+  "monitoring": "Overvåker",
+
+  "notstartedyet": "Ikke startet ennå",
+  "inprogress": "Pågår",
+  "completed": "Fullført"
+}
