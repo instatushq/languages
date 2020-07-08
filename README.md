@@ -11,3 +11,4 @@ Contributers:
 - 🇷🇺 [Vova Pilipchatin](https://twitter.com/VPilipchatin)
 - 🇳🇱 [Ezra van den Broek](https://twitter.com/ezraistaken)
 - 🇪🇸 [Agusti Fernandez Pardo](https://github.com/agustif)
+- 🇳🇴 [Eirik Lie](https://github.com/eiriklie)
