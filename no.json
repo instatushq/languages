@@ -3,6 +3,9 @@
   "languageName": "Norwegian",
   "langageNameShort": "NOR",
 
+  "status": "Status",
+  "statusPage": "Status side",
+
   "isDown": "Opplever problemer",
   "isDisrupted": "Opplever forstyrrelser",
   "isNotice": "Vedlikehold pågår",
@@ -17,6 +20,11 @@
 
   "incidents": "Tidligere hendelser",
   "incidentHistory": "Hendelseshistorikk",
+  "incidentDetails": "Hendelsesdetaljer",
+
+  "maintenances" : "vedlikehold",
+  "maintenanceHistory" : "Vedlikeholdshistorikk",
+  "maintenanceDetails" : "Vedlikeholdsdetaljer",
 
   "started": "Begynte på",
   "resolvedAfter": "Løst etter",

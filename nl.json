@@ -3,6 +3,9 @@
   "languageName": "Ducth",
   "langageNameShort": "NL",
 
+  "status": "Status",
+  "statusPage": "Statuspagina",
+
   "isDown": "Problemen ervaren",
   "isDisrupted": "Verstoringen ervaren",
   "isNotice": "Onderhoud in uitvoering",
@@ -17,6 +20,11 @@
 
   "incidents": "Eerdere incidenten",
   "incidentHistory": "Incidentgeschiedenis",
+  "incidentDetails": "Incidentdetails",
+
+  "maintenances" : "Onderhoud",
+  "maintenanceHistory" : "Onderhoudsgeschiedenis",
+  "maintenanceDetails" : "Onderhoudsgegevens",
 
   "started": "Begon op",
   "resolvedAfter": "Opgelost na",

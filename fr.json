@@ -3,6 +3,9 @@
   "languageName": "French",
   "langageNameShort": "FRE",
 
+  "status": "Statut",
+  "statusPage": "Page d'état",
+
   "isOk": "Tous les systèmes sont opérationnels",
 
   "underMaintenance": "Maintenance",
@@ -14,6 +17,11 @@
 
   "incidents": "Incidents",
   "incidentHistory": "Historique des incidents",
+  "incidentDetails": "Détails de l'incident",
+
+  "maintenances" : "Maintenances",
+  "maintenanceHistory" : "Historique de maintenance",
+  "maintenanceDetails" : "Détails de la maintenance",
 
   "started": "Commencé sur",
   "resolvedAfter": "Résolu après",

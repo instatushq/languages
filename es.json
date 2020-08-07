@@ -3,6 +3,9 @@
   "languageName": "Spanish",
   "langageNameShort": "SPA",
 
+  "status": "Estado",
+  "statusPage": "Página de estado",
+
   "isDown": "Experimentando problemas",
   "isDisrupted": "Experimentando interrupciones",
   "isNotice": "Mantenimiento en curso",
@@ -17,6 +20,11 @@
 
   "incidents": "Incidencias anteriores",
   "incidentHistory": "Historial de incidencias",
+  "incidentDetails": "Detalles del incidente",
+
+  "maintenances" : "Mantenimientos",
+  "maintenanceHistory" : "Historial de mantenimiento",
+  "maintenanceDetails" : "Detalles de mantenimiento",
 
   "started": "Iniciado el",
   "resolvedAfter": "Resuelto despúes",

@@ -3,6 +3,9 @@
   "languageName": "Русский",
   "langageNameShort": "RUS",
 
+  "status": "Положение дел",
+  "statusPage": "Страница статуса",
+
   "isOk": "Все системы работают",
 
   "underMaintenance": "На технических работах",
@@ -14,6 +17,11 @@
 
   "incidents": "Прошлые Проблемы",
   "incidentHistory": "История проблем",
+  "incidentDetails": "Детали инцидента",
+
+  "maintenances" : "содержания",
+  "maintenanceHistory" : "История обслуживания",
+  "maintenanceDetails" : "Детали обслуживания",
 
   "started": "Началось на",
   "resolvedAfter": "Решено после",

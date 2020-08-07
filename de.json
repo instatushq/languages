@@ -3,6 +3,9 @@
   "languageName": "German",
   "langageNameShort": "DE",
 
+  "status": "Status",
+  "statusPage": "Statusseite",
+
   "isOk": "Alle Systeme funktionsfähig",
 
   "operational": "Funktionsfähig",
@@ -14,6 +17,11 @@
 
   "incidents": "Vorfälle",
   "incidentHistory": "Vorfalls Historie",
+  "incidentDetails": "Details zu Vorfällen",
+
+  "maintenances" : "vedlikehold",
+  "maintenanceHistory" : "Vedlikeholdshistorie",
+  "maintenanceDetails" : "Vedlikeholdsdetaljer",
 
   "started": "Begann am",
   "resolvedAfter": "Gelöst nach",

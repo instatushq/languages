@@ -3,6 +3,9 @@
   "languageName": "English",
   "langageNameShort": "ENG",
 
+  "status": "Status",
+  "statusPage": "Status page",
+
   "isDown": "Experiencing issues",
   "isDisrupted": "Experiencing disruptions",
   "isNotice": "Maintenance in progress",
@@ -17,6 +20,11 @@
 
   "incidents": "Previous incidents",
   "incidentHistory": "Incident history",
+  "incidentDetails": "Incident details",
+
+  "maintenances" : "Maintenances",
+  "maintenanceHistory" : "Maintenances history",
+  "maintenanceDetails" : "Maintenance details",
 
   "started": "Started on",
   "resolvedAfter": "Resolved after",
