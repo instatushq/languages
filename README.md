@@ -11,3 +11,4 @@ If you'd like to add your language, please create a pull request ✌️
 - 🇳🇱 [Ezra van den Broek](https://twitter.com/ezraistaken)
 - 🇪🇸 [Agusti Fernandez Pardo](https://github.com/agustif)
 - 🇳🇴 [Eirik Lie](https://github.com/eiriklie)
+- 🇻🇳 [Ngô Quý](https://github.com/JustHmmmm)
