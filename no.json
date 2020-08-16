@@ -3,6 +3,8 @@
   "languageName": "Norwegian",
   "langageNameShort": "NOR",
 
+  "or": "eller",
+
   "status": "Status",
   "statusPage": "Status side",
 
@@ -46,6 +48,7 @@
   "showCurrent": "Vis nåværende status",
 
   "getUpdates": "Få oppdateringer",
+  "getUpdatesBy": "Motta oppdateringer på e-post",
   "toAllComponents": "Få alle statusoppdateringer",
   "toCertainComponents": "Bare de om visse komponenter",
   "subscribe": "Abonnere",
@@ -58,6 +61,9 @@
   "sms": "SMS",
   "getUpdatesSmsShort": "Motta oppdateringer på SMS",
   "getUpdatesSmsLong": "Få opdateringer på telefonene",
+  "rss": "RSS",
+  "atom": "Atom",
+  "feed": "Feed",
   "getUpdatesRss": "Få oppdateringer via RSS",
   "twitter": "Twitter",
   "getUpdatesTwitterShort": "Følg oppdateringer på Twitter",

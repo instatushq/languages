@@ -3,6 +3,8 @@
   "languageName": "Ducth",
   "langageNameShort": "NL",
 
+  "or": "of",
+
   "status": "Status",
   "statusPage": "Statuspagina",
 
@@ -46,6 +48,7 @@
   "showCurrent": "Toon huidige status",
 
   "getUpdates": "Krijg updates",
+  "getUpdatesBy": "Ontvang updates per",
   "toAllComponents": "Ontvang alle statusupdates",
   "toCertainComponents": "Alleen die over bepaalde componenten",
   "subscribe": "Inschrijven",
@@ -58,6 +61,9 @@
   "sms": "SMS",
   "getUpdatesSmsShort": "Ontvang updates via sms",
   "getUpdatesSmsLong": "Ontvang updates op je telefoon",
+  "rss": "RSS",
+  "atom": "Atom",
+  "feed": "Feed",
   "getUpdatesRss": "Ontvang updates via RSS",
   "twitter": "Twitter",
   "getUpdatesTwitterShort": "Volg updates op Twitter",

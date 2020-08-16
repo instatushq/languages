@@ -3,6 +3,8 @@
   "languageName": "English",
   "langageNameShort": "ENG",
 
+  "or": "or",
+
   "status": "Status",
   "statusPage": "Status page",
 
@@ -53,13 +55,16 @@
   "subscribed": "You are now subscribed",
   "getStatusUpdates": "Get status updates",
   "email": "Email",
+  "getUpdatesBy": "Get updates by",
   "getUpdatesEmailShort": "Get updates by email",
   "getUpdatesEmailLong": "Get updates in your inbox",
   "sms": "SMS",
   "getUpdatesSmsShort": "Get updates by SMS",
   "getUpdatesSmsLong": "Get updates on your phone",
-  "getUpdatesRss": "Get updates by RSS",
+  "rss": "RSS",
+  "atom": "Atom",
   "twitter": "Twitter",
+  "feed": "Feed",
   "getUpdatesTwitterShort": "Follow updates on Twitter",
   "getUpdatesTwitterLong": "Follow us for updates",
 

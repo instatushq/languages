@@ -3,6 +3,8 @@
   "languageName": "Русский",
   "langageNameShort": "RUS",
 
+  "or": "или",
+
   "status": "Положение дел",
   "statusPage": "Страница статуса",
 
@@ -43,6 +45,7 @@
   "showCurrent": "Показать текущий статус",
 
   "getUpdates": "Получать обновления",
+  "getUpdatesBy": "Получать обновления по",
   "toAllComponents": "Получить все обновления статуса",
   "toCertainComponents": "Только те, что об определенных компонентах",
   "subscribe": "Подписывайся",
@@ -55,6 +58,9 @@
   "sms": "смс",
   "getUpdatesSmsShort": "Получать обновления по смс",
   "getUpdatesSmsLong": "Получайте обновления на свой телефон",
+  "feed": "Каналы",
+  "rss": "RSS",
+  "atom": "Atom",
   "getUpdatesRss": "Получать обновления по rss",
   "twitter": "щебет",
   "getUpdatesTwitterShort": "Следите за обновлениями в Твиттере",

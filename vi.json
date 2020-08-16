@@ -1,0 +1,88 @@
+{
+  "languageCode": "vi",
+  "languageName": "Vietnamese",
+  "langageNameShort": "VIE",
+
+  "or": "hoặc là",
+
+  "status": "Trạng thái",
+  "statusPage": "Trang trạng thái",
+
+  "isDown": "Gặp sự cố",
+  "isDisrupted": "Trải nghiệm bị gián đoạn",
+  "isNotice": "Đang bảo trì",
+  "isOk": "Hệ thống hoạt động bình thường",
+
+  "operational": "Đang hoạt động",
+  "underMaintenance": "Đang bảo trì",
+  "degradedPerformance": "Hiệu suất giảm sút",
+  "partialOutage": "Sự cố một phần",
+  "minorOutage": "Sự cố nhỏ",
+  "majorOutage": "Sự cố lớn",
+
+  "incidents": "Sự cố trước đây",
+  "incidentHistory": "Lịch sử sự cố",
+  "incidentDetails": "Chi tiết sự cố",
+
+  "maintenances": "Bảo trì",
+  "maintenanceHistory": "Lịch sử bảo trì",
+  "maintenanceDetails": "Chi tiết bảo trì",
+
+  "started": "Bắt đầu lúc",
+  "resolvedAfter": "Được khắc phục sau",
+  "inUnderAMinute": "một phút",
+  "ofDowntime": "gặp sự cố",
+  "notResolved": "Chưa được khác phục.",
+  "affected": "Ảnh hưởng",
+
+  "noDowntime": "Không có sự cố.",
+  "noIncidents": "Không có sự cố.",
+  "noIncidentsMonth": "Không có sự cố nào trong tháng này.",
+
+  "prev": "Trước",
+  "next": "Sau",
+
+  "goBack": "Quay về",
+  "poweredBy": "Cung cấp bởi",
+  "showIncidentHistory": "Xem lịch sử sự cố",
+  "showCurrent": "Xem trạng thái hiện tại",
+
+  "getUpdates": "Nhận cập nhật",
+  "getUpdatesBy": "Nhận cập nhật qua tin nhắn",
+  "toAllComponents": "Nhận tất cả các cập nhật trạng thái",
+  "toCertainComponents": "Chỉ nhận cấp nhật cho một số mục sau",
+  "subscribe": "Đăng kí",
+  "working": "Đang làm việc…",
+  "subscribed": "Bạn đã đăng kí nhận cập nhật",
+  "getStatusUpdates": "Nhận cập nhật",
+  "email": "Email",
+  "getUpdatesEmailShort": "Nhận cập nhật qua email",
+  "getUpdatesEmailLong": "Nhận cập nhật vào hòm thư của bạn",
+  "sms": "Tin nhắn SMS",
+  "getUpdatesSmsShort": "Nhận cập nhật qua tin nhắn SMS",
+  "getUpdatesSmsLong": "Nhận cập nhật vào điện thoại của bạn",
+  "rss": "RSS",
+  "atom": "Atom",
+  "feed": "Nguồn cấp dữ liệu",
+  "getUpdatesRss": "Nhận cập nhật qua RSS",
+  "twitter": "Twitter",
+  "getUpdatesTwitterShort": "Theo dõi qua Twitter",
+  "getUpdatesTwitterLong": "Theo dõi qua Twitter",
+
+  "reportAnIssue": "Phản ánh sự cố",
+  "copied": "Đã sao chép",
+  "toClipboard": "vào clipboard!",
+
+  "enterEmailError": "Vui lòng nhập địa chỉ email của bạn.",
+  "enterPhoneError": "Vui lòng nhập số điện thoại của bạn.",
+  "invalidEmailError": "VUi lòng nhập địa chỉ email có tồn tại.",
+
+  "resolved": "Đã khắc phục",
+  "investigating": "Đang điều tra",
+  "identified": "Đã nhận diện",
+  "monitoring": "Đang theo dõi",
+
+  "notstartedyet": "Chưa bắt đầu",
+  "inprogress": "Đang tiến hành",
+  "completed": "Hoàn thành"
+} 

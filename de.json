@@ -3,6 +3,8 @@
   "languageName": "German",
   "langageNameShort": "DE",
 
+  "or": "oder",
+
   "status": "Status",
   "statusPage": "Statusseite",
 
@@ -43,6 +45,7 @@
   "showCurrent": "Aktuellen Status anzeigen",
 
   "getUpdates": "Erhalte Meldungen",
+  "getUpdatesBy": "Erhalte Meldungen per",
   "toAllComponents": "Holen Sie sich alle Statusaktualisierungen",
   "toCertainComponents": "Nur die über bestimmte Komponenten",
   "subscribe": "Abonnieren",
@@ -55,6 +58,9 @@
   "sms": "SMS",
   "getUpdatesSmsShort": "Erhalte Meldungen per SMS",
   "getUpdatesSmsLong": "Erhalten Sie Meldungen auf Ihrem Telefon",
+  "rss": "RSS",
+  "atom": "Atom",
+  "feed": "Feed",
   "getUpdatesRss": "Erhalte Meldungen per RSS",
   "twitter": "Twitter",
   "getUpdatesTwitterShort": "Folgen Sie uns auf Twitter",

@@ -3,6 +3,8 @@
   "languageName": "Spanish",
   "langageNameShort": "SPA",
 
+  "or": "o",
+
   "status": "Estado",
   "statusPage": "Página de estado",
 
@@ -46,6 +48,7 @@
   "showCurrent": "Mostrar estado actual",
 
   "getUpdates": "Suscribeme a las actualizaciones",
+  "getUpdatesBy": "Suscribirse a actualizaciones por",
   "toAllComponents": "Suscribirse a todas las actualizaciones de estado",
   "toCertainComponents": "Sólo aquellas sobre ciertos componentees",
   "subscribe": "Suscribéte",
@@ -58,6 +61,9 @@
   "sms": "SMS",
   "getUpdatesSmsShort": "Suscribirse a actualizaciones por SMS",
   "getUpdatesSmsLong": "Suscribirse a actualizaciones en tu teléfono móvil",
+  "rss": "RSS",
+  "atom": "Atom",
+  "feed": "Feed",
   "getUpdatesRss": "Suscribirse a actualizaciones por RSS",
   "twitter": "Twitter",
   "getUpdatesTwitterShort": "Sigue nuestras actualizaciones en Twitter",

@@ -3,6 +3,8 @@
   "languageName": "French",
   "langageNameShort": "FRE",
 
+  "or": "ou",
+
   "status": "Statut",
   "statusPage": "Page d'état",
 
@@ -43,6 +45,7 @@
   "showCurrent": "Voir l’état actuel",
 
   "getUpdates": "Obtenir les mises à jour",
+  "getUpdatesBy": "Recevez les mises à jour par",
   "toAllComponents": "Obtenez toutes les mises à jour de statut",
   "toCertainComponents": "Uniquement ceux concernant certains composants",
   "subscribe": "Souscrire",
@@ -55,6 +58,9 @@
   "sms": "SMS",
   "getUpdatesSmsShort": "Recevez des mises à jour par SMS",
   "getUpdatesSmsLong": "Recevez des mises à jour sur votre téléphone",
+  "rss": "RSS",
+  "atom": "Atom",
+  "feed": "Flux",
   "getUpdatesRss": "Recevez les mises à jour par RSS",
   "twitter": "Twitter",
   "getUpdatesTwitterShort": "Suivez les mises à jour sur Twitter",
