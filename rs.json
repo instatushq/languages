@@ -1,0 +1,89 @@
+{
+  "languageCode": "rs",
+  "languageName": "Serbian",
+  "langageNameShort": "SRB",
+
+  "or": "ili",
+
+  "status": "Status",
+  "statusPage": "Statusna stranica",
+
+  "isDown": "Postoje Problemi",
+  "isDisrupted": "Postoje Problemi",
+  "isNotice": "Popravljanje u toku",
+  "isOk": "Svi sistemi funkcionišu",
+
+  "operational": "Funkcioniše",
+  "underMaintenance": "Popravljanje u toku",
+  "degradedPerformance": "Delimičan prekid rada",
+  "partialOutage": "Delimičan prekid rada",
+  "minorOutage": "Delimičan prekid rada",
+  "majorOutage": "Ne radi",
+
+  "incidents": "Prošli incidenti",
+  "incidentHistory": "Istorija incidenata",
+  "incidentDetails": "Detalji incidenta",
+
+  "maintenances" : "Popravke",
+  "maintenanceHistory" : "Istorija popravki",
+  "maintenanceDetails" : "Detalji popravke",
+
+  "started": "Početo",
+  "resolvedAfter": "Rešeno posle",
+  "inUnderAMinute": "1 minut",
+  "ofDowntime": "Ne radi",
+  "notResolved": "Nije još rešeno.",
+  "affected": "Sajtovi pod uticajem:",
+
+  "noDowntime": "Nije bilo prekida rada",
+  "didntStart": "Услуга још није почела.",
+  "noIncidents": "Nije prijavljen nijedan incident.",
+  "noIncidentsMonth": "Nema prijavljenih incidenata ovog meseca.",
+
+  "prev": "Prošli",
+  "next": "Sledeći",
+  
+  "goBack": "Vrati se na",
+  "poweredBy": "Покреће",
+  "showIncidentHistory": "Istorija incidenata",
+  "showCurrent": "Početna strana",
+
+  "getUpdates": "Pretplatite se na status mejling listu",
+  "toAllComponents": "Za sve sajtove",
+  "toCertainComponents": "Za odredjene sajtove",
+  "subscribe": "Pretplati se",
+  "working": "Učitavanje...",
+  "subscribed": "Sada ste pretplaćeni",
+  "getStatusUpdates": "Pretplatite se na status mejling listu",
+  "email": "Email",
+  "getUpdatesBy": "Pretplti se sa",
+  "getUpdatesEmailShort": "Dobite email kada sajt ne radi",
+  "getUpdatesEmailLong": "Dobite email kada sajt ne radi",
+  "sms": "SMS",
+  "getUpdatesSmsShort": "Dobite SMS",
+  "getUpdatesSmsLong": "Dobite SMS kada sajt ne radi",
+  "rss": "RSS",
+  "webhook": "Webhook",
+  "atom": "Atom",
+  "twitter": "Twitter",
+  "feed": "Feed",
+  "getUpdatesTwitterShort": "Twitter",
+  "getUpdatesTwitterLong": "Twitter",
+
+  "reportAnIssue": "Prijavite problem",
+  "copied": "Kopirano",
+  "toClipboard": "копирано у међуспремник",
+
+  "enterEmailError": "Molimo, unesite vašu e-mejl adresu.",
+  "enterPhoneError": "Molimo, unesite vaš broj telefona.",
+  "invalidEmailError": "Molimo, unesite validnu e-mejl adresu.",
+
+  "resolved": "Problem je rešen",
+  "investigating": "Razlog problema se istražuje",
+  "identified": "Problem identifikovan",
+  "monitoring": "Prati status prblema",
+
+  "notstartedyet": "Nije još početo",
+  "inprogress": "U toku",
+  "completed": "Završeno"
+}

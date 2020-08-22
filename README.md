@@ -12,3 +12,4 @@ If you'd like to add your language, please create a pull request ✌️
 - 🇪🇸 [Agusti Fernandez Pardo](https://github.com/agustif)
 - 🇳🇴 [Eirik Lie](https://github.com/eiriklie)
 - 🇻🇳 [Ngô Quý](https://github.com/JustHmmmm)
+- 🇷🇸 Aleksandar Vasilić
