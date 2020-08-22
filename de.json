@@ -33,6 +33,7 @@
   "affected": "Betroffen",
 
   "noDowntime": "Es wurden keine Ausfallzeiten gemeldet.",
+  "didntStart": "Der Service wurde noch nicht gestartet.",
   "noIncidents": "Es wurden keine Vorfälle gemeldet.",
   "noIncidentsMonth": "In diesem Monat wurden keine Vorfälle gemeldet.",
 
@@ -59,6 +60,7 @@
   "getUpdatesSmsShort": "Erhalte Meldungen per SMS",
   "getUpdatesSmsLong": "Erhalten Sie Meldungen auf Ihrem Telefon",
   "rss": "RSS",
+  "webhook": "Webhook",
   "atom": "Atom",
   "feed": "Feed",
   "getUpdatesRss": "Erhalte Meldungen per RSS",

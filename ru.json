@@ -33,6 +33,7 @@
   "affected": "Затронутые",
 
   "noDowntime": "О простоях не сообщается.",
+  "didntStart": "Сервис еще не запустился.",
   "noIncidents": "Об инцидентах не сообщалось.",
   "noIncidentsMonth": "В этом месяце инцидентов не зарегистрировано.",
 
@@ -60,6 +61,7 @@
   "getUpdatesSmsLong": "Получайте обновления на свой телефон",
   "feed": "Каналы",
   "rss": "RSS",
+  "webhook": "Webhook",
   "atom": "Atom",
   "getUpdatesRss": "Получать обновления по rss",
   "twitter": "щебет",

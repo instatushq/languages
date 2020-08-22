@@ -36,6 +36,7 @@
   "affected": "Affected",
 
   "noDowntime": "No downtime reported.",
+  "didntStart": "Service didn't start yet.",
   "noIncidents": "No incidents reported.",
   "noIncidentsMonth": "No incidents reported this month.",
 
@@ -49,7 +50,7 @@
 
   "getUpdates": "Get updates",
   "toAllComponents": "Get all status updates",
-  "toCertainComponents": "Only those about certain components",
+  "toCertainComponents": "Only specific components",
   "subscribe": "Subscribe",
   "working": "Working…",
   "subscribed": "You are now subscribed",
@@ -62,6 +63,7 @@
   "getUpdatesSmsShort": "Get updates by SMS",
   "getUpdatesSmsLong": "Get updates on your phone",
   "rss": "RSS",
+  "webhook": "Webhook",
   "atom": "Atom",
   "twitter": "Twitter",
   "feed": "Feed",

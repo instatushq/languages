@@ -36,6 +36,7 @@
   "affected": "Afectado",
 
   "noDowntime": "No hay tiempo de inactividad a reportar.",
+  "didntStart": "El servicio aún no ha comenzado.",
   "noIncidents": "No hay ninguna incidencia a reportar.",
   "noIncidentsMonth": "Sin incidencis reportadas este mes.",
 
@@ -62,6 +63,7 @@
   "getUpdatesSmsShort": "Suscribirse a actualizaciones por SMS",
   "getUpdatesSmsLong": "Suscribirse a actualizaciones en tu teléfono móvil",
   "rss": "RSS",
+  "webhook": "Webhook",
   "atom": "Atom",
   "feed": "Feed",
   "getUpdatesRss": "Suscribirse a actualizaciones por RSS",

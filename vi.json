@@ -36,6 +36,7 @@
   "affected": "Ảnh hưởng",
 
   "noDowntime": "Không có sự cố.",
+  "didntStart": "Dịch vụ chưa bắt đầu.",
   "noIncidents": "Không có sự cố.",
   "noIncidentsMonth": "Không có sự cố nào trong tháng này.",
 
@@ -62,6 +63,7 @@
   "getUpdatesSmsShort": "Nhận cập nhật qua tin nhắn SMS",
   "getUpdatesSmsLong": "Nhận cập nhật vào điện thoại của bạn",
   "rss": "RSS",
+  "webhook": "Webhook",
   "atom": "Atom",
   "feed": "Nguồn cấp dữ liệu",
   "getUpdatesRss": "Nhận cập nhật qua RSS",

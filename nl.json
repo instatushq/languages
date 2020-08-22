@@ -36,6 +36,7 @@
   "affected": "Getroffen",
 
   "noDowntime": "Geen downtime gemeld.",
+  "didntStart": "De service is nog niet gestart.",
   "noIncidents": "Geen incidenten gemeld.",
   "noIncidentsMonth": "Geen incidenten gemeld deze maand.",
 
@@ -62,6 +63,7 @@
   "getUpdatesSmsShort": "Ontvang updates via sms",
   "getUpdatesSmsLong": "Ontvang updates op je telefoon",
   "rss": "RSS",
+  "webhook": "Webhook",
   "atom": "Atom",
   "feed": "Feed",
   "getUpdatesRss": "Ontvang updates via RSS",

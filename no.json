@@ -36,6 +36,7 @@
   "affected": "Påvirket",
 
   "noDowntime": "Ingen nedetid rapportert.",
+  "didntStart": "Tjenesten startet ikke ennå.",
   "noIncidents": "Ingen hendelser rapportert.",
   "noIncidentsMonth": "Ingen hendelser rapportert denne måneden.",
 
@@ -62,6 +63,7 @@
   "getUpdatesSmsShort": "Motta oppdateringer på SMS",
   "getUpdatesSmsLong": "Få opdateringer på telefonene",
   "rss": "RSS",
+  "webhook": "Webhook",
   "atom": "Atom",
   "feed": "Feed",
   "getUpdatesRss": "Få oppdateringer via RSS",
