@@ -1,0 +1,89 @@
+{
+  "languageCode": "pt",
+  "languageName": "Português",
+  "langageNameShort": "POR",
+
+  "or": "ou",
+
+  "status": "Estado",
+  "statusPage": "Página de estado",
+
+  "isDown": "Enfrentando problemas",
+  "isDisrupted": "Enfrentando interrupções",
+  "isNotice": "Manutenção em curso",
+  "isOk": "Todos os sistemas operacionais",
+
+  "operational": "Operacional",
+  "underMaintenance": "Manutenção",
+  "degradedPerformance": "Desempenho degradado",
+  "partialOutage": " Parcialmente indisponível",
+  "minorOutage": " Desempenho afetado",
+  "majorOutage": " Totalmente indisponível",
+
+  "incidents": "Incidentes anteriores",
+  "incidentHistory": "Histórico de inciidentes",
+  "incidentDetails": "Detalhes do incidente",
+
+  "maintenances" : "Manutenções",
+  "maintenanceHistory" : "Histórico de manutenções",
+  "maintenanceDetails" : "Detalhes de manutenções",
+
+  "started": "Começou em",
+  "resolvedAfter": "Resolvido depois",
+  "inUnderAMinute": "em um minuto",
+  "ofDowntime": "de inatividade",
+  "notResolved": "Ainda não resolvido.",
+  "affected": "Afetado",
+
+  "noDowntime": "Nenhum tempo de paragem comunicado.",
+  "didntStart": "O serviço ainda não começou.",
+  "noIncidents": "Nenhum incidente reportado.",
+  "noIncidentsMonth": "Nenhum incidente reportado este mês.",
+
+  "prev": "Anterior",
+  "next": "Seguinte",
+
+  "goBack": "Voltar para",
+  "poweredBy": "Criado por",
+  "showIncidentHistory": "Mostrar histórico de incidentes",
+  "showCurrent": "Mostrar estado atual",
+
+  "getUpdates": "Obter actualizações",
+  "toAllComponents": "Obter todas actualizações",
+  "toCertainComponents": "Apenas componentes específicos",
+  "subscribe": "Subscrever",
+  "working": "Trabalhando…",
+  "subscribed": "Está agora subscrito",
+  "getStatusUpdates": "Obter actualizações de estado",
+  "email": "Email",
+  "getUpdatesBy": "Obter actualizações por",
+  "getUpdatesEmailShort": "Obter actualizações por email",
+  "getUpdatesEmailLong": "Obter actualizações pelo correio",
+  "sms": "SMS",
+  "getUpdatesSmsShort": "Obter actualizações por SMS",
+  "getUpdatesSmsLong": "Obter actualizações pelo móvel",
+  "rss": "RSS",
+  "webhook": "Webhook",
+  "atom": "Atom",
+  "twitter": "Twitter",
+  "feed": "Feed",
+  "getUpdatesTwitterShort": "Siga as actualizações no Twitter",
+  "getUpdatesTwitterLong": "Siga-nos para actualizações",
+
+  "reportAnIssue": "Relatar um problema",
+  "copied": "Copiado",
+  "toClipboard": "para o clipboard!",
+
+  "enterEmailError": "Por favor introduza o endereço de correio.",
+  "enterPhoneError": "Por favor introduza o número de telefone.",
+  "invalidEmailError": "Por favor introduza um endereço de correio válido.",
+
+  "resolved": "Resolvido",
+  "investigating": "Investigando",
+  "identified": "Identificado",
+  "monitoring": "Monitorização",
+
+  "notstartedyet": "Ainda não começou",
+  "inprogress": "Em curso",
+  "completed": "Concluído"
+}
