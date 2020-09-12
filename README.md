@@ -13,3 +13,4 @@ If you'd like to add your language, please create a pull request ✌️
 - 🇳🇴 [Eirik Lie](https://github.com/eiriklie)
 - 🇻🇳 [Ngô Quý](https://github.com/JustHmmmm)
 - 🇷🇸 Aleksandar Vasilić
+- 🇵🇹 [Vitor Pinho](https://github.com/vitor-ao)
