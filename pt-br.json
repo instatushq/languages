@@ -1,0 +1,89 @@
+{
+  "languageCode": "pt-br",
+  "languageName": "Português do Brasil",
+  "langageNameShort": "BR",
+
+  "or": "ou",
+
+  "status": "Status",
+  "statusPage": "Página de status",
+
+  "isDown": "Enfrentando problemas",
+  "isDisrupted": "Enfrentando interrupções",
+  "isNotice": "Manutenção em curso",
+  "isOk": "Todos os sistemas operacionais",
+
+  "operational": "Operacional",
+  "underMaintenance": "Manutenção",
+  "degradedPerformance": "Desempenho degradado",
+  "partialOutage": "Parcialmente indisponível",
+  "minorOutage": "Desempenho afetado",
+  "majorOutage": "Totalmente indisponível",
+
+  "incidents": "Incidentes anteriores",
+  "incidentHistory": "Histórico de incidentes",
+  "incidentDetails": "Detalhes do incidente",
+
+  "maintenances" : "Manutenções",
+  "maintenanceHistory" : "Histórico de manutenções",
+  "maintenanceDetails" : "Detalhes de manutenções",
+
+  "started": "Começou em",
+  "resolvedAfter": "Resolvido após",
+  "inUnderAMinute": "em um minuto",
+  "ofDowntime": "de inatividade",
+  "notResolved": "Ainda não resolvido.",
+  "affected": "Afetado",
+
+  "noDowntime": "Nenhum tempo de indisponibilidade comunicado.",
+  "didntStart": "O serviço ainda não iniciou.",
+  "noIncidents": "Nenhum incidente reportado.",
+  "noIncidentsMonth": "Nenhum incidente reportado este mês.",
+
+  "prev": "Anterior",
+  "next": "Próximo",
+
+  "goBack": "Voltar para",
+  "poweredBy": "Criado por",
+  "showIncidentHistory": "Mostrar histórico de incidentes",
+  "showCurrent": "Mostrar status atual",
+
+  "getUpdates": "Obter atualizações",
+  "toAllComponents": "Obter todas as atualizações",
+  "toCertainComponents": "Apenas componentes específicos",
+  "subscribe": "Inscrever",
+  "working": "Trabalhando...",
+  "subscribed": "Você foi inscrito",
+  "getStatusUpdates": "Obter atualizações de status",
+  "email": "Email",
+  "getUpdatesBy": "Obter atualizações por",
+  "getUpdatesEmailShort": "Obter atualizações por email",
+  "getUpdatesEmailLong": "Obter atualizações na caixa de entrada",
+  "sms": "SMS",
+  "getUpdatesSmsShort": "Obter atualizações por SMS",
+  "getUpdatesSmsLong": "Obter atualizações pelo celular",
+  "rss": "RSS",
+  "webhook": "Webhook",
+  "atom": "Atom",
+  "twitter": "Twitter",
+  "feed": "Feed",
+  "getUpdatesTwitterShort": "Siga as atualizações no Twitter",
+  "getUpdatesTwitterLong": "Siga-nos para atualizações",
+
+  "reportAnIssue": "Relatar um problema",
+  "copied": "Copiado",
+  "toClipboard": "para a área de transferência!",
+
+  "enterEmailError": "Por favor informe o endereço de email.",
+  "enterPhoneError": "Por favor informe o número de telefone.",
+  "invalidEmailError": "Por favor informe um endereço de email válido.",
+
+  "resolved": "Resolvido",
+  "investigating": "Investigando",
+  "identified": "Identificado",
+  "monitoring": "Monitoramento",
+
+  "notstartedyet": "Ainda não iniciou",
+  "inprogress": "Em curso",
+  "completed": "Concluído"
+}
