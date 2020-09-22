@@ -14,7 +14,7 @@
   "isOk": "All systems operational",
 
   "operational": "Operational",
-  "underMaintenance": "Maintenenace",
+  "underMaintenance": "Maintenance",
   "degradedPerformance": "Degraded performance",
   "partialOutage": "Partial Outage",
   "minorOutage": "Minor Outage",
@@ -52,7 +52,7 @@
   "toAllComponents": "Get all status updates",
   "toCertainComponents": "Only specific components",
   "subscribe": "Subscribe",
-  "working": "Working…",
+  "working": "Working...",
   "subscribed": "You are now subscribed",
   "getStatusUpdates": "Get status updates",
   "email": "Email",
