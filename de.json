@@ -37,12 +37,12 @@
   "noIncidents": "Es wurden keine Vorfälle gemeldet.",
   "noIncidentsMonth": "In diesem Monat wurden keine Vorfälle gemeldet.",
 
-  "prev": "Nächste",
-  "next": "Vorherige",
+  "prev": "Vorherige",
+  "next": "Nächste",
   
   "goBack": "Zurück zu",
   "poweredBy": "Unterstützt von",
-  "showIncidentHistory": "Vergangene Probleme anzeigen",
+  "showIncidentHistory": "Vergangene Ausfälle anzeigen",
   "showCurrent": "Aktuellen Status anzeigen",
 
   "getUpdates": "Erhalte Meldungen",
@@ -77,7 +77,7 @@
   "enterPhoneError": "Bitte geben sie ihre Telefonnummer ein.",
 
   "resolved": "Gelöst",
-  "investigating": "Nachforschungen anstellen",
+  "investigating": "Nachforschungen werden angestellt",
   "identified": "Identifiziert",
   "monitoring": "Überwachung",
 
