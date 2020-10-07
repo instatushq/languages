@@ -2,7 +2,7 @@
 
 JSON files for the languages supported by Instatus.
 
-If you'd like to add your language, please create a pull request ✌️ 
+If you'd like to add your language, please create a pull request ✌️
 
 ## Contributers:
 - 🇩🇪 [An](https://twitter.com/AnTheMaker)
@@ -15,3 +15,4 @@ If you'd like to add your language, please create a pull request ✌️
 - 🇷🇸 Aleksandar Vasilić
 - 🇧🇷 [Vitor Pinho](https://github.com/vitor-ao)
 - 🇵🇹 [João Drummond](https://github.com/jlcd)
+- 🇸🇮 [Matej Žerovnik](https://github.com/matejzero)

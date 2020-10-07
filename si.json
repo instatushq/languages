@@ -1,0 +1,90 @@
+{
+  "languageCode": "si",
+  "languageName": "Slovenščina",
+  "langageNameShort": "SLO",
+
+  "or": "ali",
+
+  "status": "Stanje",
+  "statusPage": "Pregled stanja",
+
+  "isDown": "Zaznavamo težave",
+  "isDisrupted": "Zaznavamo motnje v delovanju",
+  "isNotice": "Vzdrževalna dela v teku",
+  "isOk": "Vsi sistemi delujejo brez napak",
+
+  "operational": "Deluje",
+  "underMaintenance": "V vzdrževanju",
+  "degradedPerformance": "Poslabšano delovanje",
+  "partialOutage": "Delni izpad delovanja",
+  "minorOutage": "Manjši izpad delovanja",
+  "majorOutage": "Večji izpad delovanja",
+
+  "incidents": "Pretekli incidenti",
+  "incidentHistory": "Zgodovina incidentov",
+  "incidentDetails": "Podrobnosti incidenta",
+
+  "maintenances" : "Vzdrževanja",
+  "maintenanceHistory" : "Zgodovina vzdrževanj",
+  "maintenanceDetails" : "Podrobnosti vzdrževanj",
+
+  "started": "Začetek",
+  "resolvedAfter": "Odpravljeno po",
+  "inUnderAMinute": "Manj kot minuta",
+  "ofDowntime": "izpada",
+  "notResolved": "Nerešeno.",
+  "affected": "Prizadeti servisi",
+
+  "noDowntime": "Brez izpadov.",
+  "didntStart": "Storitev še ne obratuje.",
+  "noIncidents": "Brez incidentov.",
+  "noIncidentsMonth": "Brez incidentov v tem mesecu.",
+
+  "prev": "Prejšnja",
+  "next": "Naslednja",
+  
+  "goBack": "Nazaj na",
+  "poweredBy": "Powered by",
+  "showIncidentHistory": "Prikaži zgodovino incidentov",
+  "showCurrent": "Prikaži trenutni status",
+
+  "getUpdates": "Obvestila",
+  "toAllComponents": "Obveščaj me o vseh spremembah stanja",
+  "toCertainComponents": "Obveščaj me le o določenih servisih",
+  "subscribe": "Naroči se na obvestila",
+  "working": "Obdelujem...",
+  "subscribed": "Sedaj ste naročeni",
+  "getStatusUpdates": "Bodite obveščeni preko",
+  "email": "E-pošta",
+  "getUpdatesBy": "Obveščanje o spremembah stanja",
+  "getUpdatesEmailShort": "Bodite obveščeni preko e-pošte",
+  "getUpdatesEmailLong": "Prejmite obvestila po e-pošti",
+  "sms": "SMS",
+  "getUpdatesSmsShort": "Bodite obveščeni preko SMS",
+  "getUpdatesSmsLong": "Prejmite obvestila neposredno na vaš telefon",
+  "rss": "RSS",
+  "webhook": "Webhook",
+  "atom": "Atom",
+  "twitter": "Twitter",
+  "feed": "Vir",
+  "getUpdatesTwitterShort": "Sledite obvestilom na Twitterju",
+  "getUpdatesTwitterLong": "Sledite našim obvestilom",
+
+  "reportAnIssue": "Prijavi napako",
+  "copied": "Shranjeno",
+  "toClipboard": "v odložišče.",
+
+  "enterEmailError": "Vpišite vaš e-mail.",
+  "enterPhoneError": "Vpišite vašo telefonsko številko.",
+  "invalidEmailError": "Vpišite veljaven e-poštni naslov.",
+
+  "resolved": "Odpravljeno",
+  "investigating": "Raziskujemo",
+  "identified": "Napaka odkrita",
+  "monitoring": "Spremljamo",
+
+  "notstartedyet": "Napoved",
+  "inprogress": "V teku",
+  "completed": "Zaključeno"
+}
+
