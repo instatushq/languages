@@ -4,6 +4,8 @@
   "langageNameShort": "POR",
 
   "or": "ou",
+  "to": "para",
+  "at": "em",
 
   "status": "Estado",
   "statusPage": "Página de status",
@@ -74,6 +76,22 @@
   "copied": "Copiado",
   "toClipboard": "para o clipboard!",
 
+  "emailAddress": "Seu endereço de email…",
+  "checkYourEmail": "Verifique seu e-mail",
+  "weJustSentYouAnEmail": "Acabamos de enviar a você um e-mail para confirmar sua inscrição.",
+  "emailConfirmed": "Seu email está confirmado",
+
+  "confirmYourSubscription": "Confirme sua inscrição",
+  "allDone": "Tudo feito!",
+  "wellSendYouAMessage": "Quando atualizarmos nosso status, enviaremos uma mensagem de texto.",
+  "wellSendYouAnEmail": "Quando atualizarmos nosso status, enviaremos um e-mail.",
+
+  "webhookDescription": "Enviaremos solicitações para o seu URL usando",
+  "webhookFormat": "este formato",
+  "webhookSendEmail": "Enviaremos a você quando houver um problema com o seu URL",
+  "webhookSend": "Quando atualizarmos nosso status, enviaremos as atualizações para o URL do seu Webhook.",
+  "webhookFormatLink": "Verifique o formato do pedido",
+
   "enterEmailError": "Por favor introduza o endereço de email.",
   "enterPhoneError": "Por favor introduza o número de telefone.",
   "invalidEmailError": "Por favor introduza um endereço de email válido.",
@@ -85,5 +103,8 @@
 
   "notstartedyet": "Ainda não começou",
   "inprogress": "Em curso",
-  "completed": "Concluído"
+  "completed": "Concluído",
+
+  "automatedIncidentTitle": "está inacessível no momento (automatizado)",
+  "automatedIncidentMessage": "não pode ser acessado no momento. Este incidente foi criado por um serviço de monitoramento automatizado."
 }

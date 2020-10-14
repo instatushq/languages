@@ -4,6 +4,8 @@
   "langageNameShort": "SRB",
 
   "or": "ili",
+  "to": "до",
+  "at": "у",
 
   "status": "Status",
   "statusPage": "Statusna stranica",
@@ -74,6 +76,22 @@
   "copied": "Kopirano",
   "toClipboard": "копирано у међуспремник",
 
+  "emailAddress": "Ваша емаил адреса…",
+  "checkYourEmail": "Проверите своју е-пошту",
+  "weJustSentYouAnEmail": "Управо смо вам послали е-пошту да бисмо потврдили претплату.",
+  "emailConfirmed": "Ваша адреса е-поште је потврђена",
+
+  "confirmYourSubscription": "Потврдите претплату",
+  "allDone": "Завршено!",
+  "wellSendYouAMessage": "Када ажурирамо свој статус, послаћемо вам текстуалну поруку.",
+  "wellSendYouAnEmail": "Када ажурирамо свој статус, послаћемо вам е-пошту.",
+
+  "webhookDescription": "Послаћемо захтеве на вашу УРЛ адресу користећи",
+  "webhookFormat": "овај формат",
+  "webhookSendEmail": "Послаћемо вам када се појави проблем са вашом УРЛ адресом",
+  "webhookSend": "Када ажурирамо свој статус, послат ћемо вам исправке за вашу УРЛ адресу Вебхоок.",
+  "webhookFormatLink": "Проверите формат захтева",
+
   "enterEmailError": "Molimo, unesite vašu e-mejl adresu.",
   "enterPhoneError": "Molimo, unesite vaš broj telefona.",
   "invalidEmailError": "Molimo, unesite validnu e-mejl adresu.",
@@ -85,5 +103,8 @@
 
   "notstartedyet": "Nije još početo",
   "inprogress": "U toku",
-  "completed": "Završeno"
+  "completed": "Završeno",
+
+  "automatedIncidentTitle": "је тренутно неприступачан (аутоматизован)",
+  "automatedIncidentMessage": "тренутно није могуће приступити. Овај инцидент креирала је аутоматизована служба за надзор."
 }

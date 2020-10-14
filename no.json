@@ -4,6 +4,8 @@
   "langageNameShort": "NOR",
 
   "or": "eller",
+  "to": "til",
+  "at": "på",
 
   "status": "Status",
   "statusPage": "Status side",
@@ -75,6 +77,22 @@
   "copied": "Kopiert",
   "toClipboard": "til utklippstavlen!",
 
+  "emailAddress": "Din epostadresse…",
+  "checkYourEmail": "Sjekk e-posten",
+  "weJustSentYouAnEmail": "Vi har nettopp sendt deg en e-post for å bekrefte abonnementet ditt.",
+  "emailConfirmed": "E-postadressen din er bekreftet",
+
+  "confirmYourSubscription": "Bekreft abonnementet",
+  "allDone": "Ferdig!",
+  "wellSendYouAMessage": "Når vi oppdaterer statusen vår, sender vi deg en tekstmelding.",
+  "wellSendYouAnEmail": "Når vi oppdaterer statusen vår, sender vi deg en e-post.",
+
+  "webhookDescription": "Vi sender en forespørsel til URL-en din ved hjelp av",
+  "webhookFormat": "dette formatet",
+  "webhookSendEmail": "Vi sender deg når det er et problem med nettadressen din",
+  "webhookSend": "Når vi oppdaterer statusen vår, sender vi deg oppdateringene til Webhook URL-en.",
+  "webhookFormatLink": "Check the request format",
+
   "enterEmailError": "Venligst tast inn din e-postadresse.",
   "enterPhoneError": "Vennligst tast inn ditt telefonnummer.",
   "invalidEmailError": "Vennligst oppgi en gyldig e-postadresse.",
@@ -86,5 +104,8 @@
 
   "notstartedyet": "Ikke startet ennå",
   "inprogress": "Pågår",
-  "completed": "Fullført"
+  "completed": "Fullført",
+
+  "automatedIncidentTitle": "er utilgjengelig for øyeblikket (automatisert)",
+  "automatedIncidentMessage": "kan ikke nås for øyeblikket. Denne hendelsen ble opprettet av en automatisert overvåkingstjeneste."
 }

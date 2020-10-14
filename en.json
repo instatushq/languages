@@ -4,6 +4,8 @@
   "langageNameShort": "ENG",
 
   "or": "or",
+  "to": "to",
+  "at": "at",
 
   "status": "Status",
   "statusPage": "Status page",
@@ -49,14 +51,14 @@
   "showCurrent": "Show current status",
 
   "getUpdates": "Get updates",
+  "getUpdatesBy": "Get updates by",
   "toAllComponents": "Get all status updates",
   "toCertainComponents": "Only specific components",
   "subscribe": "Subscribe",
-  "working": "Working...",
+  "working": "Working…",
   "subscribed": "You are now subscribed",
   "getStatusUpdates": "Get status updates",
   "email": "Email",
-  "getUpdatesBy": "Get updates by",
   "getUpdatesEmailShort": "Get updates by email",
   "getUpdatesEmailLong": "Get updates in your inbox",
   "sms": "SMS",
@@ -65,14 +67,31 @@
   "rss": "RSS",
   "webhook": "Webhook",
   "atom": "Atom",
-  "twitter": "Twitter",
   "feed": "Feed",
+  "getUpdatesRss": "Get updates by RSS",
+  "twitter": "Twitter",
   "getUpdatesTwitterShort": "Follow updates on Twitter",
   "getUpdatesTwitterLong": "Follow us for updates",
 
   "reportAnIssue": "Report an issue",
   "copied": "Copied",
   "toClipboard": "to clipboard!",
+
+  "emailAddress": "Your email address…",
+  "checkYourEmail": "Check your email",
+  "weJustSentYouAnEmail": "We just sent you to an email to confirm your subscription.",
+  "emailConfirmed": "Your email is confirmed",
+
+  "confirmYourSubscription": "Confirm your subscription",
+  "allDone": "All done!",
+  "wellSendYouAMessage": "When we update our status, we'll send you a text message.",
+  "wellSendYouAnEmail": "When we update our status, we'll send you an email.",
+
+  "webhookDescription": "We will send a requests to your URL using",
+  "webhookFormat": "this format",
+  "webhookSendEmail": "We will send you when there is an issue with your URL",
+  "webhookSend": "When we update our status, we'll send you the updates to your Webhook URL.",
+  "webhookFormatLink": "Check the request format",
 
   "enterEmailError": "Please enter your email address.",
   "enterPhoneError": "Please enter your phone number.",
@@ -85,5 +104,8 @@
 
   "notstartedyet": "Not started yet",
   "inprogress": "In progress",
-  "completed": "Completed"
+  "completed": "Completed",
+
+  "automatedIncidentTitle": "is inaccessible at the moment (automated)",
+  "automatedIncidentMessage": "cannot be accessed at the moment. This incident was created by an automated monitoring service."
 }

@@ -4,6 +4,8 @@
   "langageNameShort": "SPA",
 
   "or": "o",
+  "to": "a",
+  "at": "a",
 
   "status": "Estado",
   "statusPage": "Página de estado",
@@ -75,6 +77,22 @@
   "copied": "Copiado",
   "toClipboard": "al portapapeles!",
 
+  "emailAddress": "Tu correo electrónico…",
+  "checkYourEmail": "Consultar su correo electrónico",
+  "weJustSentYouAnEmail": "We just sent you to an email to confirm your subscription.",
+  "emailConfirmed": "Tu correo electrónico está confirmado",
+
+  "confirmYourSubscription": "Confirma tu suscripción",
+  "allDone": "¡Todo listo!",
+  "wellSendYouAMessage": "We just sent you to an email to confirm your subscription.",
+  "wellSendYouAnEmail": "Tu correo electrónico está confirmado",
+
+  "webhookDescription": "Confirma tu suscripción",
+  "webhookFormat": "este formato",
+  "webhookSendEmail": "Le enviaremos cuando haya un problema con su URL",
+  "webhookSend": "Cuando actualicemos nuestro estado, le enviaremos las actualizaciones a su URL de Webhook.",
+  "webhookFormatLink": "Verifique el formato de solicitud",
+
   "enterEmailError": "Porfavor introduzca su dirección de email.",
   "enterPhoneError": "Porfavor introduzca su número de teléfono.",
   "invalidEmailError": "Porfavor introduzca una dirección de email válida.",
@@ -86,5 +104,8 @@
 
   "notstartedyet": "Aún no iniciado.",
   "inprogress": "En progreso",
-  "completed": "Completado"
+  "completed": "Completado",
+
+  "automatedIncidentTitle": "es inaccesible en este momento (automatizado)",
+  "automatedIncidentMessage": "no se puede acceder en este momento. Este incidente fue creado por un servicio de monitoreo automatizado."
 }

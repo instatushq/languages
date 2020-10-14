@@ -4,6 +4,8 @@
   "langageNameShort": "NL",
 
   "or": "of",
+  "to": "naar",
+  "at": "Bij",
 
   "status": "Status",
   "statusPage": "Statuspagina",
@@ -75,6 +77,22 @@
   "copied": "Gekopieerd",
   "toClipboard": "naar klembord!",
 
+  "emailAddress": "Jouw e-mailadres…",
+  "checkYourEmail": "Controleer uw e-mail",
+  "weJustSentYouAnEmail": "We hebben je zojuist een e-mail gestuurd om je inschrijving te bevestigen.",
+  "emailConfirmed": "Uw e-mail is bevestigd",
+
+  "confirmYourSubscription": "Bevestig je abonnement",
+  "allDone": "Helemaal klaar!",
+  "wellSendYouAMessage": "Wanneer we onze status bijwerken, sturen we u een sms.",
+  "wellSendYouAnEmail": "Wanneer we onze status bijwerken, sturen we u een e-mail.",
+
+  "webhookDescription": "We sturen een verzoek naar uw URL met",
+  "webhookFormat": "dit formaat",
+  "webhookSendEmail": "We sturen u een bericht als er een probleem is met uw URL",
+  "webhookSend": "Wanneer we onze status bijwerken, sturen we u de updates voor uw webhook-URL.",
+  "webhookFormatLink": "Controleer het aanvraagformaat",
+
   "enterEmailError": "Vul alstublieft uw e-mail adres in.",
   "enterPhoneError": "Voer uw telefoonnummer in.",
   "invalidEmailError": "Vul een geldig e-mailadres in.",
@@ -86,5 +104,8 @@
 
   "notstartedyet": "Nog niet begonnen",
   "inprogress": "Bezig",
-  "completed": "Voltooid"
+  "completed": "Voltooid",
+
+  "automatedIncidentTitle": "is momenteel niet toegankelijk (geautomatiseerd)",
+  "automatedIncidentMessage": "is momenteel niet toegankelijk. Dit incident is gemaakt door een geautomatiseerde bewakingsdienst."
 }

@@ -4,14 +4,19 @@
   "langageNameShort": "FRE",
 
   "or": "ou",
+  "to": "à",
+  "at": "à",
 
   "status": "Statut",
   "statusPage": "Page d'état",
 
+  "isDown": "Rencontrer des problèmes",
+  "isDisrupted": "Vivre des perturbations",
+  "isNotice": "Maintenance en cours",
   "isOk": "Tous les systèmes sont opérationnels",
 
-  "underMaintenance": "Maintenance",
   "operational": "Opérationnel",
+  "underMaintenance": "Maintenance",
   "degradedPerformance": "Des performances dégradées",
   "partialOutage": "Panne partielle",
   "minorOutage": "Interruption mineure",
@@ -72,6 +77,22 @@
   "copied": "Copié",
   "toClipboard": " dans le presse-papiers!",
 
+  "emailAddress": "Votre adresse email…",
+  "checkYourEmail": "Vérifiez votre email",
+  "weJustSentYouAnEmail": "Nous venons de vous envoyer un e-mail pour confirmer votre abonnement.",
+  "emailConfirmed": "Votre email est confirmé",
+
+  "confirmYourSubscription": "Confirmez votre abonnement",
+  "allDone": "Terminé!",
+  "wellSendYouAMessage": "Lorsque nous mettons à jour notre statut, nous vous enverrons un message texte.",
+  "wellSendYouAnEmail": "Lorsque nous mettons à jour notre statut, nous vous enverrons un e-mail.",
+
+  "webhookDescription": "Nous enverrons une demande à votre URL en utilisant",
+  "webhookFormat": "ce format",
+  "webhookSendEmail": "Nous vous enverrons en cas de problème avec votre URL",
+  "webhookSend": "Lorsque nous mettons à jour notre statut, nous vous enverrons les mises à jour de votre URL Webhook.",
+  "webhookFormatLink": "Vérifiez le format de la demande",
+
   "enterEmailError": "Veuillez saisir votre adresse e-mail.",
   "enterPhoneError": "Veuillez entrer votre numéro de téléphone.",
   "invalidEmailError": "S'il vous plaît, mettez une adresse email valide.",
@@ -83,5 +104,8 @@
 
   "notStartedYet": "Pas encore commencé",
   "inProgress": "En cours",
-  "completed": "Terminé"
+  "completed": "Terminé",
+
+  "automatedIncidentTitle": "est inaccessible pour le moment (automatisé)",
+  "automatedIncidentMessage": "n'est pas accessible pour le moment. Cet incident a été créé par un service de surveillance automatisé."
 }

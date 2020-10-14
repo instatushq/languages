@@ -4,6 +4,8 @@
   "langageNameShort": "SLO",
 
   "or": "ali",
+  "to": "do",
+  "at": "ob",
 
   "status": "Stanje",
   "statusPage": "Pregled stanja",
@@ -74,6 +76,22 @@
   "copied": "Shranjeno",
   "toClipboard": "v odložišče.",
 
+  "emailAddress": "Vaš email naslov…",
+  "checkYourEmail": "Preverite vašo e-pošto",
+  "weJustSentYouAnEmail": "Pravkar smo vam poslali e-poštno sporočilo, da potrdite naročnino.",
+  "emailConfirmed": "Vaš e-poštni naslov je potrjen",
+
+  "confirmYourSubscription": "Potrdite svojo naročnino",
+  "allDone": "Končano!",
+  "wellSendYouAMessage": "Ko posodobimo svoj status, vam bomo poslali besedilno sporočilo.",
+  "wellSendYouAnEmail": "Ko posodobimo svoj status, vam bomo poslali e-pošto.",
+
+  "webhookDescription": "Na vaš URL bomo poslali zahteve",
+  "webhookFormat": "ta oblika",
+  "webhookSendEmail": "Ko pride do težave z vašim URL-jem, vas bomo poslali",
+  "webhookSend": "Ko posodobimo svoj status, vam bomo poslali posodobitve vašega URL-ja Webhook.",
+  "webhookFormatLink": "Preverite obliko zahteve",
+
   "enterEmailError": "Vpišite vaš e-mail.",
   "enterPhoneError": "Vpišite vašo telefonsko številko.",
   "invalidEmailError": "Vpišite veljaven e-poštni naslov.",
@@ -85,6 +103,9 @@
 
   "notstartedyet": "Napoved",
   "inprogress": "V teku",
-  "completed": "Zaključeno"
+  "completed": "Zaključeno",
+
+  "automatedIncidentTitle": "je trenutno nedostopen (avtomatiziran)",
+  "automatedIncidentMessage": "trenutno ni mogoče dostopati. Ta incident je ustvarila avtomatizirana služba za spremljanje."
 }
 
