@@ -35,7 +35,7 @@
   "inUnderAMinute": "Manj kot minuta",
   "ofDowntime": "izpada",
   "notResolved": "Nerešeno.",
-  "affected": "Prizadeti servisi",
+  "affected": "Prizadete storitve",
 
   "noDowntime": "Brez izpadov.",
   "didntStart": "Storitev še ne obratuje.",
@@ -52,7 +52,7 @@
 
   "getUpdates": "Obvestila",
   "toAllComponents": "Obveščaj me o vseh spremembah stanja",
-  "toCertainComponents": "Obveščaj me le o določenih servisih",
+  "toCertainComponents": "Obveščaj me le o določenih storitvah",
   "subscribe": "Naroči se na obvestila",
   "working": "Obdelujem...",
   "subscribed": "Sedaj ste naročeni",
@@ -76,21 +76,21 @@
   "copied": "Shranjeno",
   "toClipboard": "v odložišče.",
 
-  "emailAddress": "Vaš email naslov…",
-  "checkYourEmail": "Preverite vašo e-pošto",
-  "weJustSentYouAnEmail": "Pravkar smo vam poslali e-poštno sporočilo, da potrdite naročnino.",
+  "emailAddress": "Vaš e-poštni naslov…",
+  "checkYourEmail": "Preverite vaš e-poštni predal",
+  "weJustSentYouAnEmail": "Poslali smo vam e-poštno sporočilo za potrditev prijave",
   "emailConfirmed": "Vaš e-poštni naslov je potrjen",
 
-  "confirmYourSubscription": "Potrdite svojo naročnino",
+  "confirmYourSubscription": "Potrdite vašo prijavo",
   "allDone": "Končano!",
-  "wellSendYouAMessage": "Ko posodobimo svoj status, vam bomo poslali besedilno sporočilo.",
-  "wellSendYouAnEmail": "Ko posodobimo svoj status, vam bomo poslali e-pošto.",
+  "wellSendYouAMessage": "Ob spremembah stanja storitve boste prejeli SMS sporočilo.",
+  "wellSendYouAnEmail": "Ob spremembah stanja storitve boste prejeli e-poštno sporočilo.",
 
-  "webhookDescription": "Na vaš URL bomo poslali zahteve",
-  "webhookFormat": "ta oblika",
-  "webhookSendEmail": "Ko pride do težave z vašim URL-jem, vas bomo poslali",
-  "webhookSend": "Ko posodobimo svoj status, vam bomo poslali posodobitve vašega URL-ja Webhook.",
-  "webhookFormatLink": "Preverite obliko zahteve",
+  "webhookDescription": "Na vaš naslov URL bomo poslali zahtevek",
+  "webhookFormat": "v tem zapisu",
+  "webhookSendEmail": "Ob težavah z vašim naslovom URL vam bomo poslali sporočilo",
+  "webhookSend": "Ob spremembah stanja storitve vam bomo posredovali spremembe na vaš Webhook URL",
+  "webhookFormatLink": "Označite format zahtevka",
 
   "enterEmailError": "Vpišite vaš e-mail.",
   "enterPhoneError": "Vpišite vašo telefonsko številko.",
@@ -105,7 +105,7 @@
   "inprogress": "V teku",
   "completed": "Zaključeno",
 
-  "automatedIncidentTitle": "je trenutno nedostopen (avtomatiziran)",
-  "automatedIncidentMessage": "trenutno ni mogoče dostopati. Ta incident je ustvarila avtomatizirana služba za spremljanje."
+  "automatedIncidentTitle": "je trenutno nedosegljiv (samodejno)",
+  "automatedIncidentMessage": "je trenutno nedosegljiv. Ta dogodek je ustvarila storitev za samodejno preverjanje."
 }
 
