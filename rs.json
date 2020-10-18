@@ -106,6 +106,8 @@
   "inprogress": "U toku",
   "completed": "Završeno",
 
+  "uptime": "уптиме",
+
   "automatedIncidentTitle": "је тренутно неприступачан (аутоматизован)",
   "automatedIncidentMessage": "тренутно није могуће приступити. Овај инцидент креирала је аутоматизована служба за надзор."
 }

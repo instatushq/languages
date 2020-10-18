@@ -107,6 +107,8 @@
   "inProgress": "En cours",
   "completed": "Terminé",
 
+  "uptime": "disponibilité",
+
   "automatedIncidentTitle": "est inaccessible pour le moment (automatisé)",
   "automatedIncidentMessage": "n'est pas accessible pour le moment. Cet incident a été créé par un service de surveillance automatisé."
 }

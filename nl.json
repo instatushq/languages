@@ -107,6 +107,8 @@
   "inprogress": "Bezig",
   "completed": "Voltooid",
 
+  "uptime": "uptime",
+
   "automatedIncidentTitle": "is momenteel niet toegankelijk (geautomatiseerd)",
   "automatedIncidentMessage": "is momenteel niet toegankelijk. Dit incident is gemaakt door een geautomatiseerde bewakingsdienst."
 }

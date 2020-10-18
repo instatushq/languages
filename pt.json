@@ -106,6 +106,8 @@
   "inprogress": "Em curso",
   "completed": "Concluído",
 
+  "uptime": "tempo de atividade",
+
   "automatedIncidentTitle": "está inacessível no momento (automatizado)",
   "automatedIncidentMessage": "não pode ser acessado no momento. Este incidente foi criado por um serviço de monitoramento automatizado."
 }

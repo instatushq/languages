@@ -42,6 +42,7 @@
   "didntStart": "Service didn't start yet.",
   "noIncidents": "No incidents reported.",
   "noIncidentsMonth": "No incidents reported this month.",
+  "noIncidentsWeek": "No incidents reported for the past 7 days.",
 
   "prev": "Previous",
   "next": "Next",
@@ -106,6 +107,8 @@
   "notstartedyet": "Planned",
   "inprogress": "In progress",
   "completed": "Completed",
+
+  "uptime": "uptime",
 
   "automatedIncidentTitle": "is inaccessible at the moment (automated)",
   "automatedIncidentMessage": "cannot be accessed at the moment. This incident was created by an automated monitoring service."

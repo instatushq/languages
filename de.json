@@ -107,6 +107,8 @@
   "inProgress": "In Bearbeitung",
   "completed": "Abgeschlossen",
 
+  "uptime": "Betriebszeit",
+
   "automatedIncidentTitle": "ist momentan nicht zugänglich (automatisiert)",
   "automatedIncidentMessage": "kann momentan nicht aufgerufen werden. Dieser Vorfall wurde von einem automatisierten Überwachungsdienst erstellt."
 }

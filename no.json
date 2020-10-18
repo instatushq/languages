@@ -107,6 +107,8 @@
   "inprogress": "Pågår",
   "completed": "Fullført",
 
+  "uptime": "oppetid",
+
   "automatedIncidentTitle": "er utilgjengelig for øyeblikket (automatisert)",
   "automatedIncidentMessage": "kan ikke nås for øyeblikket. Denne hendelsen ble opprettet av en automatisert overvåkingstjeneste."
 }

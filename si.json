@@ -106,6 +106,8 @@
   "inprogress": "V teku",
   "completed": "Zaključeno",
 
+  "uptime": "uptime",
+
   "automatedIncidentTitle": "je trenutno nedosegljiv (samodejno)",
   "automatedIncidentMessage": "je trenutno nedosegljiv. Ta dogodek je ustvarila storitev za samodejno preverjanje."
 }
