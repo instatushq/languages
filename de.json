@@ -107,6 +107,7 @@
   "inProgress": "In Bearbeitung",
   "completed": "Abgeschlossen",
 
+  "daysAgo": "Vor Tagen",
   "uptime": "Betriebszeit",
 
   "automatedIncidentTitle": "ist momentan nicht zugänglich (automatisiert)",

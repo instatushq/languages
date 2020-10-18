@@ -108,6 +108,7 @@
   "completed": "Voltooid",
 
   "uptime": "uptime",
+  "daysAgo": "dagen geleden",
 
   "automatedIncidentTitle": "is momenteel niet toegankelijk (geautomatiseerd)",
   "automatedIncidentMessage": "is momenteel niet toegankelijk. Dit incident is gemaakt door een geautomatiseerde bewakingsdienst."

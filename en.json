@@ -108,6 +108,7 @@
   "inprogress": "In progress",
   "completed": "Completed",
 
+  "daysAgo": "days ago",
   "uptime": "uptime",
 
   "automatedIncidentTitle": "is inaccessible at the moment (automated)",

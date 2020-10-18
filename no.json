@@ -108,6 +108,7 @@
   "completed": "Fullført",
 
   "uptime": "oppetid",
+  "daysAgo": "dager siden",
 
   "automatedIncidentTitle": "er utilgjengelig for øyeblikket (automatisert)",
   "automatedIncidentMessage": "kan ikke nås for øyeblikket. Denne hendelsen ble opprettet av en automatisert overvåkingstjeneste."

@@ -108,6 +108,7 @@
   "completed": "Completado",
 
   "uptime": "tiempo de actividad",
+  "daysAgo": "hace días",
 
   "automatedIncidentTitle": "es inaccesible en este momento (automatizado)",
   "automatedIncidentMessage": "no se puede acceder en este momento. Este incidente fue creado por un servicio de monitoreo automatizado."

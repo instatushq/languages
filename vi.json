@@ -108,6 +108,7 @@
   "completed": "Hoàn thành",
 
   "uptime": "thời gian hoạt động",
+  "daysAgo": "ngày trước",
 
   "automatedIncidentTitle": "hiện không thể truy cập được (tự động)",
   "automatedIncidentMessage": "không thể truy cập vào lúc này. Sự cố này được tạo ra bởi một dịch vụ giám sát tự động."
