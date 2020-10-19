@@ -113,5 +113,20 @@
   "daysAgo": "ngày trước",
 
   "automatedIncidentTitle": "hiện không thể truy cập được (tự động)",
-  "automatedIncidentMessage": "không thể truy cập vào lúc này. Sự cố này được tạo ra bởi một dịch vụ giám sát tự động."
+  "automatedIncidentMessage": "không thể truy cập vào lúc này. Sự cố này được tạo ra bởi một dịch vụ giám sát tự động.",
+
+  "statusUpdates": "cập nhật trạng thái",
+  "hasANewIncident": "có một sự cố mới",
+  "openStatusPage": "Mở trang trạng thái",
+  "youreReceivingThisEmailBecauseYouSubscribed": "Bạn nhận được email này vì bạn đã đăng ký",
+  "pleaseConfirmYourSubscription": "Vui lòng xác nhận đăng ký của bạn với",
+  "incidentUpdates": "cập nhật sự cố",
+  "youCan": "Bạn có thể",
+  "unsubscribe": "hủy đăng ký",
+  "here": "đây",
+  "checkItOut": "Kiểm tra nó ra",
+  "useThisLink": "Sử dụng liên kết này",
+  "hasUpdatedTheirIncident": "đã cập nhật sự cố của họ",
+  "scheduledANewMaintenance": "đã lên lịch bảo trì mới",
+  "updatedTheirMaintenance": "cập nhật bảo trì của họ"
 } 

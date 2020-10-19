@@ -112,5 +112,20 @@
   "daysAgo": "dias atrás",
 
   "automatedIncidentTitle": "está inacessível no momento (automatizado)",
-  "automatedIncidentMessage": "não pode ser acessado no momento. Este incidente foi criado por um serviço de monitoramento automatizado."
+  "automatedIncidentMessage": "não pode ser acessado no momento. Este incidente foi criado por um serviço de monitoramento automatizado.",
+
+  "statusUpdates": "atualizações de status",
+  "hasANewIncident": "tem um novo incidente",
+  "openStatusPage": "Abrir página de status",
+  "youreReceivingThisEmailBecauseYouSubscribed": "Você está recebendo este e-mail porque se inscreveu em",
+  "pleaseConfirmYourSubscription": "Por favor, confirme sua inscrição para",
+  "incidentUpdates": "atualizações de incidentes",
+  "youCan": "Você pode",
+  "unsubscribe": "Cancelar subscrição",
+  "here": "aqui",
+  "checkItOut": "Confira",
+  "useThisLink": "Use este link",
+  "hasUpdatedTheirIncident": "atualizou seu incidente",
+  "scheduledANewMaintenance": "agendou uma nova manutenção",
+  "updatedTheirMaintenance": "atualizou sua manutenção"
 }

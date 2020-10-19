@@ -113,5 +113,20 @@
   "uptime": "uptime",
 
   "automatedIncidentTitle": "is inaccessible at the moment (automated)",
-  "automatedIncidentMessage": "cannot be accessed at the moment. This incident was created by an automated monitoring service."
+  "automatedIncidentMessage": "cannot be accessed at the moment. This incident was created by an automated monitoring service.",
+
+  "statusUpdates": "status updates",
+  "hasANewIncident": "has a new incident",
+  "openStatusPage": "Open status page",
+  "youreReceivingThisEmailBecauseYouSubscribed": "You're receiving this email because you subscribed to ",
+  "pleaseConfirmYourSubscription": "Please confirm your subscription to",
+  "incidentUpdates": "incident updates",
+  "youCan": "You can",
+  "unsubscribe": "unsubscribe",
+  "here": "here",
+  "checkItOut": "Check it out",
+  "useThisLink": "Use this link",
+  "hasUpdatedTheirIncident": "has updated their incident",
+  "scheduledANewMaintenance": "scheduled a new maintenance",
+  "updatedTheirMaintenance": "updated their maintenance"
 }

@@ -113,5 +113,20 @@
   "daysAgo": "dagen geleden",
 
   "automatedIncidentTitle": "is momenteel niet toegankelijk (geautomatiseerd)",
-  "automatedIncidentMessage": "is momenteel niet toegankelijk. Dit incident is gemaakt door een geautomatiseerde bewakingsdienst."
+  "automatedIncidentMessage": "is momenteel niet toegankelijk. Dit incident is gemaakt door een geautomatiseerde bewakingsdienst.",
+
+  "statusUpdates": "status updates",
+  "hasANewIncident": "heeft een nieuw incident",
+  "openStatusPage": "Statuspagina openen",
+  "youreReceivingThisEmailBecauseYouSubscribed": "Je ontvangt deze e-mail omdat je je hebt aangemeld",
+  "pleaseConfirmYourSubscription": "Bevestig uw abonnement op",
+  "incidentUpdates": "incident updates",
+  "youCan": "Jij kan",
+  "unsubscribe": "Afmelden",
+  "here": "hier",
+  "checkItOut": "Bekijken",
+  "useThisLink": "Gebruik deze link",
+  "hasUpdatedTheirIncident": "heeft hun incident bijgewerkt",
+  "scheduledANewMaintenance": "een nieuw onderhoud gepland",
+  "updatedTheirMaintenance": "hun onderhoud bijgewerkt"
 }

@@ -112,5 +112,20 @@
   "daysAgo": "пре дана",
 
   "automatedIncidentTitle": "је тренутно неприступачан (аутоматизован)",
-  "automatedIncidentMessage": "тренутно није могуће приступити. Овај инцидент креирала је аутоматизована служба за надзор."
+  "automatedIncidentMessage": "тренутно није могуће приступити. Овај инцидент креирала је аутоматизована служба за надзор.",
+
+  "statusUpdates": "ажурирање статуса",
+  "hasANewIncident": "има нови инцидент",
+  "openStatusPage": "Отворите статусну страницу",
+  "youreReceivingThisEmailBecauseYouSubscribed": "Ову е-пошту сте добили јер сте се претплатили на",
+  "pleaseConfirmYourSubscription": "Потврдите претплату на",
+  "incidentUpdates": "ажурирања о инцидентима",
+  "youCan": "Можете",
+  "unsubscribe": "одјавити се",
+  "here": "овде",
+  "checkItOut": "Погледај",
+  "useThisLink": "Користите овај линк",
+  "hasUpdatedTheirIncident": "је ажурирао њихов инцидент",
+  "scheduledANewMaintenance": "заказао ново одржавање",
+  "updatedTheirMaintenance": "ажурирао њихово одржавање"
 }

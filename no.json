@@ -113,5 +113,20 @@
   "daysAgo": "dager siden",
 
   "automatedIncidentTitle": "er utilgjengelig for øyeblikket (automatisert)",
-  "automatedIncidentMessage": "kan ikke nås for øyeblikket. Denne hendelsen ble opprettet av en automatisert overvåkingstjeneste."
+  "automatedIncidentMessage": "kan ikke nås for øyeblikket. Denne hendelsen ble opprettet av en automatisert overvåkingstjeneste.",
+
+  "statusUpdates": "statusoppdateringer",
+  "hasANewIncident": "har en ny hendelse",
+  "openStatusPage": "Åpne statussiden",
+  "youreReceivingThisEmailBecauseYouSubscribed": "Du mottar denne e-posten fordi du abonnerer på",
+  "pleaseConfirmYourSubscription": "Bekreft abonnementet ditt på",
+  "incidentUpdates": "hendelsesoppdateringer",
+  "youCan": "Du kan",
+  "unsubscribe": "Avslutte abonnementet",
+  "here": "her",
+  "checkItOut": "Sjekk det ut",
+  "useThisLink": "Bruk denne lenken",
+  "hasUpdatedTheirIncident": "har oppdatert hendelsen sin",
+  "scheduledANewMaintenance": "planlagt et nytt vedlikehold",
+  "updatedTheirMaintenance": "oppdatert vedlikeholdet"
 }

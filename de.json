@@ -113,5 +113,20 @@
   "uptime": "Betriebszeit",
 
   "automatedIncidentTitle": "ist momentan nicht zugänglich (automatisiert)",
-  "automatedIncidentMessage": "kann momentan nicht aufgerufen werden. Dieser Vorfall wurde von einem automatisierten Überwachungsdienst erstellt."
+  "automatedIncidentMessage": "kann momentan nicht aufgerufen werden. Dieser Vorfall wurde von einem automatisierten Überwachungsdienst erstellt.",
+
+  "statusUpdates": "Status Updates",
+  "hasANewIncident": "hat einen neuen Vorfall",
+  "openStatusPage": "Statusseite öffnen",
+  "youreReceivingThisEmailBecauseYouSubscribed": "Sie erhalten diese E-Mail, weil Sie sie abonniert haben",
+  "pleaseConfirmYourSubscription": "Bitte bestätigen Sie Ihr Abonnement für",
+  "incidentUpdates": "Aktualisierungen von Vorfällen",
+  "youCan": "Sie können",
+  "unsubscribe": "Abmelden",
+  "here": "Hier",
+  "checkItOut": "Hör zu",
+  "useThisLink": "Verwenden Sie diesen Link",
+  "hasUpdatedTheirIncident": "hat ihren Vorfall aktualisiert",
+  "scheduledANewMaintenance": "eine neue Wartung geplant",
+  "updatedTheirMaintenance": "aktualisiert ihre Wartung"
 }

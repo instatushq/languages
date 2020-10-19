@@ -110,5 +110,20 @@
   "daysAgo": "дней назад",
 
   "automatedIncidentTitle": "недоступен в данный момент (автоматизировано)",
-  "automatedIncidentMessage": "недоступен в данный момент. Этот инцидент был создан автоматизированной службой мониторинга."
+  "automatedIncidentMessage": "недоступен в данный момент. Этот инцидент был создан автоматизированной службой мониторинга.",
+
+  "statusUpdates": "обновления статуса",
+  "hasANewIncident": "есть новый инцидент",
+  "openStatusPage": "Открыть страницу статуса",
+  "youreReceivingThisEmailBecauseYouSubscribed": "Вы получили это письмо, потому что подписались на",
+  "pleaseConfirmYourSubscription": "Подтвердите подписку на",
+  "incidentUpdates": "обновления инцидентов",
+  "youCan": "Вы можете",
+  "unsubscribe": "отказаться от подписки",
+  "here": "Вот",
+  "checkItOut": "Проверить это",
+  "useThisLink": "Используйте эту ссылку",
+  "hasUpdatedTheirIncident": "обновил свой инцидент",
+  "scheduledANewMaintenance": "запланировал новое обслуживание",
+  "updatedTheirMaintenance": "обновили свое обслуживание"
 }

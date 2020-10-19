@@ -112,6 +112,21 @@
   "daysAgo": "pred dnevi",
 
   "automatedIncidentTitle": "je trenutno nedosegljiv (samodejno)",
-  "automatedIncidentMessage": "je trenutno nedosegljiv. Ta dogodek je ustvarila storitev za samodejno preverjanje."
+  "automatedIncidentMessage": "je trenutno nedosegljiv. Ta dogodek je ustvarila storitev za samodejno preverjanje.",
+
+  "statusUpdates": "posodobitve stanja",
+  "hasANewIncident": "ima nov incident",
+  "openStatusPage": "Odprite stran stanja",
+  "youreReceivingThisEmailBecauseYouSubscribed": "To e-poštno sporočilo ste prejeli, ker ste se naročili",
+  "pleaseConfirmYourSubscription": "Potrdite svojo naročnino na",
+  "incidentUpdates": "posodobitve incidentov",
+  "youCan": "Ti lahko",
+  "unsubscribe": "odjavi",
+  "here": "tukaj",
+  "checkItOut": "Preveri",
+  "useThisLink": "Uporabite to povezavo",
+  "hasUpdatedTheirIncident": "je posodobil njihov incident",
+  "scheduledANewMaintenance": "predvideno novo vzdrževanje",
+  "updatedTheirMaintenance": "posodobili njihovo vzdrževanje"
 }
 
