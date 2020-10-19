@@ -42,6 +42,7 @@
   "didntStart": "Der Service wurde noch nicht gestartet.",
   "noIncidents": "Es wurden keine Vorfälle gemeldet.",
   "noIncidentsMonth": "In diesem Monat wurden keine Vorfälle gemeldet.",
+  "noIncidentsWeek": "Diese Woche wurden keine Vorfälle gemeldet.",
 
   "prev": "Vorherige",
   "next": "Nächste",

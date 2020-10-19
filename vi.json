@@ -42,6 +42,7 @@
   "didntStart": "Dịch vụ chưa bắt đầu.",
   "noIncidents": "Không có sự cố.",
   "noIncidentsMonth": "Không có sự cố nào trong tháng này.",
+  "noIncidentsWeek": "Không có sự cố nào được báo cáo trong tuần này.",
 
   "prev": "Trước",
   "next": "Sau",

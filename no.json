@@ -42,6 +42,7 @@
   "didntStart": "Tjenesten startet ikke ennå.",
   "noIncidents": "Ingen hendelser rapportert.",
   "noIncidentsMonth": "Ingen hendelser rapportert denne måneden.",
+  "noIncidentsWeek": "Ingen hendelser ble rapportert denne uken.",
 
   "prev": "Forrige",
   "next": "Neste",

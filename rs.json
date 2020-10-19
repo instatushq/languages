@@ -42,6 +42,7 @@
   "didntStart": "Услуга још није почела.",
   "noIncidents": "Nije prijavljen nijedan incident.",
   "noIncidentsMonth": "Nema prijavljenih incidenata ovog meseca.",
+  "noIncidentsWeek": "Ове недеље није забележен ниједан инцидент.",
 
   "prev": "Prošli",
   "next": "Sledeći",

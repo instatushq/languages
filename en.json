@@ -38,9 +38,9 @@
   "notResolved": "Not resolved yet.",
   "affected": "Affected",
 
-  "noDowntime": "No downtime reported.",
-  "didntStart": "Service didn't start yet.",
-  "noIncidents": "No incidents reported.",
+  "noDowntime": "No downtime reported",
+  "didntStart": "Service didn't start yet",
+  "noIncidents": "No incidents reported",
   "noIncidentsMonth": "No incidents reported this month.",
   "noIncidentsWeek": "No incidents reported for the past 7 days.",
 
