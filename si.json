@@ -50,7 +50,7 @@
   "goBack": "Nazaj na",
   "poweredBy": "Powered by",
   "showIncidentHistory": "Prikaži zgodovino incidentov",
-  "showCurrent": "Prikaži trenutni status",
+  "showCurrent": "Prikaži trenutno stanje",
 
   "getUpdates": "Obvestila",
   "toAllComponents": "Obveščaj me o vseh spremembah stanja",
@@ -60,7 +60,7 @@
   "subscribed": "Sedaj ste naročeni",
   "getStatusUpdates": "Bodite obveščeni preko",
   "email": "E-pošta",
-  "getUpdatesBy": "Obveščanje o spremembah stanja",
+  "getUpdatesBy": "Obveščanje o spremembah stanja preko",
   "getUpdatesEmailShort": "Bodite obveščeni preko e-pošte",
   "getUpdatesEmailLong": "Prejmite obvestila po e-pošti",
   "sms": "SMS",
@@ -80,7 +80,7 @@
 
   "emailAddress": "Vaš e-poštni naslov…",
   "checkYourEmail": "Preverite vaš e-poštni predal",
-  "weJustSentYouAnEmail": "Poslali smo vam e-poštno sporočilo za potrditev prijave",
+  "weJustSentYouAnEmail": "Poslali smo vam e-poštno sporočilo za potrditev prijave.",
   "emailConfirmed": "Vaš e-poštni naslov je potrjen",
 
   "confirmYourSubscription": "Potrdite vašo prijavo",
