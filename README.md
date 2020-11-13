@@ -16,3 +16,4 @@ If you'd like to add your language, please create a pull request ✌️
 - 🇧🇷 [Vitor Pinho](https://github.com/vitor-ao)
 - 🇵🇹 [João Drummond](https://github.com/jlcd)
 - 🇸🇮 [Matej Žerovnik](https://github.com/matejzero)
+- 🇩🇰 [Dan Storm](https://github.com/Repox)
