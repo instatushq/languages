@@ -42,7 +42,7 @@
   "didntStart": "Storitev še ne obratuje.",
   "noIncidents": "Brez incidentov.",
   "noIncidentsMonth": "Brez incidentov v tem mesecu.",
-  "noIncidentsWeek": "Ta teden o incidentih niso poročali.",
+  "noIncidentsWeek": "Brez incidentov v tem tednu.",
 
   "prev": "Prejšnja",
   "next": "Naslednja",
@@ -58,7 +58,7 @@
   "subscribe": "Naroči se na obvestila",
   "working": "Obdelujem...",
   "subscribed": "Sedaj ste naročeni",
-  "getStatusUpdates": "Bodite obveščeni preko",
+  "getStatusUpdates": "Bodite obveščeni preko e-pošte",
   "email": "E-pošta",
   "getUpdatesBy": "Obveščanje o spremembah stanja preko",
   "getUpdatesEmailShort": "Bodite obveščeni preko e-pošte",
@@ -103,30 +103,31 @@
   "identified": "Napaka odkrita",
   "monitoring": "Spremljamo",
 
-  "notstartedyet": "Napoved",
+  "notstartedyet": "Napovedan",
   "inprogress": "V teku",
   "completed": "Zaključeno",
 
   "today": "Danes",
-  "uptime": "uptime",
-  "daysAgo": "pred dnevi",
+  "uptime": "razpoložljivost",
+  "daysAgo": "zadnjih dni",
 
   "automatedIncidentTitle": "je trenutno nedosegljiv (samodejno)",
   "automatedIncidentMessage": "je trenutno nedosegljiv. Ta dogodek je ustvarila storitev za samodejno preverjanje.",
 
-  "statusUpdates": "posodobitve stanja",
+  "statusUpdates": "storitev",
   "hasANewIncident": "ima nov incident",
-  "openStatusPage": "Odprite stran stanja",
-  "youreReceivingThisEmailBecauseYouSubscribed": "To e-poštno sporočilo ste prejeli, ker ste se naročili",
-  "pleaseConfirmYourSubscription": "Potrdite svojo naročnino na",
-  "incidentUpdates": "posodobitve incidentov",
-  "youCan": "Ti lahko",
-  "unsubscribe": "odjavi",
-  "here": "tukaj",
-  "checkItOut": "Preveri",
+  "openStatusPage": "Odprite stran s stanjem",
+  "youreReceivingThisEmailBecauseYouSubscribed": "To e-poštno sporočilo ste prejeli, ker ste se naročili na obveščanje o",
+  "pleaseConfirmYourSubscription": "Potrdite svojo prijavo na prejemanje obvestil o stanju",
+  "incidentUpdates": "izpadih.",
+  "youCan": "Obveščanje lahko izklopite",
+  "unsubscribe": "tukaj",
+  "here": "",
+  "checkItOut": "Preverite",
   "useThisLink": "Uporabite to povezavo",
-  "hasUpdatedTheirIncident": "je posodobil njihov incident",
-  "scheduledANewMaintenance": "predvideno novo vzdrževanje",
-  "updatedTheirMaintenance": "posodobili njihovo vzdrževanje"
+  "hasUpdatedTheirIncident": "je posodobil incident",
+  "scheduledANewMaintenance": "napoveduje vzdrževalna dela",
+  "updatedTheirMaintenance": "je posodobili vzdrževalna dela"
 }
+
 
