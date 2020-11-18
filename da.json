@@ -75,7 +75,7 @@
   "getUpdatesTwitterShort": "Følg opdateringer på Twitter",
   "getUpdatesTwitterLong": "Følg os for opdateringer",
 
-  "reportAnIssue": "Anmeld en hændelse",
+  "reportAnIssue": "Rapporter en hændelse",
   "copied": "Kopieret",
   "toClipboard": "til udklipsholderen!",
 
@@ -89,10 +89,10 @@
   "wellSendYouAMessage": "Vi sender dig en SMS, når vi opdaterer vores status.",
   "wellSendYouAnEmail": "Vi sender dig ene-mail, når vi opdaterer vores status.",
 
-  "webhookDescription": "Vi sender dig forespørgsler til din URL via",
+  "webhookDescription": "Vi sender opdateringer til din URL med",
   "webhookFormat": "dette format",
-  "webhookSendEmail": "Vil vil sende dig når der er et problem med din URL",
-  "webhookSend": "Vi sender dig opdateringer til din Webhook URL, når vi opdaterer vores status.",
+  "webhookSendEmail": "Vi sender dig en e-mail hvis der er problemer med din URL",
+  "webhookSend": "Vi sender opdateringer til din Webhook URL, når vi opdaterer vores status.",
   "webhookFormatLink": "Gennemse forespørgselsformatet",
 
   "enterEmailError": "Indtast din e-mail adresse.",
