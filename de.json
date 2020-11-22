@@ -112,6 +112,10 @@
   "daysAgo": "Vor Tagen",
   "uptime": "Betriebszeit",
 
+  "90DaysAgo": "90 Vor Tagen",
+  "48DaysAgo": "48 Vor Tagen",
+  "38DaysAgo": "38 Vor Tagen",
+
   "automatedIncidentTitle": "ist momentan nicht zugänglich (automatisiert)",
   "automatedIncidentMessage": "kann momentan nicht aufgerufen werden. Dieser Vorfall wurde von einem automatisierten Überwachungsdienst erstellt.",
 

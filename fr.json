@@ -112,6 +112,10 @@
   "uptime": "disponibilité",
   "daysAgo": "il y a quelques jours",
 
+  "90DaysAgo": "90 il y a quelques jours",
+  "48DaysAgo": "48 il y a quelques jours",
+  "38DaysAgo": "38 il y a quelques jours",
+
   "automatedIncidentTitle": "est inaccessible pour le moment (automatisé)",
   "automatedIncidentMessage": "n'est pas accessible pour le moment. Cet incident a été créé par un service de surveillance automatisé.",
 

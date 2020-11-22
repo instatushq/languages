@@ -112,6 +112,10 @@
   "uptime": "uptime",
   "daysAgo": "dagen geleden",
 
+  "90DaysAgo": "90 dagen geleden",
+  "48DaysAgo": "48 dagen geleden",
+  "38DaysAgo": "38 dagen geleden",
+
   "automatedIncidentTitle": "is momenteel niet toegankelijk (geautomatiseerd)",
   "automatedIncidentMessage": "is momenteel niet toegankelijk. Dit incident is gemaakt door een geautomatiseerde bewakingsdienst.",
 

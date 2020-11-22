@@ -109,7 +109,11 @@
 
   "today": "Hoje",
   "uptime": "tempo de atividade",
+
   "daysAgo": "dias atrás",
+  "90DaysAgo": "90 dias atrás",
+  "48DaysAgo": "48 dias atrás",
+  "38DaysAgo": "38 dias atrás",
 
   "automatedIncidentTitle": "está inacessível no momento (automatizado)",
   "automatedIncidentMessage": "não pode ser acessado no momento. Este incidente foi criado por um serviço de monitoramento automatizado.",

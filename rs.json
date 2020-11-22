@@ -111,6 +111,10 @@
   "uptime": "уптиме",
   "daysAgo": "пре дана",
 
+  "90DaysAgo": "Pre 90 dana",
+  "48DaysAgo": "Pre 48 dana",
+  "38DaysAgo": "Pre 38 dana",
+
   "automatedIncidentTitle": "је тренутно неприступачан (аутоматизован)",
   "automatedIncidentMessage": "тренутно није могуће приступити. Овај инцидент креирала је аутоматизована служба за надзор.",
 

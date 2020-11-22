@@ -112,6 +112,10 @@
   "uptime": "oppetid",
   "daysAgo": "dager siden",
 
+  "90DaysAgo": "90 dager siden",
+  "48DaysAgo": "48 dager siden",
+  "38DaysAgo": "38 dager siden",
+
   "automatedIncidentTitle": "er utilgjengelig for øyeblikket (automatisert)",
   "automatedIncidentMessage": "kan ikke nås for øyeblikket. Denne hendelsen ble opprettet av en automatisert overvåkingstjeneste.",
 

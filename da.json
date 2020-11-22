@@ -111,6 +111,9 @@
   "today": "I dag",
   "daysAgo": "dage siden",
   "uptime": "oppetid",
+  "90DaysAgo": "90 dage siden",
+  "48DaysAgo": "48 dage siden",
+  "38DaysAgo": "38 dage siden",
 
   "automatedIncidentTitle": "er ikke tilgængelig i øjeblikket (automatiseret)",
   "automatedIncidentMessage": "kan ikke tilgås i øjeblikket. Denne hændelse var genereret via en automatiseret overvågningstjeneste.",

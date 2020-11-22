@@ -112,6 +112,10 @@
   "uptime": "tiempo de actividad",
   "daysAgo": "hace días",
 
+  "90DaysAgo": "90 Hoy",
+  "48DaysAgo": "48 Hoy",
+  "38DaysAgo": "38 Hoy",
+
   "automatedIncidentTitle": "es inaccesible en este momento (automatizado)",
   "automatedIncidentMessage": "no se puede acceder en este momento. Este incidente fue creado por un servicio de monitoreo automatizado.",
 

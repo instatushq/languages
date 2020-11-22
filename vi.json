@@ -112,6 +112,10 @@
   "uptime": "thời gian hoạt động",
   "daysAgo": "ngày trước",
 
+  "90DaysAgo": "90 ngày trước",
+  "48DaysAgo": "48 ngày trước",
+  "38DaysAgo": "38 ngày trước",
+
   "automatedIncidentTitle": "hiện không thể truy cập được (tự động)",
   "automatedIncidentMessage": "không thể truy cập vào lúc này. Sự cố này được tạo ra bởi một dịch vụ giám sát tự động.",
 
