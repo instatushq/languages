@@ -111,6 +111,10 @@
   "uptime": "razpoložljivost",
   "daysAgo": "zadnjih dni",
 
+  "90DaysAgo": "Pred 90 dnevi",
+  "48DaysAgo": "Pred 48 dnevi",
+  "38DaysAgo": "Pred 38 dnevi",
+
   "automatedIncidentTitle": "je trenutno nedosegljiv (samodejno)",
   "automatedIncidentMessage": "je trenutno nedosegljiv. Ta dogodek je ustvarila storitev za samodejno preverjanje.",
 
@@ -129,5 +133,4 @@
   "scheduledANewMaintenance": "napoveduje vzdrževalna dela",
   "updatedTheirMaintenance": "je posodobili vzdrževalna dela"
 }
-
 
