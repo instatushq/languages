@@ -115,10 +115,6 @@
   "48DaysAgo": "Pred 48 dnevi",
   "38DaysAgo": "Pred 38 dnevi",
 
-  "90DaysAgo": "90 pred dnevi",
-  "48DaysAgo": "48 pred dnevi",
-  "38DaysAgo": "38 pred dnevi",
-
   "automatedIncidentTitle": "je trenutno nedosegljiv (samodejno)",
   "automatedIncidentMessage": "je trenutno nedosegljiv. Ta dogodek je ustvarila storitev za samodejno preverjanje.",
 
@@ -137,4 +133,5 @@
   "scheduledANewMaintenance": "napoveduje vzdrževalna dela",
   "updatedTheirMaintenance": "je posodobili vzdrževalna dela"
 }
+
 
