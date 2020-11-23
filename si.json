@@ -123,15 +123,14 @@
   "openStatusPage": "Odprite stran s stanjem",
   "youreReceivingThisEmailBecauseYouSubscribed": "To e-poštno sporočilo ste prejeli, ker ste se naročili na obveščanje o",
   "pleaseConfirmYourSubscription": "Potrdite svojo prijavo na prejemanje obvestil o stanju",
-  "incidentUpdates": "izpadih.",
-  "youCan": "Obveščanje lahko izklopite",
-  "unsubscribe": "tukaj",
-  "here": "",
+  "incidentUpdates": "izpadih",
+  "youCan": "Od obveščanja se lahko odjavite",
+  "unsubscribe": "s klikom",
+  "here": "tukaj",
   "checkItOut": "Preverite",
   "useThisLink": "Uporabite to povezavo",
   "hasUpdatedTheirIncident": "je posodobil incident",
   "scheduledANewMaintenance": "napoveduje vzdrževalna dela",
   "updatedTheirMaintenance": "je posodobili vzdrževalna dela"
 }
-
 
