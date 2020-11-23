@@ -32,7 +32,7 @@
   "maintenanceDetails" : "Podrobnosti vzdrževanj",
 
   "started": "Začetek",
-  "resolvedAfter": "Odpravljeno po",
+  "resolvedAfter": "Čas trajanja incidenta:",
   "inUnderAMinute": "Manj kot minuta",
   "ofDowntime": "izpada",
   "notResolved": "Nerešeno.",
