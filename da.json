@@ -87,7 +87,7 @@
   "confirmYourSubscription": "Bekræft din tilmelding",
   "allDone": "Færdig!",
   "wellSendYouAMessage": "Vi sender dig en SMS, når vi opdaterer vores status.",
-  "wellSendYouAnEmail": "Vi sender dig ene-mail, når vi opdaterer vores status.",
+  "wellSendYouAnEmail": "Vi sender dig en e-mail, når vi opdaterer vores status.",
 
   "webhookDescription": "Vi sender opdateringer til din URL med",
   "webhookFormat": "dette format",
