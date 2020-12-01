@@ -32,7 +32,7 @@
   "maintenanceDetails" : "Podrobnosti vzdrževanj",
 
   "started": "Začetek",
-  "resolvedAfter": "Odpravljeno po",
+  "resolvedAfter": "Čas trajanja incidenta:",
   "inUnderAMinute": "Manj kot minuta",
   "ofDowntime": "izpada",
   "notResolved": "Nerešeno.",
@@ -115,10 +115,6 @@
   "48DaysAgo": "Pred 48 dnevi",
   "38DaysAgo": "Pred 38 dnevi",
 
-  "90DaysAgo": "90 pred dnevi",
-  "48DaysAgo": "48 pred dnevi",
-  "38DaysAgo": "38 pred dnevi",
-
   "automatedIncidentTitle": "je trenutno nedosegljiv (samodejno)",
   "automatedIncidentMessage": "je trenutno nedosegljiv. Ta dogodek je ustvarila storitev za samodejno preverjanje.",
 
@@ -127,10 +123,10 @@
   "openStatusPage": "Odprite stran s stanjem",
   "youreReceivingThisEmailBecauseYouSubscribed": "To e-poštno sporočilo ste prejeli, ker ste se naročili na obveščanje o",
   "pleaseConfirmYourSubscription": "Potrdite svojo prijavo na prejemanje obvestil o stanju",
-  "incidentUpdates": "izpadih.",
-  "youCan": "Obveščanje lahko izklopite",
-  "unsubscribe": "tukaj",
-  "here": "",
+  "incidentUpdates": "izpadih",
+  "youCan": "Od obveščanja se lahko odjavite",
+  "unsubscribe": "s klikom",
+  "here": "tukaj",
   "checkItOut": "Preverite",
   "useThisLink": "Uporabite to povezavo",
   "hasUpdatedTheirIncident": "je posodobil incident",
