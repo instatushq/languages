@@ -107,9 +107,9 @@
   "inprogress": "U toku",
   "completed": "Završeno",
 
-  "today": "Dans",
+  "today": "današnji dan",
   "uptime": "uptime",
-  "daysAgo": "pre dana",
+  "daysAgo": "dana",
 
   "90DaysAgo": "Pre 90 dana",
   "48DaysAgo": "Pre 48 dana",
@@ -118,7 +118,7 @@
   "automatedIncidentTitle": "trenutno ne radi (automatsko obavestenje)",
   "automatedIncidentMessage": "trenutno ne radi. Ovaj incident kreirala je automatizovana služba za nadzor.",
 
-  "statusUpdates": "Status azuriran",
+  "statusUpdates": "Status ažuriran",
   "hasANewIncident": "ima novi prijavjeni incident",
   "openStatusPage": "Status stranica",
   "youreReceivingThisEmailBecauseYouSubscribed": "Ovu e-poštu ste dobili jer ste se pretplatili na",
@@ -129,7 +129,7 @@
   "here": "ovde",
   "checkItOut": "Pogledaj",
   "useThisLink": "Koristite ovaj link",
-  "hasUpdatedTheirIncident": "је azurirao incident",
-  "scheduledANewMaintenance": "zakazo novo odrzavanje",
-  "updatedTheirMaintenance": "azurirao odrzavanje"
+  "hasUpdatedTheirIncident": "је ažurirao incident",
+  "scheduledANewMaintenance": "zakazao novo odrzavanje",
+  "updatedTheirMaintenance": "ažurirao odrzavanje"
 }
