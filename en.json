@@ -79,7 +79,8 @@
   "copied": "Copied",
   "toClipboard": "to clipboard!",
 
-  "emailAddress": "Your email address…",
+  "emailAddress": "Email address",
+  "emailExample": "you@yourdomain.com",
   "checkYourEmail": "Check your email",
   "weJustSentYouAnEmail": "We just sent you to an email to confirm your subscription.",
   "emailConfirmed": "Your email is confirmed",
@@ -89,6 +90,7 @@
   "wellSendYouAMessage": "When we update our status, we'll send you a text message.",
   "wellSendYouAnEmail": "When we update our status, we'll send you an email.",
 
+  "webhookUrl": "Webhook URL",
   "webhookDescription": "We will send a requests to your URL using",
   "webhookFormat": "this format",
   "webhookSendEmail": "We will send you when there is an issue with your URL",

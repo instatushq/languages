@@ -79,7 +79,7 @@
   "copied": "Copié",
   "toClipboard": " dans le presse-papiers!",
 
-  "emailAddress": "Votre adresse email…",
+  "emailAddress": "Adresse email",
   "checkYourEmail": "Vérifiez votre email",
   "weJustSentYouAnEmail": "Nous venons de vous envoyer un e-mail pour confirmer votre abonnement.",
   "emailConfirmed": "Votre email est confirmé",
@@ -89,6 +89,7 @@
   "wellSendYouAMessage": "Lorsque nous mettons à jour notre statut, nous vous enverrons un message texte.",
   "wellSendYouAnEmail": "Lorsque nous mettons à jour notre statut, nous vous enverrons un e-mail.",
 
+  "webhookUrl": "Webhook URL",
   "webhookDescription": "Nous enverrons une demande à votre URL en utilisant",
   "webhookFormat": "ce format",
   "webhookSendEmail": "Nous vous enverrons en cas de problème avec votre URL",

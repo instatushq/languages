@@ -79,7 +79,7 @@
   "copied": "Copiado",
   "toClipboard": "al portapapeles!",
 
-  "emailAddress": "Tu correo electrónico…",
+  "emailAddress": "Correo electrónico",
   "checkYourEmail": "Consultar su correo electrónico",
   "weJustSentYouAnEmail": "We just sent you to an email to confirm your subscription.",
   "emailConfirmed": "Tu correo electrónico está confirmado",
@@ -89,6 +89,7 @@
   "wellSendYouAMessage": "We just sent you to an email to confirm your subscription.",
   "wellSendYouAnEmail": "Tu correo electrónico está confirmado",
 
+  "webhookUrl": "Webhook URL",
   "webhookDescription": "Confirma tu suscripción",
   "webhookFormat": "este formato",
   "webhookSendEmail": "Le enviaremos cuando haya un problema con su URL",

@@ -79,7 +79,7 @@
   "copied": "Kopiert",
   "toClipboard": "til utklippstavlen!",
 
-  "emailAddress": "Din epostadresse…",
+  "emailAddress": "Epostadresse",
   "checkYourEmail": "Sjekk e-posten",
   "weJustSentYouAnEmail": "Vi har nettopp sendt deg en e-post for å bekrefte abonnementet ditt.",
   "emailConfirmed": "E-postadressen din er bekreftet",
@@ -89,6 +89,7 @@
   "wellSendYouAMessage": "Når vi oppdaterer statusen vår, sender vi deg en tekstmelding.",
   "wellSendYouAnEmail": "Når vi oppdaterer statusen vår, sender vi deg en e-post.",
 
+  "WebhookUrl": "Webhook URL",
   "webhookDescription": "Vi sender en forespørsel til URL-en din ved hjelp av",
   "webhookFormat": "dette formatet",
   "webhookSendEmail": "Vi sender deg når det er et problem med nettadressen din",

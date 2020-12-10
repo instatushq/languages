@@ -79,7 +79,7 @@
   "copied": "Gekopieerd",
   "toClipboard": "naar klembord!",
 
-  "emailAddress": "Jouw e-mailadres…",
+  "emailAddress": "E-mailadres",
   "checkYourEmail": "Controleer uw e-mail",
   "weJustSentYouAnEmail": "We hebben je zojuist een e-mail gestuurd om je inschrijving te bevestigen.",
   "emailConfirmed": "Uw e-mail is bevestigd",
@@ -89,6 +89,7 @@
   "wellSendYouAMessage": "Wanneer we onze status bijwerken, sturen we u een sms.",
   "wellSendYouAnEmail": "Wanneer we onze status bijwerken, sturen we u een e-mail.",
 
+  "webhookUrl": "Webhook URL",
   "webhookDescription": "We sturen een verzoek naar uw URL met",
   "webhookFormat": "dit formaat",
   "webhookSendEmail": "We sturen u een bericht als er een probleem is met uw URL",

@@ -78,7 +78,7 @@
   "copied": "Shranjeno",
   "toClipboard": "v odložišče.",
 
-  "emailAddress": "Vaš e-poštni naslov…",
+  "emailAddress": "E-poštni naslov",
   "checkYourEmail": "Preverite vaš e-poštni predal",
   "weJustSentYouAnEmail": "Poslali smo vam e-poštno sporočilo za potrditev prijave.",
   "emailConfirmed": "Vaš e-poštni naslov je potrjen",
@@ -88,6 +88,7 @@
   "wellSendYouAMessage": "Ob spremembah stanja storitve boste prejeli SMS sporočilo.",
   "wellSendYouAnEmail": "Ob spremembah stanja storitve boste prejeli e-poštno sporočilo.",
 
+  "WebhookUrl": "Webhook URL",
   "webhookDescription": "Na vaš naslov URL bomo poslali zahtevek",
   "webhookFormat": "v tem zapisu",
   "webhookSendEmail": "Ob težavah z vašim naslovom URL vam bomo poslali sporočilo",

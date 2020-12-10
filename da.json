@@ -79,7 +79,7 @@
   "copied": "Kopieret",
   "toClipboard": "til udklipsholderen!",
 
-  "emailAddress": "Din e-mail adresse…",
+  "emailAddress": "E-mail adresse",
   "checkYourEmail": "Kontroller din e-mail",
   "weJustSentYouAnEmail": "Vi har netop sendt dig en e-mail for at bekræfte din tilmelding.",
   "emailConfirmed": "Din e-mail adresse er blevet bekræftet",
@@ -89,6 +89,7 @@
   "wellSendYouAMessage": "Vi sender dig en SMS, når vi opdaterer vores status.",
   "wellSendYouAnEmail": "Vi sender dig en e-mail, når vi opdaterer vores status.",
 
+  "webhookUrl": "Webhook URL",
   "webhookDescription": "Vi sender opdateringer til din URL med",
   "webhookFormat": "dette format",
   "webhookSendEmail": "Vi sender dig en e-mail hvis der er problemer med din URL",
