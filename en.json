@@ -23,6 +23,8 @@
   "minorOutage": "Minor Outage",
   "majorOutage": "Major Outage",
 
+  "systemMetrics": "System Metrics",
+
   "incidents": "Previous incidents",
   "incidentHistory": "Incident history",
   "incidentDetails": "Incident details",

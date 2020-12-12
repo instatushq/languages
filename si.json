@@ -23,6 +23,8 @@
   "minorOutage": "Manjši izpad delovanja",
   "majorOutage": "Večji izpad delovanja",
 
+  "systemMetrics": "Sistemske metrike",
+
   "incidents": "Pretekli incidenti",
   "incidentHistory": "Zgodovina incidentov",
   "incidentDetails": "Podrobnosti incidenta",

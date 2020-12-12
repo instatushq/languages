@@ -23,6 +23,8 @@
   "minorOutage": "Mindre brudd",
   "majorOutage": "Større brudd",
 
+  "systemMetrics": "System beregninger",
+
   "incidents": "Tidligere hendelser",
   "incidentHistory": "Hendelseshistorikk",
   "incidentDetails": "Hendelsesdetaljer",

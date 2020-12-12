@@ -23,6 +23,8 @@
   "minorOutage": "Sự cố nhỏ",
   "majorOutage": "Sự cố lớn",
 
+  "systemMetrics": "Chỉ số hệ thống",
+
   "incidents": "Sự cố trước đây",
   "incidentHistory": "Lịch sử sự cố",
   "incidentDetails": "Chi tiết sự cố",

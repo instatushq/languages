@@ -23,6 +23,8 @@
   "minorOutage": "Delimičan prekid rada",
   "majorOutage": "Ne radi",
 
+  "systemMetrics": "Системске метрике",
+
   "incidents": "Prošli incidenti",
   "incidentHistory": "Istorija incidenata",
   "incidentDetails": "Detalji incidenta",

@@ -23,6 +23,8 @@
   "minorOutage": "Mindre udfald",
   "majorOutage": "Stort udfald",
 
+  "systemMetrics": "Systemmålinger",
+
   "incidents": "Tidligere hændelser",
   "incidentHistory": "Hændelseshistorik",
   "incidentDetails": "Hændelsesdetaljer",

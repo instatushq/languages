@@ -23,6 +23,8 @@
   "minorOutage": "Desempenho afetado",
   "majorOutage": "Totalmente indisponível",
 
+  "systemMetrics": "Métricas do sistema",
+
   "incidents": "Incidentes anteriores",
   "incidentHistory": "Histórico de incidentes",
   "incidentDetails": "Detalhes do incidente",

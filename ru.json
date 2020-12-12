@@ -20,6 +20,8 @@
   "minorOutage": "Незначительное отключение",
   "majorOutage": "Большой сбой",
 
+  "systemMetrics": "Системные метрики",
+
   "incidents": "Прошлые Проблемы",
   "incidentHistory": "История проблем",
   "incidentDetails": "Детали инцидента",

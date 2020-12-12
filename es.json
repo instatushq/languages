@@ -23,6 +23,8 @@
   "minorOutage": "Interrupción menor",
   "majorOutage": "Interrupción mayor",
 
+  "systemMetrics": "Métricas del sistema",
+
   "incidents": "Incidencias anteriores",
   "incidentHistory": "Historial de incidencias",
   "incidentDetails": "Detalles del incidente",

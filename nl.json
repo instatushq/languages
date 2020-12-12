@@ -23,6 +23,8 @@
   "minorOutage": "Kleine storing",
   "majorOutage": "Grote storing",
 
+  "systemMetrics": "Systeemstatistieken",
+
   "incidents": "Eerdere incidenten",
   "incidentHistory": "Incidentgeschiedenis",
   "incidentDetails": "Incidentdetails",
