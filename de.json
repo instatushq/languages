@@ -44,7 +44,7 @@
   "didntStart": "Service noch nicht gestartet",
   "noIncidents": "Keine Vorfälle gemeldet",
   "noIncidentsMonth": "Keine Vorfälle in diesem Monat gemeldet.",
-  "noIncidentsWeek": "Keine Vorfälle in den letzten 7 Tage gemeldet.",
+  "noIncidentsWeek": "Keine Vorfälle in den letzten 7 Tagen gemeldet.",
 
   "prev": "Vorherige",
   "next": "Nächste",
@@ -64,7 +64,7 @@
   "getStatusUpdates": "Benachrichtigungen erhalten",
   "email": "E-Mail",
   "getUpdatesEmailShort": "Benachrichtigung per E-Mail",
-  "getUpdatesEmailLong": "Erhalten Sie Benachrichtigungen per E-Mail",
+  "getUpdatesEmailLong": "Benachrichtigungen per E-Mail erhalten",
   "sms": "SMS",
   "getUpdatesSmsShort": "Benachrichtigung per SMS",
   "getUpdatesSmsLong": "Erhalten Sie Benachrichtigungen auf Ihrem Telefon",
