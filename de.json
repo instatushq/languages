@@ -75,7 +75,7 @@
   "getUpdatesRss": "Benachrichtigung per RSS",
   "twitter": "Twitter",
   "getUpdatesTwitterShort": "Benachrichtigungen über Twitter",
-  "getUpdatesTwitterLong": "Folgen Sie uns um Benachrichtigungen zu erhalten",
+  "getUpdatesTwitterLong": "Folgen Sie uns, um Benachrichtigungen zu erhalten",
 
   "reportAnIssue": "Ein Problem melden",
   "copied": "Kopiert",
@@ -105,7 +105,7 @@
   "resolved": "Gelöst",
   "investigating": "Analyse",
   "identified": "Behebung",
-  "monitoring": "Überprüfung",
+  "monitoring": "Überwachung",
 
   "notStartedYet": "Geplant",
   "inProgress": "In Bearbeitung",
