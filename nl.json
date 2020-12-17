@@ -34,6 +34,7 @@
   "maintenanceDetails" : "Onderhoudsgegevens",
 
   "started": "Begon op",
+  "updated": "Bijgewerkt op",
   "resolvedAfter": "Opgelost na",
   "inUnderAMinute": "in minder dan een minuut",
   "ofDowntime": "van downtime",

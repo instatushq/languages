@@ -34,6 +34,7 @@
   "maintenanceDetails" : "Détails de la maintenance",
 
   "started": "Commencé sur",
+  "updated": "Mis à jour le",
   "resolvedAfter": "Résolu après",
   "inUnderAMinute": "en moins d'une minute",
   "ofDowntime": "of downtime",

@@ -34,6 +34,7 @@
   "maintenanceDetails" : "Wartungsdetails",
 
   "started": "Aufgetreten am",
+  "updated": "Aktualisiert am",
   "resolvedAfter": "Gelöst innerhalb von",
   "inUnderAMinute": "innerhalb einer Minute",
   "ofDowntime": "Ausfallzeit",

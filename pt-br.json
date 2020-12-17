@@ -34,6 +34,7 @@
   "maintenanceDetails" : "Detalhes de manutenções",
 
   "started": "Começou em",
+  "updated": "Atualizado em",
   "resolvedAfter": "Resolvido após",
   "inUnderAMinute": "em um minuto",
   "ofDowntime": "de inatividade",

@@ -34,6 +34,7 @@
   "maintenanceDetails" : "Vedlikeholdsdetaljer",
 
   "started": "Begynte på",
+  "updated": "Oppdatert den",
   "resolvedAfter": "Løst etter",
   "inUnderAMinute": "på under et minutt",
   "ofDowntime": "med nedetid",
