@@ -119,7 +119,7 @@
   "48DaysAgo": "Vor 48 Tagen",
   "38DaysAgo": "Vor 38 Tagen",
 
-  "automatedIncidentTitle": "ist momentan nicht zugänglich (automatisiert)",
+  "automatedIncidentTitle": "ist momentan nicht erreichbar (automatisiert)",
   "automatedIncidentMessage": "kann momentan nicht aufgerufen werden. Dieser Vorfall wurde von einem automatisierten Überwachungsdienst erstellt.",
 
   "statusUpdates": "Status Updates",
