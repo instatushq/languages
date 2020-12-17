@@ -34,6 +34,7 @@
   "maintenanceDetails" : "Detalles de mantenimiento",
 
   "started": "Iniciado el",
+  "scheduledFor": "Programado para",
   "updated": "Actualizado en",
   "resolvedAfter": "Resuelto despúes",
   "inUnderAMinute": "de un minuto",

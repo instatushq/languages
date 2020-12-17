@@ -34,6 +34,7 @@
   "maintenanceDetails" : "Onderhoudsgegevens",
 
   "started": "Begon op",
+  "scheduledFor": "Gepland voor",
   "updated": "Bijgewerkt op",
   "resolvedAfter": "Opgelost na",
   "inUnderAMinute": "in minder dan een minuut",

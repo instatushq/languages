@@ -34,6 +34,7 @@
   "maintenanceDetails" : "Detalji popravke",
 
   "started": "Početo",
+  "scheduledFor": "Заказана за",
   "updated": "Ажурирано дана",
   "resolvedAfter": "Rešeno posle",
   "inUnderAMinute": "1 minut",

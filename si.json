@@ -34,6 +34,7 @@
   "maintenanceDetails" : "Podrobnosti vzdrževanj",
 
   "started": "Začetek",
+  "scheduledFor": "Načrtovano za",
   "updated": "Posodobljeno dne",
   "resolvedAfter": "Čas trajanja incidenta:",
   "inUnderAMinute": "Manj kot minuta",

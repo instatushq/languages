@@ -31,6 +31,7 @@
   "maintenanceDetails" : "Детали обслуживания",
 
   "started": "Началось на",
+  "scheduledFor": "Запланировано на",
   "updated": "Обновление",
   "resolvedAfter": "Решено после",
   "inUnderAMinute": "менее чем за минуту",

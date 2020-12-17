@@ -34,6 +34,7 @@
   "maintenanceDetails": "Chi tiết bảo trì",
 
   "started": "Bắt đầu lúc",
+  "scheduledFor": "Lên kế hoạch cho",
   "updated": "Cập nhật vào",
   "resolvedAfter": "Được khắc phục sau",
   "inUnderAMinute": "một phút",
