@@ -41,6 +41,7 @@
   "ofDowntime": "de tiempo de inactividad",
   "notResolved": "Aún no esta resuleto.",
   "affected": "Afectado",
+  "affects": "Afecta",
 
   "noDowntime": "No hay tiempo de inactividad a reportar.",
   "didntStart": "El servicio aún no ha comenzado.",

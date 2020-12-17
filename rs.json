@@ -41,6 +41,7 @@
   "ofDowntime": "Ne radi",
   "notResolved": "Nije još rešeno.",
   "affected": "Komponente pod uticajem:",
+  "affects": "Утиче на",
 
   "noDowntime": "Nije bilo prekida rada",
   "didntStart": "Usluga nije jos pocela",

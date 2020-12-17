@@ -41,6 +41,7 @@
   "ofDowntime": "de inatividade",
   "notResolved": "Ainda não resolvido.",
   "affected": "Afetado",
+  "affects": "Afeta",
 
   "noDowntime": "Nenhum tempo de indisponibilidade comunicado.",
   "didntStart": "O serviço ainda não iniciou.",

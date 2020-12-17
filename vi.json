@@ -41,6 +41,7 @@
   "ofDowntime": "gặp sự cố",
   "notResolved": "Chưa được khác phục.",
   "affected": "Ảnh hưởng",
+  "affects": "Ảnh hưởng",
 
   "noDowntime": "Không có sự cố.",
   "didntStart": "Dịch vụ chưa bắt đầu.",

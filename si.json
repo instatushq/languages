@@ -41,6 +41,7 @@
   "ofDowntime": "izpada",
   "notResolved": "Nerešeno.",
   "affected": "Prizadete storitve",
+  "affects": "Vplivi",
 
   "noDowntime": "Brez izpadov.",
   "didntStart": "Storitev še ne obratuje.",

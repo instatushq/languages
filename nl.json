@@ -41,6 +41,7 @@
   "ofDowntime": "van downtime",
   "notResolved": "Nog niet opgelost.",
   "affected": "Getroffen",
+  "affects": "Beïnvloedt",
 
   "noDowntime": "Geen downtime gemeld.",
   "didntStart": "De service is nog niet gestart.",

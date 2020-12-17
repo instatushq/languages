@@ -41,6 +41,7 @@
   "ofDowntime": "med nedetid",
   "notResolved": "Ikke løst ennå.",
   "affected": "Påvirket",
+  "affects": "Påvirker",
 
   "noDowntime": "Ingen nedetid rapportert.",
   "didntStart": "Tjenesten startet ikke ennå.",

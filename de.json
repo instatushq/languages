@@ -41,6 +41,7 @@
   "ofDowntime": "Ausfallzeit",
   "notResolved": "Bisher ungelöst",
   "affected": "Betroffen",
+  "affects": "Auswirkungen",
 
   "noDowntime": "Keine Ausfallzeiten gemeldet",
   "didntStart": "Service noch nicht gestartet",

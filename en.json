@@ -41,6 +41,7 @@
   "ofDowntime": "of downtime",
   "notResolved": "Not resolved yet.",
   "affected": "Affected",
+  "affects": "Affects",
 
   "noDowntime": "No downtime reported",
   "didntStart": "Service didn't start yet",
