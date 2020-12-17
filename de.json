@@ -76,7 +76,7 @@
   "getUpdatesRss": "Benachrichtigung per RSS",
   "twitter": "Twitter",
   "getUpdatesTwitterShort": "Benachrichtigungen über Twitter",
-  "getUpdatesTwitterLong": "Folgen Sie uns um Benachrichtigungen zu erhalten",
+  "getUpdatesTwitterLong": "Folgen Sie uns, um Benachrichtigungen zu erhalten",
 
   "reportAnIssue": "Ein Problem melden",
   "copied": "Kopiert",
@@ -106,7 +106,7 @@
   "resolved": "Gelöst",
   "investigating": "Analyse",
   "identified": "Behebung",
-  "monitoring": "Überprüfung",
+  "monitoring": "Überwachung",
 
   "notStartedYet": "Geplant",
   "inProgress": "In Bearbeitung",
@@ -120,7 +120,7 @@
   "48DaysAgo": "Vor 48 Tagen",
   "38DaysAgo": "Vor 38 Tagen",
 
-  "automatedIncidentTitle": "ist momentan nicht zugänglich (automatisiert)",
+  "automatedIncidentTitle": "ist momentan nicht erreichbar (automatisiert)",
   "automatedIncidentMessage": "kann momentan nicht aufgerufen werden. Dieser Vorfall wurde von einem automatisierten Überwachungsdienst erstellt.",
 
   "statusUpdates": "Status Updates",
@@ -132,7 +132,7 @@
   "youCan": "Sie können sich hier",
   "unsubscribe": "abmelden",
   "here": "",
-  "checkItOut": "Schauen Sie es sich an",
+  "checkItOut": "Anschauen",
   "useThisLink": "Nutzen Sie diesen Link",
   "hasUpdatedTheirIncident": "hat den Vorfall aktualisiert",
   "scheduledANewMaintenance": "hat eine neue Wartung geplant",
