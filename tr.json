@@ -5,8 +5,8 @@
   "dateLocale": "tr-TR",
 
   "or": "veya",
-  "to": "e",
-  "at": "de",
+  "to": "-",
+  "at": "-",
 
   "status": "Durum",
   "statusPage": "Durum Sayfası",
@@ -40,8 +40,8 @@
   "inUnderAMinute": "bir dakikadan kısa",
   "ofDowntime": "kesinti",
   "notResolved": "Henüz çözülmedi",
-  "affected": "Etkilendi",
-  "affects": "Etkiler",
+  "affected": "Etkilenenler",
+  "affects": "Etkilenenler",
 
   "noDowntime": "Kesinti bildirilmedi",
   "didntStart": "Servis başlamadı",
