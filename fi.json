@@ -11,8 +11,8 @@
     "status": "Tila",
     "statusPage": "Tilasivu",
   
-    "isDown": "Ongelmia",
-    "isDisrupted": "Häiriöitä",
+    "isDown": "Ongelmia havaittu",
+    "isDisrupted": "Häiriöitä havaittu",
     "isNotice": "Huolto käynnissä",
     "isOk": "Kaikki järjestelmät toiminnassa",
   
@@ -23,10 +23,10 @@
     "minorOutage": "Pieni Katkos",
     "majorOutage": "Suuri Katkos",
   
-    "systemMetrics": "Järjestelmien mittarit",
+    "systemMetrics": "Järjestelmä mittarit",
   
     "incidents": "Aikaisemmat Katkokset",
-    "incidentHistory": "Katkohistoria",
+    "incidentHistory": "Katkoshistoria",
     "incidentDetails": "Katkon yksityiskohdat",
   
     "maintenances" : "Huollot",
@@ -38,7 +38,7 @@
     "updated": "Päivitetty",
     "resolvedAfter": "Ratkaistu",
     "inUnderAMinute": "alle minuutissa",
-    "ofDowntime": "katkoja",
+    "ofDowntime": "katkoksia",
     "notResolved": "Ei vielä ratkaistu.",
     "affected": "Vaikuttaa",
     "affects": "Vaikuttaa",
@@ -46,20 +46,20 @@
     "noDowntime": "Ei katkoksia ilmoitettu",
     "didntStart": "Palvelua ei vielä aloitettu",
     "noIncidents": "Katkoksista ei ilmoitettu",
-    "noIncidentsMonth": "Tässä kuussa ei ilmoitettu katkoja.",
-    "noIncidentsWeek": "Ei katkoja raportoitu viimeisen seitsemän päivän aikana.",
+    "noIncidentsMonth": "Tässä kuussa ei ole ilmoitettu katkoksia.",
+    "noIncidentsWeek": "Ei katkoksia raportoitu viimeisen seitsemän päivän aikana.",
   
     "prev": "Edellinen",
     "next": "Seuraava",
   
     "goBack": "Palaa takaisin",
     "poweredBy": "Powered by",
-    "showIncidentHistory": "Näytä katkohistoria",
+    "showIncidentHistory": "Näytä katkoshistoria",
     "showCurrent": "Näytä nykyinen tila",
   
-    "getUpdates": "Hanki päivityksiä",
+    "getUpdates": "Tilaa päivitykset",
     "getUpdatesBy": "Hanki päivitykset",
-    "toAllComponents": "Hanki kaikki tilapäivitykset",
+    "toAllComponents": "Kaikki komponentit",
     "toCertainComponents": "Vain tietyt komponentit",
     "subscribe": "Tilaa",
     "working": "Toimitaan…",
@@ -71,16 +71,16 @@
     "sms": "Tekstiviesti",
     "getUpdatesSmsShort": "Hanki päivitykset tekstiviestillä",
     "getUpdatesSmsLong": "Hanki päivitykset mobiililaitteeseesi",
-    "rss": "RSS",
-    "webhook": "Webhook",
-    "atom": "Atomi",
+    "rss": "RSS:llä",
+    "webhook": "Verkkokoukulla",
+    "atom": "Atomilla",
     "feed": "Syöttö",
     "getUpdatesRss": "Hanki päivityksiä RSS:n kautta",
     "twitter": "Twitter",
     "getUpdatesTwitterShort": "Seuraa päivityksiä Twitterissä",
     "getUpdatesTwitterLong": "Seuraa meitä päivityksiä varten",
   
-    "reportAnIssue": "Ilmoita ongelma",
+    "reportAnIssue": "Ilmoita ongelmasta",
     "copied": "Kopioitu",
     "toClipboard": "leikepöydälle!",
   
@@ -99,7 +99,7 @@
     "webhookDescription": "Lähetämme pyynnöt URL-osoitteeseesi",
     "webhookFormat": "tässä muodossa",
     "webhookSendEmail": "Lähetämme sinulle, jos URL-osoitteessasi on ongelma",
-    "webhookSend": "Kun päivitämme tilaamme, lähetämme sinulle päivitykset Webhook-URL-osoitteeseesi.",
+    "webhookSend": "Kun päivitämme tilaamme, lähetämme sinulle päivitykset Verkkokoukun-URL-osoitteeseesi.",
     "webhookFormatLink": "Tarkista pyyntömuoto",
   
     "enterEmailError": "Anna sähköpostiosoitteesi.",
@@ -117,7 +117,7 @@
   
     "today": "Tänään",
     "daysAgo": "päiviä sitten",
-    "uptime": "ylläpito",
+    "uptime": "saatavuus",
     "90DaysAgo": "90 päivää sitten",
     "48DaysAgo": "48 päivää sitten",
     "38DaysAgo": "38 päivää sitten",
@@ -126,17 +126,17 @@
     "automatedIncidentMessage": "ei voida käyttää tällä hetkellä. Tämän ilmoituksen loi automaattinen valvontapalvelu.",
   
     "statusUpdates": "tilapäivitykset",
-    "hasANewIncident": "on uusi katko",
+    "hasANewIncident": "on uusi katkos",
     "openStatusPage": "Avaa tilasivu",
     "youreReceivingThisEmailBecauseYouSubscribed": "Sait tämän sähköpostin, koska olet tilannut ",
     "pleaseConfirmYourSubscription": "Vahvista tilauksesi",
-    "incidentUpdates": "katkopäivityksiin",
+    "incidentUpdates": "katkospäivityksiin",
     "youCan": "Voit",
     "unsubscribe": "poistaa tilauksen",
     "here": "täältä",
     "checkItOut": "Tarkista se",
     "useThisLink": "Käytä tätä linkkiä",
-    "hasUpdatedTheirIncident": "on päivittänyt katkoa",
+    "hasUpdatedTheirIncident": "on päivittänyt katkosta",
     "scheduledANewMaintenance": "suunnitteli uuden huollon",
     "updatedTheirMaintenance": "päivitti huoltoa"
   }
