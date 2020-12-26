@@ -20,3 +20,4 @@ Supported languages:
 - 🇸🇮 Slovenian [Matej Žerovnik](https://github.com/matejzero)
 - 🇻🇳 Vietnamese [Ngô Quý](https://github.com/JustHmmmm)
 - 🇹🇷 Turkish
+- 🇫🇮 Finnish [GhostSlayer](https://github.com/GhostSlayer)
