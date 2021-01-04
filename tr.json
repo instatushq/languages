@@ -112,7 +112,7 @@
   "monitoring": "Takip Ediliyor",
 
   "notstartedyet": "Planlandı",
-  "inprogress": "Devam etmekte",
+  "inprogress": "Devam ediyor",
   "completed": "Tamamlandı",
 
   "today": "Bugün",
@@ -132,11 +132,11 @@
   "pleaseConfirmYourSubscription": "Lütfen aboneliğinizi doğrulayın: ",
   "incidentUpdates": "olay güncellemeleri",
   "youCan": "Buradan",
-  "unsubscribe": "aboneliği kaldırabilirsiniz: ",
+  "unsubscribe": "aboneliği kaldırmak için tıklayın ",
   "here": "tıklayın",
   "checkItOut": "Kontrol edin",
   "useThisLink": "Bu linki kullan",
-  "hasUpdatedTheirIncident": "sorunu güncelledi",
-  "scheduledANewMaintenance": "yeni bakım planladı",
-  "updatedTheirMaintenance": "bakımı güncelledi"
+  "hasUpdatedTheirIncident": ": Sorun güncellendi",
+  "scheduledANewMaintenance": ": Yeni bakım planlandı",
+  "updatedTheirMaintenance": ": Bakım güncellendi"
 }
