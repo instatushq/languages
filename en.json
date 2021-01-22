@@ -98,7 +98,7 @@
   "webhookUrl": "Webhook URL",
   "webhookDescription": "We will send a requests to your URL using",
   "webhookFormat": "this format",
-  "webhookSendEmail": "We will send you when there is an issue with your URL",
+  "webhookSendEmail": "We will send you and email when there is an issue with your URL",
   "webhookSend": "When we update our status, we'll send you the updates to your Webhook URL.",
   "webhookFormatLink": "Check the request format",
 
