@@ -1,9 +1,8 @@
-# 🌍🌎🌏 Instatus supported languages
+# 🌍🌎🌏 Instatus languages
 
 JSON files for the languages supported by Instatus.
 
 If you'd like to improve your language or add a new one, please create a pull request 🚀
-
 
 Supported languages:
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English
