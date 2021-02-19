@@ -107,8 +107,8 @@
   "identified": "идентифицированный",
   "monitoring": "Мониторинг",
 
-  "notStartedYet": "Еще не началось",
-  "inProgress": "В ходе выполнения",
+  "notstartedyet": "Еще не началось",
+  "inprogress": "В ходе выполнения",
   "completed": "Завершенный",
 
   "today": "сегодня",

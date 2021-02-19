@@ -110,8 +110,8 @@
   "identified": "Identifiés",
   "monitoring": "Surveillance",
 
-  "notStartedYet": "Pas encore commencé",
-  "inProgress": "En cours",
+  "notstartedyet": "Pas encore commencé",
+  "inprogress": "En cours",
   "completed": "Terminé",
 
   "today": "Aujourd'hui",

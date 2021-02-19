@@ -85,6 +85,7 @@
   "toClipboard": "In die Zwischenablage!",
 
   "emailAddress": "E-Mail-Adresse",
+  "emailExample": "you@yourdomain.com",
   "checkYourEmail": "Überprüfen Sie Ihren Posteingang",
   "weJustSentYouAnEmail": "Wir haben Ihnen eine E-Mail gesendet, um Ihr Abonnement zu bestätigen.",
   "emailConfirmed": "Ihre E-Mail-Adresse wird bestätigt",
@@ -110,14 +111,13 @@
   "identified": "Behebung",
   "monitoring": "Überwachung",
 
-  "notStartedYet": "Geplant",
-  "inProgress": "In Bearbeitung",
+  "notstartedyet": "Geplant",
+  "inprogress": "In Bearbeitung",
   "completed": "Abgeschlossen",
 
   "today": "Heute",
   "daysAgo": "Tage her",
   "uptime": "Betriebszeit",
-
   "90DaysAgo": "Vor 90 Tagen",
   "48DaysAgo": "Vor 48 Tagen",
   "38DaysAgo": "Vor 38 Tagen",
