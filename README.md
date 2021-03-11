@@ -8,7 +8,7 @@ Supported languages:
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English
 - 🇩🇰 Danish [Dan Storm](https://github.com/Repox)
 - 🇩🇪 German [An](https://twitter.com/AnTheMaker)
-- 🇪🇸 Spanish [Agusti Fernandez Pardo](https://github.com/agustif)
+- 🇪🇸 Spanish [Agusti](https://github.com/agustif) & [Cristiam](https://github.com/cristiammercado)
 - 🇫🇷 French [Joshua Tabakhoff](https://twitter.com/joshtab_)
 - 🇳🇱 Dutch [Ezra van den Broek](https://twitter.com/ezraistaken)
 - 🇳🇴 Norwegian [Eirik Lie](https://github.com/eiriklie)
