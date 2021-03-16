@@ -9,16 +9,16 @@
   "at": "à",
 
   "status": "Statut",
-  "statusPage": "Page d'état",
+  "statusPage": "État des services",
 
-  "isDown": "Rencontrer des problèmes",
-  "isDisrupted": "Vivre des perturbations",
+  "isDown": "Rencontre des problèmes",
+  "isDisrupted": "Recontre des perturbations",
   "isNotice": "Maintenance en cours",
   "isOk": "Tous les systèmes sont opérationnels",
 
   "operational": "Opérationnel",
   "underMaintenance": "Maintenance",
-  "degradedPerformance": "Des performances dégradées",
+  "degradedPerformance": "Les performances sont dégradées",
   "partialOutage": "Panne partielle",
   "minorOutage": "Interruption mineure",
   "majorOutage": "Panne majeure",
@@ -30,7 +30,7 @@
   "incidentDetails": "Détails de l'incident",
 
   "maintenances" : "Maintenances",
-  "maintenanceHistory" : "Historique de maintenance",
+  "maintenanceHistory" : "Historique des maintenances",
   "maintenanceDetails" : "Détails de la maintenance",
 
   "started": "Commencé sur",
@@ -38,7 +38,7 @@
   "updated": "Mis à jour le",
   "resolvedAfter": "Résolu après",
   "inUnderAMinute": "en moins d'une minute",
-  "ofDowntime": "of downtime",
+  "ofDowntime": "Temps Hors-Ligne",
   "notResolved": "Pas encore résolu.",
   "affected": "Concernés",
   "affects": "Affecte",
@@ -118,9 +118,9 @@
   "uptime": "disponibilité",
   "daysAgo": "il y a quelques jours",
 
-  "90DaysAgo": "90 il y a quelques jours",
-  "48DaysAgo": "48 il y a quelques jours",
-  "38DaysAgo": "38 il y a quelques jours",
+  "90DaysAgo": "il y a 90 jours",
+  "48DaysAgo": "il y a 48 jours",
+  "38DaysAgo": "il y a 38 jours",
 
   "automatedIncidentTitle": "est inaccessible pour le moment (automatisé)",
   "automatedIncidentMessage": "n'est pas accessible pour le moment. Cet incident a été créé par un service de surveillance automatisé.",
