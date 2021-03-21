@@ -81,8 +81,8 @@
   "getUpdatesTwitterLong": "Güncellemeler için bizi takip edin",
 
   "reportAnIssue": "Sorun Bildir",
-  "copied": "Kopyalandı",
-  "toClipboard": ": panoya!",
+  "copied": " ",
+  "toClipboard": ": panoya kopyalandı.",
 
   "emailAddress": "Mail Adresi",
   "emailExample": "siz@alanadı.com",
