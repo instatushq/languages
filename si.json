@@ -123,7 +123,7 @@
   "38DaysAgo": "Pred 38 dnevi",
 
   "automatedIncidentTitle": "je trenutno nedosegljiv (samodejno)",
-  "automatedIncidentMessage": "je trenutno nedosegljiv. Ta dogodek je bil kreiran v sklopu samodejnega preverjanja stanja."  
+  "automatedIncidentMessage": "je trenutno nedosegljiv. Ta dogodek je bil kreiran v sklopu samodejnega preverjanja stanja.",
 
   "statusUpdates": "storitev",
   "hasANewIncident": "ima nov dogodek",
