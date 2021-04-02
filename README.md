@@ -6,6 +6,7 @@ If you'd like to improve your language or add a new one, please create a pull re
 
 Supported languages:
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English
+- 🇨🇳 Chinese [Chihao Huang](https://https://github.com/coder-bts)
 - 🇩🇰 Danish [Dan Storm](https://github.com/Repox)
 - 🇩🇪 German [An](https://twitter.com/AnTheMaker)
 - 🇪🇸 Spanish [Agusti](https://github.com/agustif) & [Cristiam](https://github.com/cristiammercado)
