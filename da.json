@@ -79,6 +79,12 @@
   "twitter": "Twitter",
   "getUpdatesTwitterShort": "Følg opdateringer på Twitter",
   "getUpdatesTwitterLong": "Følg os for opdateringer",
+  "slack": "Slack",
+  "getUpdatesSlackShort": "Få opdateringer på Slack",
+  "getUpdatesSlackLong": "Få opdateringer på din kanal",
+  "discord": "Discord",
+  "getUpdatesDiscordShort": "Få opdateringer på Discord",
+  "getUpdatesDiscordLong": "Få opdateringer på din kanal",
 
   "reportAnIssue": "Rapporter en hændelse",
   "copied": "Kopieret",

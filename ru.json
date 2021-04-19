@@ -76,6 +76,12 @@
   "twitter": "Twitter",
   "getUpdatesTwitterShort": "Следите за обновлениями в Twitter",
   "getUpdatesTwitterLong": "Следите за обновлениями",
+  "slack": "Slack",
+  "getUpdatesSlackShort": "Получайте обновления на свой Slack",
+  "getUpdatesSlackLong": "Получайте обновления на свой Slack",
+  "discord": "Discord",
+  "getUpdatesDiscordShort": "Получайте обновления на свой Discord",
+  "getUpdatesDiscordLong": "Получайте обновления на свой Discord",
 
   "reportAnIssue": "Сообщить о проблеме",
   "copied": "Скопировано",

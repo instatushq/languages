@@ -79,6 +79,12 @@
   "twitter": "Twitter",
   "getUpdatesTwitterShort": "透過Twitter獲取更新",
   "getUpdatesTwitterLong": "在Twitter上關注我們來獲取更新",
+  "slack": "Slack",
+  "getUpdatesSlackShort": "透過 Slack 獲取更新",
+  "getUpdatesSlackLong": "透過 Slack 獲取更新",
+  "discord": "Discord",
+  "getUpdatesDiscordShort": "透過 Discord 獲取更新",
+  "getUpdatesDiscordLong": "透過 Discord 獲取更新",
 
   "reportAnIssue": "報告故障",
   "copied": "已複製",

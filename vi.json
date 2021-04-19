@@ -79,6 +79,12 @@
   "twitter": "Twitter",
   "getUpdatesTwitterShort": "Theo dõi qua Twitter",
   "getUpdatesTwitterLong": "Theo dõi qua Twitter",
+  "slack": "Slack",
+  "getUpdatesSlackShort": "Nhận cập nhật qua tin nhắn Slack",
+  "getUpdatesSlackLong": "Nhận cập nhật qua tin nhắn Slack",
+  "discord": "Discord",
+  "getUpdatesDiscordShort": "Nhận cập nhật qua tin nhắn Discord",
+  "getUpdatesDiscordLong": "Nhận cập nhật qua tin nhắn Discord",
 
   "reportAnIssue": "Phản ánh sự cố",
   "copied": "Đã sao chép",

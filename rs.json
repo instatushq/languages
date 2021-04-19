@@ -78,6 +78,12 @@
   "feed": "Feed",
   "getUpdatesTwitterShort": "Twitter",
   "getUpdatesTwitterLong": "Twitter",
+  "slack": "Slack",
+  "getUpdatesSlackShort": "Slack",
+  "getUpdatesSlackLong": "Slack",
+  "discord": "Discord",
+  "getUpdatesDiscordShort": "Discord",
+  "getUpdatesDiscordLong": "Discord",
 
   "reportAnIssue": "Prijavite problem",
   "copied": "Kopirano",

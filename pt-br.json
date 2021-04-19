@@ -78,6 +78,12 @@
   "feed": "Feed",
   "getUpdatesTwitterShort": "Siga as atualizações no Twitter",
   "getUpdatesTwitterLong": "Siga-nos para atualizações",
+  "slack": "Slack",
+  "getUpdatesSlackShort": "Obter atualizações por Slack",
+  "getUpdatesSlackLong": "Obter atualizações por Slack",
+  "discord": "Discord",
+  "getUpdatesDiscordShort": "Obter atualizações por Discord",
+  "getUpdatesDiscordLong": "Obter atualizações por Discord",
 
   "reportAnIssue": "Relatar um problema",
   "copied": "Copiado",

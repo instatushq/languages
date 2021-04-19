@@ -79,6 +79,12 @@
   "twitter": "Twitter",
   "getUpdatesTwitterShort": "Volg updates op Twitter",
   "getUpdatesTwitterLong": "Volg ons voor updates",
+  "slack": "Slack",
+  "getUpdatesSlackShort": "Ontvang updates per Slack",
+  "getUpdatesSlackLong": "Ontvang updates per Slack",
+  "discord": "Discord",
+  "getUpdatesDiscordShort": "Ontvang updates per Discord",
+  "getUpdatesDiscordLong": "Ontvang updates per Discord",
 
   "reportAnIssue": "Een probleem melden",
   "copied": "Gekopieerd",

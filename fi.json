@@ -79,6 +79,12 @@
     "twitter": "Twitter",
     "getUpdatesTwitterShort": "Seuraa päivityksiä Twitterissä",
     "getUpdatesTwitterLong": "Seuraa meitä päivityksiä varten",
+    "slack": "Slack",
+    "getUpdatesSlackShort": "Hanki päivitykset Slack",
+    "getUpdatesSlackLong": "Hanki päivitykset Slack",
+    "discord": "Discord",
+    "getUpdatesDiscordShort": "Hanki päivitykset Discord",
+    "getUpdatesDiscordLong": "Hanki päivitykset Discord",
   
     "reportAnIssue": "Ilmoita ongelmasta",
     "copied": "Kopioitu",

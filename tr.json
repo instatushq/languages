@@ -79,6 +79,12 @@
   "twitter": "Twitter",
   "getUpdatesTwitterShort": "Güncellemeleri Twitter üzerinden takip et",
   "getUpdatesTwitterLong": "Güncellemeler için bizi takip edin",
+  "slack": "Slack",
+  "getUpdatesSlackShort": "Slack ile güncellemeleri al",
+  "getUpdatesSlackLong": "Slack ile güncellemeleri al",
+  "discord": "Discord",
+  "getUpdatesDiscordShort": "Discord ile güncellemeleri al",
+  "getUpdatesDiscordLong": "Discord ile güncellemeleri al",
 
   "reportAnIssue": "Sorun Bildir",
   "copied": " ",

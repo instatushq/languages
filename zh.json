@@ -79,6 +79,12 @@
   "twitter": "Twitter",
   "getUpdatesTwitterShort": "关注 Twitter 订阅状态更新",
   "getUpdatesTwitterLong": "在 Twitter 上关注我们订阅状态更新",
+  "slack": "Slack",
+  "getUpdatesSlackShort": "通过 Slack 订阅状态更新",
+  "getUpdatesSlackLong": "通过 Slack 订阅状态更新",
+  "discord": "Discord",
+  "getUpdatesDiscordShort": "通过 Discord 订阅状态更新",
+  "getUpdatesDiscordLong": "通过 Discord 订阅状态更新",
 
   "reportAnIssue": "反馈故障",
   "copied": "已复制",

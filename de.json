@@ -79,6 +79,12 @@
   "twitter": "Twitter",
   "getUpdatesTwitterShort": "Benachrichtigungen über Twitter",
   "getUpdatesTwitterLong": "Folgen Sie uns, um Benachrichtigungen zu erhalten",
+  "slack": "Slack",
+  "getUpdatesSlackShort": "Benachrichtigung per Slack",
+  "getUpdatesSlackLong": "Benachrichtigung per Slack",
+  "discord": "Discord",
+  "getUpdatesDiscordShort": "Benachrichtigung per Discord",
+  "getUpdatesDiscordLong": "Benachrichtigung per Discord",
 
   "reportAnIssue": "Ein Problem melden",
   "copied": "Kopiert",

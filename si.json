@@ -79,6 +79,12 @@
   "twitter": "Twitter",
   "getUpdatesTwitterShort": "Sledite obvestilom na Twitterju",
   "getUpdatesTwitterLong": "Sledite našim obvestilom",
+  "slack": "Slack",
+  "getUpdatesSlackShort": "Prejemanje obvestil v Slack",
+  "getUpdatesSlackLong": "Prejemanje obvestil v Slack",
+  "discord": "Discord",
+  "getUpdatesDiscordShort": "Prejemanje obvestil v Discord",
+  "getUpdatesDiscordLong": "Prejemanje obvestil v Discord",
 
   "reportAnIssue": "Prijavi napako",
   "copied": "Shranjeno",
