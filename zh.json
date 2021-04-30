@@ -1,7 +1,7 @@
 {
-  "languageCode": "zh",
-  "languageName": "Chinese",
-  "langageNameShort": "CHI",
+  "languageCode": "zh-Hans",
+  "languageName": "Chinese Simplified",
+  "langageNameShort": "CHS",
   "dateLocale": "zhCN",
 
   "or": "或",
@@ -14,7 +14,7 @@
   "isDown": "正在经历故障",
   "isDisrupted": "正在经历波动",
   "isNotice": "例行维护正在进行",
-  "isOk": "所有系统均正常运行",
+  "isOk": "所有系统正常运行中",
 
   "operational": "正常运行",
   "underMaintenance": "例行维护",
@@ -27,11 +27,11 @@
 
   "incidents": "历史故障",
   "incidentHistory": "完整故障历史",
-  "incidentDetails": "故障细节",
+  "incidentDetails": "故障详情",
 
   "maintenances" : "例行维护",
   "maintenanceHistory" : "例行维护记录",
-  "maintenanceDetails" : "例行维护细节",
+  "maintenanceDetails" : "例行维护详情",
 
   "started": "开始于",
   "scheduledFor": "计划开始于",
@@ -43,19 +43,19 @@
   "affected": "受到影响",
   "affects": "影响",
 
-  "noDowntime": "无故障汇报",
+  "noDowntime": "无故障时间记录",
   "didntStart": "服务暂未启用",
-  "noIncidents": "无故障汇报记录",
-  "noIncidentsMonth": "本月无故障汇报记录.",
-  "noIncidentsWeek": "近七日无故障汇报记录.",
+  "noIncidents": "无故障记录",
+  "noIncidentsMonth": "本月无故障记录.",
+  "noIncidentsWeek": "近七日无故障记录.",
 
   "prev": "上一项",
   "next": "下一项",
   
   "goBack": "返回",
-  "poweredBy": "采用",
-  "showIncidentHistory": "显示完整故障历史",
-  "showCurrent": "显示实时运行状态",
+  "poweredBy": "基于",
+  "showIncidentHistory": "查看完整故障历史",
+  "showCurrent": "查看实时运行状态",
 
   "getUpdates": "订阅状态更新",
   "getUpdatesBy": "订阅状态更新：",
@@ -132,15 +132,15 @@
   "automatedIncidentMessage": "正在经历一些故障. 我们的运行状态监控系统发现了该问题.",
 
   "statusUpdates": "状态更新",
-  "hasANewIncident": "有一些故障",
+  "hasANewIncident": "有新故障",
   "openStatusPage": "打开运行状态页",
   "youreReceivingThisEmailBecauseYouSubscribed": "您收到这封邮件是因为您订阅了 ",
-  "pleaseConfirmYourSubscription": "请确认您订阅了 ",
+  "pleaseConfirmYourSubscription": "请确认您的订阅",
   "incidentUpdates": "故障更新",
   "youCan": "您可以",
   "unsubscribe": "取消订阅：",
   "here": "点击这里",
-  "checkItOut": "了解一下",
+  "checkItOut": "了解详情",
   "useThisLink": "访问这个链接",
   "hasUpdatedTheirIncident": "更新了故障状态",
   "scheduledANewMaintenance": "计划了一次例行维护",
