@@ -6,7 +6,7 @@
 
   "or": "或",
   "to": "至",
-  "at": "于",
+  "at": "",
 
   "status": "运行状态",
   "statusPage": "运行状态页",
@@ -36,7 +36,7 @@
   "started": "开始于",
   "scheduledFor": "计划开始于",
   "updated": "更新于",
-  "resolvedAfter": "解决花费",
+  "resolvedAfter": "解决本次故障耗时",
   "inUnderAMinute": "一分钟内",
   "ofDowntime": "的故障持续时长",
   "notResolved": "暂未解决",
@@ -121,7 +121,7 @@
   "inprogress": "进行中",
   "completed": "已完成",
 
-  "today": "今日",
+  "today": "今天",
   "daysAgo": "天前",
   "uptime": "正常",
   "90DaysAgo": "90 天前",
@@ -134,7 +134,7 @@
   "statusUpdates": "状态更新",
   "hasANewIncident": "有新故障",
   "openStatusPage": "打开运行状态页",
-  "youreReceivingThisEmailBecauseYouSubscribed": "您收到这封邮件是因为您订阅了",
+  "youreReceivingThisEmailBecauseYouSubscribed": "您收到这封邮件是因为您订阅了 ",
   "pleaseConfirmYourSubscription": "请确认您的订阅",
   "incidentUpdates": "故障更新",
   "youCan": "您可以",
