@@ -11,9 +11,9 @@
   "status": "Stato",
   "statusPage": "Pagina di stato",
 
-  "isDown": "Stiamo riscontrando problemi",
-  "isDisrupted": "Stiamo riscontrando interruzioni",
-  "isNotice": "Manutenzione in corso",
+  "isDown": "I servizi non sono raggiungibili a causa di un guasto",
+  "isDisrupted": "Stiamo riscontrando interruzioni momentanee",
+  "isNotice": "Attività di ripristino in corso",
   "isOk": "Tutti i sistemi sono operativi",
 
   "operational": "Operativo",
@@ -25,9 +25,9 @@
 
   "systemMetrics": "Metriche di sistema",
 
-  "incidents": "Incidenti precedenti",
-  "incidentHistory": "Lista incidenti",
-  "incidentDetails": "Dettagli incidenti",
+  "incidents": "Guasti precedenti",
+  "incidentHistory": "Lista dei guasti",
+  "incidentDetails": "Dettagli dei guasti",
 
   "maintenances" : "Manutenzioni",
   "maintenanceHistory" : "Lista manutenzioni",
@@ -43,31 +43,31 @@
   "affected": "Colpiti",
   "affects": "Affetti",
 
-  "noDowntime": "Nessun tempo di inattività riportato",
+  "noDowntime": "Nessun tempo di inattività rilevato",
   "didntStart": "Il servizio non è stato avviato",
-  "noIncidents": "Nessun incidente riportato",
-  "noIncidentsMonth": "Nessun incidente riportato questo mese.",
-  "noIncidentsWeek": "Nessun incidente riportato negli ultimi 7 giorni.",
+  "noIncidents": "Nessun guasto rilevato",
+  "noIncidentsMonth": "Nessun guasto rilevato questo mese.",
+  "noIncidentsWeek": "Nessun guasto rilevato negli ultimi 7 giorni.",
 
   "prev": "Precedente",
   "next": "Prossimo",
   
   "goBack": "Ritorna a",
   "poweredBy": "Offerto da",
-  "showIncidentHistory": "Mostra lista degli incidenti",
+  "showIncidentHistory": "Mostra lista dei guasti",
   "showCurrent": "Mostra lo stato corrente",
 
   "getUpdates": "Ricevi aggiornamenti",
   "getUpdatesBy": "Ricevi aggiornamenti tramite",
   "toAllComponents": "Ricevi gli aggiornamenti di tutti gli stati",
-  "toCertainComponents": "Solo specifici componenti",
+  "toCertainComponents": "Solo componenti specifici",
   "subscribe": "Iscriviti",
   "working": "In corso...",
   "subscribed": "Ora fai parte della mailing list",
   "getStatusUpdates": "Ricevi gli aggiornamenti di stato",
   "email": "Email",
-  "getUpdatesEmailShort": "Ricevi gli aggiornamenti via email",
-  "getUpdatesEmailLong": "Ricevi gli aggiornamenti nella tua casella di posta",
+  "getUpdatesEmailShort": "Aggiornamenti via email",
+  "getUpdatesEmailLong": "Ricevi gli aggiornamenti via email",
   "sms": "SMS",
   "getUpdatesSmsShort": "Ricevi gli aggiornamenti via SMS",
   "getUpdatesSmsLong": "Ricevi gli aggiornamenti via SMS sul tuo cellulare",
@@ -98,8 +98,8 @@
 
   "confirmYourSubscription": "Conferma la tua sottoscrizione",
   "allDone": "Tutto ok!",
-  "wellSendYouAMessage": "Quando aggiorneremo lo stato, vi invieremo un messaggio.",
-  "wellSendYouAnEmail": "Quando aggiorneremo lo stato, vi invieremo un messaggio tramite email.",
+  "wellSendYouAMessage": "Quando aggiorneremo lo stato, ti invieremo un messaggio.",
+  "wellSendYouAnEmail": "Quando aggiorneremo lo stato, ti invieremo un messaggio tramite email.",
 
   "webhookUrl": "URL Weebook",
   "webhookDescription": "Invieremo una richiesta al tuo URL usando",
@@ -113,8 +113,8 @@
   "invalidEmailError": "Inserisci una email valida",
 
   "resolved": "Risolto",
-  "investigating": "Investigando",
-  "identified": "Identificato",
+  "investigating": "Verifiche",
+  "identified": "Individuato",
   "monitoring": "Monitorando",
 
   "notstartedyet": "Pianificato",
@@ -128,21 +128,21 @@
   "48DaysAgo": "48 giorni fa",
   "38DaysAgo": "38 giorni fa",
 
-  "automatedIncidentTitle": "Al momento non è accessiible (automatizzato)",
-  "automatedIncidentMessage": "non può essere visualizzato al momento. Questo incidente è stato generato automaticamente dal servizio di monitoraggio.",
+  "automatedIncidentTitle": "Disservizio in corso (servizio monitoraggio automatico)",
+  "automatedIncidentMessage": "non può essere utilizzato al momento. Questo incidente è stato generato automaticamente dal servizio di monitoraggio.",
 
   "statusUpdates": "Aggiornamenti di stato",
-  "hasANewIncident": "Ha un nuovo incidente",
+  "hasANewIncident": "Ha un nuovo guasto",
   "openStatusPage": "Apri la pagina di stato",
   "youreReceivingThisEmailBecauseYouSubscribed": "Stai ricevendo questa email perché sei iscritto al ",
   "pleaseConfirmYourSubscription": "Conferma la tua iscrizione per",
-  "incidentUpdates": "Aggiornamento degli incidenti",
+  "incidentUpdates": "Aggiornamento dei guasti",
   "youCan": "Tu puoi",
   "unsubscribe": "Disiscriviti",
   "here": "qui",
   "checkItOut": "Controlla",
   "useThisLink": "Usa questo link",
-  "hasUpdatedTheirIncident": "hanno aggiornato i loro incidenti",
-  "scheduledANewMaintenance": "hanno schedulato una nuova manutenzione",
+  "hasUpdatedTheirIncident": "hanno aggiornato i loro guasti",
+  "scheduledANewMaintenance": "hanno programmato una nuova manutenzione",
   "updatedTheirMaintenance": "hanno aggiornato la loro manutenzione"
 }
