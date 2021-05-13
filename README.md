@@ -6,20 +6,21 @@ If you'd like to improve your language or add a new one, please create a pull re
 
 Supported languages:
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English
-- 🇧🇷 Brazilian Portuguese [Vitor Pinho](https://github.com/vitor-ao)
 - 🇨🇳 Chinese (Simplified) [Chihao Huang](https://github.com/coder-bts) & [CCKNBC](https://github.com/CCKNBC)
 - 🇨🇳 Chinese (Traditional) [Mr-Sheep](https://github.com/Mr-Sheep)
-- 🇩🇪 German [An](https://twitter.com/AnTheMaker)
 - 🇩🇰 Danish [Dan Storm](https://github.com/Repox)
-- 🇪🇸 Spanish [Agusti](https://github.com/agustif) & [Cristiam](https://github.com/cristiammercado)
+- 🇳🇱 Dutch [Ezra van den Broek](https://twitter.com/ezraistaken)
 - 🇫🇮 Finnish [GhostSlayer](https://github.com/GhostSlayer)
 - 🇫🇷 French [Joshua Tabakhoff](https://twitter.com/joshtab_)
-- 🇳🇱 Dutch [Ezra van den Broek](https://twitter.com/ezraistaken)
+- 🇩🇪 German [An](https://twitter.com/AnTheMaker)
+- 🇮🇹 Italian [UffTec](https://github.com/UffTec)
 - 🇳🇴 Norwegian [Eirik Lie](https://github.com/eiriklie)
 - 🇵🇱 Polski [Artur Kociszewski](https://artuu.pl)
 - 🇵🇹 Portuguese [João Drummond](https://github.com/jlcd)
+- 🇧🇷 Portuguese (Brazilian) [Vitor Pinho](https://github.com/vitor-ao)
 - 🇷🇸 Serbian [Aleksandar Vasilić](https://github.com/net-tech)
 - 🇷🇺 Russian [Vova Pilipchatin](https://twitter.com/VPilipchatin)
 - 🇸🇮 Slovenian [Matej Žerovnik](https://github.com/matejzero)
+- 🇪🇸 Spanish [Agusti](https://github.com/agustif) & [Cristiam](https://github.com/cristiammercado)
 - 🇹🇷 Turkish
 - 🇻🇳 Vietnamese [Ngô Quý](https://github.com/JustHmmmm)
