@@ -112,9 +112,9 @@
   "invalidEmailError": "S'il vous plaît, mettez une adresse email valide.",
 
   "resolved": "Résolu",
-  "investigating": "Enquêter",
-  "identified": "Identifiés",
-  "monitoring": "Surveillance",
+  "investigating": "Détecté",
+  "identified": "Identifié",
+  "monitoring": "Surveillé",
 
   "notstartedyet": "Pas encore commencé",
   "inprogress": "En cours",
