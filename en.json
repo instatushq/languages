@@ -128,7 +128,7 @@
   "48DaysAgo": "48 days ago",
   "38DaysAgo": "38 days ago",
 
-  "automatedIncidentTitle": "is inaccessible at the moment (automated)",
+  "automatedIncidentTitle": "isn't accessible at the moment (automated)",
   "automatedIncidentMessage": "cannot be accessed at the moment. This incident was created by an automated monitoring service.",
 
   "statusUpdates": "status updates",
