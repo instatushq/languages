@@ -11,8 +11,8 @@
   "status": "Status",
   "statusPage": "Statuspagina",
 
-  "isDown": "Problemen ervaren",
-  "isDisrupted": "Verstoringen ervaren",
+  "isDown": "Problemen geconstateerd",
+  "isDisrupted": "Verstoringen geconstateerd",
   "isNotice": "Onderhoud in uitvoering",
   "isOk": "Alle systemen operationeel",
 
@@ -41,7 +41,7 @@
   "ofDowntime": "van downtime",
   "notResolved": "Nog niet opgelost.",
   "affected": "Getroffen",
-  "affects": "Beïnvloedt",
+  "affects": "Impact op",
 
   "noDowntime": "Geen downtime gemeld.",
   "didntStart": "De service is nog niet gestart.",
@@ -53,11 +53,11 @@
   "next": "Volgende",
   
   "goBack": "Ga terug naar",
-  "poweredBy": "Aangedreven door",
+  "poweredBy": "Mogelijk gemaakt door",
   "showIncidentHistory": "Toon incidentgeschiedenis",
   "showCurrent": "Toon huidige status",
 
-  "getUpdates": "Krijg updates",
+  "getUpdates": "Ontvang updates",
   "getUpdatesBy": "Ontvang updates per",
   "toAllComponents": "Ontvang alle statusupdates",
   "toCertainComponents": "Alleen die over bepaalde componenten",
