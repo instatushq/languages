@@ -130,6 +130,7 @@
 
   "automatedIncidentTitle": "er utilgjengelig for øyeblikket (automatisert)",
   "automatedIncidentMessage": "kan ikke nås for øyeblikket. Denne hendelsen ble opprettet av en automatisert overvåkingstjeneste.",
+  "automatedResolveMessage": "er nå i drift! Denne oppdateringen ble opprettet av en automatisert overvåkingstjeneste.",
 
   "statusUpdates": "statusoppdateringer",
   "hasANewIncident": "har en ny hendelse",

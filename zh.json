@@ -130,6 +130,7 @@
 
   "automatedIncidentTitle": "正在经历一些故障（自动消息）",
   "automatedIncidentMessage": "正在经历一些故障，我们的运行状态监控系统发现了该问题",
+  "automatedResolveMessage": "现在可以使用了！ 此更新是由自动监视服务创建的。",
 
   "statusUpdates": "状态更新",
   "hasANewIncident": "有新故障",

@@ -130,6 +130,7 @@
 
   "automatedIncidentTitle": "目前無法訪問（自動訊息）",
   "automatedIncidentMessage": "目前無法訪問，此事件由自動化監控服務創建。",
+  "automatedResolveMessage": "現在可以使用了！ 此更新是由自動監視服務創建的。",
 
   "statusUpdates": "狀態更新",
   "hasANewIncident": "有新事件",

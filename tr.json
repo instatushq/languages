@@ -130,6 +130,7 @@
 
   "automatedIncidentTitle": "ulaşılamıyor (otomasyon)",
   "automatedIncidentMessage": "şu anda ulaşılamıyor. Otomatik servis kullanılarak oluşturuldu.",
+  "automatedResolveMessage": "şimdi operasyonel! Bu güncelleme, otomatik bir izleme hizmeti tarafından oluşturulmuştur.",
 
   "statusUpdates": "durum güncellemeleri",
   "hasANewIncident": "yeni bir sorun var",

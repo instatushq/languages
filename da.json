@@ -129,6 +129,7 @@
 
   "automatedIncidentTitle": "er ikke tilgængelig i øjeblikket (automatiseret)",
   "automatedIncidentMessage": "kan ikke tilgås i øjeblikket. Denne hændelse var genereret via en automatiseret overvågningstjeneste.",
+  "automatedResolveMessage": "er nu operationelt! Denne opdatering blev oprettet af en automatiseret overvågningstjeneste.",
 
   "statusUpdates": "statusopdateringer",
   "hasANewIncident": "har en ny hændelse",

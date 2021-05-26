@@ -130,6 +130,7 @@
   
     "automatedIncidentTitle": "ei ole tällä hetkellä käytettävissä (automaattinen)",
     "automatedIncidentMessage": "ei voida käyttää tällä hetkellä. Tämän ilmoituksen loi automaattinen valvontapalvelu.",
+    "automatedResolveMessage": "on nyt toiminnassa! Tämän päivityksen on luonut automaattinen valvontapalvelu.",
   
     "statusUpdates": "tilapäivitykset",
     "hasANewIncident": "on uusi katkos",

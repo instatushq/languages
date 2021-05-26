@@ -130,6 +130,7 @@
 
   "automatedIncidentTitle": "je trenutno nedosegljiv (samodejno)",
   "automatedIncidentMessage": "je trenutno nedosegljiv. Ta dogodek je bil kreiran v sklopu samodejnega preverjanja stanja.",
+  "automatedResolveMessage": "zdaj deluje! To posodobitev je ustvarila storitev samodejnega spremljanja.",
 
   "statusUpdates": "storitev",
   "hasANewIncident": "ima nov dogodek",

@@ -130,6 +130,7 @@
 
   "automatedIncidentTitle": "hiện không thể truy cập được (tự động)",
   "automatedIncidentMessage": "không thể truy cập vào lúc này. Sự cố này được tạo ra bởi một dịch vụ giám sát tự động.",
+  "automatedResolveMessage": "hiện đang hoạt động! Bản cập nhật này được tạo bởi một dịch vụ giám sát tự động.",
 
   "statusUpdates": "cập nhật trạng thái",
   "hasANewIncident": "có một sự cố mới",

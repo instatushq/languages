@@ -128,6 +128,7 @@
 
   "automatedIncidentTitle": "trenutno ne radi (automatsko obavestenje)",
   "automatedIncidentMessage": "trenutno ne radi. Ovaj incident kreirala je automatizovana služba za nadzor.",
+  "automatedResolveMessage": "је сада оперативан! Ову исправку је креирала услуга аутоматског надзора.",
 
   "statusUpdates": "Status ažuriran",
   "hasANewIncident": "ima novi prijavjeni incident",

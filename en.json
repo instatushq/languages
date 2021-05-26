@@ -130,6 +130,7 @@
 
   "automatedIncidentTitle": "isn't accessible at the moment (automated)",
   "automatedIncidentMessage": "cannot be accessed at the moment. This incident was created by an automated monitoring service.",
+  "automatedResolveMessage": "is now operational! This update was created by an automated monitoring service.",
 
   "statusUpdates": "status updates",
   "hasANewIncident": "has a new incident",

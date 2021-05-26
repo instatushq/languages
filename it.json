@@ -130,6 +130,7 @@
 
   "automatedIncidentTitle": "Disservizio in corso (servizio monitoraggio automatico)",
   "automatedIncidentMessage": "non può essere utilizzato al momento. Questo incidente è stato generato automaticamente dal servizio di monitoraggio.",
+  "automatedResolveMessage": "è ora operativo! Questo aggiornamento è stato creato da un servizio di monitoraggio automatizzato.",
 
   "statusUpdates": "Aggiornamenti di stato",
   "hasANewIncident": "Ha un nuovo guasto",

@@ -130,6 +130,7 @@
 
   "automatedIncidentTitle": "jest obecnie niedostępna (zautomatyzowana)",
   "automatedIncidentMessage": "nie może być w tej chwili dostępny. Ten incydent został stworzony przez automatyczną usługę monitorowania.",
+  "automatedResolveMessage": "już działa! Ta aktualizacja została utworzona przez zautomatyzowaną usługę monitorowania.",
 
   "statusUpdates": "aktualizacji statusu.",
   "hasANewIncident": "ma nowy incydent",

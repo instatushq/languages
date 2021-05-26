@@ -130,6 +130,7 @@
 
   "automatedIncidentTitle": "ist momentan nicht erreichbar (automatisiert)",
   "automatedIncidentMessage": "kann momentan nicht aufgerufen werden. Dieser Vorfall wurde von einem automatisierten Überwachungsdienst erstellt.",
+  "automatedResolveMessage": "ist jetzt betriebsbereit! Dieses Update wurde von einem automatisierten Überwachungsdienst erstellt.",
 
   "statusUpdates": "Status Updates",
   "hasANewIncident": "meldet einen neuen Vorfall",

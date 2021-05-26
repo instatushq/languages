@@ -130,6 +130,7 @@
 
   "automatedIncidentTitle": "is momenteel niet toegankelijk (geautomatiseerd)",
   "automatedIncidentMessage": "is momenteel niet toegankelijk. Dit incident is gemaakt door een geautomatiseerde bewakingsdienst.",
+  "automatedResolveMessage": "is nu operationeel! Deze update is gemaakt door een geautomatiseerde bewakingsservice.",
 
   "statusUpdates": "status updates",
   "hasANewIncident": "heeft een nieuw incident",
