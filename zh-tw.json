@@ -86,6 +86,8 @@
   "getUpdatesDiscordShort": "透過 Discord 獲取更新",
   "getUpdatesDiscordLong": "透過 Discord 獲取更新",
 
+  "switchLanguage": "切換語言",
+
   "reportAnIssue": "報告故障",
   "copied": "已複製",
   "toClipboard": "至剪貼簿！",

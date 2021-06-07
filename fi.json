@@ -85,6 +85,8 @@
     "discord": "Discord",
     "getUpdatesDiscordShort": "Tilaa päivitykset Discord palveluun",
     "getUpdatesDiscordLong": "Tilaa päivitykset suoraan Discord palveluun",
+
+    "switchLanguage": "Vaihda kieli",
   
     "reportAnIssue": "Ilmoita ongelmasta",
     "copied": "Kopioitu",

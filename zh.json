@@ -86,6 +86,8 @@
   "getUpdatesDiscordShort": "通过 Discord 订阅状态更新",
   "getUpdatesDiscordLong": "通过 Discord 订阅状态更新",
 
+  "switchLanguage": "切换语言",
+
   "reportAnIssue": "反馈故障",
   "copied": "已复制",
   "toClipboard": "至剪贴板！",

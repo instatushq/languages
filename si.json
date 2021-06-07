@@ -86,6 +86,8 @@
   "getUpdatesDiscordShort": "Prejemanje obvestil v Discord",
   "getUpdatesDiscordLong": "Prejemanje obvestil v Discord",
 
+  "switchLanguage": "Preklopi jezik",
+
   "reportAnIssue": "Prijavi napako",
   "copied": "Shranjeno",
   "toClipboard": "v odložišče.",
