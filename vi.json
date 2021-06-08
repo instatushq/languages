@@ -86,7 +86,9 @@
   "getUpdatesDiscordShort": "Nhận cập nhật qua tin nhắn Discord",
   "getUpdatesDiscordLong": "Nhận cập nhật qua tin nhắn Discord",
 
-  "switchLanguage": "Chuyển đổi ngôn ngữ",
+  "language": "Ngôn ngữ",
+  "darkMode": "Chế độ tối",
+  "lightMode": "Chế độ sáng",
 
   "reportAnIssue": "Phản ánh sự cố",
   "copied": "Đã sao chép",

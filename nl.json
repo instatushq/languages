@@ -86,7 +86,9 @@
   "getUpdatesDiscordShort": "Ontvang updates per Discord",
   "getUpdatesDiscordLong": "Ontvang updates per Discord",
 
-  "switchLanguage": "Van taal wisselen",
+  "language": "Taal",
+  "darkMode": "Donkere modus",
+  "lightMode": "Lichtmodus",
 
   "reportAnIssue": "Een probleem melden",
   "copied": "Gekopieerd",

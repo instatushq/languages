@@ -86,7 +86,9 @@
   "getUpdatesDiscordShort": "Få opdateringer på Discord",
   "getUpdatesDiscordLong": "Få opdateringer på din kanal",
 
-  "switchLanguage": "Skift sprog",
+  "language": "Sprog",
+  "darkMode": "Mørk tilstand",
+  "lightMode": "Lystilstand",
 
   "reportAnIssue": "Rapporter en hændelse",
   "copied": "Kopieret",

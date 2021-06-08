@@ -85,7 +85,9 @@
   "getUpdatesDiscordShort": "Discord",
   "getUpdatesDiscordLong": "Discord",
 
-  "switchLanguage": "Промените језик",
+  "language": "Језик",
+  "darkMode": "Тамни режим",
+  "lightMode": "Лигхт моде",
 
   "reportAnIssue": "Prijavite problem",
   "copied": "Kopirano",

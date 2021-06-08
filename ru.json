@@ -83,7 +83,9 @@
   "getUpdatesDiscordShort": "Получайте обновления на свой Discord",
   "getUpdatesDiscordLong": "Получайте обновления на свой Discord",
 
-  "switchLanguage": "Смена языка",
+  "language": "Язык",
+  "darkMode": "Темный режим",
+  "lightMode": "Легкий режим",
 
   "reportAnIssue": "Сообщить о проблеме",
   "copied": "Скопировано",

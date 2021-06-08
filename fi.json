@@ -86,7 +86,9 @@
     "getUpdatesDiscordShort": "Tilaa päivitykset Discord palveluun",
     "getUpdatesDiscordLong": "Tilaa päivitykset suoraan Discord palveluun",
 
-    "switchLanguage": "Vaihda kieli",
+    "language": "Kieli",
+    "darkMode": "Tumma tila",
+    "lightMode": "Valotila",
   
     "reportAnIssue": "Ilmoita ongelmasta",
     "copied": "Kopioitu",

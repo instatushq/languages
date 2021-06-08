@@ -86,7 +86,9 @@
   "getUpdatesDiscordShort": "Reciba actualizaciones mediante Discord",
   "getUpdatesDiscordLong": "Reciba actualizaciones mediante Discord",
 
-  "switchLanguage": "Cambiar idioma",
+  "language": "Idioma",
+  "darkMode": "Modo oscuro",
+  "lightMode": "Modo de luz",
 
   "reportAnIssue": "Reportar un problema",
   "copied": "¡Copiado",

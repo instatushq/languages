@@ -86,7 +86,9 @@
   "getUpdatesDiscordShort": "Motta oppdateringer på Discord",
   "getUpdatesDiscordLong": "Motta oppdateringer på Discord",
 
-  "switchLanguage": "Bytt språk",
+  "language": "Språk",
+  "darkMode": "Mørk modus",
+  "lightMode": "Lysmodus",
 
   "reportAnIssue": "Rapporter et problem",
   "copied": "Kopiert",

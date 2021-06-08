@@ -86,7 +86,9 @@
   "getUpdatesDiscordShort": "Prejemanje obvestil v Discord",
   "getUpdatesDiscordLong": "Prejemanje obvestil v Discord",
 
-  "switchLanguage": "Preklopi jezik",
+  "language": "Jezik",
+  "darkMode": "Temni način",
+  "lightMode": "Lahki način",
 
   "reportAnIssue": "Prijavi napako",
   "copied": "Shranjeno",

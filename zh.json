@@ -86,7 +86,9 @@
   "getUpdatesDiscordShort": "通过 Discord 订阅状态更新",
   "getUpdatesDiscordLong": "通过 Discord 订阅状态更新",
 
-  "switchLanguage": "切换语言",
+  "language": "语",
+  "darkMode": "黑暗模式",
+  "lightMode": "灯光模式",
 
   "reportAnIssue": "反馈故障",
   "copied": "已复制",

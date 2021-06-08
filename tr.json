@@ -86,7 +86,9 @@
   "getUpdatesDiscordShort": "Discord ile güncellemeleri al",
   "getUpdatesDiscordLong": "Discord ile güncellemeleri al",
 
-  "switchLanguage": "Dili değiştir",
+  "language": "Dil",
+  "darkMode": "Karanlık mod",
+  "lightMode": "Işık modu",
 
   "reportAnIssue": "Sorun Bildir",
   "copied": " ",
