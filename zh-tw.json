@@ -86,9 +86,9 @@
   "getUpdatesDiscordShort": "透過 Discord 獲取更新",
   "getUpdatesDiscordLong": "透過 Discord 獲取更新",
 
-  "language": "語",
-  "darkMode": "黑暗模式",
-  "lightMode": "燈光模式",
+  "language": "繁體中文",
+  "darkMode": "深色模式",
+  "lightMode": "淺色模式",
 
   "reportAnIssue": "報告故障",
   "copied": "已複製",
