@@ -13,6 +13,7 @@ Supported languages:
 - 🇫🇮 Finnish [GhostSlayer](https://github.com/GhostSlayer)
 - 🇫🇷 French [Joshua Tabakhoff](https://twitter.com/joshtab_)
 - 🇩🇪 German [An](https://twitter.com/AnTheMaker)
+- 🇮🇩 Indonesian [Frans Allen](https://github.com/fransallen)
 - 🇮🇹 Italian [UffTec](https://github.com/UffTec)
 - 🇳🇴 Norwegian [Eirik Lie](https://github.com/eiriklie)
 - 🇵🇱 Polski [Artur Kociszewski](https://artuu.pl)
