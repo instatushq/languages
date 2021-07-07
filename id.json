@@ -97,7 +97,7 @@
   "emailAddress": "Alamat surel",
   "emailExample": "you@yourdomain.com",
   "checkYourEmail": "Cek surel Anda",
-  "weJustSentYouAnEmail": "Kami baru saja mengirimi Anda email untuk mengonfirmasi langganan Anda.",
+  "weJustSentYouAnEmail": "Kami baru saja mengirimi Anda surel untuk mengonfirmasi langganan Anda.",
   "emailConfirmed": "Surel Anda dikonfirmasi",
 
   "confirmYourSubscription": "Konfirmasikan langganan Anda",
@@ -140,7 +140,7 @@
   "statusUpdates": "pembaruan status",
   "hasANewIncident": "ada insiden baru",
   "openStatusPage": "Buka halaman status",
-  "youreReceivingThisEmailBecauseYouSubscribed": "Anda menerima email ini karena Anda berlangganan ",
+  "youreReceivingThisEmailBecauseYouSubscribed": "Anda menerima surel ini karena Anda berlangganan ",
   "pleaseConfirmYourSubscription": "Harap konfirmasikan langganan Anda ke",
   "incidentUpdates": "pembaruan insiden",
   "youCan": "Anda dapat",
