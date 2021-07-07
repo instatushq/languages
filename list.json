@@ -1,0 +1,102 @@
+[
+  {
+    "value": "en",
+    "label": "English",
+    "emoji": "🇬🇧"
+  },
+  {
+    "value": "da",
+    "label": "Danish",
+    "emoji": "🇩🇰"
+  },
+  {
+    "value": "zh",
+    "label": "Chinese - Simplified",
+    "emoji": "🇨🇳"
+  },
+  {
+    "value": "zh-tw",
+    "label": "Chinese - Traditional",
+    "emoji": "🇨🇳"
+  },
+  {
+    "value": "de",
+    "label": "Deutsch",
+    "emoji": "🇩🇪"
+  },
+  {
+    "value": "nl",
+    "label": "Dutch",
+    "emoji": "🇳🇱"
+  },
+  {
+    "value": "fi",
+    "label": "Finnish",
+    "emoji": "🇫🇮"
+  },
+  {
+    "value": "fr",
+    "label": "French",
+    "emoji": "🇫🇷"
+  },
+  {
+    "value": "id",
+    "label": "Indonesian",
+    "emoji": "🇮🇩"
+  },
+  {
+    "value": "it",
+    "label": "Italian",
+    "emoji": "🇮🇹"
+  },
+  {
+    "value": "no",
+    "label": "Norwegian",
+    "emoji": "🇳🇴"
+  },
+  {
+    "value": "pl",
+    "label": "Polish",
+    "emoji": "🇵🇱"
+  },
+  {
+    "value": "pt",
+    "label": "Portuguese",
+    "emoji": "🇵🇹"
+  },
+  {
+    "value": "pt-br",
+    "label": "Portuguese - Brazilian",
+    "emoji": "🇧🇷"
+  },
+  {
+    "value": "ru",
+    "label": "Russian",
+    "emoji": "🇷🇺"
+  },
+  {
+    "value": "rs",
+    "label": "Serbian",
+    "emoji": "🇷🇸"
+  },
+  {
+    "value": "es",
+    "label": "Spanish",
+    "emoji": "🇪🇸"
+  },
+  {
+    "value": "si",
+    "label": "Slovenian",
+    "emoji": "🇸🇮"
+  },
+  {
+    "value": "tr",
+    "label": "Turkish",
+    "emoji": "🇹🇷"
+  },
+  {
+    "value": "vi",
+    "label": "Vietnamese",
+    "emoji": "🇻🇳"
+  }
+]
