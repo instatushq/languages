@@ -125,6 +125,10 @@
   "inprogress": "进行中",
   "completed": "已完成",
 
+  "update": "更新",
+  "verifying": "验证",
+  "scheduled": "预定",
+
   "today": "今天",
   "daysAgo": "天前",
   "uptime": "正常",

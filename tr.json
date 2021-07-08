@@ -125,6 +125,10 @@
   "inprogress": "Devam ediyor",
   "completed": "Tamamlandı",
 
+  "update": "Güncelleme",
+  "verifying": "Doğrulanıyor",
+  "scheduled": "zamanlanmış",
+
   "today": "Bugün",
   "daysAgo": "gün önce",
   "uptime": "çalışma süresi",

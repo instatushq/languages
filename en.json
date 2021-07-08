@@ -125,6 +125,10 @@
   "inprogress": "In progress",
   "completed": "Completed",
 
+  "update": "Update",
+  "verifying": "Verifying",
+  "scheduled": "Scheduled",
+
   "today": "Today",
   "daysAgo": "days ago",
   "uptime": "uptime",

@@ -124,6 +124,10 @@
   "inprogress": "Đang tiến hành",
   "completed": "Hoàn thành",
 
+  "update": "Cập nhật",
+  "verifying": "Đang xác minh",
+  "scheduled": "Lên kế hoạch",
+
   "today": "Hôm nay",
   "uptime": "thời gian hoạt động",
   "daysAgo": "ngày trước",

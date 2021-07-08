@@ -125,6 +125,10 @@
   "inprogress": "En progreso",
   "completed": "Completado",
 
+  "update": "Actualizar",
+  "verifying": "Verificando",
+  "scheduled": "Programada",
+
   "today": "Hoy",
   "daysAgo": "días atrás",
   "uptime": "disponible",

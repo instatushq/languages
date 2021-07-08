@@ -124,6 +124,10 @@
   "inprogress": "Pågår",
   "completed": "Fullført",
 
+  "update": "Oppdater",
+  "verifying": "Bekrefter",
+  "scheduled": "Planlagt",
+
   "today": "I dag",
   "uptime": "oppetid",
   "daysAgo": "dager siden",

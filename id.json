@@ -125,6 +125,10 @@
   "inprogress": "Sedang berlangsung",
   "completed": "Selesai",
 
+  "update": "Memperbarui",
+  "verifying": "Memverifikasi",
+  "scheduled": "Terjadwal",
+
   "today": "Hari ini",
   "daysAgo": "beberapa hari yang lalu",
   "uptime": "waktu beroperasi",

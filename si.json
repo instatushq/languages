@@ -125,6 +125,10 @@
   "inprogress": "V teku",
   "completed": "Zaključeno",
 
+  "update": "Nadgradnja",
+  "verifying": "Preverjanje",
+  "scheduled": "Načrtovano",
+
   "today": "Danes",
   "daysAgo": "zadnjih dni",
   "uptime": "razpoložljivost",

@@ -124,6 +124,10 @@
   "inprogress": "Bezig",
   "completed": "Voltooid",
 
+  "update": "Bijwerken",
+  "verifying": "Verifiëren",
+  "scheduled": "gepland",
+
   "today": "Vandaag",
   "uptime": "uptime",
   "daysAgo": "dagen geleden",

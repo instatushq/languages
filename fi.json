@@ -124,6 +124,10 @@
     "notstartedyet": "Suunniteltu",
     "inprogress": "Meneillään",
     "completed": "Valmistunut",
+
+    "update": "Päivittää",
+    "verifying": "Vahvistetaan",
+    "scheduled": "Suunniteltu",
   
     "today": "Tänään",
     "daysAgo": "päiviä sitten",

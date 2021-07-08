@@ -122,6 +122,10 @@
   "inprogress": "U toku",
   "completed": "Završeno",
 
+  "update": "ажурирање",
+  "verifying": "Провера",
+  "scheduled": "Заказано",
+
   "today": "današnji dan",
   "uptime": "uptime",
   "daysAgo": "dana",
