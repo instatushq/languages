@@ -51,7 +51,7 @@
 
   "prev": "上一项",
   "next": "下一项",
-  
+
   "goBack": "返回",
   "poweredBy": "基于",
   "showIncidentHistory": "查看完整故障历史",
@@ -126,8 +126,8 @@
   "completed": "已完成",
 
   "update": "更新",
-  "verifying": "验证",
-  "scheduled": "预定",
+  "verifying": "确认中",
+  "scheduled": "已预定",
 
   "today": "今天",
   "daysAgo": "天前",

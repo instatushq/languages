@@ -126,8 +126,8 @@
   "completed": "完成",
 
   "update": "更新",
-  "verifying": "驗證",
-  "scheduled": "預定",
+  "verifying": "確認中",
+  "scheduled": "已預定",
 
   "today": "今天",
   "daysAgo": "天前",
