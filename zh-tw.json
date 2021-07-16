@@ -6,7 +6,7 @@
 
   "or": "或",
   "to": "至",
-  "at": "於",
+  "at": "",
 
   "status": "運行狀態",
   "statusPage": "狀態頁面",
@@ -51,7 +51,7 @@
 
   "prev": "上一項",
   "next": "下一項",
-  
+
   "goBack": "回退",
   "poweredBy": "基於",
   "showIncidentHistory": "顯示事件歷史",
@@ -86,7 +86,7 @@
   "getUpdatesDiscordShort": "透過 Discord 獲取更新",
   "getUpdatesDiscordLong": "透過 Discord 獲取更新",
 
-  "language": "繁體中文",
+  "language": "切換語言",
   "darkMode": "深色模式",
   "lightMode": "淺色模式",
 
@@ -121,9 +121,9 @@
   "identified": "已確認問題",
   "monitoring": "監視中",
 
-  "notstartedyet": "計劃",
-  "inprogress": "正在進行",
-  "completed": "完成",
+  "notstartedyet": "已計劃",
+  "inprogress": "進行中",
+  "completed": "已完成",
 
   "update": "更新",
   "verifying": "確認中",
@@ -152,7 +152,7 @@
   "here": "這裏",
   "checkItOut": "強訊報你知",
   "useThisLink": "訪問這個連結",
-  "hasUpdatedTheirIncident": "已經更新了事件狀態",
-  "scheduledANewMaintenance": "計劃新的維護",
+  "hasUpdatedTheirIncident": "已更新事件狀態",
+  "scheduledANewMaintenance": "計劃了新的維護",
   "updatedTheirMaintenance": "更新了維護狀態"
 }

@@ -7,7 +7,7 @@ If you'd like to improve your language or add a new one, please create a pull re
 Supported languages:
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English
 - 🇨🇳 Chinese (Simplified) [Chihao Huang](https://github.com/coder-bts) & [CCKNBC](https://github.com/CCKNBC)
-- 🇨🇳 Chinese (Traditional) [Mr-Sheep](https://github.com/Mr-Sheep)
+- 🇨🇳 Chinese (Traditional) [Mr-Sheep](https://github.com/Mr-Sheep) & [CCKNBC](https://github.com/CCKNBC)
 - 🇩🇰 Danish [Dan Storm](https://github.com/Repox)
 - 🇳🇱 Dutch [Ezra van den Broek](https://twitter.com/ezraistaken)
 - 🇫🇮 Finnish [GhostSlayer](https://github.com/GhostSlayer)
