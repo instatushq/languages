@@ -138,13 +138,13 @@
   "38DaysAgo": "38 天前",
 
   "automatedIncidentTitle": "正在经历一些故障（自动消息）",
-  "automatedIncidentMessage": "正在经历一些故障，我们的运行状态监控系统发现了该问题",
-  "automatedResolveMessage": "现在可以使用了！此更新是由自动监视服务创建的",
+  "automatedIncidentMessage": "正在经历一些故障，此事件由自动监控服务创建",
+  "automatedResolveMessage": "现已恢复正常！此更新由自动监控服务创建",
 
   "statusUpdates": "状态更新",
   "hasANewIncident": "有新事件",
   "openStatusPage": "打开状态页",
-  "youreReceivingThisEmailBecauseYouSubscribed": "你收到这封电子邮件是因为你订阅了 ",
+  "youreReceivingThisEmailBecauseYouSubscribed": "您收到这封电子邮件是因为您订阅了 ",
   "pleaseConfirmYourSubscription": "请确认您的订阅",
   "incidentUpdates": "事件更新",
   "youCan": "您可以",
