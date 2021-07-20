@@ -1,8 +1,8 @@
 {
-  "languageCode": "ua",
+  "languageCode": "uk",
   "languageName": "Український",
   "langageNameShort": "UKR",
-  "dateLocale": "ua",
+  "dateLocale": "uk",
 
   "or": "або",
   "to": "до",
@@ -77,11 +77,11 @@
   "getUpdatesTwitterShort": "Слідкуйте за оновленнями в Twitter",
   "getUpdatesTwitterLong": "Слідкуйте за оновленнями",
   "slack": "Slack",
-  "getUpdatesSlackShort": "Отримуйте оновлення на свій SlackShort",
-  "getUpdatesSlackLong": "Отримуйте оновлення на свій SlackLong",
+  "getUpdatesSlackShort": "Отримуйте оновлення на свій Slack",
+  "getUpdatesSlackLong": "Отримуйте оновлення на свій Slack",
   "discord": "Discord",
-  "getUpdatesDiscordShort": "Отримуйте оновлення на свій DiscordShort",
-  "getUpdatesDiscordLong": "Отримуйте оновлення на свій DiscordLong",
+  "getUpdatesDiscordShort": "Отримуйте оновлення на свій Discord",
+  "getUpdatesDiscordLong": "Отримуйте оновлення на свій Discord",
 
   "language": "Мова",
   "darkMode": "Темний режим",
