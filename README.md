@@ -24,4 +24,5 @@ Supported languages:
 - 🇸🇮 Slovenian [Matej Žerovnik](https://github.com/matejzero)
 - 🇪🇸 Spanish [Agusti](https://github.com/agustif) & [Cristiam](https://github.com/cristiammercado)
 - 🇹🇷 Turkish
+- 🇺🇦 Ukrainian [CTO](https://github.com/svc-git)
 - 🇻🇳 Vietnamese [Ngô Quý](https://github.com/JustHmmmm)
