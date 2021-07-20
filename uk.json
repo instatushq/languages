@@ -1,0 +1,157 @@
+{
+  "languageCode": "uk",
+  "languageName": "Український",
+  "langageNameShort": "UKR",
+  "dateLocale": "uk",
+
+  "or": "або",
+  "to": "до",
+  "at": "у",
+
+  "status": "Статус",
+  "statusPage": "Сторінка статусу",
+
+  "isOk": "Всі системи працюють",
+
+  "underMaintenance": "На технічному обслуговуванні",
+  "operational": "Працює",
+  "degradedPerformance": "Продуктивність знижена",
+  "partialOutage": "Часткова недоступність",
+  "minorOutage": "Незначний збій",
+  "majorOutage": "Повністю недоступно",
+
+  "systemMetrics": "Системні метрики",
+
+  "incidents": "Інциденти",
+  "incidentHistory": "Історія інцидентів",
+  "incidentDetails": "Деталі інциденту",
+
+  "maintenances" : "Технічні обслуговування",
+  "maintenanceHistory" : "Історія технічного обслуговування",
+  "maintenanceDetails" : "Інформація про обслуговування",
+
+  "started": "Почалося",
+  "scheduledFor": "Заплановано на",
+  "updated": "Оновлення",
+  "resolvedAfter": "Вирішено після",
+  "inUnderAMinute": "менш ніж за хвилину",
+  "ofDowntime": "недоступності",
+  "notResolved": "Ще не вирішено.",
+  "affected": "Постраждалі",
+  "affects": "Впливає",
+
+  "noDowntime": "Про простої не повідомляється",
+  "didntStart": "Сервіс ще не був запущений.",
+  "noIncidents": "Про інциденти не повідомлялося.",
+  "noIncidentsMonth": "У цьому місяці інцидентів не зареєстровано.",
+  "noIncidentsWeek": "На цьому тижні інцидентів не зареєстровано.",
+
+  "prev": "Попередня",
+  "next": "Наступна",
+  
+  "goBack": "Повернутися назад до",
+  "poweredBy": "Працює на",
+  "showIncidentHistory": "Показати історію інцидентів",
+  "showCurrent": "Показати поточний статус",
+
+  "getUpdates": "Отримувати оновлення",
+  "getUpdatesBy": "Отримувати оновлення по ",
+  "toAllComponents": "Отримати всі оновлення статусу",
+  "toCertainComponents": "Тільки по певних компонентах",
+  "subscribe": "Підписатися",
+  "working": "В процесі…",
+  "subscribed": "Ви підписані",
+  "getStatusUpdates": "Отримувати оновлення статусу",
+  "email": "Email",
+  "getUpdatesEmailShort": "Отримувати оновлення по email",
+  "getUpdatesEmailLong": "Отримуйте оновлення на свій email",
+  "sms": "SMS",
+  "getUpdatesSmsShort": "Отримувати оновлення по SMS",
+  "getUpdatesSmsLong": "Отримуйте оновлення на свій телефон",
+  "feed": "Канали",
+  "rss": "RSS",
+  "webhook": "Webhook",
+  "atom": "Atom",
+  "getUpdatesRss": "Отримувати оновлення по RSS",
+  "twitter": "Twitter",
+  "getUpdatesTwitterShort": "Слідкуйте за оновленнями в Twitter",
+  "getUpdatesTwitterLong": "Слідкуйте за оновленнями",
+  "slack": "Slack",
+  "getUpdatesSlackShort": "Отримуйте оновлення на свій Slack",
+  "getUpdatesSlackLong": "Отримуйте оновлення на свій Slack",
+  "discord": "Discord",
+  "getUpdatesDiscordShort": "Отримуйте оновлення на свій Discord",
+  "getUpdatesDiscordLong": "Отримуйте оновлення на свій Discord",
+
+  "language": "Мова",
+  "darkMode": "Темний режим",
+  "lightMode": "Світлий режим",
+
+  "reportAnIssue": "Повідомити про проблему",
+  "copied": "Скопійовано",
+  "toClipboard": "в буфер обміну!",
+
+  "emailAddress": "Електронна пошта",
+  "checkYourEmail": "Перевірте свою електронну пошту",
+  "weJustSentYouAnEmail": "Ми відправили вам лист для підтвердження вашої підписки.",
+  "emailConfirmed": "Ваша электронная почта подтверждена",
+
+  "confirmYourSubscription": "Підтвердіть підписку",
+  "allDone": "Готово!",
+  "wellSendYouAMessage": "Ми відправимо Вам повідомлення при появі будь-яких оновлень.",
+  "wellSendYouAnEmail": "Ми відправимо Вам лист на email при появі будь-яких оновлень.",
+
+  "WebhookUrl": "Webhook URL",
+  "webhookDescription": "Ми будемо відправляти повідомлення на вказаний URL, використовуючи",
+  "webhookFormat": "цей формат",
+  "webhookSendEmail": "Ми відправимо повідомлення на вказаний email при появі будь-яких оновлень.",
+  "webhookSend": "Ми відправимо повідомлення на вказаний URL при появі будь-яких оновлень.",
+  "webhookFormatLink": "Перевірити формат запиту",
+
+  "enterEmailError": "Будь ласка, введіть свою електронну адресу.",
+  "enterPhoneError": "Будь ласка, введіть Ваш номер телефону.",
+  "invalidEmailError": "Будь ласка, введіть вірну адресу електронної пошти.",
+
+  "resolved": "Вирішено",
+  "investigating": "Вивчається",
+  "identified": "Визначено",
+  "monitoring": "Мониторинг",
+
+  "notstartedyet": "Ще не почалося",
+  "inprogress": "Під час виконання",
+  "completed": "Завершено",
+
+  "update": "Оновлювати",
+  "verifying": "Перевірка",
+  "scheduled": "Заплановане",
+
+  "today": "сьогодні",
+  "uptime": "час безвідмовної роботи",
+  "daysAgo": "днів тому",
+
+  "90DaysAgo": "90 днів тому",
+  "54DaysAgo": "54 дні тому",
+  "48DaysAgo": "48 днів тому",
+  "38DaysAgo": "38 днів тому",
+
+  "automatedIncidentTitle": "недоступний в даний момент (автоматичне)",
+  "automatedIncidentMessage": "недоступний в даний момент. Це повідомлення про інцидент було створено автоматично службою моніторингу.",
+  "automatedResolveMessage": "зараз в робочому стані! Це оновлення було створено автоматизованої службою моніторингу.",
+
+  "statusUpdates": "оновлення статуса",
+  "hasANewIncident": "є новий інцидент",
+  "openStatusPage": "Відкрити сторінку статусу",
+  "youreReceivingThisEmailBecauseYouSubscribed": "Ви отримали цей лист, тому що підписалися на",
+  "pleaseConfirmYourSubscription": "Підтвердити підписку на",
+  "incidentUpdates": "оновлення інцидентів",
+  "youCan": "Ви можете",
+  "unsubscribe": "відмовитися від підписки",
+  "here": "тут",
+  "checkItOut": "Перевірте це",
+  "useThisLink": "Використовуйте це посилання",
+  "hasUpdatedTheirIncident": "оновив інцидент",
+  "scheduledANewMaintenance": "запланував нове обслуговування",
+  "updatedTheirMaintenance": "оновив інформацію про обслуговування"
+}
+
+
