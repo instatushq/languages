@@ -6,6 +6,7 @@ If you'd like to improve your language or add a new one, please create a pull re
 
 Supported languages:
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English
+- AR Arabic [AhmadShkour71](https://github.com/AhmadShkour71)
 - 🇨🇳 Chinese (Simplified) [Chihao Huang](https://github.com/coder-bts) & [CCKNBC](https://github.com/CCKNBC)
 - 🇨🇳 Chinese (Traditional) [Mr-Sheep](https://github.com/Mr-Sheep) & [CCKNBC](https://github.com/CCKNBC)
 - 🇩🇰 Danish [Dan Storm](https://github.com/Repox)
