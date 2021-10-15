@@ -23,7 +23,7 @@
   "minorOutage": "Delimičan prekid rada",
   "majorOutage": "Ne radi",
 
-  "systemMetrics": "Системске метрике",
+  "systemMetrics": "Sistemske Metrike",
 
   "incidents": "Prošli incidenti",
   "incidentHistory": "Istorija incidenata",
@@ -34,14 +34,14 @@
   "maintenanceDetails" : "Detalji popravke",
 
   "started": "Početo",
-  "scheduledFor": "Заказана за",
-  "updated": "Ажурирано дана",
+  "scheduledFor": "Zakazano za",
+  "updated": "Ažurirano dana",
   "resolvedAfter": "Rešeno posle",
   "inUnderAMinute": "1 minut",
   "ofDowntime": "Ne radi",
   "notResolved": "Nije još rešeno.",
   "affected": "Komponente pod uticajem:",
-  "affects": "Утиче на",
+  "affects": "Utiče na:",
 
   "noDowntime": "Nije bilo prekida rada",
   "didntStart": "Usluga nije jos pocela",
@@ -79,19 +79,19 @@
   "getUpdatesTwitterShort": "Twitter",
   "getUpdatesTwitterLong": "Twitter",
   "slack": "Slack",
-  "getUpdatesSlackShort": "Slack",
-  "getUpdatesSlackLong": "Slack",
+  "getUpdatesSlackShort": "Dobite Slack notifikaciju kada sajt ne raid",
+  "getUpdatesSlackLong": "Dobite Slack notifikaciju kada sajt ne raid",
   "discord": "Discord",
-  "getUpdatesDiscordShort": "Discord",
-  "getUpdatesDiscordLong": "Discord",
+  "getUpdatesDiscordShort": "Dobite Discord notifikaciju kada sajt ne raid",
+  "getUpdatesDiscordLong": "Dobite Discord notifikaciju kada sajt ne raid",
 
-  "language": "Језик",
-  "darkMode": "Тамни режим",
-  "lightMode": "Лигхт моде",
+  "language": "Jezik",
+  "darkMode": "Tamni režim",
+  "lightMode": "Svetli režim",
 
   "reportAnIssue": "Prijavite problem",
   "copied": "Kopirano",
-  "toClipboard": "Kopirano",
+  "toClipboard": "na klipbord",
 
   "emailAddress": "Email",
   "checkYourEmail": "Proverite svoj email",
@@ -137,7 +137,7 @@
 
   "automatedIncidentTitle": "trenutno ne radi (automatsko obavestenje)",
   "automatedIncidentMessage": "trenutno ne radi. Ovaj incident kreirala je automatizovana služba za nadzor.",
-  "automatedResolveMessage": "је сада оперативан! Ову исправку је креирала услуга аутоматског надзора.",
+  "automatedResolveMessage": "je sada operativan! Ovaj incident kreirala je automatizovana služba za nadzor",
 
   "statusUpdates": "Status ažuriran",
   "hasANewIncident": "ima novi prijavjeni incident",
