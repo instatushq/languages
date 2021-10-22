@@ -97,7 +97,7 @@
   "emailAddress": "Email address",
   "emailExample": "you@yourdomain.com",
   "checkYourEmail": "Check your email",
-  "weJustSentYouAnEmail": "We just sent you an email to confirm your subscription.", //"We just sent you to an email to confirm your subscription.",
+  "weJustSentYouAnEmail": "We just sent you an email to confirm your subscription.",
   "emailConfirmed": "Your email is confirmed",
 
   "confirmYourSubscription": "Confirm your subscription",
