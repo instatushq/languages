@@ -23,6 +23,7 @@ Supported languages:
 - 🇷🇺 Russian [Vova Pilipchatin](https://twitter.com/VPilipchatin)
 - 🇸🇮 Slovenian [Matej Žerovnik](https://github.com/matejzero)
 - 🇪🇸 Spanish [Agusti](https://github.com/agustif) & [Cristiam](https://github.com/cristiammercado)
+- SV Swedish [Mattias Skog](https://github.com/matskog)
 - 🇹🇷 Turkish
 - 🇺🇦 Ukrainian [CTO](https://github.com/svc-git)
 - 🇻🇳 Vietnamese [Ngô Quý](https://github.com/JustHmmmm)
