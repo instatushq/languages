@@ -119,15 +119,15 @@
     "resolved": "Ratkaistu",
     "investigating": "Tutkitaan",
     "identified": "Tunnistettu",
-    "monitoring": "Seuranta",
+    "monitoring": "Seurataan",
   
     "notstartedyet": "Suunniteltu",
     "inprogress": "Meneillään",
     "completed": "Valmistunut",
 
-    "update": "Päivittää",
+    "update": "Päivitys",
     "verifying": "Vahvistetaan",
-    "scheduled": "Suunniteltu",
+    "scheduled": "Ajoitettu",
   
     "today": "Tänään",
     "daysAgo": "päiviä sitten",
