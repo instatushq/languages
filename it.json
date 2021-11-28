@@ -132,6 +132,7 @@
   "today": "Oggi",
   "daysAgo": "un giorno fa",
   "uptime": "uptime",
+  "numDaysAgo": "{{num}} giorni fa",
   "90DaysAgo": "90 giorni fa",
   "54DaysAgo": "54 giorni fa",
   "48DaysAgo": "48 giorni fa",

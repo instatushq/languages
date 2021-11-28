@@ -132,6 +132,7 @@
   "uptime": "disponibilité",
   "daysAgo": "il y a quelques jours",
 
+  "numDaysAgo": "il y a {{num}} jours",
   "90DaysAgo": "il y a 90 jours",
   "54DaysAgo": "il y a 54 jours",
   "48DaysAgo": "il y a 48 jours",

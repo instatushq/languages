@@ -132,6 +132,7 @@
   "uptime": "oppetid",
   "daysAgo": "dager siden",
 
+  "numDaysAgo": "{{num}} dager siden",
   "90DaysAgo": "90 dager siden",
   "54DaysAgo": "54 dager siden",
   "48DaysAgo": "48 dager siden",

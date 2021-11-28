@@ -132,6 +132,7 @@
   "today": "Idag",
   "daysAgo": "dagar sedan",
   "uptime": "drifttid",
+  "numDaysAgo": "{{num}} dagar sedan",
   "90DaysAgo": "90 dagar sedan",
   "54DaysAgo": "54 dagar sedan",
   "48DaysAgo": "48 dagar sedan",

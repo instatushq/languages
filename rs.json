@@ -130,6 +130,7 @@
   "uptime": "uptime",
   "daysAgo": "dana",
 
+  "numDaysAgo": "Pre {{num}} dana",
   "90DaysAgo": "Pre 90 dana",
   "54DaysAgo": "Pre 54 dana",
   "48DaysAgo": "Pre 48 dana",

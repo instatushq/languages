@@ -132,6 +132,7 @@
   "today": "Dzisiaj",
   "daysAgo": "dni temu",
   "uptime": "dyspozycyjność",
+  "numDaysAgo": "{{num}} dni temu",
   "90DaysAgo": "90 dni temu",
   "54DaysAgo": "54 dni temu",
   "48DaysAgo": "48 dni temu",

@@ -131,6 +131,7 @@
   "today": "I dag",
   "daysAgo": "dage siden",
   "uptime": "oppetid",
+  "numDaysAgo": "{{num}} dage siden",
   "90DaysAgo": "90 dage siden",
   "54DaysAgo": "54 dage siden",
   "48DaysAgo": "48 dage siden",

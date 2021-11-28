@@ -131,6 +131,7 @@
   "uptime": "tempo de atividade",
   "daysAgo": "dias atrás",
 
+  "numDaysAgo": "{{num}} dias atrás",
   "90DaysAgo": "90 dias atrás",
   "54DaysAgo": "54 dias atrás",
   "48DaysAgo": "48 dias atrás",

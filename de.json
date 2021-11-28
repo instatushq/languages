@@ -132,6 +132,7 @@
   "today": "Heute",
   "daysAgo": "Tage her",
   "uptime": "Betriebszeit",
+  "numDaysAgo": "Vor {{num}} Tagen",
   "90DaysAgo": "Vor 90 Tagen",
   "54DaysAgo": "Vor 54 Tagen",
   "48DaysAgo": "Vor 48 Tagen",

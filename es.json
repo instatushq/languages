@@ -132,6 +132,7 @@
   "today": "Hoy",
   "daysAgo": "días atrás",
   "uptime": "disponible",
+  "numDaysAgo": "Hace {{num}} días",
   "90DaysAgo": "Hace 90 días",
   "54DaysAgo": "Hace 54 días",
   "48DaysAgo": "Hace 48 días",

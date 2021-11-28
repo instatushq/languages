@@ -132,6 +132,7 @@
   "today": "Hari ini",
   "daysAgo": "beberapa hari yang lalu",
   "uptime": "waktu beroperasi",
+  "numDaysAgo": "{{num}} hari yang lalu",
   "90DaysAgo": "90 hari yang lalu",
   "54DaysAgo": "54 hari yang lalu",
   "48DaysAgo": "48 hari yang lalu",

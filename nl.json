@@ -132,6 +132,7 @@
   "uptime": "uptime",
   "daysAgo": "dagen geleden",
 
+  "numDaysAgo": "{{num}} dagen geleden",
   "90DaysAgo": "90 dagen geleden",
   "54DaysAgo": "54 dagen geleden",
   "48DaysAgo": "48 dagen geleden",

@@ -132,6 +132,7 @@
   "today": "Bugün",
   "daysAgo": "gün önce",
   "uptime": "çalışma süresi",
+  "numDaysAgo": "{{num}} gün önce",
   "90DaysAgo": "90 gün önce",
   "54DaysAgo": "54 gün önce",
   "48DaysAgo": "48 gün önce",

@@ -132,6 +132,7 @@
     "today": "Tänään",
     "daysAgo": "päiviä sitten",
     "uptime": "saatavuus",
+    "numDaysAgo": "{{num}} päivää sitten",
     "90DaysAgo": "90 päivää sitten",
     "54DaysAgo": "54 päivää sitten",
     "48DaysAgo": "48 päivää sitten",

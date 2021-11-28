@@ -132,6 +132,7 @@
   "today": "今天",
   "daysAgo": "天前",
   "uptime": "正常运行时间",
+  "numDaysAgo": "{{num}} 天前",
   "90DaysAgo": "90 天前",
   "54DaysAgo": "54 天前",
   "48DaysAgo": "48 天前",
