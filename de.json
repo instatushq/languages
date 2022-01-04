@@ -85,6 +85,9 @@
   "discord": "Discord",
   "getUpdatesDiscordShort": "Benachrichtigung über Discord",
   "getUpdatesDiscordLong": "Benachrichtigung über Discord erhalten",
+  "microsoftTeams": "Microsoft Teams",
+  "getUpdatesMicrosoftTeamsShort": "Benachrichtigung über Microsoft Teams",
+  "getUpdatesMicrosoftTeamsLong": "Benachrichtigung über Microsoft Teams erhalten",
 
   "language": "Sprache",
   "darkMode": "Dunkelmodus",
@@ -111,6 +114,7 @@
   "webhookSendEmail": "Wir senden Ihnen eine E-Mail, wenn ein Problem mit Ihrer URL vorliegt",
   "webhookSend": "Wenn wir unseren Status aktualisieren, senden wir Ihnen die Benachrichtigungen an Ihre Webhook-URL.",
   "webhookFormatLink": "Schauen Sie sich das Request-Format an",
+
 
   "enterEmailError": "Geben Sie bitte Ihre E-Mail-Adresse ein.",
   "invalidEmailError": "Geben Sie bitte eine gültige E-Mail-Adresse ein.",

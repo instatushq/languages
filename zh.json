@@ -85,6 +85,9 @@
   "discord": "Discord",
   "getUpdatesDiscordShort": "通过 Discord 获取状态更新",
   "getUpdatesDiscordLong": "通过 Discord 获取状态更新",
+  "microsoftTeams": "Microsoft Teams",
+  "getUpdatesMicrosoftTeamsShort": "通过 Microsoft Teams 获取状态更新",
+  "getUpdatesMicrosoftTeamsLong": "通过 Microsoft Teams 获取状态更新",
 
   "language": "切换语言",
   "darkMode": "深色模式",

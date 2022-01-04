@@ -85,6 +85,9 @@
   "discord": "Discord",
   "getUpdatesDiscordShort": "Segui gli aggiornamenti su Discord",
   "getUpdatesDiscordLong": "Segui gli aggiornamenti sul tuo canale Discord",
+  "microsoftTeams": "Microsoft Teams",
+  "getUpdatesMicrosoftTeamsShort": "Segui gli aggiornamenti su Microsoft Teams",
+  "getUpdatesMicrosoftTeamsLong": "Segui gli aggiornamenti sul tuo canale Microsoft Teams",
 
   "language": "Linguaggio",
   "darkMode": "Modalità scura",
@@ -111,6 +114,7 @@
   "webhookSendEmail": "Vi invieremo un messaggio via email se riscontreremo dei problemi",
   "webhookSend": "Quando aggiorneremo lo stato, invieremo una notifica al vostro URL Webhook",
   "webhookFormatLink": "Verifica il formato della richiesta",
+
 
   "enterEmailError": "Controlla ed inserisci una email",
   "enterPhoneError": "Controlla ed inserisci un numero",

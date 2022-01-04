@@ -85,6 +85,9 @@
   "discord": "Discord",
   "getUpdatesDiscordShort": "Get updates on Discord",
   "getUpdatesDiscordLong": "Get updates on your channel",
+  "microsoftTeams": "Microsoft Teams",
+  "getUpdatesMicrosoftTeamsShort": "Get updates on Microsoft Teams",
+  "getUpdatesMicrosoftTeamsLong": "Get updates on your channel",
 
   "language": "Language",
   "darkMode": "Dark mode",

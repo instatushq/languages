@@ -85,6 +85,9 @@
   "discord": "Discord",
   "getUpdatesDiscordShort": "透過 Discord 獲取更新",
   "getUpdatesDiscordLong": "透過 Discord 獲取更新",
+  "microsoftTeams": "Microsoft Teams",
+  "getUpdatesMicrosoftTeamsShort": "透過 Microsoft Teams 獲取更新", 
+  "getUpdatesMicrosoftTeamsLong": "透過 Microsoft Teams 獲取更新",
 
   "language": "切換語言",
   "darkMode": "深色模式",

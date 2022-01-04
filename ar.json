@@ -85,6 +85,9 @@
     "discord": "Discord",
     "getUpdatesDiscordShort": "احصل على تحديثات على Discord",
     "getUpdatesDiscordLong": "احصل على تحديثات على روم الديسكورد",
+    "microsoftTeams": "Microsoft Teams",
+    "getUpdatesMicrosoftTeamsShort": "احصل على تحديثات على Microsoft Teams",
+    "getUpdatesMicrosoftTeamsLong": "احصل على تحديثات على Microsoft Teams",
   
     "language": "اللغة",
     "darkMode": "الوضع الداكن",

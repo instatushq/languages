@@ -85,6 +85,9 @@
   "discord": "Discord",
   "getUpdatesDiscordShort": "Prejemanje obvestil v Discord",
   "getUpdatesDiscordLong": "Prejemanje obvestil v Discord",
+  "microsoftTeams": "Microsoft Teams",
+  "getUpdatesMicrosoftTeamsShort": "Prejemanje obvestil v Microsoft Teams",
+  "getUpdatesMicrosoftTeamsLong": "Prejemanje obvestil v Microsoft Teams",
 
   "language": "Jezik",
   "darkMode": "Temni način",

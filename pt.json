@@ -84,6 +84,9 @@
   "discord": "Discord",
   "getUpdatesDiscordShort": "Obter actualizações por Discord",
   "getUpdatesDiscordLong": "Obter actualizações por Discord",
+  "microsoftTeams": "Microsoft Teams",
+  "getUpdatesMicrosoftTeamsShort": "Obter actualizações por Microsoft Teams",
+  "getUpdatesMicrosoftTeamsLong": "Obter actualizações por Microsoft Teams",
 
   "language": "Língua",
   "darkMode": "Modo escuro",

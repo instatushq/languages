@@ -85,6 +85,9 @@
   "discord": "Discord",
   "getUpdatesDiscordShort": "Dapatkan notifikasi di Discord",
   "getUpdatesDiscordLong": "Dapatkan notifikasi di saluran Anda",
+  "microsoftTeams": "Microsoft Teams",
+  "getUpdatesMicrosoftTeamsShort": "Dapatkan notifikasi di Microsoft Teams",
+  "getUpdatesMicrosoftTeamsLong": "Dapatkan notifikasi di saluran Anda",
 
   "language": "Bahasa",
   "darkMode": "Mode gelap",

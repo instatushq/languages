@@ -84,6 +84,9 @@
   "discord": "Discord",
   "getUpdatesDiscordShort": "Dobite Discord notifikaciju kada sajt ne raid",
   "getUpdatesDiscordLong": "Dobite Discord notifikaciju kada sajt ne raid",
+  "microsoftTeams": "Microsoft Teams",
+  "getUpdatesMicrosoftTeamsShort": "Dobite Microsoft Teams notifikaciju kada sajt ne raid", 
+  "getUpdatesMicrosoftTeamsLong": "Dobite Microsoft Teams notifikaciju kada sajt ne raid",
 
   "language": "Jezik",
   "darkMode": "Tamni režim",

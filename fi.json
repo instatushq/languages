@@ -85,6 +85,9 @@
     "discord": "Discord",
     "getUpdatesDiscordShort": "Tilaa päivitykset Discord palveluun",
     "getUpdatesDiscordLong": "Tilaa päivitykset suoraan Discord palveluun",
+    "microsoftTeams": "Microsoft Teams",
+    "getUpdatesMicrosoftTeamsShort": "Tilaa päivitykset Microsoft Teams palveluun",
+    "getUpdatesMicrosoftTeamsLong": "Tilaa päivitykset suoraan Microsoft Teams palveluun",
 
     "language": "Kieli",
     "darkMode": "Tumma tila",

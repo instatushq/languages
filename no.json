@@ -85,6 +85,9 @@
   "discord": "Discord",
   "getUpdatesDiscordShort": "Motta oppdateringer på Discord",
   "getUpdatesDiscordLong": "Motta oppdateringer på Discord",
+  "microsoftTeams": "Microsoft Teams",
+  "getUpdatesMicrosoftTeamsShort": "Motta oppdateringer på Microsoft Teams",
+  "getUpdatesMicrosoftTeamsLong": "Motta oppdateringer på Microsoft Teams",
 
   "language": "Språk",
   "darkMode": "Mørk modus",

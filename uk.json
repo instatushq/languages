@@ -85,6 +85,9 @@
   "discord": "Discord",
   "getUpdatesDiscordShort": "Отримуйте оновлення на свій Discord",
   "getUpdatesDiscordLong": "Отримуйте оновлення на свій Discord",
+  "microsoftTeams": "Microsoft Teams",
+  "getUpdatesMicrosoftTeamsShort": "Отримуйте оновлення на свій Microsoft Teams",
+  "getUpdatesMicrosoftTeamsLong": "Отримуйте оновлення на свій Microsoft Teams",
 
   "language": "Мова",
   "darkMode": "Темний режим",

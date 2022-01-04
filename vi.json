@@ -85,6 +85,9 @@
   "discord": "Discord",
   "getUpdatesDiscordShort": "Nhận cập nhật qua tin nhắn Discord",
   "getUpdatesDiscordLong": "Nhận cập nhật qua tin nhắn Discord",
+  "microsoftTeams": "Microsoft Teams",
+  "getUpdatesMicrosoftTeamsShort": "Nhận cập nhật qua tin nhắn Microsoft Teams",
+  "getUpdatesMicrosoftTeamsLong": "Nhận cập nhật qua tin nhắn Microsoft Teams",
 
   "language": "Ngôn ngữ",
   "darkMode": "Chế độ tối",

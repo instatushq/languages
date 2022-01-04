@@ -85,6 +85,9 @@
   "discord": "Discord",
   "getUpdatesDiscordShort": "Få opdateringer på Discord",
   "getUpdatesDiscordLong": "Få opdateringer på din kanal",
+  "microsoftTeams": "Microsoft Teams",
+  "getUpdatesMicrosoftTeamsShort": "Få opdateringer på Microsoft Teams",
+  "getUpdatesMicrosoftTeamsLong": "Få opdateringer på din kanal",
 
   "language": "Sprog",
   "darkMode": "Mørk tilstand",

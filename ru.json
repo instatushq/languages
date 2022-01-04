@@ -85,6 +85,9 @@
   "discord": "Discord",
   "getUpdatesDiscordShort": "Получайте обновления на свой Discord",
   "getUpdatesDiscordLong": "Получайте обновления на свой Discord",
+  "microsoftTeams": "Microsoft Teams",
+  "getUpdatesMicrosoftTeamsShort": "Получайте обновления на свой Microsoft Teams", 
+  "getUpdatesMicrosoftTeamsLong": "Получайте обновления на свой Microsoft Teams",
 
   "language": "Язык",
   "darkMode": "Темный режим",

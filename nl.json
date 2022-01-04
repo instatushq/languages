@@ -85,6 +85,9 @@
   "discord": "Discord",
   "getUpdatesDiscordShort": "Ontvang updates per Discord",
   "getUpdatesDiscordLong": "Ontvang updates per Discord",
+  "microsoftTeams": "Microsoft Teams",
+  "getUpdatesMicrosoftTeamsShort": "Ontvang updates per Microsoft Teams",
+  "getUpdatesMicrosoftTeamsLong": "Ontvang updates per Microsoft Teams",
 
   "language": "Taal",
   "darkMode": "Donkere modus",
