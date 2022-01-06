@@ -94,7 +94,7 @@
   "lightMode": "Hellmodus",
 
   "reportAnIssue": "Ein Problem melden",
-  "copied": "In die Zwischenablage",
+  "copied": "E-Mail kopiert",
   "toClipboard": "kopiert!",
 
   "emailAddress": "E-Mail-Adresse",
@@ -123,7 +123,7 @@
   "resolved": "Gelöst",
   "investigating": "Analyse",
   "identified": "Behebung",
-  "monitoring": "Überwachung",
+  "monitoring": "Überprüfung",
 
   "notstartedyet": "Geplant",
   "inprogress": "In Bearbeitung",
