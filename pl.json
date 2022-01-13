@@ -88,6 +88,7 @@
   "microsoftTeams": "Microsoft Teams",
   "getUpdatesMicrosoftTeamsShort": "Otrzymuj aktualizacje przez Microsoft Teams",
   "getUpdatesMicrosoftTeamsLong": "Otrzymuj aktualizacje przez Microsoft Teams",
+  "learnMicrosoftTeamsWebhook": "Dowiedz się, jak dodać element webhook do swojego kanału Microsoft Teams",
 
   "language": "Język",
   "darkMode": "Tryb ciemny",

@@ -87,6 +87,7 @@
   "microsoftTeams": "Microsoft Teams",
   "getUpdatesMicrosoftTeamsShort": "Dobite Microsoft Teams notifikaciju kada sajt ne raid", 
   "getUpdatesMicrosoftTeamsLong": "Dobite Microsoft Teams notifikaciju kada sajt ne raid",
+  "learnMicrosoftTeamsWebhook": "Сазнајте како да додате веб-хук на свој Мицрософт Теамс канал",
 
   "language": "Jezik",
   "darkMode": "Tamni režim",

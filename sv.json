@@ -88,6 +88,7 @@
   "microsoftTeams": "Microsoft Teams",
   "getUpdatesMicrosoftTeamsShort": "Få uppdateringar via Microsoft Teams",
   "getUpdatesMicrosoftTeamsLong": "Få uppdateringar i din kanal",
+  "learnMicrosoftTeamsWebhook": "Lär dig hur du lägger till en webhook till din Microsoft Teams-kanal",
 
   "language": "Språk",
   "darkMode": "Mörkt läge",

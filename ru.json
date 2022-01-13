@@ -88,6 +88,7 @@
   "microsoftTeams": "Microsoft Teams",
   "getUpdatesMicrosoftTeamsShort": "Получайте обновления на свой Microsoft Teams", 
   "getUpdatesMicrosoftTeamsLong": "Получайте обновления на свой Microsoft Teams",
+  "learnMicrosoftTeamsWebhook": "Узнайте, как добавить веб-перехватчик в свой канал Microsoft Teams",
 
   "language": "Язык",
   "darkMode": "Темный режим",

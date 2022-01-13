@@ -88,6 +88,7 @@
   "microsoftTeams": "Microsoft Teams",
   "getUpdatesMicrosoftTeamsShort": "Отримуйте оновлення на свій Microsoft Teams",
   "getUpdatesMicrosoftTeamsLong": "Отримуйте оновлення на свій Microsoft Teams",
+    "learnMicrosoftTeamsWebhook": "Дізнайтеся, як додати вебхук до свого каналу Microsoft Teams",
 
   "language": "Мова",
   "darkMode": "Темний режим",
