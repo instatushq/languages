@@ -89,6 +89,7 @@
   "getUpdatesMicrosoftTeamsShort": "Microsoft Teams ile güncellemeleri al",
   "getUpdatesMicrosoftTeamsLong": "Microsoft Teams ile güncellemeleri al",
   "learnMicrosoftTeamsWebhook": "Microsoft Teams kanalınıza nasıl web kancası ekleyeceğinizi öğrenin",
+  "microsoftTeamsSend": "Durumumuzu güncellediğimizde, Microsoft Teams kanalınıza güncellemeleri göndereceğiz.",
 
   "language": "Dil",
   "darkMode": "Karanlık mod",

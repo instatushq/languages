@@ -89,6 +89,7 @@
   "getUpdatesMicrosoftTeamsShort": "Dapatkan notifikasi di Microsoft Teams",
   "getUpdatesMicrosoftTeamsLong": "Dapatkan notifikasi di saluran Anda",
   "learnMicrosoftTeamsWebhook": "Pelajari cara menambahkan webhook ke saluran Microsoft Teams Anda",
+  "microsoftTeamsSend": "Saat kami memperbarui status kami, kami akan mengirimkan pembaruan ke saluran Microsoft Teams Anda.",
 
   "language": "Bahasa",
   "darkMode": "Mode gelap",

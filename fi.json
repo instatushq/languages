@@ -89,6 +89,7 @@
     "getUpdatesMicrosoftTeamsShort": "Tilaa päivitykset Microsoft Teams palveluun",
     "getUpdatesMicrosoftTeamsLong": "Tilaa päivitykset suoraan Microsoft Teams palveluun",
     "learnMicrosoftTeamsWebhook": "Opi lisäämään webhook Microsoft Teams -kanavallesi",
+    "microsoftTeamsSend": "Kun päivitämme tilamme, lähetämme sinulle päivitykset Microsoft Teams -kanavallesi.",
 
     "language": "Kieli",
     "darkMode": "Tumma tila",

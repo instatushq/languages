@@ -89,6 +89,7 @@
   "getUpdatesMicrosoftTeamsShort": "透過 Microsoft Teams 獲取更新", 
   "getUpdatesMicrosoftTeamsLong": "透過 Microsoft Teams 獲取更新",
   "learnMicrosoftTeamsWebhook": "了解如何將 Webhook 添加到您的 Microsoft Teams 頻道",
+  "microsoftTeamsSend": "當我們更新我們的狀態時，我們會將更新發送到您的 Microsoft Teams 頻道。",
 
   "language": "切換語言",
   "darkMode": "深色模式",

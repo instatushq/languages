@@ -89,6 +89,7 @@
   "getUpdatesMicrosoftTeamsShort": "Benachrichtigung über Microsoft Teams",
   "getUpdatesMicrosoftTeamsLong": "Benachrichtigung über Microsoft Teams erhalten",
   "learnMicrosoftTeamsWebhook": "Erfahren Sie, wie Sie Ihrem Microsoft Teams-Kanal einen Webhook hinzufügen",
+  "microsoftTeamsSend": "Wenn wir unseren Status aktualisieren, senden wir Ihnen die Updates an Ihren Microsoft Teams-Kanal.",
 
   "language": "Sprache",
   "darkMode": "Dunkelmodus",

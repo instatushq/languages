@@ -89,6 +89,7 @@
   "getUpdatesMicrosoftTeamsShort": "Get updates on your channel",
   "getUpdatesMicrosoftTeamsLong": "Get updates on your channel",
   "learnMicrosoftTeamsWebhook": "Learn how to add a webhook to your Microsoft Teams channel",
+  "microsoftTeamsSend": "When we update our status, we'll send you the updates to your Microsoft Teams channel.",
 
   "language": "Language",
   "darkMode": "Dark mode",
@@ -115,6 +116,7 @@
   "webhookSendEmail": "We will send you an email when there is an issue with your URL",
   "webhookSend": "When we update our status, we'll send you the updates to your Webhook URL.",
   "webhookFormatLink": "Check the request format",
+
 
   "enterEmailError": "Please enter your email address.",
   "enterPhoneError": "Please enter your phone number.",

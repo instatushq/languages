@@ -89,6 +89,7 @@
   "getUpdatesMicrosoftTeamsShort": "Prejemanje obvestil v Microsoft Teams",
   "getUpdatesMicrosoftTeamsLong": "Prejemanje obvestil v Microsoft Teams",
   "learnMicrosoftTeamsWebhook": "Naučite se dodati webhook v svoj kanal Microsoft Teams",
+  "microsoftTeamsSend": "Ko posodobimo naše stanje, vam bomo poslali posodobitve na vaš kanal Microsoft Teams.",
 
   "language": "Jezik",
   "darkMode": "Temni način",
