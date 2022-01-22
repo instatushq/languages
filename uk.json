@@ -1,6 +1,6 @@
 {
   "languageCode": "uk",
-  "languageName": "Український",
+  "languageName": "Українська",
   "langageNameShort": "UKR",
   "dateLocale": "uk",
 
@@ -11,8 +11,8 @@
   "status": "Статус",
   "statusPage": "Сторінка статусу",
 
-  "isDown": "Виникають проблеми",
-  "isDisrupted": "Переживають зриви",
+  "isDown": "Не працює",
+  "isDisrupted": "Виникають проблеми",
   "isNotice": "Технічне обслуговування",
   "isOk": "Всі системи працюють",
 
@@ -29,7 +29,7 @@
   "incidentHistory": "Історія інцидентів",
   "incidentDetails": "Деталі інциденту",
 
-  "maintenances" : "Технічні обслуговування",
+  "maintenances" : "Технічне обслуговування",
   "maintenanceHistory" : "Історія технічного обслуговування",
   "maintenanceDetails" : "Інформація про обслуговування",
 
@@ -43,7 +43,7 @@
   "affected": "Постраждалі",
   "affects": "Впливає",
 
-  "noDowntime": "Про простої не повідомляється",
+  "noDowntime": "Про проблеми не повідомляється",
   "didntStart": "Сервіс ще не був запущений.",
   "noIncidents": "Про інциденти не повідомлялося.",
   "noIncidentsMonth": "У цьому місяці інцидентів не зареєстровано.",
@@ -52,7 +52,7 @@
   "prev": "Попередня",
   "next": "Наступна",
   
-  "goBack": "Повернутися назад до",
+  "goBack": "Повернутися назад",
   "poweredBy": "Працює на",
   "showIncidentHistory": "Показати історію інцидентів",
   "showCurrent": "Показати поточний статус",
