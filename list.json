@@ -55,6 +55,11 @@
     "emoji": "🇮🇹"
   },
   {
+    "value": "ja",
+    "label": "Japanese",
+    "emoji": "🇯🇵"
+  },
+  {
     "value": "no",
     "label": "Norwegian",
     "emoji": "🇳🇴"
