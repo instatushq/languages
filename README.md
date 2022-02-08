@@ -16,7 +16,7 @@ Supported languages:
 - 🇩🇪 German [An](https://twitter.com/AnTheMaker)
 - 🇮🇩 Indonesian [Frans Allen](https://github.com/fransallen)
 - 🇮🇹 Italian [UffTec](https://github.com/UffTec)
-- 🇯🇵 Japanese 
+- 🇯🇵 Japanese [AGAMES](https://twitter.com/awh_jp]
 - 🇳🇴 Norwegian [Eirik Lie](https://github.com/eiriklie)
 - 🇵🇱 Polski [Artur Kociszewski](https://artuu.pl)
 - 🇵🇹 Portuguese [João Drummond](https://github.com/jlcd)
