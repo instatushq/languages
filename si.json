@@ -162,6 +162,10 @@
   "useThisLink": "Uporabite to povezavo",
   "hasUpdatedTheirIncident": "je posodobil dogodek",
   "scheduledANewMaintenance": "načrtuje vzdrževalna dela",
-  "updatedTheirMaintenance": "je posodobil vzdrževalna dela"
+  "updatedTheirMaintenance": "je posodobil vzdrževalna dela",
+  
+  "maintenanceNotStarted": "V tem času načrtujemo načrtovano vzdrževanje",
+  "maintenanceInProgress": "Vzdrževanje je v teku",
+  "maintenanceComplete": "Vzdrževanje je uspešno zaključeno"
 }
 
