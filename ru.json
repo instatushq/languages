@@ -161,5 +161,9 @@
   "useThisLink": "Используйте эту ссылку",
   "hasUpdatedTheirIncident": "обновил инцидент",
   "scheduledANewMaintenance": "запланировал новое обслуживание",
-  "updatedTheirMaintenance": "обновил информацию об обслуживании"
+  "updatedTheirMaintenance": "обновил информацию об обслуживании",
+  
+  "maintenanceNotStarted": "Мы планируем плановое техническое обслуживание в течение этого времени",
+  "maintenanceInProgress": "Сейчас идет техническое обслуживание",
+  "maintenanceComplete": "Техническое обслуживание успешно завершено"
 }
