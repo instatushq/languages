@@ -159,5 +159,9 @@
   "useThisLink": "Koristite ovaj link",
   "hasUpdatedTheirIncident": "је ažurirao incident",
   "scheduledANewMaintenance": "zakazao novo odrzavanje",
-  "updatedTheirMaintenance": "ažurirao odrzavanje"
+  "updatedTheirMaintenance": "ažurirao odrzavanje",
+  
+  "maintenanceNotStarted": "За то време планирамо планирано одржавање",
+  "maintenanceInProgress": "Одржавање је сада у току",
+  "maintenanceComplete": "Одржавање је успешно завршено"
 }
