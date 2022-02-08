@@ -161,6 +161,10 @@
     "useThisLink": " استخدم هذا الارتباط",
     "hasUpdatedTheirIncident": "تم تحديث incident",
     "scheduledANewMaintenance": "جدول الصيانة الجديد",
-    "updatedTheirMaintenance": "تم تحديث صيانتها"
+    "updatedTheirMaintenance": "تم تحديث صيانتها",
+    
+    "maintenanceNotStarted": "نحن نخطط لإجراء صيانة مجدولة خلال ذلك الوقت",
+    "maintenanceInProgress": "الصيانة جارية الآن",
+    "maintenanceComplete": "اكتملت الصيانة بنجاح"
   }
   
