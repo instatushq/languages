@@ -160,5 +160,9 @@
   "useThisLink": "Use este link",
   "hasUpdatedTheirIncident": "atualizou seu incidente",
   "scheduledANewMaintenance": "agendou uma nova manutenção",
-  "updatedTheirMaintenance": "atualizou sua manutenção"
+  "updatedTheirMaintenance": "atualizou sua manutenção",
+  
+  "maintenanceNotStarted": "Estamos planejando uma manutenção programada durante esse período",
+  "maintenanceInProgress": "A manutenção já está em andamento",
+  "maintenanceComplete": "Manutenção concluída com sucesso"
 }
