@@ -161,5 +161,9 @@
   "useThisLink": "Använd denna länk",
   "hasUpdatedTheirIncident": "har uppdaterat sin incident",
   "scheduledANewMaintenance": "schemalade ett nytt underhåll",
-  "updatedTheirMaintenance": "uppdaterade sitt underhåll"
+  "updatedTheirMaintenance": "uppdaterade sitt underhåll",
+  
+  "maintenanceNotStarted": "Vi planerar för ett planerat underhåll under den tiden",
+  "maintenanceInProgress": "Underhåll pågår nu",
+  "maintenanceComplete": "Underhållet har slutförts framgångsrikt"
 }
