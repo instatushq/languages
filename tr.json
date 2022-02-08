@@ -161,5 +161,9 @@
   "useThisLink": "Bu linki kullan",
   "hasUpdatedTheirIncident": ": Sorun güncellendi",
   "scheduledANewMaintenance": ": Yeni bakım planlandı",
-  "updatedTheirMaintenance": ": Bakım güncellendi"
+  "updatedTheirMaintenance": ": Bakım güncellendi",
+  
+  "maintenanceNotStarted": "Bu süre zarfında planlı bir bakım planlıyoruz",
+  "maintenanceInProgress": "Bakım devam ediyor",
+  "maintenanceComplete": "Bakım başarıyla tamamlandı"
 }
