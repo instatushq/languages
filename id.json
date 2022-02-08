@@ -161,5 +161,9 @@
   "useThisLink": "Gunakan tautan ini",
   "hasUpdatedTheirIncident": "telah memperbarui insiden mereka",
   "scheduledANewMaintenance": "menjadwalkan pemeliharaan baru",
-  "updatedTheirMaintenance": "memperbarui pemeliharaannya"
+  "updatedTheirMaintenance": "memperbarui pemeliharaannya",
+  
+  "maintenanceNotStarted": "Kami merencanakan pemeliharaan terjadwal selama waktu itu",
+  "maintenanceInProgress": "Pemeliharaan sedang berlangsung",
+  "maintenanceComplete": "Pemeliharaan telah berhasil diselesaikan"
 }
