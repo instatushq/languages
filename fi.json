@@ -161,5 +161,9 @@
   "useThisLink": "Käytä tätä linkkiä",
   "hasUpdatedTheirIncident": "on päivittänyt häiriönsä",
   "scheduledANewMaintenance": "ajoitti uuden huollon",
-  "updatedTheirMaintenance": "päivitti huollonsa"
+  "updatedTheirMaintenance": "päivitti huollonsa",
+  
+  "maintenanceNotStarted": "Suunnittelemme määräaikaishuoltoa tälle ajalle",
+  "maintenanceInProgress": "Huolto on nyt käynnissä",
+  "maintenanceComplete": "Huolto on suoritettu onnistuneesti"
 }
