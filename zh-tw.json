@@ -161,5 +161,9 @@
   "useThisLink": "訪問這個連結",
   "hasUpdatedTheirIncident": "已更新事件狀態",
   "scheduledANewMaintenance": "計劃了新的維護",
-  "updatedTheirMaintenance": "更新了維護狀態"
+  "updatedTheirMaintenance": "更新了維護狀態",
+  
+  "maintenanceNotStarted": "我們計劃在此期間進行定期維護",
+  "maintenanceInProgress": "維護正在進行中",
+  "maintenanceComplete": "維護已成功完成"
 }
