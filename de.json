@@ -162,5 +162,9 @@
   "useThisLink": "Nutze diesen Link",
   "hasUpdatedTheirIncident": "hat den Vorfall aktualisiert",
   "scheduledANewMaintenance": "hat eine neue Wartung geplant",
-  "updatedTheirMaintenance": "hat die Wartung aktualisiert"
+  "updatedTheirMaintenance": "hat die Wartung aktualisiert",
+  
+  "maintenanceNotStarted": "Wir planen für diese Zeit eine geplante Wartung",
+  "maintenanceInProgress": "Die Wartung ist jetzt im Gange",
+  "maintenanceComplete": "Die Wartung wurde erfolgreich abgeschlossen"
 }
