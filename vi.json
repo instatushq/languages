@@ -161,5 +161,9 @@
   "useThisLink": "Sử dụng liên kết này",
   "hasUpdatedTheirIncident": "đã cập nhật sự cố của họ",
   "scheduledANewMaintenance": "đã lên lịch bảo trì mới",
-  "updatedTheirMaintenance": "cập nhật bảo trì của họ"
+  "updatedTheirMaintenance": "cập nhật bảo trì của họ",
+  
+  "maintenanceNotStarted": "Chúng tôi đang lên kế hoạch bảo trì theo lịch trình trong thời gian đó",
+  "maintenanceInProgress": "Hiện đang tiến hành bảo trì",
+  "maintenanceComplete": "Bảo trì đã hoàn tất thành công"
 } 
