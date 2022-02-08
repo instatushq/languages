@@ -163,7 +163,7 @@
   "scheduledANewMaintenance": "scheduled a new maintenance",
   "updatedTheirMaintenance": "updated their maintenance",
   
-  "maintenanceNotStarted":"We are planning for a scheduled maintenance during that time.",
-  "maintenanceInProgress":"Maintenance is now in progress.",
-  "maintenanceComplete":"Maintenance has completed successfully"
+  "maintenanceNotStarted": "We are planning for a scheduled maintenance during that time.",
+  "maintenanceInProgress": "Maintenance is now in progress.",
+  "maintenanceComplete": "Maintenance has completed successfully"
 }
