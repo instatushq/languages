@@ -165,5 +165,9 @@
   
   "maintenanceNotStarted": "Chúng tôi đang lên kế hoạch bảo trì theo lịch trình trong thời gian đó",
   "maintenanceInProgress": "Hiện đang tiến hành bảo trì",
+  "maintenanceComplete": "Bảo trì đã hoàn tất thành công",
+  
+  "maintenanceNotStarted": "Chúng tôi đang lên kế hoạch bảo trì theo lịch trình trong thời gian đó",
+  "maintenanceInProgress": "Hiện đang tiến hành bảo trì",
   "maintenanceComplete": "Bảo trì đã hoàn tất thành công"
 } 
