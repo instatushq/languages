@@ -161,5 +161,9 @@
   "useThisLink": "このリンクを使ってください",
   "hasUpdatedTheirIncident": "インシデントに更新がありました。",
   "scheduledANewMaintenance": "新しいメンテナンスが予定されました。",
-  "updatedTheirMaintenance": "メンテナンスに更新があります"
+  "updatedTheirMaintenance": "メンテナンスに更新があります",
+  
+  "maintenanceNotStarted": "その間、定期メンテナンスを予定しております。",
+  "maintenanceInProgress": "メンテナンスは現在進行中です",
+  "maintenanceComplete": "メンテナンスが正常に完了しました"
 }
