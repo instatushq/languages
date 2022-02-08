@@ -161,5 +161,9 @@
   "useThisLink": "Skorzystaj z tego linku",
   "hasUpdatedTheirIncident": "zaktualizował(a) swój incydent",
   "scheduledANewMaintenance": "zaplanowano nową przerwę techniczną",
-  "updatedTheirMaintenance": "uaktualnił(a) swoją konserwację"
+  "updatedTheirMaintenance": "uaktualnił(a) swoją konserwację",
+  
+  "maintenanceNotStarted": "W tym czasie planujemy planową konserwację",
+  "maintenanceInProgress": "Konserwacja jest teraz w toku",
+  "maintenanceComplete": "Konserwacja zakończyła się pomyślnie"
 }
