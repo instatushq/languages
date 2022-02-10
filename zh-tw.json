@@ -3,36 +3,28 @@
   "languageName": "Chinese Traditional",
   "langageNameShort": "TW",
   "dateLocale": "zhTW",
-
   "or": "或",
   "to": "至",
   "at": "",
-
   "status": "運行狀態",
   "statusPage": "狀態頁面",
-
   "isDown": "連接丟失",
   "isDisrupted": "連接收到干擾",
   "isNotice": "維護正在進行中",
   "isOk": "所有系統運行中",
-
   "operational": "運行正常",
   "underMaintenance": "維護中",
   "degradedPerformance": "性能下降",
   "partialOutage": "部分故障",
   "minorOutage": "輕微故障",
   "majorOutage": "嚴重故障",
-
   "systemMetrics": "系統指標",
-
   "incidents": "前一故障",
   "incidentHistory": "故障歷史記錄",
   "incidentDetails": "故障細節信息",
-
-  "maintenances" : "維護",
-  "maintenanceHistory" : "維護歷史記錄",
-  "maintenanceDetails" : "維護詳細信息",
-
+  "maintenances": "維護",
+  "maintenanceHistory": "維護歷史記錄",
+  "maintenanceDetails": "維護詳細信息",
   "started": "開始於",
   "scheduledFor": "計劃開始於",
   "updated": "更新於",
@@ -42,21 +34,17 @@
   "notResolved": "尚未解決.",
   "affected": "受影響",
   "affects": "影響",
-
   "noDowntime": "無停機時間記錄",
   "didntStart": "服務暫未啓用",
   "noIncidents": "沒有報告的事件",
   "noIncidentsMonth": "本月沒有報告的事件。",
   "noIncidentsWeek": "過去七天沒有報告的事件。",
-
   "prev": "上一項",
   "next": "下一項",
-
   "goBack": "回退",
   "poweredBy": "基於",
   "showIncidentHistory": "顯示事件歷史",
   "showCurrent": "顯示當前狀態",
-
   "getUpdates": "獲取更新",
   "getUpdatesBy": "獲取更新：",
   "toAllComponents": "獲取所有狀態更新",
@@ -86,54 +74,44 @@
   "getUpdatesDiscordShort": "透過 Discord 獲取更新",
   "getUpdatesDiscordLong": "透過 Discord 獲取更新",
   "microsoftTeams": "Microsoft Teams",
-  "getUpdatesMicrosoftTeamsShort": "透過 Microsoft Teams 獲取更新", 
+  "getUpdatesMicrosoftTeamsShort": "透過 Microsoft Teams 獲取更新",
   "getUpdatesMicrosoftTeamsLong": "透過 Microsoft Teams 獲取更新",
   "learnMicrosoftTeamsWebhook": "了解如何將 Webhook 添加到您的 Microsoft Teams 頻道",
   "microsoftTeamsSend": "當我們更新我們的狀態時，我們會將更新發送到您的 Microsoft Teams 頻道。",
-
   "language": "切換語言",
   "darkMode": "深色模式",
   "lightMode": "淺色模式",
-
   "reportAnIssue": "報告故障",
   "copied": "已複製",
   "toClipboard": "至剪貼簿！",
-
   "emailAddress": "電郵地址",
   "emailExample": "you@yourdomain.com",
   "checkYourEmail": "請檢查您輸入的電郵",
   "weJustSentYouAnEmail": "我們向您發送了電郵來確認您的訂閱.",
   "emailConfirmed": "電郵地址已確認",
-
   "confirmYourSubscription": "確認您的訂閱",
   "allDone": "已完成！",
   "wellSendYouAMessage": "當我們更新狀態時，我們會向您發送一條簡訊。",
   "wellSendYouAnEmail": "當我們更新狀態時，我們會向您發送一封電郵。",
-
   "webhookUrl": "Webhook URL",
   "webhookDescription": "我們將想您的地址發送請求，通過",
   "webhookFormat": "該格式",
   "webhookSendEmail": "當您的URL出現問題時，我們會向您發送一封電郵",
   "webhookSend": "當我們更新狀態時，我們會將請求您的 Webhook URL",
   "webhookFormatLink": "檢查請求格式",
-
   "enterEmailError": "請輸入您的電子郵件地址。",
   "enterPhoneError": "輸入您的電話門號。",
   "invalidEmailError": "請輸入有效的電子郵件地址。",
-
   "resolved": "已解決",
   "investigating": "調查中",
   "identified": "已確認問題",
   "monitoring": "監視中",
-
   "notstartedyet": "已計劃",
   "inprogress": "進行中",
   "completed": "已完成",
-
   "update": "更新",
   "verifying": "確認中",
   "scheduled": "已預定",
-
   "today": "今天",
   "daysAgo": "天前",
   "uptime": "正常運行時間",
@@ -142,11 +120,9 @@
   "54DaysAgo": "54 天前",
   "48DaysAgo": "48 天前",
   "38DaysAgo": "38 天前",
-
   "automatedIncidentTitle": "目前無法訪問（自動訊息）",
   "automatedIncidentMessage": "目前無法訪問，此事件由自動化監控服務創建。",
   "automatedResolveMessage": "現在可以使用了！此更新是由自動監視服務創建的。",
-
   "statusUpdates": "狀態更新",
   "hasANewIncident": "有新事件",
   "openStatusPage": "打開狀態頁",
@@ -162,8 +138,9 @@
   "hasUpdatedTheirIncident": "已更新事件狀態",
   "scheduledANewMaintenance": "計劃了新的維護",
   "updatedTheirMaintenance": "更新了維護狀態",
-  
   "maintenanceNotStarted": "我們計劃在此期間進行定期維護",
   "maintenanceInProgress": "維護正在進行中",
-  "maintenanceComplete": "維護已成功完成"
+  "maintenanceComplete": "維護已成功完成",
+  "viewMaintenance": "查看維護",
+  "viewincident": "查看事件"
 }

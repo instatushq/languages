@@ -3,36 +3,28 @@
   "languageName": "Русский",
   "langageNameShort": "RUS",
   "dateLocale": "ru",
-
   "or": "или",
   "to": "до",
   "at": "в",
-
   "status": "Статус",
   "statusPage": "Страница статуса",
-
   "isDown": "Возникли проблемы",
   "isDisrupted": "Испытывают сбои",
   "isNotice": "Выполняется техническое обслуживание",
   "isOk": "Все системы работают",
-
   "underMaintenance": "На обслуживании",
   "operational": "Работает",
   "degradedPerformance": "Производительность снижена",
   "partialOutage": "Частичная недоступность",
   "minorOutage": "Незначительный сбой",
   "majorOutage": "Полная недоступность",
-
   "systemMetrics": "Системные метрики",
-
   "incidents": "Прошлые инциденты",
   "incidentHistory": "История инцидентов",
   "incidentDetails": "Детали инцидента",
-
-  "maintenances" : "Обслуживания",
-  "maintenanceHistory" : "История обслуживаний",
-  "maintenanceDetails" : "Информация об обслуживании",
-
+  "maintenances": "Обслуживания",
+  "maintenanceHistory": "История обслуживаний",
+  "maintenanceDetails": "Информация об обслуживании",
   "started": "Началось",
   "scheduledFor": "Запланировано на",
   "updated": "Обновление",
@@ -42,21 +34,17 @@
   "notResolved": "Еще не решено.",
   "affected": "Затронутые",
   "affects": "Влияет",
-
   "noDowntime": "О простоях не сообщается.",
   "didntStart": "Сервис еще не был запущен.",
   "noIncidents": "Об инцидентах не сообщалось.",
   "noIncidentsMonth": "В этом месяце инцидентов не зарегистрировано.",
   "noIncidentsWeek": "На этой неделе инцидентов не зарегистрировано.",
-
   "prev": "Предыдущая",
   "next": "Следующая",
-  
   "goBack": "Вернуться назад к",
   "poweredBy": "Работает на",
   "showIncidentHistory": "Показать историю инцидентов",
   "showCurrent": "Показать текущий статус",
-
   "getUpdates": "Получать обновления",
   "getUpdatesBy": "Получать обновления по",
   "toAllComponents": "Получить все обновления статуса",
@@ -86,67 +74,54 @@
   "getUpdatesDiscordShort": "Получайте обновления на свой Discord",
   "getUpdatesDiscordLong": "Получайте обновления на свой Discord",
   "microsoftTeams": "Microsoft Teams",
-  "getUpdatesMicrosoftTeamsShort": "Получайте обновления на свой Microsoft Teams", 
+  "getUpdatesMicrosoftTeamsShort": "Получайте обновления на свой Microsoft Teams",
   "getUpdatesMicrosoftTeamsLong": "Получайте обновления на свой Microsoft Teams",
   "learnMicrosoftTeamsWebhook": "Узнайте, как добавить веб-перехватчик в свой канал Microsoft Teams",
   "microsoftTeamsSend": "Когда мы обновим наш статус, мы отправим вам обновления на ваш канал Microsoft Teams.",
-
   "language": "Язык",
   "darkMode": "Темный режим",
   "lightMode": "Светлый режим",
-
   "reportAnIssue": "Сообщить о проблеме",
   "copied": "Скопировано",
   "toClipboard": "в буфер обмена!",
-
   "emailAddress": "Электронная почта",
   "checkYourEmail": "Проверьте свою электронную почту",
   "weJustSentYouAnEmail": "Мы отправили вам письмо для подтверждения вашей подписки.",
   "emailConfirmed": "Ваша электронная почта подтверждена",
-
   "confirmYourSubscription": "Подтвердите подписку",
   "allDone": "Готово!",
   "wellSendYouAMessage": "Мы отправим Вам сообщение при возникновении каких-либо обновлений.",
   "wellSendYouAnEmail": "Мы отправим Вам письмо на email при возникновении каких-либо обновлений.",
-
   "WebhookUrl": "Webhook URL",
   "webhookDescription": "Мы будем отправлять уведомления на указанный URL, используя",
   "webhookFormat": "этот формат",
   "webhookSendEmail": "Мы отправим Вам сообщение на email при возникновении с указанным URL",
   "webhookSend": "Мы отправим уведомление на указанный URL при возникновении каких-либо обновлений.",
   "webhookFormatLink": "Проверить формат запроса",
-
   "enterEmailError": "Пожалуйста, введите свой адрес электронной почты.",
   "enterPhoneError": "Пожалуйста, введите Ваш номер телефона.",
   "invalidEmailError": "Пожалуйста, введите действительный адрес электронной почты.",
-
   "resolved": "Решено",
   "investigating": "Изучается",
   "identified": "Определено",
   "monitoring": "Мониторинг",
-
   "notstartedyet": "Еще не началось",
   "inprogress": "В ходе выполнения",
   "completed": "Завершено",
-
   "update": "Обновлять",
   "verifying": "Проверка",
   "scheduled": "Запланированное",
-
   "today": "сегодня",
   "uptime": "время безотказной работы",
   "daysAgo": "дней назад",
-
   "numDaysAgo": "{{num}} дней назад",
   "90DaysAgo": "90 дней назад",
   "54DaysAgo": "54 дня назад",
   "48DaysAgo": "48 дней назад",
   "38DaysAgo": "38 дней назад",
-
   "automatedIncidentTitle": "недоступен в данный момент (автоматическое)",
   "automatedIncidentMessage": "недоступен в данный момент. Этот инцидент был создан автоматически сервисом мониторинга.",
   "automatedResolveMessage": "теперь в рабочем состоянии! Это обновление было создано автоматически сервисом мониторинга.",
-
   "statusUpdates": "обновления статуса",
   "hasANewIncident": "есть новый инцидент",
   "openStatusPage": "Открыть страницу статуса",
@@ -162,8 +137,9 @@
   "hasUpdatedTheirIncident": "обновил инцидент",
   "scheduledANewMaintenance": "запланировал новое обслуживание",
   "updatedTheirMaintenance": "обновил информацию об обслуживании",
-  
   "maintenanceNotStarted": "Мы планируем плановое техническое обслуживание в течение этого времени",
   "maintenanceInProgress": "Сейчас идет техническое обслуживание",
-  "maintenanceComplete": "Техническое обслуживание успешно завершено"
+  "maintenanceComplete": "Техническое обслуживание успешно завершено",
+  "viewMaintenance": "Посмотреть обслуживание",
+  "viewincident": "Посмотреть инцидент"
 }

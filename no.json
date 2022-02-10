@@ -3,36 +3,28 @@
   "languageName": "Norwegian",
   "langageNameShort": "NOR",
   "dateLocale": "nb",
-
   "or": "eller",
   "to": "til",
   "at": "på",
-
   "status": "Status",
   "statusPage": "Status side",
-
   "isDown": "Opplever problemer",
   "isDisrupted": "Opplever forstyrrelser",
   "isNotice": "Vedlikehold pågår",
   "isOk": "Alle systemer er operative",
-
   "operational": "Operasjonell",
   "underMaintenance": "Vedlikehold",
   "degradedPerformance": "Nedsatt ytelse",
   "partialOutage": "Delvis brudd",
   "minorOutage": "Mindre brudd",
   "majorOutage": "Større brudd",
-
   "systemMetrics": "System beregninger",
-
   "incidents": "Tidligere hendelser",
   "incidentHistory": "Hendelseshistorikk",
   "incidentDetails": "Hendelsesdetaljer",
-
-  "maintenances" : "vedlikehold",
-  "maintenanceHistory" : "Vedlikeholdshistorikk",
-  "maintenanceDetails" : "Vedlikeholdsdetaljer",
-
+  "maintenances": "vedlikehold",
+  "maintenanceHistory": "Vedlikeholdshistorikk",
+  "maintenanceDetails": "Vedlikeholdsdetaljer",
   "started": "Begynte på",
   "scheduledFor": "Planlagt",
   "updated": "Oppdatert den",
@@ -42,21 +34,17 @@
   "notResolved": "Ikke løst ennå.",
   "affected": "Påvirket",
   "affects": "Påvirker",
-
   "noDowntime": "Ingen nedetid rapportert.",
   "didntStart": "Tjenesten startet ikke ennå.",
   "noIncidents": "Ingen hendelser rapportert.",
   "noIncidentsMonth": "Ingen hendelser rapportert denne måneden.",
   "noIncidentsWeek": "Ingen hendelser ble rapportert denne uken.",
-
   "prev": "Forrige",
   "next": "Neste",
-  
   "goBack": "Gå tilbake til",
   "poweredBy": "Drevet av",
   "showIncidentHistory": "Vis hendelseshistorikk",
   "showCurrent": "Vis nåværende status",
-
   "getUpdates": "Få oppdateringer",
   "getUpdatesBy": "Motta oppdateringer på e-post",
   "toAllComponents": "Få alle statusoppdateringer",
@@ -90,63 +78,50 @@
   "getUpdatesMicrosoftTeamsLong": "Motta oppdateringer på Microsoft Teams",
   "learnMicrosoftTeamsWebhook": "Lær hvordan du legger til en webhook til Microsoft Teams-kanalen din",
   "microsoftTeamsSend": "Når vi oppdaterer statusen vår, sender vi deg oppdateringene til Microsoft Teams-kanalen din.",
-
   "language": "Språk",
   "darkMode": "Mørk modus",
   "lightMode": "Lysmodus",
-
   "reportAnIssue": "Rapporter et problem",
   "copied": "Kopiert",
   "toClipboard": "til utklippstavlen!",
-
   "emailAddress": "Epostadresse",
   "checkYourEmail": "Sjekk e-posten",
   "weJustSentYouAnEmail": "Vi har nettopp sendt deg en e-post for å bekrefte abonnementet ditt.",
   "emailConfirmed": "E-postadressen din er bekreftet",
-
   "confirmYourSubscription": "Bekreft abonnementet",
   "allDone": "Ferdig!",
   "wellSendYouAMessage": "Når vi oppdaterer statusen vår, sender vi deg en tekstmelding.",
   "wellSendYouAnEmail": "Når vi oppdaterer statusen vår, sender vi deg en e-post.",
-
   "WebhookUrl": "Webhook URL",
   "webhookDescription": "Vi sender en forespørsel til URL-en din ved hjelp av",
   "webhookFormat": "dette formatet",
   "webhookSendEmail": "Vi sender deg når det er et problem med nettadressen din",
   "webhookSend": "Når vi oppdaterer statusen vår, sender vi deg oppdateringene til Webhook URL-en.",
   "webhookFormatLink": "Check the request format",
-
   "enterEmailError": "Venligst tast inn din e-postadresse.",
   "enterPhoneError": "Vennligst tast inn ditt telefonnummer.",
   "invalidEmailError": "Vennligst oppgi en gyldig e-postadresse.",
-
   "resolved": "Løst",
   "investigating": "Undersøker",
   "identified": "Identifisert",
   "monitoring": "Overvåker",
-
   "notstartedyet": "Ikke startet ennå",
   "inprogress": "Pågår",
   "completed": "Fullført",
-
   "update": "Oppdater",
   "verifying": "Bekrefter",
   "scheduled": "Planlagt",
-
   "today": "I dag",
   "uptime": "oppetid",
   "daysAgo": "dager siden",
-
   "numDaysAgo": "{{num}} dager siden",
   "90DaysAgo": "90 dager siden",
   "54DaysAgo": "54 dager siden",
   "48DaysAgo": "48 dager siden",
   "38DaysAgo": "38 dager siden",
-
   "automatedIncidentTitle": "er utilgjengelig for øyeblikket (automatisert)",
   "automatedIncidentMessage": "kan ikke nås for øyeblikket. Denne hendelsen ble opprettet av en automatisert overvåkingstjeneste.",
   "automatedResolveMessage": "er nå i drift! Denne oppdateringen ble opprettet av en automatisert overvåkingstjeneste.",
-
   "statusUpdates": "statusoppdateringer",
   "hasANewIncident": "har en ny hendelse",
   "openStatusPage": "Åpne statussiden",
@@ -162,8 +137,9 @@
   "hasUpdatedTheirIncident": "har oppdatert hendelsen sin",
   "scheduledANewMaintenance": "planlagt et nytt vedlikehold",
   "updatedTheirMaintenance": "oppdatert vedlikeholdet",
-  
   "maintenanceNotStarted": "Vi planlegger et planlagt vedlikehold i løpet av den tiden",
   "maintenanceInProgress": "Vedlikehold pågår nå",
-  "maintenanceComplete": "Vedlikeholdet er fullført"
+  "maintenanceComplete": "Vedlikeholdet er fullført",
+  "viewMaintenance": "Se vedlikehold",
+  "viewincident": "Se hendelsen"
 }

@@ -3,36 +3,28 @@
   "languageName": "Slovenščina",
   "langageNameShort": "SLO",
   "dateLocale": "sl",
-
   "or": "ali",
   "to": "do",
   "at": "ob",
-
   "status": "Stanje",
   "statusPage": "Pregled stanja",
-
   "isDown": "Zaznane so težave",
   "isDisrupted": "Zaznane so motnje v delovanju",
   "isNotice": "Vzdrževalna dela v teku",
   "isOk": "Vsi sistemi delujejo brez napak",
-
   "operational": "Deluje",
   "underMaintenance": "V vzdrževanju",
   "degradedPerformance": "Poslabšano delovanje",
   "partialOutage": "Delni izpad delovanja",
   "minorOutage": "Manjši izpad delovanja",
   "majorOutage": "Večji izpad delovanja",
-
   "systemMetrics": "Sistemske metrike",
-
   "incidents": "Pretekli dogodki",
   "incidentHistory": "Zgodovina dogodkov",
   "incidentDetails": "Podrobnosti o dogodku",
-
-  "maintenances" : "Vzdrževanja",
-  "maintenanceHistory" : "Zgodovina vzdrževanj",
-  "maintenanceDetails" : "Podrobnosti o vzdrževanju",
-
+  "maintenances": "Vzdrževanja",
+  "maintenanceHistory": "Zgodovina vzdrževanj",
+  "maintenanceDetails": "Podrobnosti o vzdrževanju",
   "started": "Začetek",
   "scheduledFor": "Načrtovano za",
   "updated": "Posodobljeno dne",
@@ -42,21 +34,17 @@
   "notResolved": "Nerešeno.",
   "affected": "Prizadete storitve",
   "affects": "Vplivi",
-
   "noDowntime": "Brez izpadov.",
   "didntStart": "Storitev še ne deluje.",
   "noIncidents": "Brez dogodkov.",
   "noIncidentsMonth": "Brez dogodkov v tem mesecu.",
   "noIncidentsWeek": "Brez dogodkov v zadnjih 7 dneh.",
-
   "prev": "Nazaj",
   "next": "Naprej",
-
   "goBack": "Nazaj na",
   "poweredBy": "Uporablja tehnologijo:",
   "showIncidentHistory": "Prikaži zgodovino dogodkov",
   "showCurrent": "Prikaži trenutno stanje",
-
   "getUpdates": "Obveščanje",
   "getUpdatesBy": "Obveščaj me preko",
   "toAllComponents": "Obveščaj me o vseh spremembah stanja",
@@ -90,64 +78,51 @@
   "getUpdatesMicrosoftTeamsLong": "Prejemanje obvestil v Microsoft Teams",
   "learnMicrosoftTeamsWebhook": "Naučite se dodati webhook v svoj kanal Microsoft Teams",
   "microsoftTeamsSend": "Ko posodobimo naše stanje, vam bomo poslali posodobitve na vaš kanal Microsoft Teams.",
-
   "language": "Jezik",
   "darkMode": "Temni način",
   "lightMode": "Lahki način",
-
   "reportAnIssue": "Prijavi napako",
   "copied": "Shranjeno",
   "toClipboard": "v odložišče.",
-
   "emailAddress": "E-poštni naslov",
   "emailExample": "you@yourdomain.com",
   "checkYourEmail": "Preverite vaš e-poštni predal",
   "weJustSentYouAnEmail": "Poslali smo vam e-poštno sporočilo za potrditev prijave.",
   "emailConfirmed": "Vaš e-poštni naslov je potrjen",
-
   "confirmYourSubscription": "Potrdite prijavo",
   "allDone": "Končano!",
   "wellSendYouAMessage": "Ob spremembah stanja storitve boste prejeli sporočilo SMS.",
   "wellSendYouAnEmail": "Ob spremembah stanja storitve boste prejeli e-poštno sporočilo.",
-
   "webhookUrl": "Webhook URL",
   "webhookDescription": "Na vaš naslov URL bomo poslali zahtevek",
   "webhookFormat": "v tem zapisu",
   "webhookSendEmail": "Ob težavah z vašim naslovom URL vam bomo poslali sporočilo",
   "webhookSend": "Ob spremembah stanja storitve vam bomo posredovali spremembe na vaš Webhook URL",
   "webhookFormatLink": "Označite format zahtevka",
-
   "enterEmailError": "Vpišite svoj e-poštni naslov.",
   "enterPhoneError": "Vpišite svojo telefonsko številko.",
   "invalidEmailError": "Vpišite veljaven e-poštni naslov.",
-
   "resolved": "Odpravljeno",
   "investigating": "Raziskovanje",
   "identified": "Napaka odkrita",
   "monitoring": "Spremljanje",
-
   "notstartedyet": "Napovedano",
   "inprogress": "V teku",
   "completed": "Zaključeno",
-
   "update": "Nadgradnja",
   "verifying": "Preverjanje",
   "scheduled": "Načrtovano",
-
   "today": "Danes",
   "daysAgo": "zadnjih dni",
   "uptime": "razpoložljivost",
-
   "numDaysAgo": "Pred {{num}} dnevi",
   "90DaysAgo": "Pred 90 dnevi",
   "54DaysAgo": "Pred 54 dnevi",
   "48DaysAgo": "Pred 48 dnevi",
   "38DaysAgo": "Pred 38 dnevi",
-
   "automatedIncidentTitle": "je trenutno nedosegljiv (samodejno)",
   "automatedIncidentMessage": "je trenutno nedosegljiv. Ta dogodek je bil kreiran v sklopu samodejnega preverjanja stanja.",
   "automatedResolveMessage": "zdaj deluje! To posodobitev je ustvarila storitev samodejnega spremljanja.",
-
   "statusUpdates": "storitev",
   "hasANewIncident": "ima nov dogodek",
   "openStatusPage": "Odpri pregled stanja",
@@ -163,9 +138,9 @@
   "hasUpdatedTheirIncident": "je posodobil dogodek",
   "scheduledANewMaintenance": "načrtuje vzdrževalna dela",
   "updatedTheirMaintenance": "je posodobil vzdrževalna dela",
-  
   "maintenanceNotStarted": "V tem času načrtujemo načrtovano vzdrževanje",
   "maintenanceInProgress": "Vzdrževanje je v teku",
-  "maintenanceComplete": "Vzdrževanje je uspešno zaključeno"
+  "maintenanceComplete": "Vzdrževanje je uspešno zaključeno",
+  "viewMaintenance": "නඩත්තු බලන්න",
+  "viewincident": "සිද්ධිය බලන්න"
 }
-

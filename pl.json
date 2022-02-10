@@ -3,36 +3,28 @@
   "languageName": "Polski",
   "langageNameShort": "PL",
   "dateLocale": "pl",
-
   "or": "lub",
   "to": "do",
   "at": "o",
-
   "status": "Status",
   "statusPage": "Strona statusu",
-
   "isDown": "Występują problemy",
   "isDisrupted": "Występują zakłócenia",
   "isNotice": "Konserwacja w toku",
   "isOk": "Wszystkie systemy sprawne",
-
   "operational": "Poprawne działanie",
   "underMaintenance": "Przerwa techniczna",
   "degradedPerformance": "Obniżona wydajność",
   "partialOutage": "Częściowa awaria",
   "minorOutage": "Niewielka awaria",
   "majorOutage": "Poważna awaria",
-
   "systemMetrics": "Metryki systemowe",
-
   "incidents": "Poprzednie incydenty",
   "incidentHistory": "Historia incydentu",
   "incidentDetails": "Szczegóły incydentu",
-
   "maintenances": "Przerwy techniczne",
   "maintenanceHistory": "Historia konserwacji",
   "maintenanceDetails": "Szczegóły dotyczące konserwacji",
-
   "started": "Wystąpił w dniu",
   "scheduledFor": "Zaplanowane na",
   "updated": "Zakutalizowano w dniu",
@@ -42,21 +34,17 @@
   "notResolved": "Jeszcze nie rozwiązany.",
   "affected": "Dotknięty",
   "affects": "Dotyczy",
-
   "noDowntime": "Nie zgłoszono przerwy w pracy",
   "didntStart": "Naprawa nie została jeszcze rozpoczęta",
   "noIncidents": "Nie zgłoszono żadnych incydentów",
   "noIncidentsMonth": "W tym miesiącu nie odnotowano żadnych incydentów.",
   "noIncidentsWeek": "W ciągu ostatnich 7 dni nie odnotowano żadnych incydentów.",
-
   "prev": "Poprzedni",
   "next": "Następny",
-
   "goBack": "Powrót do",
   "poweredBy": "Obsługiwane przez",
   "showIncidentHistory": "Pokaż historię incydentów",
   "showCurrent": "Pokaż bieżący status",
-
   "getUpdates": "Otrzymuj aktualizacje",
   "getUpdatesBy": "Otrzymuj aktualizacje przez",
   "toAllComponents": "Uzyskaj wszystkie aktualizacje statusu",
@@ -90,50 +78,40 @@
   "getUpdatesMicrosoftTeamsLong": "Otrzymuj aktualizacje przez Microsoft Teams",
   "learnMicrosoftTeamsWebhook": "Dowiedz się, jak dodać element webhook do swojego kanału Microsoft Teams",
   "microsoftTeamsSend": "Gdy zaktualizujemy nasz status, wyślemy Ci aktualizacje do Twojego kanału Microsoft Teams.",
-
   "language": "Język",
   "darkMode": "Tryb ciemny",
   "lightMode": "Tryb światła",
-
   "reportAnIssue": "Zgłoś problem",
   "copied": "Skopiowano",
   "toClipboard": "do schowka!",
-
   "emailAddress": "Adres e-mail",
   "emailExample": "you@yourdomain.com",
   "checkYourEmail": "Sprawdź swoją pocztę elektroniczną",
   "weJustSentYouAnEmail": "Właśnie wysłaliśmy do Ciebie wiadomość e-mail z prośbą o potwierdzenie subskrypcji.",
   "emailConfirmed": "Twój e-mail został potwierdzony",
-
   "confirmYourSubscription": "Potwierdź subskrypcję",
   "allDone": "Wszystko zrobione!",
   "wellSendYouAMessage": "Kiedy będziemy aktualizować nasz status, wyślemy Ci wiadomość tekstową.",
   "wellSendYouAnEmail": "Kiedy zaktualizujemy nasz status, wyślemy Ci wiadomość e-mail.",
-
   "webhookUrl": "Adres URL Webhooka",
   "webhookDescription": "Wyślemy żądanie na Twój adres URL używając",
   "webhookFormat": "tego formatu",
   "webhookSendEmail": "Wyślemy Ci wiadomość e-mail, gdy wystąpi problem z Twoim adresem URL.",
   "webhookSend": "Kiedy zaktualizujemy nasz status, wyślemy Ci aktualizacje na Twój adres URL Webhook.",
   "webhookFormatLink": "Sprawdź format żądania",
-
   "enterEmailError": "Proszę wpisać swój adres e-mail.",
   "enterPhoneError": "Proszę wpisać swój numer telefonu.",
   "invalidEmailError": "Proszę wpisać prawidłowy adres e-mail.",
-
   "resolved": "Rozwiązany",
   "investigating": "Analiza",
   "identified": "Zidentyfikowany",
   "monitoring": "Monitorowanie",
-
   "notstartedyet": "Planowane",
   "inprogress": "W trakcie",
   "completed": "Zakończono",
-
   "update": "Aktualizacja",
   "verifying": "Weryfikowanie",
   "scheduled": "Planowy",
-
   "today": "Dzisiaj",
   "daysAgo": "dni temu",
   "uptime": "dyspozycyjność",
@@ -142,11 +120,9 @@
   "54DaysAgo": "54 dni temu",
   "48DaysAgo": "48 dni temu",
   "38DaysAgo": "38 dni temu",
-
   "automatedIncidentTitle": "jest obecnie niedostępna (zautomatyzowana)",
   "automatedIncidentMessage": "nie może być w tej chwili dostępny. Ten incydent został stworzony przez automatyczną usługę monitorowania.",
   "automatedResolveMessage": "już działa! Ta aktualizacja została utworzona przez zautomatyzowaną usługę monitorowania.",
-
   "statusUpdates": "aktualizacji statusu.",
   "hasANewIncident": "ma nowy incydent",
   "openStatusPage": "Otwórz stronę stanu",
@@ -162,8 +138,9 @@
   "hasUpdatedTheirIncident": "zaktualizował(a) swój incydent",
   "scheduledANewMaintenance": "zaplanowano nową przerwę techniczną",
   "updatedTheirMaintenance": "uaktualnił(a) swoją konserwację",
-  
   "maintenanceNotStarted": "W tym czasie planujemy planową konserwację",
   "maintenanceInProgress": "Konserwacja jest teraz w toku",
-  "maintenanceComplete": "Konserwacja zakończyła się pomyślnie"
+  "maintenanceComplete": "Konserwacja zakończyła się pomyślnie",
+  "viewMaintenance": "Zobacz konserwację",
+  "viewincident": "Zobacz incydent"
 }

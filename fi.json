@@ -3,36 +3,28 @@
   "languageName": "Finnish",
   "langageNameShort": "FIN",
   "dateLocale": "fi",
-
   "or": "tai",
   "to": "to",
   "at": "klo",
-
   "status": "Tila",
   "statusPage": "Tilasivu",
-
   "isDown": "Ongelmia havaittu",
   "isDisrupted": "Häiriöitä havaittu",
   "isNotice": "Huolto meneillään",
   "isOk": "Kaikki järjestelmät toiminnassa",
-
   "operational": "Toiminnassa",
   "underMaintenance": "Huolto",
   "degradedPerformance": "Heikentynyt suorituskyky",
   "partialOutage": "Osittainen katkos",
   "minorOutage": "Pieni katkos",
   "majorOutage": "Suuri katkos",
-
   "systemMetrics": "Järjestelmämittarit",
-
   "incidents": "Aikaisemmat häiriöt",
   "incidentHistory": "Häiriöhistoria",
   "incidentDetails": "Häiriön yksityiskohdat",
-
   "maintenances": "Huollot",
   "maintenanceHistory": "Huoltohistoria",
   "maintenanceDetails": "Huollon yksityiskohdat",
-
   "started": "Alkoi",
   "scheduledFor": "Ajoitettu",
   "updated": "Päivitetty",
@@ -42,21 +34,17 @@
   "notResolved": "Ei vielä ratkaistu.",
   "affected": "Vaikutti",
   "affects": "Vaikuttaa",
-
   "noDowntime": "Ei raportoitua häiriöaikaa",
   "didntStart": "Palvelua ei vielä aloitettu",
   "noIncidents": "Ei raportoituja häiriöitä",
   "noIncidentsMonth": "Ei raportoituja häiriöitä tässä kuussa.",
   "noIncidentsWeek": "Ei raportoituja häiriöitä viimeisen 7 päivän aikana.",
-
   "prev": "Edellinen",
   "next": "Seuraava",
-
   "goBack": "Palaa takaisin",
   "poweredBy": "Powered by",
   "showIncidentHistory": "Näytä häiriöhistoria",
   "showCurrent": "Näytä nykyinen tila",
-
   "getUpdates": "Tilaa päivitykset",
   "getUpdatesBy": "Hanki päivitykset",
   "toAllComponents": "Kaikki komponentit",
@@ -90,50 +78,40 @@
   "getUpdatesMicrosoftTeamsLong": "Tilaa päivitykset suoraan Microsoft Teams-palveluun",
   "learnMicrosoftTeamsWebhook": "Opi lisäämään webhookin Microsoft Teams-kanavallesi",
   "microsoftTeamsSend": "Kun päivitämme tilamme, lähetämme sinulle päivitykset suoraan Microsoft Teams-kanavallesi.",
-
   "language": "Kieli",
   "darkMode": "Tumma tila",
   "lightMode": "Vaalea tila",
-
   "reportAnIssue": "Ilmoita ongelmasta",
   "copied": "Kopioitu",
   "toClipboard": "leikepöydälle!",
-
   "emailAddress": "Sähköpostiosoite",
   "emailExample": "sinä@verkkosivusi.fi",
   "checkYourEmail": "Tarkista sähköpostisi",
   "weJustSentYouAnEmail": "Lähetimme sinulle juuri sähköpostia vahvistamaan tilauksesi.",
   "emailConfirmed": "Sähköpostiosoitteesi on hyväksytty",
-
   "confirmYourSubscription": "Vahvista tilauksesi",
   "allDone": "Valmista!",
   "wellSendYouAMessage": "Kun päivitämme tilaamme, lähetämme sinulle tekstiviestin.",
   "wellSendYouAnEmail": "Kun päivitämme tilaamme, lähetämme sinulle sähköpostia.",
-
   "webhookUrl": "Webhookin URL-osoite",
   "webhookDescription": "Lähetämme pyynnöt URL-osoitteeseesi",
   "webhookFormat": "tässä muodossa",
   "webhookSendEmail": "Lähetämme sinulle sähköpostiviestin, jos URL-osoitteesi kanssa on ongelma",
   "webhookSend": "Kun päivitämme tilaamme, lähetämme sinulle päivitykset Webhook URL-osoitteeseesi.",
   "webhookFormatLink": "Tarkista pyyntömuoto",
-
   "enterEmailError": "Anna sähköpostiosoitteesi.",
   "enterPhoneError": "Anna puhelinnumerosi.",
   "invalidEmailError": "Syötä toimiva sähköpostiosoite.",
-
   "resolved": "Ratkaistu",
   "investigating": "Tutkitaan",
   "identified": "Tunnistettu",
   "monitoring": "Seurataan",
-
   "notstartedyet": "Suunniteltu",
   "inprogress": "Meneillään",
   "completed": "Valmistunut",
-
   "update": "Päivitys",
   "verifying": "Vahvistetaan",
   "scheduled": "Ajoitettu",
-
   "today": "Tänään",
   "daysAgo": "päiviä sitten",
   "uptime": "toiminta-aika",
@@ -142,11 +120,9 @@
   "54DaysAgo": "54 päivää sitten",
   "48DaysAgo": "48 päivää sitten",
   "38DaysAgo": "38 päivää sitten",
-
   "automatedIncidentTitle": "ei ole tällä hetkellä käytettävissä (automaattinen)",
   "automatedIncidentMessage": "ei voida käyttää tällä hetkellä. Tämän ilmoituksen loi automaattinen valvontapalvelu.",
   "automatedResolveMessage": "on nyt toiminnassa! Tämän päivityksen on luonut automaattinen valvontapalvelu.",
-
   "statusUpdates": "tilapäivitykset",
   "hasANewIncident": "on uusi häiriö",
   "openStatusPage": "Avaa tilasivu",
@@ -162,8 +138,9 @@
   "hasUpdatedTheirIncident": "on päivittänyt häiriönsä",
   "scheduledANewMaintenance": "ajoitti uuden huollon",
   "updatedTheirMaintenance": "päivitti huollonsa",
-  
   "maintenanceNotStarted": "Suunnittelemme määräaikaishuoltoa tälle ajalle",
   "maintenanceInProgress": "Huolto on nyt käynnissä",
-  "maintenanceComplete": "Huolto on suoritettu onnistuneesti"
+  "maintenanceComplete": "Huolto on suoritettu onnistuneesti",
+  "viewMaintenance": "Katso huolto",
+  "viewincident": "Katso tapahtuma"
 }
