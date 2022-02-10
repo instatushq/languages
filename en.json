@@ -165,8 +165,5 @@
   
   "maintenanceNotStarted": "We are planning for a scheduled maintenance during that time",
   "maintenanceInProgress": "Maintenance is now in progress",
-  "maintenanceComplete": "Maintenance has completed successfully",
-  
-  "viewMaintenance": "View maintenance",
-  "viewincident": "View incident"
+  "maintenanceComplete": "Maintenance has completed successfully"
 }
