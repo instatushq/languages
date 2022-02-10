@@ -164,8 +164,5 @@
   
   "maintenanceNotStarted": "Vi planlægger en planlagt vedligeholdelse i det tidsrum",
   "maintenanceInProgress": "Vedligeholdelse er nu i gang",
-  "maintenanceComplete": "Vedligeholdelsen er gennemført",
-  
-  "viewMaintenance": "Se vedligeholdelse",
-  "viewincident": "Se hændelsen"
+  "maintenanceComplete": "Vedligeholdelsen er gennemført"
 }
