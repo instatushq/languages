@@ -165,6 +165,9 @@
     
     "maintenanceNotStarted": "نحن نخطط لإجراء صيانة مجدولة خلال ذلك الوقت",
     "maintenanceInProgress": "الصيانة جارية الآن",
-    "maintenanceComplete": "اكتملت الصيانة بنجاح"
+    "maintenanceComplete": "اكتملت الصيانة بنجاح",
+   
+    "viewMaintenance": "عرض الصيانة",
+    "viewincident": "مشاهدة الحادث"
   }
   
