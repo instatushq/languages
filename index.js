@@ -21,7 +21,7 @@ jsonsInDir.forEach((file, i) => {
         console.log("NO: " + count + " " + json.languageCode + " :>", translation.translatedText);
         json[key] = translation.translatedText
         count++ //to check that the all 24 languages has been updated
-        fs.writeFile(file, JSON.stringify(json), 'utf8', function (err) {
+        fs.writeFile(file, JSON.stringify(json, null, '\t'), 'utf8', function (err) {
           if (err) throw err;
         });
       } catch (error) {
