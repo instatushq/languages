@@ -13,9 +13,10 @@ jsonsInDir.forEach((file, i) => {
     const json = JSON.parse(fileData.toString());
 
     const key = 'ourText' // our text key 
-    const text = 'Our Text' // our text to translate here
+    let text = 'Our text' // our text to translate here
 
     googleTranslate.translate(text, json.languageCode, function (err, translation) {
+      console.log(err);
       try {
         console.log("NO: " + count + " " + json.languageCode + " :>", translation.translatedText);
         json[key] = translation.translatedText
