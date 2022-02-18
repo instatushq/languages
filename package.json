@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "node ./translate"
+    "start": "node ./index"
   },
   "dependencies": {
     "google-translate": "^3.0.0"
