@@ -2,9 +2,8 @@
 
 To use the quick translate tool:
 
-1- Get [google cloud translate api key](https://console.developers.google.com/apis/credentials) 
-
-2- Edit index.js with your desired phrase and run: "yarn && yarn start"
+1. Get [google cloud translate api key](https://console.developers.google.com/apis/credentials) 
+2. Edit index.js with your desired phrase and run: "yarn && yarn start"
 
 JSON files for the languages supported by Instatus.
 
