@@ -29,3 +29,5 @@ Supported languages:
 - 🇹🇷 Turkish
 - 🇺🇦 Ukrainian [CTO](https://github.com/svc-git)
 - 🇻🇳 Vietnamese [Ngô Quý](https://github.com/JustHmmmm)
+
+[Quick translate tool](https://github.com/instatushq/languages/tree/translate-tool) by [Steven John](https://github.com/StevenJohnss)
