@@ -3,6 +3,7 @@
 JSON files for the languages supported by Instatus.
 
 To improve your language or add support for a new one, please create a pull request 🚀
+
 If you're not familiar with Git, please send your translation of [en.json](https://github.com/instatushq/languages/blob/master/en.json) to [mailto:ali@instatus.com](ali@instatus.com)
 
 Supported languages:
