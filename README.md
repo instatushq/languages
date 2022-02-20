@@ -10,6 +10,8 @@ JSON files for the languages supported by Instatus.
 
 To improve your language or add support for a new one, please create a pull request 🚀
 
+If you're not familiar with Git, please send your translation of [en.json](https://github.com/instatushq/languages/blob/master/en.json) to [ali@instatus.com](mailto:ali@instatus.com)
+
 Supported languages:
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English
 - 🇸🇦 Arabic [AhmadShkour71](https://github.com/AhmadShkour71)
@@ -35,3 +37,5 @@ Supported languages:
 - 🇹🇷 Turkish
 - 🇺🇦 Ukrainian [CTO](https://github.com/svc-git)
 - 🇻🇳 Vietnamese [Ngô Quý](https://github.com/JustHmmmm)
+
+[Quick translate tool](https://github.com/instatushq/languages/tree/translate-tool) by [Steven John](https://github.com/StevenJohnss)
