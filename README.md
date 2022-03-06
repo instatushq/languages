@@ -9,6 +9,7 @@ If you're not familiar with Git, please send your translation of [en.json](https
 Supported languages:
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English
 - 🇸🇦 Arabic [AhmadShkour71](https://github.com/AhmadShkour71)
+- 🇨🇿 Czech [Shin Megami Tensei](https://github.com/MegamiShin)
 - 🇨🇳 Chinese (Simplified) [Chihao Huang](https://github.com/coder-bts) & [CCKNBC](https://github.com/CCKNBC)
 - 🇨🇳 Chinese (Traditional) [Mr-Sheep](https://github.com/Mr-Sheep) & [CCKNBC](https://github.com/CCKNBC)
 - 🇩🇰 Danish [Dan Storm](https://github.com/Repox)
