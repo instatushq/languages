@@ -1,10 +1,5 @@
 # Instatus languages 🌍🌎🌏
 
-To use the quick translate tool:
-
-1. Get [Google Cloud translate API key](https://console.developers.google.com/apis/credentials) 
-2. Make sure you have your Google Translation API enabled for your project
-3. Edit `index.js` with your desired phrase and run: `yarn && yarn start`
 
 JSON files for the languages supported by Instatus.
 
@@ -39,4 +34,10 @@ Supported languages:
 - 🇺🇦 Ukrainian [CTO](https://github.com/svc-git)
 - 🇻🇳 Vietnamese [Ngô Quý](https://github.com/JustHmmmm)
 
-[Quick translate tool](https://github.com/instatushq/languages/tree/translate-tool) by [Steven John](https://github.com/StevenJohnss)
+Quick Translate Tool by [Steven John](https://github.com/StevenJohnss)
+
+To use it:
+
+1. Get [Google Cloud translate API key](https://console.developers.google.com/apis/credentials) 
+2. Make sure you have your Google Translation API enabled for your project
+3. Edit `index.js` with your desired phrase and run: `yarn && yarn start`
