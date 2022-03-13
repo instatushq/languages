@@ -144,5 +144,6 @@
   "viewMaintenance": "Visualizza manutenzione",
   "viewincident": "Visualizza incidente",
   "impact": "Impatto",
-  "maintenanceWillBeginSoon": "La manutenzione inizierà tra {{minutes}} minuti"
+  "maintenanceWillBeginSoon": "La manutenzione inizierà tra {{minutes}} minuti",
+  "postmortem": "Dopo la morte"
 }

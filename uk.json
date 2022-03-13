@@ -143,5 +143,6 @@
   "viewMaintenance": "Переглянути технічне обслуговування",
   "viewincident": "Переглянути інцидент",
   "impact": "Вплив",
-  "maintenanceWillBeginSoon": "Технічне обслуговування розпочнеться через {{minutes}} хв"
+  "maintenanceWillBeginSoon": "Технічне обслуговування розпочнеться через {{minutes}} хв",
+  "postmortem": "Після смерті"
 }

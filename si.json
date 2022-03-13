@@ -144,5 +144,6 @@
   "viewMaintenance": "නඩත්තු බලන්න",
   "viewincident": "සිද්ධිය බලන්න",
   "impact": "බලපෑම",
-  "maintenanceWillBeginSoon": "නඩත්තු කටයුතු විනාඩි {{minutes}}කින් ආරම්භ වේ"
+  "maintenanceWillBeginSoon": "නඩත්තු කටයුතු විනාඩි {{minutes}}කින් ආරම්භ වේ",
+  "postmortem": "මරණයෙන් පසු"
 }

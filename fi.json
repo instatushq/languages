@@ -144,5 +144,6 @@
   "viewMaintenance": "Katso huolto",
   "viewincident": "Katso tapahtuma",
   "impact": "Vaikutus",
-  "maintenanceWillBeginSoon": "Huolto alkaa {{minutes}} minuutin kuluttua"
+  "maintenanceWillBeginSoon": "Huolto alkaa {{minutes}} minuutin kuluttua",
+  "postmortem": "Kuoleman jälkeen"
 }

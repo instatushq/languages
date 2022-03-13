@@ -144,5 +144,6 @@
   "viewMaintenance": "Zobacz konserwację",
   "viewincident": "Zobacz incydent",
   "impact": "Uderzenie",
-  "maintenanceWillBeginSoon": "Konserwacja rozpocznie się za {{minutes}} minut"
+  "maintenanceWillBeginSoon": "Konserwacja rozpocznie się za {{minutes}} minut",
+  "postmortem": "Po śmierci"
 }

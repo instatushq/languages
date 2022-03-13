@@ -144,5 +144,6 @@
   "viewMaintenance": "Zobrazit údržbu",
   "viewincident": "Zobrazit incident",
   "impact": "Dopad",
-  "maintenanceWillBeginSoon": "Údržba bude zahájena za {{minutes}} minut"
+  "maintenanceWillBeginSoon": "Údržba bude zahájena za {{minutes}} minut",
+  "postmortem": "Po smrti"
 }

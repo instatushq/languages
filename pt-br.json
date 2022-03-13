@@ -142,5 +142,6 @@
   "viewMaintenance": "Ver manutenção",
   "viewincident": "Ver incidente",
   "impact": "Impacto",
-  "maintenanceWillBeginSoon": "A manutenção começará em {{minutes}} minutos"
+  "maintenanceWillBeginSoon": "A manutenção começará em {{minutes}} minutos",
+  "postmortem": "Após a morte"
 }

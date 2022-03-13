@@ -144,5 +144,6 @@
   "viewMaintenance": "Bakımı görüntüle",
   "viewincident": "Olayı görüntüle",
   "impact": "Etki",
-  "maintenanceWillBeginSoon": "Bakım {{minutes}} dakika içinde başlayacak"
+  "maintenanceWillBeginSoon": "Bakım {{minutes}} dakika içinde başlayacak",
+  "postmortem": "Ölümden sonra"
 }

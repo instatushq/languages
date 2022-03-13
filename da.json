@@ -143,5 +143,6 @@
   "viewMaintenance": "Se vedligeholdelse",
   "viewincident": "Se hændelsen",
   "impact": "Indvirkning",
-  "maintenanceWillBeginSoon": "Vedligeholdelsen begynder om {{minutes}} minutter"
+  "maintenanceWillBeginSoon": "Vedligeholdelsen begynder om {{minutes}} minutter",
+  "postmortem": "Efter døden"
 }

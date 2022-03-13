@@ -143,5 +143,6 @@
   "viewMaintenance": "Bekijk onderhoud",
   "viewincident": "Bekijk incident",
   "impact": "Invloed",
-  "maintenanceWillBeginSoon": "Het onderhoud begint over {{minutes}} minuten"
+  "maintenanceWillBeginSoon": "Het onderhoud begint over {{minutes}} minuten",
+  "postmortem": "Na de dood"
 }

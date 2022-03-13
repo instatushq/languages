@@ -144,5 +144,6 @@
   "viewMaintenance": "عرض الصيانة",
   "viewincident": "مشاهدة الحادث",
   "impact": "تأثير",
-  "maintenanceWillBeginSoon": "ستبدأ الصيانة في غضون {{minutes}} دقيقة"
+  "maintenanceWillBeginSoon": "ستبدأ الصيانة في غضون {{minutes}} دقيقة",
+  "postmortem": "بعد الموت"
 }

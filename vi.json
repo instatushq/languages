@@ -143,5 +143,6 @@
   "viewMaintenance": "Xem bảo trì",
   "viewincident": "Xem sự cố",
   "impact": "Va chạm",
-  "maintenanceWillBeginSoon": "Bảo trì sẽ bắt đầu sau {{minutes}} phút nữa"
+  "maintenanceWillBeginSoon": "Bảo trì sẽ bắt đầu sau {{minutes}} phút nữa",
+  "postmortem": "Sau khi chết"
 }

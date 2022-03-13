@@ -141,5 +141,6 @@
   "viewMaintenance": "Погледајте одржавање",
   "viewincident": "Погледајте инцидент",
   "impact": "Утицај",
-  "maintenanceWillBeginSoon": "Одржавање ће почети за {{minutes}} минута"
+  "maintenanceWillBeginSoon": "Одржавање ће почети за {{minutes}} минута",
+  "postmortem": "После смрти"
 }

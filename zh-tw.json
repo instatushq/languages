@@ -144,5 +144,6 @@
   "viewMaintenance": "查看維護",
   "viewincident": "查看事件",
   "impact": "影響",
-  "maintenanceWillBeginSoon": "維護將在 {{minutes}} 分鐘後開始"
+  "maintenanceWillBeginSoon": "維護將在 {{minutes}} 分鐘後開始",
+  "postmortem": "死後"
 }

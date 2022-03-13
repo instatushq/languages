@@ -144,5 +144,6 @@
   "viewMaintenance": "メンテナンスを表示",
   "viewincident": "インシデントを表示",
   "impact": "影響",
-  "maintenanceWillBeginSoon": "メンテナンスは{{minutes}}分後に始まります"
+  "maintenanceWillBeginSoon": "メンテナンスは{{minutes}}分後に始まります",
+  "postmortem": "死後"
 }
