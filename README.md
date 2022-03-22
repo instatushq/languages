@@ -28,6 +28,7 @@ Supported languages:
 - 🇷🇸 Serbian [Aleksandar Vasilić](https://github.com/net-tech)
 - 🇷🇺 Russian [Vova Pilipchatin](https://twitter.com/VPilipchatin)
 - 🇸🇮 Slovenian [Matej Žerovnik](https://github.com/matejzero)
+- 🇷🇴 Romanian [marwain91](https://github.com/marwain91)
 - 🇪🇸 Spanish [Agusti](https://github.com/agustif) & [Cristiam](https://github.com/cristiammercado)
 - 🇸🇪 Swedish [Mattias Skog](https://github.com/matskog)
 - 🇹🇷 Turkish
