@@ -13,7 +13,7 @@
   "isNotice": "Maintenance in progress",
   "isOk": "All systems operational",
   "operational": "Operational",
-  "underMaintenance": "Maintenance",
+  "underMaintenance": "Under maintenance",
   "degradedPerformance": "Degraded performance",
   "partialOutage": "Partial outage",
   "minorOutage": "Minor outage",
