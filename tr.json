@@ -145,5 +145,8 @@
   "viewincident": "Olayı görüntüle",
   "impact": "Etki",
   "maintenanceWillBeginSoon": "Bakım {{minutes}} dakika içinde başlayacak",
-  "postmortem": "Ölümden sonra"
+  "postmortem": "Ölümden sonra",
+  "recentNotices": "son bildirimler",
+  "showNoticeHistory": "Bildirim geçmişini göster",
+  "noticeHistory": "Bildirim geçmişi"
 }

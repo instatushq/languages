@@ -144,5 +144,8 @@
   "viewincident": "Bekijk incident",
   "impact": "Invloed",
   "maintenanceWillBeginSoon": "Het onderhoud begint over {{minutes}} minuten",
-  "postmortem": "Na de dood"
+  "postmortem": "Na de dood",
+  "recentNotices": "Recente mededelingen",
+  "showNoticeHistory": "Berichtgeschiedenis weergeven",
+  "noticeHistory": "Let op geschiedenis"
 }

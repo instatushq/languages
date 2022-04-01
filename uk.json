@@ -144,5 +144,8 @@
   "viewincident": "Переглянути інцидент",
   "impact": "Вплив",
   "maintenanceWillBeginSoon": "Технічне обслуговування розпочнеться через {{minutes}} хв",
-  "postmortem": "Після смерті"
+  "postmortem": "Після смерті",
+  "recentNotices": "Останні сповіщення",
+  "showNoticeHistory": "Показати історію сповіщень",
+  "noticeHistory": "Зверніть увагу на історію"
 }

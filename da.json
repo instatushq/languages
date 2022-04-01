@@ -144,5 +144,8 @@
   "viewincident": "Se hændelsen",
   "impact": "Indvirkning",
   "maintenanceWillBeginSoon": "Vedligeholdelsen begynder om {{minutes}} minutter",
-  "postmortem": "Efter døden"
+  "postmortem": "Efter døden",
+  "recentNotices": "Seneste meddelelser",
+  "showNoticeHistory": "Vis meddelelseshistorik",
+  "noticeHistory": "Bemærk historie"
 }

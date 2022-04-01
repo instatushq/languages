@@ -145,5 +145,8 @@
   "viewincident": "Zobrazit incident",
   "impact": "Dopad",
   "maintenanceWillBeginSoon": "Údržba bude zahájena za {{minutes}} minut",
-  "postmortem": "Post mortem"
+  "postmortem": "Post mortem",
+  "recentNotices": "Nedávná upozornění",
+  "showNoticeHistory": "Zobrazit historii oznámení",
+  "noticeHistory": "Všimněte si historie"
 }

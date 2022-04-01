@@ -145,5 +145,8 @@
   "viewincident": "查看事件",
   "impact": "影響",
   "maintenanceWillBeginSoon": "維護將在 {{minutes}} 分鐘後開始",
-  "postmortem": "死後"
+  "postmortem": "死後",
+  "recentNotices": "最近的通知",
+  "showNoticeHistory": "顯示通知歷史",
+  "noticeHistory": "通知歷史"
 }

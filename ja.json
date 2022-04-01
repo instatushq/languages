@@ -145,5 +145,8 @@
   "viewincident": "インシデントを表示",
   "impact": "影響",
   "maintenanceWillBeginSoon": "メンテナンスは{{minutes}}分後に始まります",
-  "postmortem": "死後"
+  "postmortem": "死後",
+  "recentNotices": "最近のお知らせ",
+  "showNoticeHistory": "通知履歴を表示する",
+  "noticeHistory": "通知履歴"
 }

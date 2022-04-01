@@ -145,5 +145,8 @@
   "viewincident": "Vizualizați incidentul",
   "impact": "Impact",
   "maintenanceWillBeginSoon": "Lucrarea de mentenanță va începe în {{minutes}}  minute",
-  "postmortem": "După finalizare"
+  "postmortem": "După finalizare",
+  "recentNotices": "Notificări recente",
+  "showNoticeHistory": "Afișează istoricul notificărilor",
+  "noticeHistory": "Observați istoricul"
 }

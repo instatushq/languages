@@ -145,5 +145,8 @@
   "viewincident": "Lihat insiden",
   "impact": "Dampak",
   "maintenanceWillBeginSoon": "Pemeliharaan akan dimulai dalam {}} menit",
-  "postmortem": "Setelah mati"
+  "postmortem": "Setelah mati",
+  "recentNotices": "Pemberitahuan terbaru",
+  "showNoticeHistory": "Tampilkan riwayat pemberitahuan",
+  "noticeHistory": "Perhatikan sejarah"
 }

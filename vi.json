@@ -144,5 +144,8 @@
   "viewincident": "Xem sự cố",
   "impact": "Va chạm",
   "maintenanceWillBeginSoon": "Bảo trì sẽ bắt đầu sau {{minutes}} phút nữa",
-  "postmortem": "Sau khi chết"
+  "postmortem": "Sau khi chết",
+  "recentNotices": "Thông báo gần đây",
+  "showNoticeHistory": "Hiển thị lịch sử thông báo",
+  "noticeHistory": "Lịch sử thông báo"
 }

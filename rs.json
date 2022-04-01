@@ -142,5 +142,8 @@
   "viewincident": "Погледајте инцидент",
   "impact": "Утицај",
   "maintenanceWillBeginSoon": "Одржавање ће почети за {{minutes}} минута",
-  "postmortem": "После смрти"
+  "postmortem": "После смрти",
+  "recentNotices": "Недавна обавештења",
+  "showNoticeHistory": "Прикажи историју обавештења",
+  "noticeHistory": "Забележите историју"
 }

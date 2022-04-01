@@ -145,5 +145,8 @@
   "viewincident": "Katso tapahtuma",
   "impact": "Vaikutus",
   "maintenanceWillBeginSoon": "Huolto alkaa {{minutes}} minuutin kuluttua",
-  "postmortem": "Kuoleman jälkeen"
+  "postmortem": "Kuoleman jälkeen",
+  "recentNotices": "Viimeaikaiset ilmoitukset",
+  "showNoticeHistory": "Näytä ilmoitushistoria",
+  "noticeHistory": "Huomaa historia"
 }

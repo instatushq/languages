@@ -145,5 +145,8 @@
   "viewincident": "Se incidenten",
   "impact": "Påverkan",
   "maintenanceWillBeginSoon": "Underhållet börjar om {{minutes}} minuter",
-  "postmortem": "Efter döden"
+  "postmortem": "Efter döden",
+  "recentNotices": "Senaste meddelanden",
+  "showNoticeHistory": "Visa meddelandehistorik",
+  "noticeHistory": "Lägg märke till historik"
 }

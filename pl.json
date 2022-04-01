@@ -145,5 +145,8 @@
   "viewincident": "Zobacz incydent",
   "impact": "Uderzenie",
   "maintenanceWillBeginSoon": "Konserwacja rozpocznie się za {{minutes}} minut",
-  "postmortem": "Po śmierci"
+  "postmortem": "Po śmierci",
+  "recentNotices": "Ostatnie powiadomienia",
+  "showNoticeHistory": "Pokaż historię powiadomień",
+  "noticeHistory": "Historia powiadomień"
 }

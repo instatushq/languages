@@ -145,5 +145,8 @@
   "viewincident": "සිද්ධිය බලන්න",
   "impact": "බලපෑම",
   "maintenanceWillBeginSoon": "නඩත්තු කටයුතු විනාඩි {{minutes}}කින් ආරම්භ වේ",
-  "postmortem": "මරණයෙන් පසු"
+  "postmortem": "මරණයෙන් පසු",
+  "recentNotices": "මෑත නිවේදන",
+  "showNoticeHistory": "දැනුම්දීම් ඉතිහාසය පෙන්වන්න",
+  "noticeHistory": "සටහන් ඉතිහාසය"
 }

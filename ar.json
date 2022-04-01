@@ -145,5 +145,8 @@
   "viewincident": "مشاهدة الحادث",
   "impact": "تأثير",
   "maintenanceWillBeginSoon": "ستبدأ الصيانة في غضون {{minutes}} دقيقة",
-  "postmortem": "بعد الموت"
+  "postmortem": "بعد الموت",
+  "recentNotices": "الإخطارات الأخيرة",
+  "showNoticeHistory": "إظهار سجل الإشعار",
+  "noticeHistory": "سجل التاريخ"
 }
