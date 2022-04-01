@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path')
 
-var api = "AIzaSyDs6pC5uCm_cpMmDtTxoOJIjPWkEVbqamI"
+var api = "your_google_cloud_translate_api_key_here"
 var googleTranslate = require('google-translate')(api)
 
 const jsonsInDir = fs.readdirSync('./').filter(file => path.extname(file) === '.json')
@@ -11,8 +11,8 @@ jsonsInDir.forEach((file, i) => {
     const fileData = fs.readFileSync(path.join('./', file))
     const json = JSON.parse(fileData.toString())
 
-    const key = 'noticeHistory' // our text key 
-    let text = 'Notice history' // our text to translate here
+    const key = 'ourText' // our text key 
+    let text = 'Our text' // our text to translate here
 
     googleTranslate.translate(text, json.languageCode, function (err, translation) {
       console.log(err)
