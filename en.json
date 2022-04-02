@@ -148,5 +148,6 @@
   "postmortem": "Postmortem",
   "noNotices": "No notices reported",
   "noNoticesDays": "No notices reported for the past {{days}} days",
-  "noNoticesMonth": "No notices reported this month"
+  "noNoticesMonth": "No notices reported this month",
+  "noticeHistory": "Notice history"
 }
