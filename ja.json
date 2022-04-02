@@ -151,5 +151,6 @@
   "noticeHistory": "通知履歴",
   "noNotices": "通知は報告されていません",
   "noNoticesDays": "過去{{days}}日間の通知は報告されていません",
-  "noNoticesMonth": "今月の通知はありません"
+  "noNoticesMonth": "今月の通知はありません",
+  "starts": "開始"
 }

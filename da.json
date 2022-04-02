@@ -150,5 +150,6 @@
   "noticeHistory": "Bemærk historie",
   "noNotices": "Ingen meddelelser rapporteret",
   "noNoticesDays": "Ingen meddelelser rapporteret for de seneste {{days}} dage",
-  "noNoticesMonth": "Ingen meddelelser rapporteret denne måned"
+  "noNoticesMonth": "Ingen meddelelser rapporteret denne måned",
+  "starts": "Starter"
 }

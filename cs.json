@@ -151,5 +151,6 @@
   "noticeHistory": "Všimněte si historie",
   "noNotices": "Nebyla hlášena žádná oznámení",
   "noNoticesDays": "Za posledních {{days}} dnů nebyla hlášena žádná oznámení",
-  "noNoticesMonth": "Tento měsíc nebyla hlášena žádná oznámení"
+  "noNoticesMonth": "Tento měsíc nebyla hlášena žádná oznámení",
+  "starts": "Začíná"
 }

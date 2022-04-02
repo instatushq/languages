@@ -151,5 +151,6 @@
   "noticeHistory": "Huomaa historia",
   "noNotices": "Mitään ilmoituksia ei raportoitu",
   "noNoticesDays": "Ei ilmoituksia viimeisten {{days}} päivän aikana",
-  "noNoticesMonth": "Tässä kuussa ei ole raportoitu"
+  "noNoticesMonth": "Tässä kuussa ei ole raportoitu",
+  "starts": "Alkaa"
 }

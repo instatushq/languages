@@ -150,5 +150,6 @@
   "noticeHistory": "Historique des avis",
   "noNotices": "Aucun avis signalé",
   "noNoticesDays": "Aucun avis signalé au cours des {{days}} derniers jours",
-  "noNoticesMonth": "Aucun avis signalé ce mois-ci"
+  "noNoticesMonth": "Aucun avis signalé ce mois-ci",
+  "starts": "Départs"
 }

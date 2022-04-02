@@ -151,5 +151,6 @@
   "noticeHistory": "Geschichte beachten",
   "noNotices": "Keine Hinweise gemeldet",
   "noNoticesDays": "Keine Benachrichtigungen für die letzten {{days}} Tage gemeldet",
-  "noNoticesMonth": "Diesen Monat wurden keine Benachrichtigungen gemeldet"
+  "noNoticesMonth": "Diesen Monat wurden keine Benachrichtigungen gemeldet",
+  "starts": "Beginnt"
 }

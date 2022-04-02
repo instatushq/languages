@@ -151,5 +151,6 @@
   "noticeHistory": "Lägg märke till historik",
   "noNotices": "Inga notiser rapporterade",
   "noNoticesDays": "Inga meddelanden har rapporterats under de senaste {{days}} dagarna",
-  "noNoticesMonth": "Inga meddelanden har rapporterats denna månad"
+  "noNoticesMonth": "Inga meddelanden har rapporterats denna månad",
+  "starts": "Startar"
 }

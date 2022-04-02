@@ -150,5 +150,6 @@
   "noticeHistory": "Let op geschiedenis",
   "noNotices": "Geen meldingen gemeld",
   "noNoticesDays": "Geen meldingen gerapporteerd in de afgelopen {{days}} dagen",
-  "noNoticesMonth": "Geen mededelingen deze maand"
+  "noNoticesMonth": "Geen mededelingen deze maand",
+  "starts": "begint"
 }

@@ -151,5 +151,6 @@
   "noticeHistory": "Historial de avisos",
   "noNotices": "No se reportaron avisos",
   "noNoticesDays": "No se han notificado notificaciones en los últimos {{days}} días",
-  "noNoticesMonth": "No se reportaron avisos este mes"
+  "noNoticesMonth": "No se reportaron avisos este mes",
+  "starts": "Empieza"
 }

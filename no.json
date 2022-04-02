@@ -150,5 +150,6 @@
   "noticeHistory": "Legg merke til historikk",
   "noNotices": "Ingen meldinger rapportert",
   "noNoticesDays": "Ingen meldinger rapportert de siste {{days}} dagene",
-  "noNoticesMonth": "Ingen meldinger rapportert denne måneden"
+  "noNoticesMonth": "Ingen meldinger rapportert denne måneden",
+  "starts": "Starter"
 }

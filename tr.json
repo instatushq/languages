@@ -151,5 +151,6 @@
   "noticeHistory": "Bildirim geçmişi",
   "noNotices": "Bildirim bildirilmedi",
   "noNoticesDays": "Son {{days}} gün için bildirim bildirilmedi",
-  "noNoticesMonth": "Bu ay herhangi bir bildirim bildirilmedi"
+  "noNoticesMonth": "Bu ay herhangi bir bildirim bildirilmedi",
+  "starts": "başlar"
 }

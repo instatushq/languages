@@ -150,5 +150,6 @@
   "noticeHistory": "Lịch sử thông báo",
   "noNotices": "Không có thông báo nào được báo cáo",
   "noNoticesDays": "Không có thông báo nào được báo cáo trong {{days}} ngày qua",
-  "noNoticesMonth": "Không có thông báo nào được báo cáo trong tháng này"
+  "noNoticesMonth": "Không có thông báo nào được báo cáo trong tháng này",
+  "starts": "Bắt đầu"
 }
