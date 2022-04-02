@@ -147,5 +147,8 @@
   "postmortem": "Etter døden",
   "recentNotices": "Nylige merknader",
   "showNoticeHistory": "Vis varselhistorikk",
-  "noticeHistory": "Legg merke til historikk"
+  "noticeHistory": "Legg merke til historikk",
+  "noNotices": "Ingen meldinger rapportert",
+  "noNoticesDays": "Ingen meldinger rapportert de siste {{days}} dagene",
+  "noNoticesMonth": "Ingen meldinger rapportert denne måneden"
 }

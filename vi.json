@@ -147,5 +147,8 @@
   "postmortem": "Sau khi chết",
   "recentNotices": "Thông báo gần đây",
   "showNoticeHistory": "Hiển thị lịch sử thông báo",
-  "noticeHistory": "Lịch sử thông báo"
+  "noticeHistory": "Lịch sử thông báo",
+  "noNotices": "Không có thông báo nào được báo cáo",
+  "noNoticesDays": "Không có thông báo nào được báo cáo trong {{days}} ngày qua",
+  "noNoticesMonth": "Không có thông báo nào được báo cáo trong tháng này"
 }

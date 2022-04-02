@@ -148,5 +148,8 @@
   "postmortem": "Po śmierci",
   "recentNotices": "Ostatnie powiadomienia",
   "showNoticeHistory": "Pokaż historię powiadomień",
-  "noticeHistory": "Historia powiadomień"
+  "noticeHistory": "Historia powiadomień",
+  "noNotices": "Nie zgłoszono żadnych powiadomień",
+  "noNoticesDays": "Brak powiadomień z ostatnich {{days}} dni",
+  "noNoticesMonth": "W tym miesiącu nie zgłoszono żadnych powiadomień"
 }

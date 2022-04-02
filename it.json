@@ -148,5 +148,8 @@
   "postmortem": "Dopo la morte",
   "recentNotices": "Avvisi recenti",
   "showNoticeHistory": "Mostra la cronologia degli avvisi",
-  "noticeHistory": "Cronologia degli avvisi"
+  "noticeHistory": "Cronologia degli avvisi",
+  "noNotices": "Nessun avviso segnalato",
+  "noNoticesDays": "Nessun avviso segnalato negli ultimi {{days}} giorni",
+  "noNoticesMonth": "Nessun avviso segnalato questo mese"
 }

@@ -147,5 +147,8 @@
   "postmortem": "Après la mort",
   "recentNotices": "Avis récents",
   "showNoticeHistory": "Afficher l'historique des notifications",
-  "noticeHistory": "Historique des avis"
+  "noticeHistory": "Historique des avis",
+  "noNotices": "Aucun avis signalé",
+  "noNoticesDays": "Aucun avis signalé au cours des {{days}} derniers jours",
+  "noNoticesMonth": "Aucun avis signalé ce mois-ci"
 }

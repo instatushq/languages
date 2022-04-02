@@ -147,5 +147,8 @@
   "postmortem": "Після смерті",
   "recentNotices": "Останні сповіщення",
   "showNoticeHistory": "Показати історію сповіщень",
-  "noticeHistory": "Зверніть увагу на історію"
+  "noticeHistory": "Зверніть увагу на історію",
+  "noNotices": "Немає повідомлень",
+  "noNoticesDays": "Немає сповіщень за останні {{days}} днів",
+  "noNoticesMonth": "У цьому місяці жодних сповіщень"
 }

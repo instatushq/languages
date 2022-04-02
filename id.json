@@ -148,5 +148,8 @@
   "postmortem": "Setelah mati",
   "recentNotices": "Pemberitahuan terbaru",
   "showNoticeHistory": "Tampilkan riwayat pemberitahuan",
-  "noticeHistory": "Perhatikan sejarah"
+  "noticeHistory": "Perhatikan sejarah",
+  "noNotices": "Tidak ada pemberitahuan yang dilaporkan",
+  "noNoticesDays": "Tidak ada pemberitahuan yang dilaporkan selama {{days}} hari terakhir",
+  "noNoticesMonth": "Tidak ada pemberitahuan yang dilaporkan bulan ini"
 }

@@ -148,5 +148,8 @@
   "postmortem": "Kuoleman jälkeen",
   "recentNotices": "Viimeaikaiset ilmoitukset",
   "showNoticeHistory": "Näytä ilmoitushistoria",
-  "noticeHistory": "Huomaa historia"
+  "noticeHistory": "Huomaa historia",
+  "noNotices": "Mitään ilmoituksia ei raportoitu",
+  "noNoticesDays": "Ei ilmoituksia viimeisten {{days}} päivän aikana",
+  "noNoticesMonth": "Tässä kuussa ei ole raportoitu"
 }

@@ -146,7 +146,7 @@
   "impact": "Impact",
   "maintenanceWillBeginSoon": "Maintenance will begin in {{minutes}} minutes",
   "postmortem": "Postmortem",
-  "recentNotices": "Recent notices",
-  "showNoticeHistory": "Show notice history",
-  "noticeHistory": "Notice history"
+  "noNotices": "No notices reported",
+  "noNoticesDays": "No notices reported for the past {{days}} days",
+  "noNoticesMonth": "No notices reported this month"
 }

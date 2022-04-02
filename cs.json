@@ -148,5 +148,8 @@
   "postmortem": "Post mortem",
   "recentNotices": "Nedávná upozornění",
   "showNoticeHistory": "Zobrazit historii oznámení",
-  "noticeHistory": "Všimněte si historie"
+  "noticeHistory": "Všimněte si historie",
+  "noNotices": "Nebyla hlášena žádná oznámení",
+  "noNoticesDays": "Za posledních {{days}} dnů nebyla hlášena žádná oznámení",
+  "noNoticesMonth": "Tento měsíc nebyla hlášena žádná oznámení"
 }

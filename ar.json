@@ -148,5 +148,8 @@
   "postmortem": "بعد الموت",
   "recentNotices": "الإخطارات الأخيرة",
   "showNoticeHistory": "إظهار سجل الإشعار",
-  "noticeHistory": "سجل التاريخ"
+  "noticeHistory": "سجل التاريخ",
+  "noNotices": "لم يتم الإبلاغ عن أي إخطارات",
+  "noNoticesDays": "لم يتم الإبلاغ عن أي إشعارات عن الأيام الـ {{أيام}} الماضية",
+  "noNoticesMonth": "لم يتم الإبلاغ عن أي إشعارات هذا الشهر"
 }

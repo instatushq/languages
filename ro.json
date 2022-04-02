@@ -148,5 +148,8 @@
   "postmortem": "După finalizare",
   "recentNotices": "Notificări recente",
   "showNoticeHistory": "Afișează istoricul notificărilor",
-  "noticeHistory": "Observați istoricul"
+  "noticeHistory": "Observați istoricul",
+  "noNotices": "Nu au fost raportate notificări",
+  "noNoticesDays": "Nu au fost raportate notificări în ultimele {{days}} zile",
+  "noNoticesMonth": "Nu au fost raportate notificări luna aceasta"
 }

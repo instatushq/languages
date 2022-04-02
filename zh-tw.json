@@ -148,5 +148,8 @@
   "postmortem": "死後",
   "recentNotices": "最近的通知",
   "showNoticeHistory": "顯示通知歷史",
-  "noticeHistory": "通知歷史"
+  "noticeHistory": "通知歷史",
+  "noNotices": "未報告任何通知",
+  "noNoticesDays": "過去 {{days}} 天未報告任何通知",
+  "noNoticesMonth": "本月未報告任何通知"
 }
