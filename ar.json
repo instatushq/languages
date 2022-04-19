@@ -147,7 +147,7 @@
   "maintenanceWillBeginSoon": "ستبدأ الصيانة في غضون {{minutes}} دقيقة",
   "postmortem": "بعد الموت",
   "recentNotices": "الإخطارات الأخيرة",
-  "showNoticeHistory": "إظهار سجل الإشعار",
+  "showNoticeHistory": "إظهار سجل الإخطارات",
   "noticeHistory": "سجل التاريخ",
   "noNotices": "لم يتم الإبلاغ عن أي إخطارات",
   "noNoticesDays": "لم يتم الإبلاغ عن أي إشعارات عن الأيام الـ {{أيام}} الماضية",
