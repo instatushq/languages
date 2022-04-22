@@ -145,12 +145,12 @@
   "viewincident": "Se incidenten",
   "impact": "Påverkan",
   "maintenanceWillBeginSoon": "Underhållet börjar om {{minutes}} minuter",
-  "postmortem": "Efter döden",
-  "recentNotices": "Senaste meddelanden",
-  "showNoticeHistory": "Visa meddelandehistorik",
-  "noticeHistory": "Lägg märke till historik",
+  "postmortem": "Uppföljning",
+  "recentNotices": "Senaste notiserna",
+  "showNoticeHistory": "Visa notishistorik",
+  "noticeHistory": "Notishistorik",
   "noNotices": "Inga notiser rapporterade",
-  "noNoticesDays": "Inga meddelanden har rapporterats under de senaste {{days}} dagarna",
-  "noNoticesMonth": "Inga meddelanden har rapporterats denna månad",
-  "starts": "Startar"
+  "noNoticesDays": "Inga notiser rapporterade de senaste {{days}} dagarna",
+  "noNoticesMonth": "Inga notiser rapporterade denna månad",
+  "starts": "Börjar"
 }
