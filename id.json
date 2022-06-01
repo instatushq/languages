@@ -144,7 +144,7 @@
   "viewMaintenance": "Lihat pemeliharaan",
   "viewincident": "Lihat insiden",
   "impact": "Dampak",
-  "maintenanceWillBeginSoon": "Pemeliharaan akan dimulai dalam {}} menit",
+  "maintenanceWillBeginSoon": "Pemeliharaan akan dimulai dalam {{minutes}} menit",
   "postmortem": "Setelah mati",
   "recentNotices": "Pemberitahuan terbaru",
   "showNoticeHistory": "Tampilkan riwayat pemberitahuan",
