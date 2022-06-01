@@ -77,7 +77,7 @@
   "getUpdatesMicrosoftTeamsShort": "指定のチャネルにお知らせを受信",
   "getUpdatesMicrosoftTeamsLong": " 指定のチャネルにお知らせを受信  ",
   "learnMicrosoftTeamsWebhook": "Microsoft TeamsのチャネルにWebhookを追加するやり方",
-  "microsoftTeamsSend": "ステータスを更新されると、指定のMicrosoft Teamsチャネルにお知らせを送信します。",
+  "microsoftTeamsSend": "ステータスが更新されると、指定のMicrosoft Teamsチャネルにお知らせを送信します。",
   "language": "言語",
   "darkMode": "ダークモード",
   "lightMode": "ライトモード",
