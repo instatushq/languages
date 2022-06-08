@@ -152,5 +152,6 @@
   "noNotices": "Sorun bildirilmedi.",
   "noNoticesDays": "Son {{days}} gün içinde sorun bildirilmedi.",
   "noNoticesMonth": "Bu ay herhangi bir sorun bildirilmedi.",
-  "starts": "başlar"
+  "starts": "başlar",
+  "duration": "Süre"
 }

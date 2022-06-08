@@ -152,5 +152,6 @@
   "noNotices": "Nie zgłoszono żadnych powiadomień",
   "noNoticesDays": "Brak powiadomień z ostatnich {{days}} dni",
   "noNoticesMonth": "W tym miesiącu nie zgłoszono żadnych powiadomień",
-  "starts": "Rozpoczyna się"
+  "starts": "Rozpoczyna się",
+  "duration": "Czas trwania"
 }

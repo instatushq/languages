@@ -152,5 +152,6 @@
   "noNotices": "No notices reported",
   "noNoticesDays": "No notices reported for the past {{days}} days",
   "noNoticesMonth": "No notices reported this month",
-  "starts": "Starts"
+  "starts": "Starts",
+  "duration": "Duration"
 }

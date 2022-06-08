@@ -152,5 +152,6 @@
   "noNotices": "未報告任何通知",
   "noNoticesDays": "過去 {{days}} 天未報告任何通知",
   "noNoticesMonth": "本月未報告任何通知",
-  "starts": "開始"
+  "starts": "開始",
+  "duration": "期間"
 }

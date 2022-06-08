@@ -151,5 +151,6 @@
   "noNotices": "Ingen meldinger rapportert",
   "noNoticesDays": "Ingen meldinger rapportert de siste {{days}} dagene",
   "noNoticesMonth": "Ingen meldinger rapportert denne måneden",
-  "starts": "Starter"
+  "starts": "Starter",
+  "duration": "Varighet"
 }

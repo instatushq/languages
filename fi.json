@@ -152,5 +152,6 @@
   "noNotices": "Ei raportoituja ilmoituksia",
   "noNoticesDays": "Ei raportoituja ilmoituksia viimeisten {{days}} päivän aikana",
   "noNoticesMonth": "Ei raportoituja ilmoituksia tässä kuussa",
-  "starts": "Alkaa"
+  "starts": "Alkaa",
+  "duration": "Kesto"
 }

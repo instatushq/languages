@@ -150,5 +150,6 @@
   "noNotices": "Nenhum aviso relatado",
   "noNoticesDays": "Nenhum aviso relatado nos últimos {{days}} dias",
   "noNoticesMonth": "Nenhum aviso relatado este mês",
-  "starts": "Inicia"
+  "starts": "Inicia",
+  "duration": "Duração"
 }

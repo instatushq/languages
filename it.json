@@ -152,5 +152,6 @@
   "noNotices": "Nessun avviso segnalato",
   "noNoticesDays": "Nessun avviso segnalato negli ultimi {{days}} giorni",
   "noNoticesMonth": "Nessun avviso segnalato questo mese",
-  "starts": "Inizia"
+  "starts": "Inizia",
+  "duration": "Durata"
 }

@@ -152,5 +152,6 @@
   "noNotices": "Nu au fost raportate notificări",
   "noNoticesDays": "Nu au fost raportate notificări în ultimele {{days}} zile",
   "noNoticesMonth": "Nu au fost raportate notificări luna aceasta",
-  "starts": "Începe"
+  "starts": "Începe",
+  "duration": "Durată"
 }

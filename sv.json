@@ -152,5 +152,6 @@
   "noNotices": "Inga notiser rapporterade",
   "noNoticesDays": "Inga notiser rapporterade de senaste {{days}} dagarna",
   "noNoticesMonth": "Inga notiser rapporterade denna månad",
-  "starts": "Börjar"
+  "starts": "Börjar",
+  "duration": "Varaktighet"
 }
