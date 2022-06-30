@@ -1,7 +1,8 @@
-const fs = require('fs');
+const fs = require('fs')
 const path = require('path')
+require('dotenv').config()
 
-var api = "your_google_cloud_translate_api_key_here"
+var api = process.env.APIKEY
 var googleTranslate = require('google-translate')(api)
 
 const jsonsInDir = fs.readdirSync('./').filter(file => path.extname(file) === '.json')

@@ -3,6 +3,7 @@
     "start": "node ./index"
   },
   "dependencies": {
+    "dotenv": "^16.0.1",
     "google-translate": "^3.0.0"
   }
 }
