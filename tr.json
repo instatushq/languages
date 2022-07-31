@@ -153,5 +153,17 @@
   "noNoticesDays": "Son {{days}} gün içinde sorun bildirilmedi.",
   "noNoticesMonth": "Bu ay herhangi bir sorun bildirilmedi.",
   "starts": "başlar",
-  "duration": "Süre"
+  "duration": "Süre",
+  "viewLatestUpdates": "En son güncellemeleri görüntüleyin",
+  "lastUpdated": "En son {{time}} önce güncellendi",
+  "year": "yıl",
+  "years": "yıllar",
+  "month": "ay",
+  "months": "aylar",
+  "day": "gün",
+  "days": "günler",
+  "hour": "saat",
+  "hours": "saat",
+  "minute": "dakika",
+  "minutes": "dakika"
 }

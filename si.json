@@ -153,5 +153,17 @@
   "noNoticesDays": "Brez obvestil zadnjih {{days}} dni",
   "noNoticesMonth": "Brez obvestil ta mesec",
   "starts": "Začetek",
-  "duration": "Trajanje"
+  "duration": "Trajanje",
+  "viewLatestUpdates": "නවතම යාවත්කාලීන බලන්න",
+  "lastUpdated": "අවසන් වරට යාවත්කාලීන කළේ {{time}}කට පෙරය",
+  "year": "වර්ෂය",
+  "years": "වසර",
+  "month": "මස",
+  "months": "මාස",
+  "day": "දින",
+  "days": "දින",
+  "hour": "පැය",
+  "hours": "පැය",
+  "minute": "මිනිත්තුව",
+  "minutes": "මිනිත්තු"
 }
