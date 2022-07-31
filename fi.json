@@ -153,5 +153,17 @@
   "noNoticesDays": "Ei raportoituja ilmoituksia viimeisten {{days}} päivän aikana",
   "noNoticesMonth": "Ei raportoituja ilmoituksia tässä kuussa",
   "starts": "Alkaa",
-  "duration": "Kesto"
+  "duration": "Kesto",
+  "viewLatestUpdates": "Katso uusimmat päivitykset",
+  "lastUpdated": "Päivitetty viimeksi {{time}} sitten",
+  "year": "vuosi",
+  "years": "vuotta",
+  "month": "kuukausi",
+  "months": "kuukaudet",
+  "day": "päivä",
+  "days": "päivää",
+  "hour": "tunnin",
+  "hours": "tuntia",
+  "minute": "minuutti",
+  "minutes": "pöytäkirja"
 }

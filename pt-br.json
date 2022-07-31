@@ -151,5 +151,17 @@
   "noNoticesDays": "Nenhum aviso relatado nos últimos {{days}} dias",
   "noNoticesMonth": "Nenhum aviso relatado este mês",
   "starts": "Inicia",
-  "duration": "Duração"
+  "duration": "Duração",
+  "viewLatestUpdates": "Ver atualizações mais recentes",
+  "lastUpdated": "Última atualização {{time}} atrás",
+  "year": "ano",
+  "years": "anos",
+  "month": "mês",
+  "months": "meses",
+  "day": "dia",
+  "days": "dias",
+  "hour": "hora",
+  "hours": "horas",
+  "minute": "minuto",
+  "minutes": "minutos"
 }

@@ -153,5 +153,17 @@
   "noNoticesDays": "过去 {{days}} 天未报告任何通知",
   "noNoticesMonth": "本月未报告任何通知",
   "starts": "开始",
-  "duration": "期间"
+  "duration": "期间",
+  "viewLatestUpdates": "查看最新更新",
+  "lastUpdated": "上次更新 {{time}} 前",
+  "year": "年",
+  "years": "年",
+  "month": "月",
+  "months": "月",
+  "day": "天",
+  "days": "天",
+  "hour": "小时",
+  "hours": "小时",
+  "minute": "分钟",
+  "minutes": "分钟"
 }

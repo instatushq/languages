@@ -153,5 +153,17 @@
   "noNoticesDays": "No notices reported for the past {{days}} days",
   "noNoticesMonth": "No notices reported this month",
   "starts": "Starts",
-  "duration": "Duration"
+  "duration": "Duration",
+  "viewLatestUpdates": "View latest updates",
+  "lastUpdated": "Last updated {{time}} ago",
+  "year": "year",
+  "years": "years",
+  "month": "month",
+  "months": "months",
+  "day": "day",
+  "days": "days",
+  "hour": "hour",
+  "hours": "hours",
+  "minute": "minute",
+  "minutes": "minutes"
 }

@@ -153,5 +153,17 @@
   "noNoticesDays": "Tidak ada pemberitahuan yang dilaporkan selama {{days}} hari terakhir",
   "noNoticesMonth": "Tidak ada pemberitahuan yang dilaporkan bulan ini",
   "starts": "mulai",
-  "duration": "Durasi"
+  "duration": "Durasi",
+  "viewLatestUpdates": "Lihat pembaruan terbaru",
+  "lastUpdated": "Terakhir diperbarui {{time}} yang lalu",
+  "year": "tahun",
+  "years": "bertahun-tahun",
+  "month": "bulan",
+  "months": "bulan",
+  "day": "hari",
+  "days": "hari",
+  "hour": "jam",
+  "hours": "jam",
+  "minute": "menit",
+  "minutes": "menit"
 }

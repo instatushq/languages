@@ -153,5 +153,17 @@
   "noNoticesDays": "Nessun avviso segnalato negli ultimi {{days}} giorni",
   "noNoticesMonth": "Nessun avviso segnalato questo mese",
   "starts": "Inizia",
-  "duration": "Durata"
+  "duration": "Durata",
+  "viewLatestUpdates": "Visualizza gli ultimi aggiornamenti",
+  "lastUpdated": "Ultimo aggiornamento {{time}} fa",
+  "year": "anno",
+  "years": "anni",
+  "month": "mese",
+  "months": "mesi",
+  "day": "giorno",
+  "days": "giorni",
+  "hour": "ora",
+  "hours": "ore",
+  "minute": "minuto",
+  "minutes": "minuti"
 }
