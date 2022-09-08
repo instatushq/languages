@@ -165,5 +165,7 @@
   "hour": "Stunde",
   "hours": "Std.",
   "minute": "Minute",
-  "minutes": "Protokoll"
+  "minutes": "Protokoll",
+  "getNoticeUpdates": "Erhalten Sie Updates für diesen Hinweis",
+  "subscribeToAll": "Abonnieren Sie alle Statusseiten-Updates"
 }

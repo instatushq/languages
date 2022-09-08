@@ -164,5 +164,7 @@
   "hour": "giờ",
   "hours": "giờ",
   "minute": "phút",
-  "minutes": "phút"
+  "minutes": "phút",
+  "getNoticeUpdates": "Nhận thông tin cập nhật cho thông báo này",
+  "subscribeToAll": "Đăng ký tất cả các cập nhật trang trạng thái"
 }

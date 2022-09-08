@@ -165,5 +165,7 @@
   "hour": "saat",
   "hours": "saat",
   "minute": "dakika",
-  "minutes": "dakika"
+  "minutes": "dakika",
+  "getNoticeUpdates": "Bu bildirim için güncellemeleri alın",
+  "subscribeToAll": "Tüm durum sayfası güncellemelerine abone olun"
 }

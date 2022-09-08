@@ -165,5 +165,7 @@
   "hour": "uro",
   "hours": "ure",
   "minute": "minuta",
-  "minutes": "minut"
+  "minutes": "minut",
+  "getNoticeUpdates": "Pridobite posodobitve za to obvestilo",
+  "subscribeToAll": "Naročite se na vse posodobitve strani s stanjem"
 }

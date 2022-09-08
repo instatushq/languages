@@ -164,5 +164,7 @@
   "hour": "time",
   "hours": "timer",
   "minute": "minut",
-  "minutes": "minutter"
+  "minutes": "minutter",
+  "getNoticeUpdates": "Få opdateringer til denne meddelelse",
+  "subscribeToAll": "Abonner på alle statussideopdateringer"
 }

@@ -164,5 +164,7 @@
   "hour": "uur",
   "hours": "uur",
   "minute": "minuut",
-  "minutes": "minuten"
+  "minutes": "minuten",
+  "getNoticeUpdates": "Ontvang updates voor deze melding",
+  "subscribeToAll": "Abonneer u op alle updates van de statuspagina"
 }

@@ -165,5 +165,7 @@
   "hour": "tunnin",
   "hours": "tuntia",
   "minute": "minuutti",
-  "minutes": "pöytäkirja"
+  "minutes": "pöytäkirja",
+  "getNoticeUpdates": "Hanki päivityksiä tähän ilmoitukseen",
+  "subscribeToAll": "Tilaa kaikki tilasivun päivitykset"
 }

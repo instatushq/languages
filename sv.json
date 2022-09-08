@@ -165,5 +165,7 @@
   "hour": "timme",
   "hours": "timmar",
   "minute": "minut",
-  "minutes": "minuter"
+  "minutes": "minuter",
+  "getNoticeUpdates": "Få uppdateringar för detta meddelande",
+  "subscribeToAll": "Prenumerera på alla uppdateringar av statussidan"
 }

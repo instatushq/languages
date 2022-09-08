@@ -165,5 +165,7 @@
   "hour": "hodina",
   "hours": "hodin",
   "minute": "minuta",
-  "minutes": "minut"
+  "minutes": "minut",
+  "getNoticeUpdates": "Získejte aktualizace pro toto oznámení",
+  "subscribeToAll": "Přihlaste se k odběru všech aktualizací stavové stránky"
 }

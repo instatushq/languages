@@ -163,5 +163,7 @@
   "hour": "hora",
   "hours": "horas",
   "minute": "minuto",
-  "minutes": "minutos"
+  "minutes": "minutos",
+  "getNoticeUpdates": "Obter atualizações para este aviso",
+  "subscribeToAll": "Assine todas as atualizações da página de status"
 }

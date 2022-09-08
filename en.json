@@ -165,5 +165,7 @@
   "hour": "hour",
   "hours": "hours",
   "minute": "minute",
-  "minutes": "minutes"
+  "minutes": "minutes",
+  "getNoticeUpdates": "Get updates for this notice",
+  "subscribeToAll": "Subscribe to all status page updates instead"
 }

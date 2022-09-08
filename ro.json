@@ -165,5 +165,7 @@
   "hour": "ora",
   "hours": "ore",
   "minute": "minut",
-  "minutes": "minute"
+  "minutes": "minute",
+  "getNoticeUpdates": "Obțineți actualizări pentru această notificare",
+  "subscribeToAll": "Abonați-vă la toate actualizările paginii de stare"
 }

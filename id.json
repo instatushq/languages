@@ -165,5 +165,7 @@
   "hour": "jam",
   "hours": "jam",
   "minute": "menit",
-  "minutes": "menit"
+  "minutes": "menit",
+  "getNoticeUpdates": "Dapatkan pembaruan untuk pemberitahuan ini",
+  "subscribeToAll": "Berlangganan ke semua pembaruan halaman status"
 }
