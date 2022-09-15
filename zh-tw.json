@@ -153,5 +153,19 @@
   "noNoticesDays": "過去 {{days}} 天未報告任何通知",
   "noNoticesMonth": "本月未報告任何通知",
   "starts": "開始",
-  "duration": "期間"
+  "duration": "期間",
+  "viewLatestUpdates": "查看最新更新",
+  "lastUpdated": "上次更新 {{time}} 前",
+  "year": "年",
+  "years": "年",
+  "month": "月",
+  "months": "月",
+  "day": "天",
+  "days": "天",
+  "hour": "小時",
+  "hours": "小時",
+  "minute": "分鐘",
+  "minutes": "分鐘",
+  "getNoticeUpdates": "獲取此通知的更新",
+  "subscribeToAll": "訂閱所有狀態頁面更新"
 }

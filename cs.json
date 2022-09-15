@@ -153,5 +153,19 @@
   "noNoticesDays": "Za posledních {{days}} dnů nebyla hlášena žádná oznámení",
   "noNoticesMonth": "Tento měsíc nebyla hlášena žádná oznámení",
   "starts": "Začíná",
-  "duration": "Doba trvání"
+  "duration": "Doba trvání",
+  "viewLatestUpdates": "Zobrazit nejnovější aktualizace",
+  "lastUpdated": "Naposledy aktualizováno před {{time}}",
+  "year": "rok",
+  "years": "let",
+  "month": "Měsíc",
+  "months": "měsíce",
+  "day": "den",
+  "days": "dní",
+  "hour": "hodina",
+  "hours": "hodin",
+  "minute": "minuta",
+  "minutes": "minut",
+  "getNoticeUpdates": "Získejte aktualizace pro toto oznámení",
+  "subscribeToAll": "Přihlaste se k odběru všech aktualizací stavové stránky"
 }

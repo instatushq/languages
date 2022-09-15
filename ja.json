@@ -153,5 +153,19 @@
   "noNoticesDays": "過去{{days}}日間の通知は報告されていません",
   "noNoticesMonth": "今月の通知はありません",
   "starts": "開始",
-  "duration": "間隔"
+  "duration": "間隔",
+  "viewLatestUpdates": "最新のアップデートを見る",
+  "lastUpdated": "最終更新日{{time}}前",
+  "year": "年",
+  "years": "年",
+  "month": "月",
+  "months": "月",
+  "day": "日",
+  "days": "日々",
+  "hour": "時間",
+  "hours": "時間",
+  "minute": "分",
+  "minutes": "分",
+  "getNoticeUpdates": "この通知の最新情報を入手する",
+  "subscribeToAll": "すべてのステータス ページの更新を購読する"
 }

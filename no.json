@@ -152,5 +152,19 @@
   "noNoticesDays": "Ingen meldinger rapportert de siste {{days}} dagene",
   "noNoticesMonth": "Ingen meldinger rapportert denne måneden",
   "starts": "Starter",
-  "duration": "Varighet"
+  "duration": "Varighet",
+  "viewLatestUpdates": "Se siste oppdateringer",
+  "lastUpdated": "Sist oppdatert for {{time}} siden",
+  "year": "år",
+  "years": "år",
+  "month": "måned",
+  "months": "måneder",
+  "day": "dag",
+  "days": "dager",
+  "hour": "time",
+  "hours": "timer",
+  "minute": "minutt",
+  "minutes": "minutter",
+  "getNoticeUpdates": "Få oppdateringer for denne kunngjøringen",
+  "subscribeToAll": "Abonner på alle statussideoppdateringer"
 }

@@ -152,5 +152,19 @@
   "noNoticesDays": "Geen meldingen gerapporteerd in de afgelopen {{days}} dagen",
   "noNoticesMonth": "Geen mededelingen deze maand",
   "starts": "begint",
-  "duration": "Looptijd"
+  "duration": "Looptijd",
+  "viewLatestUpdates": "Bekijk de laatste updates",
+  "lastUpdated": "Laatst bijgewerkt {{time}} geleden",
+  "year": "jaar",
+  "years": "jaar",
+  "month": "maand",
+  "months": "maanden",
+  "day": "dag",
+  "days": "dagen",
+  "hour": "uur",
+  "hours": "uur",
+  "minute": "minuut",
+  "minutes": "minuten",
+  "getNoticeUpdates": "Ontvang updates voor deze melding",
+  "subscribeToAll": "Abonneer u op alle updates van de statuspagina"
 }

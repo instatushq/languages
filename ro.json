@@ -153,5 +153,19 @@
   "noNoticesDays": "Nu au fost raportate notificări în ultimele {{days}} zile",
   "noNoticesMonth": "Nu au fost raportate notificări luna aceasta",
   "starts": "Începe",
-  "duration": "Durată"
+  "duration": "Durată",
+  "viewLatestUpdates": "Vedeți cele mai recente actualizări",
+  "lastUpdated": "Ultima actualizare acum {{time}}",
+  "year": "an",
+  "years": "ani",
+  "month": "lună",
+  "months": "luni",
+  "day": "zi",
+  "days": "zile",
+  "hour": "ora",
+  "hours": "ore",
+  "minute": "minut",
+  "minutes": "minute",
+  "getNoticeUpdates": "Obțineți actualizări pentru această notificare",
+  "subscribeToAll": "Abonați-vă la toate actualizările paginii de stare"
 }

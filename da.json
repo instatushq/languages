@@ -152,5 +152,19 @@
   "noNoticesDays": "Ingen meddelelser rapporteret for de seneste {{days}} dage",
   "noNoticesMonth": "Ingen meddelelser rapporteret denne måned",
   "starts": "Starter",
-  "duration": "Varighed"
+  "duration": "Varighed",
+  "viewLatestUpdates": "Se seneste opdateringer",
+  "lastUpdated": "Sidst opdateret for {{time}} siden",
+  "year": "år",
+  "years": "flere år",
+  "month": "måned",
+  "months": "måneder",
+  "day": "dag",
+  "days": "dage",
+  "hour": "time",
+  "hours": "timer",
+  "minute": "minut",
+  "minutes": "minutter",
+  "getNoticeUpdates": "Få opdateringer til denne meddelelse",
+  "subscribeToAll": "Abonner på alle statussideopdateringer"
 }

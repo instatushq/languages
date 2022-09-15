@@ -152,5 +152,19 @@
   "noNoticesDays": "Aucun incident signalé au cours des {{days}} derniers jours",
   "noNoticesMonth": "Aucun incident signalé ce mois-ci",
   "starts": "Départ",
-  "duration": "Durée"
+  "duration": "Durée",
+  "viewLatestUpdates": "Afficher les dernières mises à jour",
+  "lastUpdated": "Dernière mise à jour il y a {{time}}",
+  "year": "an",
+  "years": "années",
+  "month": "mois",
+  "months": "mois",
+  "day": "journée",
+  "days": "journées",
+  "hour": "heure",
+  "hours": "heures",
+  "minute": "minute",
+  "minutes": "minutes",
+  "getNoticeUpdates": "Obtenir des mises à jour pour cet avis",
+  "subscribeToAll": "Abonnez-vous à toutes les mises à jour de la page d'état"
 }

@@ -152,5 +152,19 @@
   "noNoticesDays": "Không có thông báo nào được báo cáo trong {{days}} ngày qua",
   "noNoticesMonth": "Không có thông báo nào được báo cáo trong tháng này",
   "starts": "Bắt đầu",
-  "duration": "Khoảng thời gian"
+  "duration": "Khoảng thời gian",
+  "viewLatestUpdates": "Xem các bản cập nhật mới nhất",
+  "lastUpdated": "Cập nhật lần cuối {{time}} trước",
+  "year": "năm",
+  "years": "năm",
+  "month": "tháng",
+  "months": "tháng",
+  "day": "ngày",
+  "days": "ngày",
+  "hour": "giờ",
+  "hours": "giờ",
+  "minute": "phút",
+  "minutes": "phút",
+  "getNoticeUpdates": "Nhận thông tin cập nhật cho thông báo này",
+  "subscribeToAll": "Đăng ký tất cả các cập nhật trang trạng thái"
 }

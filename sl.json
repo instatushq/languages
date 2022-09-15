@@ -153,5 +153,19 @@
   "noNoticesDays": "Brez obvestil zadnjih {{days}} dni",
   "noNoticesMonth": "Brez obvestil ta mesec",
   "starts": "Začetek",
-  "duration": "Trajanje"
+  "duration": "Trajanje",
+  "viewLatestUpdates": "Oglejte si najnovejše posodobitve",
+  "lastUpdated": "Nazadnje posodobljeno pred {{time}}",
+  "year": "leto",
+  "years": "leta",
+  "month": "mesec",
+  "months": "mesecih",
+  "day": "dan",
+  "days": "dnevi",
+  "hour": "uro",
+  "hours": "ure",
+  "minute": "minuta",
+  "minutes": "minut",
+  "getNoticeUpdates": "Pridobite posodobitve za to obvestilo",
+  "subscribeToAll": "Naročite se na vse posodobitve strani s stanjem"
 }

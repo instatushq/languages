@@ -153,5 +153,19 @@
   "noNoticesDays": "Keine Benachrichtigungen für die letzten {{days}} Tage gemeldet",
   "noNoticesMonth": "Diesen Monat wurden keine Benachrichtigungen gemeldet",
   "starts": "Beginnt",
-  "duration": "Dauer"
+  "duration": "Dauer",
+  "viewLatestUpdates": "Neueste Updates anzeigen",
+  "lastUpdated": "Zuletzt aktualisiert vor {{time}}",
+  "year": "Jahr",
+  "years": "Jahre",
+  "month": "Monat",
+  "months": "Monate",
+  "day": "Tag",
+  "days": "Tage",
+  "hour": "Stunde",
+  "hours": "Std.",
+  "minute": "Minute",
+  "minutes": "Protokoll",
+  "getNoticeUpdates": "Erhalten Sie Updates für diesen Hinweis",
+  "subscribeToAll": "Abonnieren Sie alle Statusseiten-Updates"
 }

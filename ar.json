@@ -153,5 +153,19 @@
   "noNoticesDays": "لم يتم الإبلاغ عن أي إشعارات عن الأيام الـ {{days}} الماضية",
   "noNoticesMonth": "لم يتم الإبلاغ عن أي إشعارات هذا الشهر",
   "starts": "يبدأ",
-  "duration": "مدة"
+  "duration": "مدة",
+  "viewLatestUpdates": "عرض آخر التحديثات",
+  "lastUpdated": "آخر تحديث منذ {{time}}",
+  "year": "عام",
+  "years": "سنوات",
+  "month": "شهر",
+  "months": "الشهور",
+  "day": "يوم",
+  "days": "أيام",
+  "hour": "ساعة",
+  "hours": "ساعات",
+  "minute": "اللحظة",
+  "minutes": "الدقائق",
+  "getNoticeUpdates": "احصل على تحديثات لهذا الإشعار",
+  "subscribeToAll": "اشترك في جميع تحديثات صفحة الحالة"
 }
