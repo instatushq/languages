@@ -155,7 +155,7 @@
   "starts": "開始",
   "duration": "間隔",
   "viewLatestUpdates": "最新の更新を見る",
-  "lastUpdated": "最終更新日{{time}}前",
+  "lastUpdated": "最終更新: {{time}}前",
   "year": "年",
   "years": "年",
   "month": "月",
