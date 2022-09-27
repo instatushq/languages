@@ -167,5 +167,6 @@
   "minute": "minut",
   "minutes": "minute",
   "getNoticeUpdates": "Obțineți actualizări pentru această notificare",
-  "subscribeToAll": "Abonați-vă la toate actualizările paginii de stare"
+  "subscribeToAll": "Abonați-vă la toate actualizările paginii de stare",
+  "phoneNumber": "Număr de telefon"
 }

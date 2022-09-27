@@ -167,5 +167,6 @@
   "minute": "menit",
   "minutes": "menit",
   "getNoticeUpdates": "Dapatkan pembaruan untuk pemberitahuan ini",
-  "subscribeToAll": "Berlangganan ke semua pembaruan halaman status"
+  "subscribeToAll": "Berlangganan ke semua pembaruan halaman status",
+  "phoneNumber": "Nomor telepon"
 }

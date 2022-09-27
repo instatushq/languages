@@ -167,5 +167,6 @@
   "minute": "minuta",
   "minutes": "minut",
   "getNoticeUpdates": "Pridobite posodobitve za to obvestilo",
-  "subscribeToAll": "Naročite se na vse posodobitve strani s stanjem"
+  "subscribeToAll": "Naročite se na vse posodobitve strani s stanjem",
+  "phoneNumber": "Telefonska številka"
 }

@@ -166,5 +166,6 @@
   "minute": "minuut",
   "minutes": "minuten",
   "getNoticeUpdates": "Ontvang updates voor deze melding",
-  "subscribeToAll": "Abonneer u op alle updates van de statuspagina"
+  "subscribeToAll": "Abonneer u op alle updates van de statuspagina",
+  "phoneNumber": "Telefoonnummer"
 }

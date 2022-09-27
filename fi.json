@@ -167,5 +167,6 @@
   "minute": "minuutti",
   "minutes": "pöytäkirja",
   "getNoticeUpdates": "Hanki päivityksiä tähän ilmoitukseen",
-  "subscribeToAll": "Tilaa kaikki tilasivun päivitykset"
+  "subscribeToAll": "Tilaa kaikki tilasivun päivitykset",
+  "phoneNumber": "Puhelinnumero"
 }

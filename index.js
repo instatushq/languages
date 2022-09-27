@@ -12,8 +12,8 @@ jsonsInDir.forEach((file, i) => {
     const fileData = fs.readFileSync(path.join('./', file))
     const json = JSON.parse(fileData.toString())
 
-    const key = 'ourText' // our text key 
-    let text = 'Our text' // our text to translate here
+    const key = 'phoneNumber' // our text key 
+    let text = 'Phone number' // our text to translate here
 
     googleTranslate.translate(text, json.languageCode, function (err, translation) {
       console.log(err)

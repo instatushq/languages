@@ -167,5 +167,6 @@
   "minute": "dakika",
   "minutes": "dakika",
   "getNoticeUpdates": "Bu bildirim için güncellemeleri alın",
-  "subscribeToAll": "Tüm durum sayfası güncellemelerine abone olun"
+  "subscribeToAll": "Tüm durum sayfası güncellemelerine abone olun",
+  "phoneNumber": "Telefon numarası"
 }

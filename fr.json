@@ -166,5 +166,6 @@
   "minute": "minute",
   "minutes": "minutes",
   "getNoticeUpdates": "Obtenir des mises à jour pour cet avis",
-  "subscribeToAll": "Abonnez-vous à toutes les mises à jour de la page d'état"
+  "subscribeToAll": "Abonnez-vous à toutes les mises à jour de la page d'état",
+  "phoneNumber": "Numéro de téléphone"
 }

@@ -167,5 +167,6 @@
   "minute": "minute",
   "minutes": "minutes",
   "getNoticeUpdates": "Get updates for this notice",
-  "subscribeToAll": "Subscribe to all status page updates instead"
+  "subscribeToAll": "Subscribe to all status page updates instead",
+  "phoneNumber": "Phone number"
 }

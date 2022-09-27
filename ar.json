@@ -167,5 +167,6 @@
   "minute": "اللحظة",
   "minutes": "الدقائق",
   "getNoticeUpdates": "احصل على تحديثات لهذا الإشعار",
-  "subscribeToAll": "اشترك في جميع تحديثات صفحة الحالة"
+  "subscribeToAll": "اشترك في جميع تحديثات صفحة الحالة",
+  "phoneNumber": "رقم الهاتف"
 }

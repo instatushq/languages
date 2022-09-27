@@ -167,5 +167,6 @@
   "minute": "minuta",
   "minutes": "minuty",
   "getNoticeUpdates": "Otrzymuj aktualizacje dotyczące tego powiadomienia",
-  "subscribeToAll": "Subskrybuj wszystkie aktualizacje strony statusu"
+  "subscribeToAll": "Subskrybuj wszystkie aktualizacje strony statusu",
+  "phoneNumber": "Numer telefonu"
 }

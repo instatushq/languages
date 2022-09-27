@@ -167,5 +167,6 @@
   "minute": "minuto",
   "minutes": "minutos",
   "getNoticeUpdates": "Obtenga actualizaciones para este aviso",
-  "subscribeToAll": "Suscríbete a todas las actualizaciones de la página de estado"
+  "subscribeToAll": "Suscríbete a todas las actualizaciones de la página de estado",
+  "phoneNumber": "Número de teléfono"
 }

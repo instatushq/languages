@@ -167,5 +167,6 @@
   "minute": "分钟",
   "minutes": "分钟",
   "getNoticeUpdates": "获取此通知的更新",
-  "subscribeToAll": "订阅所有状态页面更新"
+  "subscribeToAll": "订阅所有状态页面更新",
+  "phoneNumber": "电话号码"
 }

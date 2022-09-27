@@ -167,5 +167,6 @@
   "minute": "分",
   "minutes": "分",
   "getNoticeUpdates": "このお知らせの更新情報を受け取る",
-  "subscribeToAll": "すべてのステータス ページの更新を購読する"
+  "subscribeToAll": "すべてのステータス ページの更新を購読する",
+  "phoneNumber": "電話番号"
 }

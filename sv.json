@@ -167,5 +167,6 @@
   "minute": "minut",
   "minutes": "minuter",
   "getNoticeUpdates": "Få uppdateringar för detta meddelande",
-  "subscribeToAll": "Prenumerera på alla uppdateringar av statussidan"
+  "subscribeToAll": "Prenumerera på alla uppdateringar av statussidan",
+  "phoneNumber": "Telefonnummer"
 }
