@@ -173,5 +173,6 @@
   "hotRightNow": "Вруће управо сада",
   "services": "Услуге",
   "favorites": "Фаворитес",
-  "loadMore": "Учитај више"
+  "loadMore": "Учитај више",
+  "isXDown": "Да ли {{service}} не ради?"
 }

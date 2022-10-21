@@ -176,5 +176,6 @@
   "hotRightNow": "Caliente ahora",
   "services": "Servicios",
   "favorites": "Favoritos",
-  "loadMore": "Carga más"
+  "loadMore": "Carga más",
+  "isXDown": "¿Está {{service}} caído?"
 }

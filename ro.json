@@ -176,5 +176,6 @@
   "hotRightNow": "Fierbinte chiar acum",
   "services": "Servicii",
   "favorites": "Favorite",
-  "loadMore": "Incarca mai mult"
+  "loadMore": "Incarca mai mult",
+  "isXDown": "{{service}} este oprit?"
 }

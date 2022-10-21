@@ -176,5 +176,6 @@
   "hotRightNow": "Kuuma juuri nyt",
   "services": "Palvelut",
   "favorites": "Suosikit",
-  "loadMore": "Lataa lisää"
+  "loadMore": "Lataa lisää",
+  "isXDown": "Onko {{service}} toiminnassa?"
 }

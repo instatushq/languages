@@ -175,5 +175,6 @@
   "hotRightNow": "Жарко зараз",
   "services": "Послуги",
   "favorites": "Вибране",
-  "loadMore": "Завантажити ще"
+  "loadMore": "Завантажити ще",
+  "isXDown": "{{service}} не працює?"
 }

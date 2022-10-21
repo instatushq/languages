@@ -176,5 +176,6 @@
   "hotRightNow": "Trenutno vroče",
   "services": "Storitve",
   "favorites": "Priljubljene",
-  "loadMore": "Naloži več"
+  "loadMore": "Naloži več",
+  "isXDown": "Ali {{service}} ne deluje?"
 }

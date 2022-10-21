@@ -176,5 +176,6 @@
   "hotRightNow": "Sıcak şimdi",
   "services": "Hizmetler",
   "favorites": "Favoriler",
-  "loadMore": "Daha fazla yükle"
+  "loadMore": "Daha fazla yükle",
+  "isXDown": "{{service}} çalışmıyor mu?"
 }

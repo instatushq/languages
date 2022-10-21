@@ -174,5 +174,6 @@
   "hotRightNow": "Quente agora",
   "services": "Serviços",
   "favorites": "Favoritos",
-  "loadMore": "Carregue mais"
+  "loadMore": "Carregue mais",
+  "isXDown": "O {{service}} está inativo?"
 }

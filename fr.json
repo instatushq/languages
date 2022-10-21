@@ -175,5 +175,6 @@
   "hotRightNow": "Chaud en ce moment",
   "services": "Prestations de service",
   "favorites": "Favoris",
-  "loadMore": "Charger plus"
+  "loadMore": "Charger plus",
+  "isXDown": "{{service}} est-il en panne ?"
 }

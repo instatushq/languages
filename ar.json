@@ -176,5 +176,6 @@
   "hotRightNow": "ساخن الآن",
   "services": "خدمات",
   "favorites": "المفضلة",
-  "loadMore": "تحميل المزيد"
+  "loadMore": "تحميل المزيد",
+  "isXDown": "هل {{service}} معطلة؟"
 }

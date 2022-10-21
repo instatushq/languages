@@ -175,5 +175,6 @@
   "hotRightNow": "Неотложно",
   "services": "Услуги",
   "favorites": "Избранное",
-  "loadMore": "Загрузи больше"
+  "loadMore": "Загрузи больше",
+  "isXDown": "{{service}} не работает?"
 }

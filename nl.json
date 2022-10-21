@@ -175,5 +175,6 @@
   "hotRightNow": "Heet nu",
   "services": "Diensten",
   "favorites": "Favorieten",
-  "loadMore": "Meer laden"
+  "loadMore": "Meer laden",
+  "isXDown": "Is {{service}} niet beschikbaar?"
 }

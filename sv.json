@@ -176,5 +176,6 @@
   "hotRightNow": "Varmt just nu",
   "services": "Tjänster",
   "favorites": "Favoriter",
-  "loadMore": "Ladda mer"
+  "loadMore": "Ladda mer",
+  "isXDown": "Är {{service}} nere?"
 }

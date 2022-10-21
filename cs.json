@@ -176,5 +176,6 @@
   "hotRightNow": "Horko právě teď",
   "services": "Služby",
   "favorites": "Oblíbené",
-  "loadMore": "Načíst další"
+  "loadMore": "Načíst další",
+  "isXDown": "Je služba {{service}} mimo provoz?"
 }

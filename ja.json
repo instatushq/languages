@@ -176,5 +176,6 @@
   "hotRightNow": "今あつい",
   "services": "サービス",
   "favorites": "お気に入り",
-  "loadMore": "もっと読み込む"
+  "loadMore": "もっと読み込む",
+  "isXDown": "{{service}} はダウンしていますか?"
 }

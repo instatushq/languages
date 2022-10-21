@@ -176,5 +176,6 @@
   "hotRightNow": "Gorąco teraz",
   "services": "Usługi",
   "favorites": "Ulubione",
-  "loadMore": "Załaduj więcej"
+  "loadMore": "Załaduj więcej",
+  "isXDown": "Czy {{service}} nie działa?"
 }

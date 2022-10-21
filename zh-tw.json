@@ -176,5 +176,6 @@
   "hotRightNow": "現在熱門",
   "services": "服務",
   "favorites": "收藏夾",
-  "loadMore": "裝載更多"
+  "loadMore": "裝載更多",
+  "isXDown": "{{service}} 關閉了嗎？"
 }

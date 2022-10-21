@@ -176,5 +176,6 @@
   "hotRightNow": "Hot right now",
   "services": "Services",
   "favorites": "Favorites",
-  "loadMore": "Load more"
+  "loadMore": "Load more",
+  "isXDown": "Is {{service}} down?"
 }

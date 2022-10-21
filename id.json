@@ -176,5 +176,6 @@
   "hotRightNow": "Panas sekarang",
   "services": "Jasa",
   "favorites": "Favorit",
-  "loadMore": "Muat lebih banyak"
+  "loadMore": "Muat lebih banyak",
+  "isXDown": "Apakah {{service}} tidak aktif?"
 }

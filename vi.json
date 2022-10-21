@@ -175,5 +175,6 @@
   "hotRightNow": "Nóng ngay bây giờ",
   "services": "Dịch vụ",
   "favorites": "Yêu thích",
-  "loadMore": "Tải thêm"
+  "loadMore": "Tải thêm",
+  "isXDown": "{{service}} có bị gián đoạn không?"
 }
