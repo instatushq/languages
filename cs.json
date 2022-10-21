@@ -8,7 +8,7 @@
   "at": "v",
   "status": "Stav",
   "statusPage": "Stavová stránka",
-  "isDown": "Služba {{service}} nefunguje",
+  "isDown": "Některá ze služeb je aktuálně nedostupná",
   "isDisrupted": "Provoz některé ze služeb je aktuálně narušen",
   "isNotice": "Probíhá údržba",
   "isOk": "Všechny služby jsou funkční",

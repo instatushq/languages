@@ -8,7 +8,7 @@
   "at": "at",
   "status": "Status",
   "statusPage": "Status Page",
-  "isDown": "{{service}} is down",
+  "isDown": "Experiencing issues",
   "isDisrupted": "Experiencing disruptions",
   "isNotice": "Maintenance in progress",
   "isOk": "All systems operational",
