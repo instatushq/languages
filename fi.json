@@ -172,11 +172,17 @@
   "findAService": "Etsi palvelu",
   "noIssuesReportedYet": "Ongelmista ei ole vielä raportoitu",
   "peopleReportedThis": "{{number}} henkilöä ilmoitti tästä",
-  "isUp": "{{service}} on käytössä",
   "hotRightNow": "Kuuma juuri nyt",
   "services": "Palvelut",
   "favorites": "Suosikit",
   "loadMore": "Lataa lisää",
   "isXDown": "Onko {{service}} toiminnassa?",
-  "iHaveAnIssueToo": "Minullakin on ongelma"
+  "iHaveAnIssueToo": "Minullakin on ongelma",
+  "serviceIsDown": "{{service}} on poissa käytöstä",
+  "serviceIsUp": "{{service}} on käytössä",
+  "done": "Tehty",
+  "selectAComponent": "Valitse komponentti",
+  "noServicesFound": "Palveluita ei löytynyt",
+  "reports": "{{number}} raporttia",
+  "changeTheme": "Vaihda teema"
 }

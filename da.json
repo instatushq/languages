@@ -171,11 +171,17 @@
   "findAService": "Find en tjeneste",
   "noIssuesReportedYet": "Ingen problemer rapporteret endnu",
   "peopleReportedThis": "{{number}} personer rapporterede dette",
-  "isUp": "{{service}} er oppe",
   "hotRightNow": "Varmt lige nu",
   "services": "Tjenester",
   "favorites": "Favoritter",
   "loadMore": "Indlæs mere",
   "isXDown": "Er {{service}} nede?",
-  "iHaveAnIssueToo": "Jeg har også et problem"
+  "iHaveAnIssueToo": "Jeg har også et problem",
+  "serviceIsDown": "{{service}} er nede",
+  "serviceIsUp": "{{service}} er oppe",
+  "done": "Færdig",
+  "selectAComponent": "Vælg en komponent",
+  "noServicesFound": "Ingen tjenester fundet",
+  "reports": "{{number}} rapporter",
+  "changeTheme": "Skift tema"
 }

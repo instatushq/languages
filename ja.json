@@ -172,11 +172,17 @@
   "findAService": "サービスを探す",
   "noIssuesReportedYet": "まだ問題は報告されていません",
   "peopleReportedThis": "{{number}}人がこれを報告しました",
-  "isUp": "{{service}}が稼働中",
   "hotRightNow": "今あつい",
   "services": "サービス",
   "favorites": "お気に入り",
   "loadMore": "もっと読み込む",
   "isXDown": "{{service}} はダウンしていますか?",
-  "iHaveAnIssueToo": "私にも問題があります"
+  "iHaveAnIssueToo": "私にも問題があります",
+  "serviceIsDown": "{{service}} がダウンしています",
+  "serviceIsUp": "{{service}}が稼働中",
+  "done": "終わり",
+  "selectAComponent": "コンポーネントを選択",
+  "noServicesFound": "サービスが見つかりません",
+  "reports": "{{number}} 件の報告",
+  "changeTheme": "テーマを変更"
 }

@@ -171,11 +171,17 @@
   "findAService": "Знайдіть послугу",
   "noIssuesReportedYet": "Про проблеми ще не повідомляється",
   "peopleReportedThis": "Про це повідомили {{number}} людей",
-  "isUp": "{{service}} працює",
   "hotRightNow": "Жарко зараз",
   "services": "Послуги",
   "favorites": "Вибране",
   "loadMore": "Завантажити ще",
   "isXDown": "{{service}} не працює?",
-  "iHaveAnIssueToo": "У мене теж проблема"
+  "iHaveAnIssueToo": "У мене теж проблема",
+  "serviceIsDown": "{{service}} не працює",
+  "serviceIsUp": "{{service}} працює",
+  "done": "Готово",
+  "selectAComponent": "Виберіть компонент",
+  "noServicesFound": "Послуг не знайдено",
+  "reports": "{{number}} звітів",
+  "changeTheme": "Змінити тему"
 }

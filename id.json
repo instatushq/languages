@@ -172,11 +172,17 @@
   "findAService": "Temukan layanan",
   "noIssuesReportedYet": "Belum ada masalah yang dilaporkan",
   "peopleReportedThis": "{{number}} orang melaporkan ini",
-  "isUp": "{{service}} sudah habis",
   "hotRightNow": "Panas sekarang",
   "services": "Jasa",
   "favorites": "Favorit",
   "loadMore": "Muat lebih banyak",
   "isXDown": "Apakah {{service}} tidak aktif?",
-  "iHaveAnIssueToo": "Saya juga punya masalah"
+  "iHaveAnIssueToo": "Saya juga punya masalah",
+  "serviceIsDown": "{{service}} tidak aktif",
+  "serviceIsUp": "{{service}} sudah habis",
+  "done": "Selesai",
+  "selectAComponent": "Pilih komponen",
+  "noServicesFound": "Tidak ada layanan yang ditemukan",
+  "reports": "{{number}} laporan",
+  "changeTheme": "Ubah tema"
 }

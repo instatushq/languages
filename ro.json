@@ -172,11 +172,17 @@
   "findAService": "Găsiți un serviciu",
   "noIssuesReportedYet": "Nu au fost raportate probleme încă",
   "peopleReportedThis": "{{number}} persoane au raportat acest lucru",
-  "isUp": "{{service}} este activ",
   "hotRightNow": "Fierbinte chiar acum",
   "services": "Servicii",
   "favorites": "Favorite",
   "loadMore": "Incarca mai mult",
   "isXDown": "{{service}} este oprit?",
-  "iHaveAnIssueToo": "Am si eu o problema"
+  "iHaveAnIssueToo": "Am si eu o problema",
+  "serviceIsDown": "{{service}} este oprit",
+  "serviceIsUp": "{{service}} este activ",
+  "done": "Terminat",
+  "selectAComponent": "Selectați o componentă",
+  "noServicesFound": "Nu au fost găsite servicii",
+  "reports": "{{number}} rapoarte",
+  "changeTheme": "Schimbă tema"
 }

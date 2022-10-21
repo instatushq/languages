@@ -171,11 +171,17 @@
   "findAService": "Найти услугу",
   "noIssuesReportedYet": "О проблемах пока не сообщалось",
   "peopleReportedThis": "{{number}} человек сообщили об этом",
-  "isUp": "{{service}} работает",
   "hotRightNow": "Неотложно",
   "services": "Услуги",
   "favorites": "Избранное",
   "loadMore": "Загрузи больше",
   "isXDown": "{{service}} не работает?",
-  "iHaveAnIssueToo": "у меня тоже проблема"
+  "iHaveAnIssueToo": "у меня тоже проблема",
+  "serviceIsDown": "{{service}} не работает",
+  "serviceIsUp": "{{service}} работает",
+  "done": "Сделанный",
+  "selectAComponent": "Выберите компонент",
+  "noServicesFound": "Услуги не найдены",
+  "reports": "{{number}} отчетов",
+  "changeTheme": "Поменять тему"
 }

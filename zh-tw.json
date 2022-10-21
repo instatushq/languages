@@ -172,11 +172,17 @@
   "findAService": "查找服務",
   "noIssuesReportedYet": "尚未報告任何問題",
   "peopleReportedThis": "{{number}} 人報告了此問題",
-  "isUp": "{{service}} 已啟動",
   "hotRightNow": "現在熱門",
   "services": "服務",
   "favorites": "收藏夾",
   "loadMore": "裝載更多",
   "isXDown": "{{service}} 關閉了嗎？",
-  "iHaveAnIssueToo": "我也有問題"
+  "iHaveAnIssueToo": "我也有問題",
+  "serviceIsDown": "{{service}} 已關閉",
+  "serviceIsUp": "{{service}} 已啟動",
+  "done": "完畢",
+  "selectAComponent": "選擇一個組件",
+  "noServicesFound": "未找到服務",
+  "reports": "{{number}} 份報告",
+  "changeTheme": "改變主題"
 }

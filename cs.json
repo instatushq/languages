@@ -172,11 +172,17 @@
   "findAService": "Najděte si službu",
   "noIssuesReportedYet": "Dosud nebyly hlášeny žádné problémy",
   "peopleReportedThis": "Nahlásilo to {{number}} lidí",
-  "isUp": "Služba {{service}} je aktivní",
   "hotRightNow": "Horko právě teď",
   "services": "Služby",
   "favorites": "Oblíbené",
   "loadMore": "Načíst další",
   "isXDown": "Je služba {{service}} mimo provoz?",
-  "iHaveAnIssueToo": "Mám taky problém"
+  "iHaveAnIssueToo": "Mám taky problém",
+  "serviceIsDown": "Služba {{service}} nefunguje",
+  "serviceIsUp": "Služba {{service}} je aktivní",
+  "done": "Hotovo",
+  "selectAComponent": "Vyberte komponentu",
+  "noServicesFound": "Nebyly nalezeny žádné služby",
+  "reports": "Přehledy: {{number}}",
+  "changeTheme": "Změnit téma"
 }

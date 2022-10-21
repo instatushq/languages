@@ -172,11 +172,17 @@
   "findAService": "Find a service",
   "noIssuesReportedYet": "No issues reported yet",
   "peopleReportedThis": "{{number}} people reported this",
-  "isUp": "{{service}} is up",
   "hotRightNow": "Hot right now",
   "services": "Services",
   "favorites": "Favorites",
   "loadMore": "Load more",
   "isXDown": "Is {{service}} down?",
-  "iHaveAnIssueToo": "I have an issue too"
+  "iHaveAnIssueToo": "I have an issue too",
+  "serviceIsDown": "{{service}} is down",
+  "serviceIsUp": "{{service}} is up",
+  "done": "Done",
+  "selectAComponent": "Select a component",
+  "noServicesFound": "No services found",
+  "reports": "{{number}} reports",
+  "changeTheme": "Change theme"
 }

@@ -172,11 +172,17 @@
   "findAService": "Poiščite storitev",
   "noIssuesReportedYet": "O težavah še ni bilo poročil",
   "peopleReportedThis": "{{number}} oseb je to prijavilo",
-  "isUp": "{{service}} deluje",
   "hotRightNow": "Trenutno vroče",
   "services": "Storitve",
   "favorites": "Priljubljene",
   "loadMore": "Naloži več",
   "isXDown": "Ali {{service}} ne deluje?",
-  "iHaveAnIssueToo": "Tudi jaz imam težavo"
+  "iHaveAnIssueToo": "Tudi jaz imam težavo",
+  "serviceIsDown": "{{service}} ne deluje",
+  "serviceIsUp": "{{service}} deluje",
+  "done": "Končano",
+  "selectAComponent": "Izberite komponento",
+  "noServicesFound": "Ni storitev",
+  "reports": "{{number}} poročil",
+  "changeTheme": "Spremeni temo"
 }

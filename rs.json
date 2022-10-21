@@ -169,11 +169,17 @@
   "findAService": "Пронађите услугу",
   "noIssuesReportedYet": "Још увек нема пријављених проблема",
   "peopleReportedThis": "{{number}} људи је ово пријавило",
-  "isUp": "{{service}} је покренута",
   "hotRightNow": "Вруће управо сада",
   "services": "Услуге",
   "favorites": "Фаворитес",
   "loadMore": "Учитај више",
   "isXDown": "Да ли {{service}} не ради?",
-  "iHaveAnIssueToo": "И ја имам проблем"
+  "iHaveAnIssueToo": "И ја имам проблем",
+  "serviceIsDown": "{{service}} не ради",
+  "serviceIsUp": "{{service}} је покренута",
+  "done": "Готово",
+  "selectAComponent": "Изаберите компоненту",
+  "noServicesFound": "Нису пронађене услуге",
+  "reports": "{{number}} извештаја",
+  "changeTheme": "Промена тема"
 }

@@ -171,11 +171,17 @@
   "findAService": "Trouver un service",
   "noIssuesReportedYet": "Aucun problème signalé pour le moment",
   "peopleReportedThis": "{{number}} personnes l'ont signalé",
-  "isUp": "{{service}} est opérationnel",
   "hotRightNow": "Chaud en ce moment",
   "services": "Prestations de service",
   "favorites": "Favoris",
   "loadMore": "Charger plus",
   "isXDown": "{{service}} est-il en panne ?",
-  "iHaveAnIssueToo": "j'ai un problème aussi"
+  "iHaveAnIssueToo": "j'ai un problème aussi",
+  "serviceIsDown": "{{service}} est en panne",
+  "serviceIsUp": "{{service}} est opérationnel",
+  "done": "Fait",
+  "selectAComponent": "Sélectionnez un composant",
+  "noServicesFound": "Aucun service trouvé",
+  "reports": "{{number}} rapports",
+  "changeTheme": "Change le thème"
 }

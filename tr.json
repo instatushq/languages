@@ -172,11 +172,17 @@
   "findAService": "Bir hizmet bulun",
   "noIssuesReportedYet": "Henüz sorun bildirilmedi",
   "peopleReportedThis": "{{number}} kişi bunu bildirdi",
-  "isUp": "{{service}} çalışıyor",
   "hotRightNow": "Sıcak şimdi",
   "services": "Hizmetler",
   "favorites": "Favoriler",
   "loadMore": "Daha fazla yükle",
   "isXDown": "{{service}} çalışmıyor mu?",
-  "iHaveAnIssueToo": "benim de bir sorunum var"
+  "iHaveAnIssueToo": "benim de bir sorunum var",
+  "serviceIsDown": "{{service}} çalışmıyor",
+  "serviceIsUp": "{{service}} çalışıyor",
+  "done": "Tamamlandı",
+  "selectAComponent": "Bir bileşen seçin",
+  "noServicesFound": "Hizmet bulunamadı",
+  "reports": "{{number}} rapor",
+  "changeTheme": "Temayı değiştir"
 }

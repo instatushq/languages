@@ -172,11 +172,17 @@
   "findAService": "ابحث عن خدمة",
   "noIssuesReportedYet": "لم يتم الإبلاغ عن أية مشكلات حتى الآن",
   "peopleReportedThis": "أبلغ {{number}} من الأشخاص عن هذا",
-  "isUp": "انتهت خدمة {{service}}",
   "hotRightNow": "ساخن الآن",
   "services": "خدمات",
   "favorites": "المفضلة",
   "loadMore": "تحميل المزيد",
   "isXDown": "هل {{service}} معطلة؟",
-  "iHaveAnIssueToo": "لدي مشكلة أيضا"
+  "iHaveAnIssueToo": "لدي مشكلة أيضا",
+  "serviceIsDown": "{{service}} معطلة",
+  "serviceIsUp": "انتهت خدمة {{service}}",
+  "done": "فعله",
+  "selectAComponent": "حدد مكونًا",
+  "noServicesFound": "لم يتم العثور على خدمات",
+  "reports": "تقارير {{number}}",
+  "changeTheme": "غير الخلفية"
 }

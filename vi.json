@@ -171,11 +171,17 @@
   "findAService": "Tìm một dịch vụ",
   "noIssuesReportedYet": "Chưa có vấn đề nào được báo cáo",
   "peopleReportedThis": "{{number}} người đã báo cáo điều này",
-  "isUp": "{{service}} đã tăng",
   "hotRightNow": "Nóng ngay bây giờ",
   "services": "Dịch vụ",
   "favorites": "Yêu thích",
   "loadMore": "Tải thêm",
   "isXDown": "{{service}} có bị gián đoạn không?",
-  "iHaveAnIssueToo": "Tôi cũng có một vấn đề"
+  "iHaveAnIssueToo": "Tôi cũng có một vấn đề",
+  "serviceIsDown": "{{service}} không hoạt động",
+  "serviceIsUp": "{{service}} đã tăng",
+  "done": "Xong",
+  "selectAComponent": "Chọn một thành phần",
+  "noServicesFound": "Không tìm thấy dịch vụ",
+  "reports": "{{number}} báo cáo",
+  "changeTheme": "Thay đổi chủ đề"
 }

@@ -171,11 +171,17 @@
   "findAService": "Zoek een dienst",
   "noIssuesReportedYet": "Nog geen problemen gemeld",
   "peopleReportedThis": "{{number}} mensen hebben dit gemeld",
-  "isUp": "{{service}} is klaar",
   "hotRightNow": "Heet nu",
   "services": "Diensten",
   "favorites": "Favorieten",
   "loadMore": "Meer laden",
   "isXDown": "Is {{service}} niet beschikbaar?",
-  "iHaveAnIssueToo": "ik heb ook een probleem"
+  "iHaveAnIssueToo": "ik heb ook een probleem",
+  "serviceIsDown": "{{service}} is niet beschikbaar",
+  "serviceIsUp": "{{service}} is klaar",
+  "done": "Gedaan",
+  "selectAComponent": "Selecteer een onderdeel",
+  "noServicesFound": "Geen diensten gevonden",
+  "reports": "{{number}} rapporten",
+  "changeTheme": "Thema veranderen"
 }
