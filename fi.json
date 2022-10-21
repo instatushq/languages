@@ -8,7 +8,7 @@
   "at": "klo",
   "status": "Tila",
   "statusPage": "Tilasivu",
-  "isDown": "Ongelmia havaittu",
+  "isDown": "{{service}} on poissa käytöstä",
   "isDisrupted": "Häiriöitä havaittu",
   "isNotice": "Huolto meneillään",
   "isOk": "Kaikki järjestelmät toiminnassa",
@@ -168,5 +168,13 @@
   "minutes": "pöytäkirja",
   "getNoticeUpdates": "Hanki päivityksiä tähän ilmoitukseen",
   "subscribeToAll": "Tilaa kaikki tilasivun päivitykset",
-  "phoneNumber": "Puhelinnumero"
+  "phoneNumber": "Puhelinnumero",
+  "findAService": "Etsi palvelu",
+  "noIssuesReportedYet": "Ongelmista ei ole vielä raportoitu",
+  "peopleReportedThis": "{{number}} henkilöä ilmoitti tästä",
+  "isUp": "{{service}} on käytössä",
+  "hotRightNow": "Kuuma juuri nyt",
+  "services": "Palvelut",
+  "favorites": "Suosikit",
+  "loadMore": "Lataa lisää"
 }

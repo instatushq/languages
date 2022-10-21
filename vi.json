@@ -8,7 +8,7 @@
   "at": "tại",
   "status": "Trạng thái",
   "statusPage": "Trang trạng thái",
-  "isDown": "Gặp sự cố",
+  "isDown": "{{service}} không hoạt động",
   "isDisrupted": "Trải nghiệm bị gián đoạn",
   "isNotice": "Đang bảo trì",
   "isOk": "Hệ thống hoạt động bình thường",
@@ -167,5 +167,13 @@
   "minutes": "phút",
   "getNoticeUpdates": "Nhận thông tin cập nhật cho thông báo này",
   "subscribeToAll": "Đăng ký tất cả các cập nhật trang trạng thái",
-  "phoneNumber": "Số điện thoại"
+  "phoneNumber": "Số điện thoại",
+  "findAService": "Tìm một dịch vụ",
+  "noIssuesReportedYet": "Chưa có vấn đề nào được báo cáo",
+  "peopleReportedThis": "{{number}} người đã báo cáo điều này",
+  "isUp": "{{service}} đã tăng",
+  "hotRightNow": "Nóng ngay bây giờ",
+  "services": "Dịch vụ",
+  "favorites": "Yêu thích",
+  "loadMore": "Tải thêm"
 }

@@ -8,7 +8,7 @@
   "at": "に",
   "status": "ステータス",
   "statusPage": "ステータスページ",
-  "isDown": "障害発生中",
+  "isDown": "{{service}} がダウンしています",
   "isDisrupted": "中断中",
   "isNotice": "メンテナンス中",
   "isOk": "全システム正常",
@@ -168,5 +168,13 @@
   "minutes": "分",
   "getNoticeUpdates": "このお知らせの更新情報を受け取る",
   "subscribeToAll": "すべてのステータス ページの更新を購読する",
-  "phoneNumber": "電話番号"
+  "phoneNumber": "電話番号",
+  "findAService": "サービスを探す",
+  "noIssuesReportedYet": "まだ問題は報告されていません",
+  "peopleReportedThis": "{{number}}人がこれを報告しました",
+  "isUp": "{{service}}が稼働中",
+  "hotRightNow": "今あつい",
+  "services": "サービス",
+  "favorites": "お気に入り",
+  "loadMore": "もっと読み込む"
 }

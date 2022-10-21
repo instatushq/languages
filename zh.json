@@ -8,7 +8,7 @@
   "at": "",
   "status": "运行状态",
   "statusPage": "状态页面",
-  "isDown": "正在经历故障",
+  "isDown": "{{service}} 已关闭",
   "isDisrupted": "正在经历波动",
   "isNotice": "维护正在进行中",
   "isOk": "所有系统运行中",
@@ -168,5 +168,13 @@
   "minutes": "分钟",
   "getNoticeUpdates": "获取此通知的更新",
   "subscribeToAll": "订阅所有状态页面更新",
-  "phoneNumber": "电话号码"
+  "phoneNumber": "电话号码",
+  "findAService": "查找服务",
+  "noIssuesReportedYet": "尚未报告任何问题",
+  "peopleReportedThis": "{{number}} 人报告了此问题",
+  "isUp": "{{service}} 已启动",
+  "hotRightNow": "现在热门",
+  "services": "服务",
+  "favorites": "收藏夹",
+  "loadMore": "装载更多"
 }

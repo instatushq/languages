@@ -8,7 +8,7 @@
   "at": "på",
   "status": "Status",
   "statusPage": "Status side",
-  "isDown": "Opplever problemer",
+  "isDown": "{{service}} er nede",
   "isDisrupted": "Opplever forstyrrelser",
   "isNotice": "Vedlikehold pågår",
   "isOk": "Alle systemer er operative",
@@ -167,5 +167,13 @@
   "minutes": "minutter",
   "getNoticeUpdates": "Få oppdateringer for denne kunngjøringen",
   "subscribeToAll": "Abonner på alle statussideoppdateringer",
-  "phoneNumber": "Telefonnummer"
+  "phoneNumber": "Telefonnummer",
+  "findAService": "Finn en tjeneste",
+  "noIssuesReportedYet": "Ingen problemer rapportert ennå",
+  "peopleReportedThis": "{{number}} personer rapporterte dette",
+  "isUp": "{{service}} er oppe",
+  "hotRightNow": "Varmt akkurat nå",
+  "services": "Tjenester",
+  "favorites": "Favoritter",
+  "loadMore": "Last mer"
 }

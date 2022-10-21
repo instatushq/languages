@@ -8,7 +8,7 @@
   "at": "في",
   "status": "حالة",
   "statusPage": "صفحة الحالة",
-  "isDown": "تواجه مشاكل",
+  "isDown": "{{service}} معطلة",
   "isDisrupted": "تعاني من اضطرابات",
   "isNotice": "الصيانة جارية",
   "isOk": "جميع الأنظمة جاهزة للعمل",
@@ -168,5 +168,13 @@
   "minutes": "الدقائق",
   "getNoticeUpdates": "احصل على تحديثات لهذا الإشعار",
   "subscribeToAll": "اشترك في جميع تحديثات صفحة الحالة",
-  "phoneNumber": "رقم الهاتف"
+  "phoneNumber": "رقم الهاتف",
+  "findAService": "ابحث عن خدمة",
+  "noIssuesReportedYet": "لم يتم الإبلاغ عن أية مشكلات حتى الآن",
+  "peopleReportedThis": "أبلغ {{number}} من الأشخاص عن هذا",
+  "isUp": "انتهت خدمة {{service}}",
+  "hotRightNow": "ساخن الآن",
+  "services": "خدمات",
+  "favorites": "المفضلة",
+  "loadMore": "تحميل المزيد"
 }

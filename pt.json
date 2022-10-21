@@ -8,7 +8,7 @@
   "at": "em",
   "status": "Estado",
   "statusPage": "Página de estado",
-  "isDown": "Enfrentando problemas",
+  "isDown": "{{service}} está inativo",
   "isDisrupted": "Enfrentando interrupções",
   "isNotice": "Manutenção em curso",
   "isOk": "Todos os sistemas operacionais",
@@ -166,5 +166,13 @@
   "minutes": "minutos",
   "getNoticeUpdates": "Obter atualizações para este aviso",
   "subscribeToAll": "Assine todas as atualizações da página de status",
-  "phoneNumber": "Número de telefone"
+  "phoneNumber": "Número de telefone",
+  "findAService": "Encontre um serviço",
+  "noIssuesReportedYet": "Nenhum problema relatado ainda",
+  "peopleReportedThis": "{{number}} pessoas relataram isso",
+  "isUp": "{{service}} está ativo",
+  "hotRightNow": "Quente agora",
+  "services": "Serviços",
+  "favorites": "Favoritos",
+  "loadMore": "Carregue mais"
 }

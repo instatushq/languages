@@ -8,7 +8,7 @@
   "at": "om",
   "status": "Status",
   "statusPage": "Statuspagina",
-  "isDown": "Problemen geconstateerd",
+  "isDown": "{{service}} is niet beschikbaar",
   "isDisrupted": "Verstoringen geconstateerd",
   "isNotice": "Onderhoud in uitvoering",
   "isOk": "Alle systemen operationeel",
@@ -167,5 +167,13 @@
   "minutes": "minuten",
   "getNoticeUpdates": "Ontvang updates voor deze melding",
   "subscribeToAll": "Abonneer u op alle updates van de statuspagina",
-  "phoneNumber": "Telefoonnummer"
+  "phoneNumber": "Telefoonnummer",
+  "findAService": "Zoek een dienst",
+  "noIssuesReportedYet": "Nog geen problemen gemeld",
+  "peopleReportedThis": "{{number}} mensen hebben dit gemeld",
+  "isUp": "{{service}} is klaar",
+  "hotRightNow": "Heet nu",
+  "services": "Diensten",
+  "favorites": "Favorieten",
+  "loadMore": "Meer laden"
 }

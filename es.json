@@ -8,7 +8,7 @@
   "at": "a",
   "status": "Estado",
   "statusPage": "Página de estado",
-  "isDown": "Experimentando fallas",
+  "isDown": "{{service}} está caído",
   "isDisrupted": "Experimentando interrupciones",
   "isNotice": "Mantenimiento en progreso",
   "isOk": "Sistemas funcionando con normalidad",
@@ -168,5 +168,13 @@
   "minutes": "minutos",
   "getNoticeUpdates": "Obtenga actualizaciones para este aviso",
   "subscribeToAll": "Suscríbete a todas las actualizaciones de la página de estado",
-  "phoneNumber": "Número de teléfono"
+  "phoneNumber": "Número de teléfono",
+  "findAService": "Encuentre un servicio",
+  "noIssuesReportedYet": "Aún no se han informado problemas",
+  "peopleReportedThis": "{{number}} personas informaron esto",
+  "isUp": "{{service}} está activo",
+  "hotRightNow": "Caliente ahora",
+  "services": "Servicios",
+  "favorites": "Favoritos",
+  "loadMore": "Carga más"
 }

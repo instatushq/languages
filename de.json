@@ -8,7 +8,7 @@
   "at": "um",
   "status": "Status",
   "statusPage": "Statusseite",
-  "isDown": "Es liegen Probleme vor",
+  "isDown": "{{service}} ist ausgefallen",
   "isDisrupted": "Es liegen Störungen vor",
   "isNotice": "Aktuelle Wartungsarbeiten",
   "isOk": "Alle Systeme funktionieren",
@@ -168,5 +168,13 @@
   "minutes": "Protokoll",
   "getNoticeUpdates": "Erhalten Sie Updates für diesen Hinweis",
   "subscribeToAll": "Abonnieren Sie alle Statusseiten-Updates",
-  "phoneNumber": "Telefonnummer"
+  "phoneNumber": "Telefonnummer",
+  "findAService": "Finden Sie einen Dienst",
+  "noIssuesReportedYet": "Noch keine Probleme gemeldet",
+  "peopleReportedThis": "{{number}} Personen haben dies gemeldet",
+  "isUp": "{{service}} ist aktiv",
+  "hotRightNow": "Jetzt heiß",
+  "services": "Dienstleistungen",
+  "favorites": "Favoriten",
+  "loadMore": "Mehr laden"
 }

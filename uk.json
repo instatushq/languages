@@ -8,7 +8,7 @@
   "at": "у",
   "status": "Статус",
   "statusPage": "Сторінка статусу",
-  "isDown": "Не працює",
+  "isDown": "{{service}} не працює",
   "isDisrupted": "Виникають проблеми",
   "isNotice": "Технічне обслуговування",
   "isOk": "Всі системи працюють",
@@ -167,5 +167,13 @@
   "minutes": "хвилин",
   "getNoticeUpdates": "Отримати оновлення для цього повідомлення",
   "subscribeToAll": "Підпишіться на всі оновлення сторінки статусу",
-  "phoneNumber": "Телефонний номер"
+  "phoneNumber": "Телефонний номер",
+  "findAService": "Знайдіть послугу",
+  "noIssuesReportedYet": "Про проблеми ще не повідомляється",
+  "peopleReportedThis": "Про це повідомили {{number}} людей",
+  "isUp": "{{service}} працює",
+  "hotRightNow": "Жарко зараз",
+  "services": "Послуги",
+  "favorites": "Вибране",
+  "loadMore": "Завантажити ще"
 }

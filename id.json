@@ -8,7 +8,7 @@
   "at": "pada",
   "status": "Status",
   "statusPage": "Halaman Status",
-  "isDown": "Beberapa tidak dapat diakses",
+  "isDown": "{{service}} tidak aktif",
   "isDisrupted": "Terdapat gangguan",
   "isNotice": "Pemeliharaan berlangsung",
   "isOk": "Semua sistem beroperasi",
@@ -168,5 +168,13 @@
   "minutes": "menit",
   "getNoticeUpdates": "Dapatkan pembaruan untuk pemberitahuan ini",
   "subscribeToAll": "Berlangganan ke semua pembaruan halaman status",
-  "phoneNumber": "Nomor telepon"
+  "phoneNumber": "Nomor telepon",
+  "findAService": "Temukan layanan",
+  "noIssuesReportedYet": "Belum ada masalah yang dilaporkan",
+  "peopleReportedThis": "{{number}} orang melaporkan ini",
+  "isUp": "{{service}} sudah habis",
+  "hotRightNow": "Panas sekarang",
+  "services": "Jasa",
+  "favorites": "Favorit",
+  "loadMore": "Muat lebih banyak"
 }

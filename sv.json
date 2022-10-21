@@ -8,7 +8,7 @@
   "at": "kl",
   "status": "Status",
   "statusPage": "Statussida",
-  "isDown": "Upplever problem",
+  "isDown": "{{service}} är nere",
   "isDisrupted": "Upplever störningar",
   "isNotice": "Underhåll pågår",
   "isOk": "Alla system fungerar",
@@ -168,5 +168,13 @@
   "minutes": "minuter",
   "getNoticeUpdates": "Få uppdateringar för detta meddelande",
   "subscribeToAll": "Prenumerera på alla uppdateringar av statussidan",
-  "phoneNumber": "Telefonnummer"
+  "phoneNumber": "Telefonnummer",
+  "findAService": "Hitta en tjänst",
+  "noIssuesReportedYet": "Inga problem har rapporterats ännu",
+  "peopleReportedThis": "{{number}} personer rapporterade detta",
+  "isUp": "{{service}} är uppe",
+  "hotRightNow": "Varmt just nu",
+  "services": "Tjänster",
+  "favorites": "Favoriter",
+  "loadMore": "Ladda mer"
 }

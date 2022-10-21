@@ -8,7 +8,7 @@
   "at": "o",
   "status": "Status",
   "statusPage": "Strona statusu",
-  "isDown": "Występują problemy",
+  "isDown": "{{service}} nie działa",
   "isDisrupted": "Występują zakłócenia",
   "isNotice": "Konserwacja w toku",
   "isOk": "Wszystkie systemy sprawne",
@@ -168,5 +168,13 @@
   "minutes": "minuty",
   "getNoticeUpdates": "Otrzymuj aktualizacje dotyczące tego powiadomienia",
   "subscribeToAll": "Subskrybuj wszystkie aktualizacje strony statusu",
-  "phoneNumber": "Numer telefonu"
+  "phoneNumber": "Numer telefonu",
+  "findAService": "Znajdź usługę",
+  "noIssuesReportedYet": "Nie zgłoszono jeszcze żadnych problemów",
+  "peopleReportedThis": "{{number}} osób zgłosiło to",
+  "isUp": "{{service}} działa",
+  "hotRightNow": "Gorąco teraz",
+  "services": "Usługi",
+  "favorites": "Ulubione",
+  "loadMore": "Załaduj więcej"
 }

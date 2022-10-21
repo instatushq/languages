@@ -8,7 +8,7 @@
   "at": "v",
   "status": "Stav",
   "statusPage": "Stavová stránka",
-  "isDown": "Některá ze služeb je aktuálně nedostupná",
+  "isDown": "Služba {{service}} nefunguje",
   "isDisrupted": "Provoz některé ze služeb je aktuálně narušen",
   "isNotice": "Probíhá údržba",
   "isOk": "Všechny služby jsou funkční",
@@ -168,5 +168,13 @@
   "minutes": "minut",
   "getNoticeUpdates": "Získejte aktualizace pro toto oznámení",
   "subscribeToAll": "Přihlaste se k odběru všech aktualizací stavové stránky",
-  "phoneNumber": "Telefonní číslo"
+  "phoneNumber": "Telefonní číslo",
+  "findAService": "Najděte si službu",
+  "noIssuesReportedYet": "Dosud nebyly hlášeny žádné problémy",
+  "peopleReportedThis": "Nahlásilo to {{number}} lidí",
+  "isUp": "Služba {{service}} je aktivní",
+  "hotRightNow": "Horko právě teď",
+  "services": "Služby",
+  "favorites": "Oblíbené",
+  "loadMore": "Načíst další"
 }

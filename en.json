@@ -8,7 +8,7 @@
   "at": "at",
   "status": "Status",
   "statusPage": "Status Page",
-  "isDown": "Experiencing issues",
+  "isDown": "{{service}} is down",
   "isDisrupted": "Experiencing disruptions",
   "isNotice": "Maintenance in progress",
   "isOk": "All systems operational",
@@ -168,5 +168,13 @@
   "minutes": "minutes",
   "getNoticeUpdates": "Get updates for this notice",
   "subscribeToAll": "Subscribe to all status page updates instead",
-  "phoneNumber": "Phone number"
+  "phoneNumber": "Phone number",
+  "findAService": "Find a service",
+  "noIssuesReportedYet": "No issues reported yet",
+  "peopleReportedThis": "{{number}} people reported this",
+  "isUp": "{{service}} is up",
+  "hotRightNow": "Hot right now",
+  "services": "Services",
+  "favorites": "Favorites",
+  "loadMore": "Load more"
 }

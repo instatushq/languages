@@ -8,7 +8,7 @@
   "at": "ob",
   "status": "Stanje",
   "statusPage": "Pregled stanja",
-  "isDown": "Zaznane so težave",
+  "isDown": "{{service}} ne deluje",
   "isDisrupted": "Zaznane so motnje v delovanju",
   "isNotice": "Vzdrževalna dela v teku",
   "isOk": "Vsi sistemi delujejo brez napak",
@@ -168,5 +168,13 @@
   "minutes": "minut",
   "getNoticeUpdates": "Pridobite posodobitve za to obvestilo",
   "subscribeToAll": "Naročite se na vse posodobitve strani s stanjem",
-  "phoneNumber": "Telefonska številka"
+  "phoneNumber": "Telefonska številka",
+  "findAService": "Poiščite storitev",
+  "noIssuesReportedYet": "O težavah še ni bilo poročil",
+  "peopleReportedThis": "{{number}} oseb je to prijavilo",
+  "isUp": "{{service}} deluje",
+  "hotRightNow": "Trenutno vroče",
+  "services": "Storitve",
+  "favorites": "Priljubljene",
+  "loadMore": "Naloži več"
 }

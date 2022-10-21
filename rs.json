@@ -8,7 +8,7 @@
   "at": "u",
   "status": "Status",
   "statusPage": "Statusna stranica",
-  "isDown": "Postoje Problemi",
+  "isDown": "{{service}} не ради",
   "isDisrupted": "Postoje Problemi",
   "isNotice": "Popravljanje u toku",
   "isOk": "Svi sistemi funkcionišu",
@@ -165,5 +165,13 @@
   "minutes": "минута",
   "getNoticeUpdates": "Добијајте ажурирања за ово обавештење",
   "subscribeToAll": "Претплатите се на сва ажурирања статусне странице",
-  "phoneNumber": "Број телефона"
+  "phoneNumber": "Број телефона",
+  "findAService": "Пронађите услугу",
+  "noIssuesReportedYet": "Још увек нема пријављених проблема",
+  "peopleReportedThis": "{{number}} људи је ово пријавило",
+  "isUp": "{{service}} је покренута",
+  "hotRightNow": "Вруће управо сада",
+  "services": "Услуге",
+  "favorites": "Фаворитес",
+  "loadMore": "Учитај више"
 }

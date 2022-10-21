@@ -8,7 +8,7 @@
   "at": "la",
   "status": "Status",
   "statusPage": "Pagină de Status",
-  "isDown": "Întâmpinăm probleme",
+  "isDown": "{{service}} este oprit",
   "isDisrupted": "Întâmpinăm întreruperi",
   "isNotice": "Mentenanță în derulare",
   "isOk": "Toate sistemele operaționale",
@@ -168,5 +168,13 @@
   "minutes": "minute",
   "getNoticeUpdates": "Obțineți actualizări pentru această notificare",
   "subscribeToAll": "Abonați-vă la toate actualizările paginii de stare",
-  "phoneNumber": "Număr de telefon"
+  "phoneNumber": "Număr de telefon",
+  "findAService": "Găsiți un serviciu",
+  "noIssuesReportedYet": "Nu au fost raportate probleme încă",
+  "peopleReportedThis": "{{number}} persoane au raportat acest lucru",
+  "isUp": "{{service}} este activ",
+  "hotRightNow": "Fierbinte chiar acum",
+  "services": "Servicii",
+  "favorites": "Favorite",
+  "loadMore": "Incarca mai mult"
 }

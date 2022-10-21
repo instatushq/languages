@@ -8,7 +8,7 @@
   "at": "at",
   "status": "Stato",
   "statusPage": "Pagina di stato",
-  "isDown": "Uno o più servizi non sono raggiungibili a causa di un guasto",
+  "isDown": "{{service}} è inattivo",
   "isDisrupted": "Stiamo riscontrando interruzioni momentanee",
   "isNotice": "Attività di ripristino in corso",
   "isOk": "Tutti i sistemi sono operativi",
@@ -168,5 +168,13 @@
   "minutes": "minuti",
   "getNoticeUpdates": "Ricevi aggiornamenti per questo avviso",
   "subscribeToAll": "Iscriviti a tutti gli aggiornamenti della pagina di stato",
-  "phoneNumber": "Numero di telefono"
+  "phoneNumber": "Numero di telefono",
+  "findAService": "Trova un servizio",
+  "noIssuesReportedYet": "Nessun problema ancora segnalato",
+  "peopleReportedThis": "{{number}} persone lo hanno segnalato",
+  "isUp": "{{service}} è attivo",
+  "hotRightNow": "Caldo adesso",
+  "services": "Servizi",
+  "favorites": "Preferiti",
+  "loadMore": "Carica di più"
 }

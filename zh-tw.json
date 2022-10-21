@@ -8,7 +8,7 @@
   "at": "",
   "status": "運行狀態",
   "statusPage": "狀態頁面",
-  "isDown": "連接丟失",
+  "isDown": "{{service}} 已關閉",
   "isDisrupted": "連接收到干擾",
   "isNotice": "維護正在進行中",
   "isOk": "所有系統運行中",
@@ -168,5 +168,13 @@
   "minutes": "分鐘",
   "getNoticeUpdates": "獲取此通知的更新",
   "subscribeToAll": "訂閱所有狀態頁面更新",
-  "phoneNumber": "電話號碼"
+  "phoneNumber": "電話號碼",
+  "findAService": "查找服務",
+  "noIssuesReportedYet": "尚未報告任何問題",
+  "peopleReportedThis": "{{number}} 人報告了此問題",
+  "isUp": "{{service}} 已啟動",
+  "hotRightNow": "現在熱門",
+  "services": "服務",
+  "favorites": "收藏夾",
+  "loadMore": "裝載更多"
 }

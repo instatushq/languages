@@ -8,7 +8,7 @@
   "at": "-",
   "status": "Durum",
   "statusPage": "Durum Sayfası",
-  "isDown": "Sorun yaşanıyor.",
+  "isDown": "{{service}} çalışmıyor",
   "isDisrupted": "Kesinti yaşanıyor.",
   "isNotice": "Bakım devam ediyor.",
   "isOk": "Bütün servisler düzgün çalışıyor.",
@@ -168,5 +168,13 @@
   "minutes": "dakika",
   "getNoticeUpdates": "Bu bildirim için güncellemeleri alın",
   "subscribeToAll": "Tüm durum sayfası güncellemelerine abone olun",
-  "phoneNumber": "Telefon numarası"
+  "phoneNumber": "Telefon numarası",
+  "findAService": "Bir hizmet bulun",
+  "noIssuesReportedYet": "Henüz sorun bildirilmedi",
+  "peopleReportedThis": "{{number}} kişi bunu bildirdi",
+  "isUp": "{{service}} çalışıyor",
+  "hotRightNow": "Sıcak şimdi",
+  "services": "Hizmetler",
+  "favorites": "Favoriler",
+  "loadMore": "Daha fazla yükle"
 }

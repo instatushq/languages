@@ -8,7 +8,7 @@
   "at": "в",
   "status": "Статус",
   "statusPage": "Страница статуса",
-  "isDown": "Возникли проблемы",
+  "isDown": "{{service}} не работает",
   "isDisrupted": "Испытывают сбои",
   "isNotice": "Выполняется техническое обслуживание",
   "isOk": "Все системы работают",
@@ -167,5 +167,13 @@
   "minutes": "минуты",
   "getNoticeUpdates": "Получить обновления для этого уведомления",
   "subscribeToAll": "Подпишитесь на все обновления страницы статуса",
-  "phoneNumber": "Номер телефона"
+  "phoneNumber": "Номер телефона",
+  "findAService": "Найти услугу",
+  "noIssuesReportedYet": "О проблемах пока не сообщалось",
+  "peopleReportedThis": "{{number}} человек сообщили об этом",
+  "isUp": "{{service}} работает",
+  "hotRightNow": "Неотложно",
+  "services": "Услуги",
+  "favorites": "Избранное",
+  "loadMore": "Загрузи больше"
 }

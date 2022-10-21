@@ -8,7 +8,7 @@
   "at": "ved",
   "status": "Status",
   "statusPage": "Status side",
-  "isDown": "Oplever nedetid",
+  "isDown": "{{service}} er nede",
   "isDisrupted": "Oplever forstyrrelser",
   "isNotice": "Igangværende vedligehold",
   "isOk": "Alle systemer er operationelle",
@@ -167,5 +167,13 @@
   "minutes": "minutter",
   "getNoticeUpdates": "Få opdateringer til denne meddelelse",
   "subscribeToAll": "Abonner på alle statussideopdateringer",
-  "phoneNumber": "Telefonnummer"
+  "phoneNumber": "Telefonnummer",
+  "findAService": "Find en tjeneste",
+  "noIssuesReportedYet": "Ingen problemer rapporteret endnu",
+  "peopleReportedThis": "{{number}} personer rapporterede dette",
+  "isUp": "{{service}} er oppe",
+  "hotRightNow": "Varmt lige nu",
+  "services": "Tjenester",
+  "favorites": "Favoritter",
+  "loadMore": "Indlæs mere"
 }
