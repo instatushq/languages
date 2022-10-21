@@ -8,7 +8,7 @@
   "at": "tại",
   "status": "Trạng thái",
   "statusPage": "Trang trạng thái",
-  "isDown": "{{service}} không hoạt động",
+  "isDown": "Gặp sự cố",
   "isDisrupted": "Trải nghiệm bị gián đoạn",
   "isNotice": "Đang bảo trì",
   "isOk": "Hệ thống hoạt động bình thường",

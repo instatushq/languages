@@ -8,7 +8,7 @@
   "at": "-",
   "status": "Durum",
   "statusPage": "Durum Sayfası",
-  "isDown": "{{service}} çalışmıyor",
+  "isDown": "Sorun yaşanıyor.",
   "isDisrupted": "Kesinti yaşanıyor.",
   "isNotice": "Bakım devam ediyor.",
   "isOk": "Bütün servisler düzgün çalışıyor.",

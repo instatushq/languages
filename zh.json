@@ -8,7 +8,7 @@
   "at": "",
   "status": "运行状态",
   "statusPage": "状态页面",
-  "isDown": "{{service}} 已关闭",
+  "isDown": "正在经历故障",
   "isDisrupted": "正在经历波动",
   "isNotice": "维护正在进行中",
   "isOk": "所有系统运行中",

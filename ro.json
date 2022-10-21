@@ -8,7 +8,7 @@
   "at": "la",
   "status": "Status",
   "statusPage": "Pagină de Status",
-  "isDown": "{{service}} este oprit",
+  "isDown": "Întâmpinăm probleme",
   "isDisrupted": "Întâmpinăm întreruperi",
   "isNotice": "Mentenanță în derulare",
   "isOk": "Toate sistemele operaționale",

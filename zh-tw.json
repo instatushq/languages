@@ -8,7 +8,7 @@
   "at": "",
   "status": "運行狀態",
   "statusPage": "狀態頁面",
-  "isDown": "{{service}} 已關閉",
+  "isDown": "連接丟失",
   "isDisrupted": "連接收到干擾",
   "isNotice": "維護正在進行中",
   "isOk": "所有系統運行中",

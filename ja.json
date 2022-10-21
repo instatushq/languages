@@ -8,7 +8,7 @@
   "at": "に",
   "status": "ステータス",
   "statusPage": "ステータスページ",
-  "isDown": "{{service}} がダウンしています",
+  "isDown": "障害発生中",
   "isDisrupted": "中断中",
   "isNotice": "メンテナンス中",
   "isOk": "全システム正常",

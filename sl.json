@@ -8,7 +8,7 @@
   "at": "ob",
   "status": "Stanje",
   "statusPage": "Pregled stanja",
-  "isDown": "{{service}} ne deluje",
+  "isDown": "Zaznane so težave",
   "isDisrupted": "Zaznane so motnje v delovanju",
   "isNotice": "Vzdrževalna dela v teku",
   "isOk": "Vsi sistemi delujejo brez napak",

@@ -8,7 +8,7 @@
   "at": "um",
   "status": "Status",
   "statusPage": "Statusseite",
-  "isDown": "{{service}} ist ausgefallen",
+  "isDown": "Es liegen Probleme vor",
   "isDisrupted": "Es liegen Störungen vor",
   "isNotice": "Aktuelle Wartungsarbeiten",
   "isOk": "Alle Systeme funktionieren",

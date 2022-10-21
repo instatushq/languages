@@ -8,7 +8,7 @@
   "at": "o",
   "status": "Status",
   "statusPage": "Strona statusu",
-  "isDown": "{{service}} nie działa",
+  "isDown": "Występują problemy",
   "isDisrupted": "Występują zakłócenia",
   "isNotice": "Konserwacja w toku",
   "isOk": "Wszystkie systemy sprawne",

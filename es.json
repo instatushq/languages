@@ -8,7 +8,7 @@
   "at": "a",
   "status": "Estado",
   "statusPage": "Página de estado",
-  "isDown": "{{service}} está caído",
+  "isDown": "Experimentando fallas",
   "isDisrupted": "Experimentando interrupciones",
   "isNotice": "Mantenimiento en progreso",
   "isOk": "Sistemas funcionando con normalidad",

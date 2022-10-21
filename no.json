@@ -8,7 +8,7 @@
   "at": "på",
   "status": "Status",
   "statusPage": "Status side",
-  "isDown": "{{service}} er nede",
+  "isDown": "Opplever problemer",
   "isDisrupted": "Opplever forstyrrelser",
   "isNotice": "Vedlikehold pågår",
   "isOk": "Alle systemer er operative",

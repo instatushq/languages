@@ -8,7 +8,7 @@
   "at": "om",
   "status": "Status",
   "statusPage": "Statuspagina",
-  "isDown": "{{service}} is niet beschikbaar",
+  "isDown": "Problemen geconstateerd",
   "isDisrupted": "Verstoringen geconstateerd",
   "isNotice": "Onderhoud in uitvoering",
   "isOk": "Alle systemen operationeel",

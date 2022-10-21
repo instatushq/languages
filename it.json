@@ -8,7 +8,7 @@
   "at": "at",
   "status": "Stato",
   "statusPage": "Pagina di stato",
-  "isDown": "{{service}} è inattivo",
+  "isDown": "Uno o più servizi non sono raggiungibili a causa di un guasto",
   "isDisrupted": "Stiamo riscontrando interruzioni momentanee",
   "isNotice": "Attività di ripristino in corso",
   "isOk": "Tutti i sistemi sono operativi",

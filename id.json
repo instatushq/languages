@@ -8,7 +8,7 @@
   "at": "pada",
   "status": "Status",
   "statusPage": "Halaman Status",
-  "isDown": "{{service}} tidak aktif",
+  "isDown": "Beberapa tidak dapat diakses",
   "isDisrupted": "Terdapat gangguan",
   "isNotice": "Pemeliharaan berlangsung",
   "isOk": "Semua sistem beroperasi",

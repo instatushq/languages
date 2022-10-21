@@ -8,7 +8,7 @@
   "at": "klo",
   "status": "Tila",
   "statusPage": "Tilasivu",
-  "isDown": "{{service}} on poissa käytöstä",
+  "isDown": "Ongelmia havaittu",
   "isDisrupted": "Häiriöitä havaittu",
   "isNotice": "Huolto meneillään",
   "isOk": "Kaikki järjestelmät toiminnassa",

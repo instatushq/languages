@@ -8,7 +8,7 @@
   "at": "u",
   "status": "Status",
   "statusPage": "Statusna stranica",
-  "isDown": "{{service}} не ради",
+  "isDown": "Postoje Problemi",
   "isDisrupted": "Postoje Problemi",
   "isNotice": "Popravljanje u toku",
   "isOk": "Svi sistemi funkcionišu",
