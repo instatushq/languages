@@ -177,5 +177,6 @@
   "services": "Storitve",
   "favorites": "Priljubljene",
   "loadMore": "Naloži več",
-  "isXDown": "Ali {{service}} ne deluje?"
+  "isXDown": "Ali {{service}} ne deluje?",
+  "iHaveAnIssueToo": "Tudi jaz imam težavo"
 }

@@ -177,5 +177,6 @@
   "services": "Services",
   "favorites": "Favorites",
   "loadMore": "Load more",
-  "isXDown": "Is {{service}} down?"
+  "isXDown": "Is {{service}} down?",
+  "iHaveAnIssueToo": "I have an issue too"
 }

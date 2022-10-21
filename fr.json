@@ -176,5 +176,6 @@
   "services": "Prestations de service",
   "favorites": "Favoris",
   "loadMore": "Charger plus",
-  "isXDown": "{{service}} est-il en panne ?"
+  "isXDown": "{{service}} est-il en panne ?",
+  "iHaveAnIssueToo": "j'ai un problème aussi"
 }

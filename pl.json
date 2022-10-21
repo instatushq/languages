@@ -177,5 +177,6 @@
   "services": "Usługi",
   "favorites": "Ulubione",
   "loadMore": "Załaduj więcej",
-  "isXDown": "Czy {{service}} nie działa?"
+  "isXDown": "Czy {{service}} nie działa?",
+  "iHaveAnIssueToo": "też mam problem"
 }

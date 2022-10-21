@@ -177,5 +177,6 @@
   "services": "Služby",
   "favorites": "Oblíbené",
   "loadMore": "Načíst další",
-  "isXDown": "Je služba {{service}} mimo provoz?"
+  "isXDown": "Je služba {{service}} mimo provoz?",
+  "iHaveAnIssueToo": "Mám taky problém"
 }

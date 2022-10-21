@@ -177,5 +177,6 @@
   "services": "Palvelut",
   "favorites": "Suosikit",
   "loadMore": "Lataa lisää",
-  "isXDown": "Onko {{service}} toiminnassa?"
+  "isXDown": "Onko {{service}} toiminnassa?",
+  "iHaveAnIssueToo": "Minullakin on ongelma"
 }

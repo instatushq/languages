@@ -176,5 +176,6 @@
   "services": "Diensten",
   "favorites": "Favorieten",
   "loadMore": "Meer laden",
-  "isXDown": "Is {{service}} niet beschikbaar?"
+  "isXDown": "Is {{service}} niet beschikbaar?",
+  "iHaveAnIssueToo": "ik heb ook een probleem"
 }

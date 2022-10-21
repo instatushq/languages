@@ -177,5 +177,6 @@
   "services": "Jasa",
   "favorites": "Favorit",
   "loadMore": "Muat lebih banyak",
-  "isXDown": "Apakah {{service}} tidak aktif?"
+  "isXDown": "Apakah {{service}} tidak aktif?",
+  "iHaveAnIssueToo": "Saya juga punya masalah"
 }

@@ -177,5 +177,6 @@
   "services": "Tjänster",
   "favorites": "Favoriter",
   "loadMore": "Ladda mer",
-  "isXDown": "Är {{service}} nere?"
+  "isXDown": "Är {{service}} nere?",
+  "iHaveAnIssueToo": "Jag har också ett problem"
 }

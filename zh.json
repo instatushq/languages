@@ -177,5 +177,6 @@
   "services": "服务",
   "favorites": "收藏夹",
   "loadMore": "装载更多",
-  "isXDown": "{{service}} 关闭了吗？"
+  "isXDown": "{{service}} 关闭了吗？",
+  "iHaveAnIssueToo": "我也有问题"
 }

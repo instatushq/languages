@@ -176,5 +176,6 @@
   "services": "Послуги",
   "favorites": "Вибране",
   "loadMore": "Завантажити ще",
-  "isXDown": "{{service}} не працює?"
+  "isXDown": "{{service}} не працює?",
+  "iHaveAnIssueToo": "У мене теж проблема"
 }

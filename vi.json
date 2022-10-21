@@ -176,5 +176,6 @@
   "services": "Dịch vụ",
   "favorites": "Yêu thích",
   "loadMore": "Tải thêm",
-  "isXDown": "{{service}} có bị gián đoạn không?"
+  "isXDown": "{{service}} có bị gián đoạn không?",
+  "iHaveAnIssueToo": "Tôi cũng có một vấn đề"
 }

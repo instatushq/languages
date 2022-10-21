@@ -174,5 +174,6 @@
   "services": "Услуге",
   "favorites": "Фаворитес",
   "loadMore": "Учитај више",
-  "isXDown": "Да ли {{service}} не ради?"
+  "isXDown": "Да ли {{service}} не ради?",
+  "iHaveAnIssueToo": "И ја имам проблем"
 }

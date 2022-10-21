@@ -177,5 +177,6 @@
   "services": "خدمات",
   "favorites": "المفضلة",
   "loadMore": "تحميل المزيد",
-  "isXDown": "هل {{service}} معطلة؟"
+  "isXDown": "هل {{service}} معطلة؟",
+  "iHaveAnIssueToo": "لدي مشكلة أيضا"
 }

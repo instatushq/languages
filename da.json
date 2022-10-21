@@ -176,5 +176,6 @@
   "services": "Tjenester",
   "favorites": "Favoritter",
   "loadMore": "Indlæs mere",
-  "isXDown": "Er {{service}} nede?"
+  "isXDown": "Er {{service}} nede?",
+  "iHaveAnIssueToo": "Jeg har også et problem"
 }

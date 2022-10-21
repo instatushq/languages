@@ -177,5 +177,6 @@
   "services": "Hizmetler",
   "favorites": "Favoriler",
   "loadMore": "Daha fazla yükle",
-  "isXDown": "{{service}} çalışmıyor mu?"
+  "isXDown": "{{service}} çalışmıyor mu?",
+  "iHaveAnIssueToo": "benim de bir sorunum var"
 }

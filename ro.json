@@ -177,5 +177,6 @@
   "services": "Servicii",
   "favorites": "Favorite",
   "loadMore": "Incarca mai mult",
-  "isXDown": "{{service}} este oprit?"
+  "isXDown": "{{service}} este oprit?",
+  "iHaveAnIssueToo": "Am si eu o problema"
 }

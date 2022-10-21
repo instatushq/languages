@@ -177,5 +177,6 @@
   "services": "サービス",
   "favorites": "お気に入り",
   "loadMore": "もっと読み込む",
-  "isXDown": "{{service}} はダウンしていますか?"
+  "isXDown": "{{service}} はダウンしていますか?",
+  "iHaveAnIssueToo": "私にも問題があります"
 }
