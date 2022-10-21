@@ -184,5 +184,6 @@
   "selectAComponent": "Select a component",
   "noServicesFound": "No services found",
   "reports": "{{number}} reports",
-  "changeTheme": "Change theme"
+  "changeTheme": "Change theme",
+  "goToHome": "Go to home"
 }

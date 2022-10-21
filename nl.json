@@ -183,5 +183,6 @@
   "selectAComponent": "Selecteer een onderdeel",
   "noServicesFound": "Geen diensten gevonden",
   "reports": "{{number}} rapporten",
-  "changeTheme": "Thema veranderen"
+  "changeTheme": "Thema veranderen",
+  "goToHome": "Ga naar huis"
 }

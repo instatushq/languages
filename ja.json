@@ -184,5 +184,6 @@
   "selectAComponent": "コンポーネントを選択",
   "noServicesFound": "サービスが見つかりません",
   "reports": "{{number}} 件の報告",
-  "changeTheme": "テーマを変更"
+  "changeTheme": "テーマを変更",
+  "goToHome": "家に帰る"
 }

@@ -184,5 +184,6 @@
   "selectAComponent": "Vyberte komponentu",
   "noServicesFound": "Nebyly nalezeny žádné služby",
   "reports": "Přehledy: {{number}}",
-  "changeTheme": "Změnit téma"
+  "changeTheme": "Změnit téma",
+  "goToHome": "Jít domů"
 }

@@ -183,5 +183,6 @@
   "selectAComponent": "Виберіть компонент",
   "noServicesFound": "Послуг не знайдено",
   "reports": "{{number}} звітів",
-  "changeTheme": "Змінити тему"
+  "changeTheme": "Змінити тему",
+  "goToHome": "Йти додому"
 }

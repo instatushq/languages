@@ -184,5 +184,6 @@
   "selectAComponent": "Pilih komponen",
   "noServicesFound": "Tidak ada layanan yang ditemukan",
   "reports": "{{number}} laporan",
-  "changeTheme": "Ubah tema"
+  "changeTheme": "Ubah tema",
+  "goToHome": "Pergi ke rumah"
 }

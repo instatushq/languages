@@ -184,5 +184,6 @@
   "selectAComponent": "Välj en komponent",
   "noServicesFound": "Inga tjänster hittades",
   "reports": "{{number}} rapporter",
-  "changeTheme": "Byta tema"
+  "changeTheme": "Byta tema",
+  "goToHome": "Gå till hemmet"
 }

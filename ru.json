@@ -183,5 +183,6 @@
   "selectAComponent": "Выберите компонент",
   "noServicesFound": "Услуги не найдены",
   "reports": "{{number}} отчетов",
-  "changeTheme": "Поменять тему"
+  "changeTheme": "Поменять тему",
+  "goToHome": "Иди домой"
 }

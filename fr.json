@@ -183,5 +183,6 @@
   "selectAComponent": "Sélectionnez un composant",
   "noServicesFound": "Aucun service trouvé",
   "reports": "{{number}} rapports",
-  "changeTheme": "Change le thème"
+  "changeTheme": "Change le thème",
+  "goToHome": "Aller à la maison"
 }

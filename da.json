@@ -183,5 +183,6 @@
   "selectAComponent": "Vælg en komponent",
   "noServicesFound": "Ingen tjenester fundet",
   "reports": "{{number}} rapporter",
-  "changeTheme": "Skift tema"
+  "changeTheme": "Skift tema",
+  "goToHome": "Gå hjem"
 }

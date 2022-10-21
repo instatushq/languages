@@ -184,5 +184,6 @@
   "selectAComponent": "选择一个组件",
   "noServicesFound": "未找到服务",
   "reports": "{{number}} 份报告",
-  "changeTheme": "改变主题"
+  "changeTheme": "改变主题",
+  "goToHome": "回家"
 }

@@ -184,5 +184,6 @@
   "selectAComponent": "حدد مكونًا",
   "noServicesFound": "لم يتم العثور على خدمات",
   "reports": "تقارير {{number}}",
-  "changeTheme": "غير الخلفية"
+  "changeTheme": "غير الخلفية",
+  "goToHome": "اذهب الى المنزل"
 }

@@ -183,5 +183,6 @@
   "selectAComponent": "Chọn một thành phần",
   "noServicesFound": "Không tìm thấy dịch vụ",
   "reports": "{{number}} báo cáo",
-  "changeTheme": "Thay đổi chủ đề"
+  "changeTheme": "Thay đổi chủ đề",
+  "goToHome": "Đi về nhà"
 }

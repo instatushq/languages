@@ -184,5 +184,6 @@
   "selectAComponent": "Valitse komponentti",
   "noServicesFound": "Palveluita ei löytynyt",
   "reports": "{{number}} raporttia",
-  "changeTheme": "Vaihda teema"
+  "changeTheme": "Vaihda teema",
+  "goToHome": "Mene kotiin"
 }

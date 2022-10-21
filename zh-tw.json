@@ -184,5 +184,6 @@
   "selectAComponent": "選擇一個組件",
   "noServicesFound": "未找到服務",
   "reports": "{{number}} 份報告",
-  "changeTheme": "改變主題"
+  "changeTheme": "改變主題",
+  "goToHome": "回家"
 }

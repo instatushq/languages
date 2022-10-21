@@ -184,5 +184,6 @@
   "selectAComponent": "Izberite komponento",
   "noServicesFound": "Ni storitev",
   "reports": "{{number}} poročil",
-  "changeTheme": "Spremeni temo"
+  "changeTheme": "Spremeni temo",
+  "goToHome": "Pojdi domov"
 }

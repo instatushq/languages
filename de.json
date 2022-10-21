@@ -184,5 +184,6 @@
   "selectAComponent": "Wählen Sie eine Komponente aus",
   "noServicesFound": "Keine Dienste gefunden",
   "reports": "{{number}} Berichte",
-  "changeTheme": "Thema wechseln"
+  "changeTheme": "Thema wechseln",
+  "goToHome": "Zur Startseite"
 }

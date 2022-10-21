@@ -184,5 +184,6 @@
   "selectAComponent": "Bir bileşen seçin",
   "noServicesFound": "Hizmet bulunamadı",
   "reports": "{{number}} rapor",
-  "changeTheme": "Temayı değiştir"
+  "changeTheme": "Temayı değiştir",
+  "goToHome": "Eve gitmek"
 }

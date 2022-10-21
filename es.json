@@ -184,5 +184,6 @@
   "selectAComponent": "Seleccione un componente",
   "noServicesFound": "No se encontraron servicios",
   "reports": "{{number}} informes",
-  "changeTheme": "Cambiar de tema"
+  "changeTheme": "Cambiar de tema",
+  "goToHome": "Ir a casa"
 }

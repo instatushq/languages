@@ -184,5 +184,6 @@
   "selectAComponent": "Selectați o componentă",
   "noServicesFound": "Nu au fost găsite servicii",
   "reports": "{{number}} rapoarte",
-  "changeTheme": "Schimbă tema"
+  "changeTheme": "Schimbă tema",
+  "goToHome": "Du-te acasă"
 }
