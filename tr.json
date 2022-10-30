@@ -152,7 +152,7 @@
   "noNotices": "Sorun bildirilmedi.",
   "noNoticesDays": "Son {{days}} gün içinde sorun bildirilmedi.",
   "noNoticesMonth": "Bu ay herhangi bir sorun bildirilmedi.",
-  "starts": "başlar",
+  "starts": "başlayacak",
   "duration": "Süre",
   "viewLatestUpdates": "En son güncellemeleri görüntüleyin",
   "lastUpdated": "En son {{time}} önce güncellendi",
@@ -185,5 +185,5 @@
   "noServicesFound": "Hizmet bulunamadı",
   "reports": "{{number}} rapor",
   "changeTheme": "Temayı değiştir",
-  "goToHome": "Eve gitmek"
+  "goToHome": "Ana sayfaya git"
 }
