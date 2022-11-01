@@ -185,5 +185,18 @@
   "noServicesFound": "No services found",
   "reports": "{{number}} reports",
   "changeTheme": "Change theme",
-  "goToHome": "Go to home"
+  "goToHome": "Go to home",
+  "partiallyDegradedService": "Partially Degraded Service",
+  "partialSystemOutage": "Partial System Outage",
+  "majorSystemOutage": "Major System Outage",
+  "experiencingMajorOutage": "Experiencing Major Outage",
+  "experiencingPartialOutage": "Experiencing Partial Outage",
+  "experiencingDegradedPerformance": "Experiencing Degraded Performance",
+  "experiencingMinorOutage": "Experiencing Minor Outage",
+  "experiencingPartiallyDegradedPerformance": "Experiencing Partially Degraded Performance",
+  "systemUnderMaintainence": "System Under Maintenance",
+  "componentExperiencingMajorOutage": "{{component}} Experiencing Major Outage",
+  "componentExperiencingPartialOutage": "{{component}} Experiencing Partial Outage",
+  "componentExperiencingDegradedPerformance": "{{component}} Experiencing Degraded Performance",
+  "componentUnderMaintainence": "{{component}} Under Maintenance"
 }

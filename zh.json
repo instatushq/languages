@@ -185,5 +185,18 @@
   "noServicesFound": "未找到服务",
   "reports": "{{number}} 份报告",
   "changeTheme": "改变主题",
-  "goToHome": "回家"
+  "goToHome": "回家",
+  "partiallyDegradedService": "部分降级的服务",
+  "partialSystemOutage": "部分系统中断",
+  "majorSystemOutage": "重大系统中断",
+  "experiencingMajorOutage": "遭遇重大停电",
+  "experiencingPartialOutage": "经历部分中断",
+  "experiencingDegradedPerformance": "体验性能下降",
+  "experiencingMinorOutage": "经历轻微中断",
+  "experiencingPartiallyDegradedPerformance": "体验部分性能下降",
+  "systemUnderMaintainence": "系统维护中",
+  "componentExperiencingMajorOutage": "{{component}} 遭遇重大中断",
+  "componentExperiencingPartialOutage": "{{component}} 遇到部分中断",
+  "componentExperiencingDegradedPerformance": "{{component}} 性能下降",
+  "componentUnderMaintainence": "{{component}} 维护中"
 }

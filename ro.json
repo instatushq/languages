@@ -185,5 +185,18 @@
   "noServicesFound": "Nu au fost găsite servicii",
   "reports": "{{number}} rapoarte",
   "changeTheme": "Schimbă tema",
-  "goToHome": "Du-te acasă"
+  "goToHome": "Du-te acasă",
+  "partiallyDegradedService": "Serviciu parțial degradat",
+  "partialSystemOutage": "Întreruperea parțială a sistemului",
+  "majorSystemOutage": "Întreruperea majoră a sistemului",
+  "experiencingMajorOutage": "Întâmpinați o întrerupere majoră",
+  "experiencingPartialOutage": "Întâmpinați o întrerupere parțială",
+  "experiencingDegradedPerformance": "Întâmpinați performanță degradată",
+  "experiencingMinorOutage": "Întâmpinați o întrerupere minoră",
+  "experiencingPartiallyDegradedPerformance": "Performanță parțial degradată",
+  "systemUnderMaintainence": "Sistem în întreținere",
+  "componentExperiencingMajorOutage": "{{component}} Se confruntă cu o întrerupere majoră",
+  "componentExperiencingPartialOutage": "{{component}} Se confruntă cu o întrerupere parțială",
+  "componentExperiencingDegradedPerformance": "{{component}} Înregistrează o performanță degradată",
+  "componentUnderMaintainence": "{{component}} Sub Întreținere"
 }

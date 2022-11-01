@@ -184,5 +184,18 @@
   "noServicesFound": "Aucun service trouvé",
   "reports": "{{number}} rapports",
   "changeTheme": "Change le thème",
-  "goToHome": "Aller à la maison"
+  "goToHome": "Aller à la maison",
+  "partiallyDegradedService": "Service partiellement dégradé",
+  "partialSystemOutage": "Panne partielle du système",
+  "majorSystemOutage": "Panne majeure du système",
+  "experiencingMajorOutage": "Panne majeure",
+  "experiencingPartialOutage": "Panne partielle",
+  "experiencingDegradedPerformance": "Performances dégradées",
+  "experiencingMinorOutage": "Panne mineure",
+  "experiencingPartiallyDegradedPerformance": "Expérimenter des performances partiellement dégradées",
+  "systemUnderMaintainence": "Système en maintenance",
+  "componentExperiencingMajorOutage": "{{component}} connaît une panne majeure",
+  "componentExperiencingPartialOutage": "{{component}} connaît une panne partielle",
+  "componentExperiencingDegradedPerformance": "{{component}} connaît une dégradation des performances",
+  "componentUnderMaintainence": "{{component}} en cours de maintenance"
 }

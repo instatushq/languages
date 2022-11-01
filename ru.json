@@ -184,5 +184,18 @@
   "noServicesFound": "Услуги не найдены",
   "reports": "{{number}} отчетов",
   "changeTheme": "Поменять тему",
-  "goToHome": "Иди домой"
+  "goToHome": "Иди домой",
+  "partiallyDegradedService": "Частично ухудшенный сервис",
+  "partialSystemOutage": "Частичное отключение системы",
+  "majorSystemOutage": "Серьезный сбой системы",
+  "experiencingMajorOutage": "Серьезный сбой",
+  "experiencingPartialOutage": "Частичное отключение",
+  "experiencingDegradedPerformance": "Снижение производительности",
+  "experiencingMinorOutage": "Небольшой сбой",
+  "experiencingPartiallyDegradedPerformance": "Частично сниженная производительность",
+  "systemUnderMaintainence": "Система на обслуживании",
+  "componentExperiencingMajorOutage": "{{component}} испытывает серьезный сбой",
+  "componentExperiencingPartialOutage": "{{component}} частично отключен",
+  "componentExperiencingDegradedPerformance": "{{component}} испытывает снижение производительности",
+  "componentUnderMaintainence": "{{component}} на обслуживании"
 }

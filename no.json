@@ -184,5 +184,18 @@
   "noServicesFound": "Ingen tjenester funnet",
   "reports": "{{number}} rapporter",
   "changeTheme": "Endre tema",
-  "goToHome": "Gå hjem"
+  "goToHome": "Gå hjem",
+  "partiallyDegradedService": "Delvis degradert tjeneste",
+  "partialSystemOutage": "Delvis systembrudd",
+  "majorSystemOutage": "Stort systembrudd",
+  "experiencingMajorOutage": "Opplever stor driftsstans",
+  "experiencingPartialOutage": "Opplever delvis strømbrudd",
+  "experiencingDegradedPerformance": "Opplever svekket ytelse",
+  "experiencingMinorOutage": "Opplever mindre strømbrudd",
+  "experiencingPartiallyDegradedPerformance": "Opplever delvis svekket ytelse",
+  "systemUnderMaintainence": "System under vedlikehold",
+  "componentExperiencingMajorOutage": "{{component}} Opplever stor driftsstans",
+  "componentExperiencingPartialOutage": "{{component}} Opplever delvis strømbrudd",
+  "componentExperiencingDegradedPerformance": "{{component}} Opplever redusert ytelse",
+  "componentUnderMaintainence": "{{component}} Under vedlikehold"
 }

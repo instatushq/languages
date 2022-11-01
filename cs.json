@@ -185,5 +185,18 @@
   "noServicesFound": "Nebyly nalezeny žádné služby",
   "reports": "Přehledy: {{number}}",
   "changeTheme": "Změnit téma",
-  "goToHome": "Jít domů"
+  "goToHome": "Jít domů",
+  "partiallyDegradedService": "Částečně zhoršená služba",
+  "partialSystemOutage": "Částečný výpadek systému",
+  "majorSystemOutage": "Velký výpadek systému",
+  "experiencingMajorOutage": "Dochází k velkému výpadku",
+  "experiencingPartialOutage": "Dochází k částečnému výpadku",
+  "experiencingDegradedPerformance": "Zažíváte snížený výkon",
+  "experiencingMinorOutage": "Dochází k menšímu výpadku",
+  "experiencingPartiallyDegradedPerformance": "Zažíváte částečně snížený výkon",
+  "systemUnderMaintainence": "Systém pod údržbou",
+  "componentExperiencingMajorOutage": "{{component}} Dochází k velkému výpadku",
+  "componentExperiencingPartialOutage": "{{component}} Dochází k částečnému výpadku",
+  "componentExperiencingDegradedPerformance": "{{component}} Zažívá snížený výkon",
+  "componentUnderMaintainence": "{{component}} V rámci údržby"
 }

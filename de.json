@@ -185,5 +185,18 @@
   "noServicesFound": "Keine Dienste gefunden",
   "reports": "{{number}} Berichte",
   "changeTheme": "Thema wechseln",
-  "goToHome": "Zur Startseite"
+  "goToHome": "Zur Startseite",
+  "partiallyDegradedService": "Teilweise eingeschränkter Dienst",
+  "partialSystemOutage": "Teilweiser Systemausfall",
+  "majorSystemOutage": "Größerer Systemausfall",
+  "experiencingMajorOutage": "Erleben Sie einen größeren Ausfall",
+  "experiencingPartialOutage": "Teilausfall erleben",
+  "experiencingDegradedPerformance": "Leistungsabfall erleben",
+  "experiencingMinorOutage": "Kleinere Ausfälle erleben",
+  "experiencingPartiallyDegradedPerformance": "Erleben einer teilweise herabgesetzten Leistung",
+  "systemUnderMaintainence": "System wird gewartet",
+  "componentExperiencingMajorOutage": "Bei {{component}} ist ein größerer Ausfall aufgetreten",
+  "componentExperiencingPartialOutage": "{{component}} Teilweiser Ausfall",
+  "componentExperiencingDegradedPerformance": "{{component}} hat eine verminderte Leistung festgestellt",
+  "componentUnderMaintainence": "{{component}} Unter Wartung"
 }

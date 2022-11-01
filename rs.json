@@ -182,5 +182,18 @@
   "noServicesFound": "Нису пронађене услуге",
   "reports": "{{number}} извештаја",
   "changeTheme": "Промена тема",
-  "goToHome": "Иди кући"
+  "goToHome": "Иди кући",
+  "partiallyDegradedService": "Делимично деградирана услуга",
+  "partialSystemOutage": "Делимични прекид система",
+  "majorSystemOutage": "Велики прекид система",
+  "experiencingMajorOutage": "Дошло је до великог прекида рада",
+  "experiencingPartialOutage": "Дошло је до делимичног прекида рада",
+  "experiencingDegradedPerformance": "Доживљавање деградираних перформанси",
+  "experiencingMinorOutage": "Дошло је до мањег квара",
+  "experiencingPartiallyDegradedPerformance": "Делимично смањене перформансе",
+  "systemUnderMaintainence": "Систем у току одржавања",
+  "componentExperiencingMajorOutage": "{{component}} Дошло је до великог прекида рада",
+  "componentExperiencingPartialOutage": "{{component}} Дошло је до делимичног прекида рада",
+  "componentExperiencingDegradedPerformance": "{{component}} Доживљавају деградиране перформансе",
+  "componentUnderMaintainence": "{{component}} Под Одржавање"
 }

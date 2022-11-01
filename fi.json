@@ -185,5 +185,18 @@
   "noServicesFound": "Palveluita ei löytynyt",
   "reports": "{{number}} raporttia",
   "changeTheme": "Vaihda teema",
-  "goToHome": "Mene kotiin"
+  "goToHome": "Mene kotiin",
+  "partiallyDegradedService": "Osittain huonontunut palvelu",
+  "partialSystemOutage": "Osittainen järjestelmäkatkos",
+  "majorSystemOutage": "Suuri järjestelmäkatkos",
+  "experiencingMajorOutage": "Suuri sähkökatkos",
+  "experiencingPartialOutage": "Osittainen käyttökatkos",
+  "experiencingDegradedPerformance": "Suorituskyvyn heikkeneminen",
+  "experiencingMinorOutage": "Pieni käyttökatkos",
+  "experiencingPartiallyDegradedPerformance": "Suorituskyky on osittain heikentynyt",
+  "systemUnderMaintainence": "Järjestelmä huollettavana",
+  "componentExperiencingMajorOutage": "{{component}} Suuri sähkökatkos",
+  "componentExperiencingPartialOutage": "{{component}} Osittainen käyttökatkos",
+  "componentExperiencingDegradedPerformance": "{{component}} Suorituskyky heikentynyt",
+  "componentUnderMaintainence": "{{component}} kohdassa Huolto"
 }

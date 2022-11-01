@@ -185,5 +185,18 @@
   "noServicesFound": "サービスが見つかりません",
   "reports": "{{number}} 件の報告",
   "changeTheme": "テーマを変更",
-  "goToHome": "家に帰る"
+  "goToHome": "家に帰る",
+  "partiallyDegradedService": "部分的に低下したサービス",
+  "partialSystemOutage": "部分的なシステム停止",
+  "majorSystemOutage": "大規模なシステム停止",
+  "experiencingMajorOutage": "大規模な停止の経験",
+  "experiencingPartialOutage": "部分的な停止が発生しています",
+  "experiencingDegradedPerformance": "パフォーマンスの低下",
+  "experiencingMinorOutage": "マイナーな停止が発生しています",
+  "experiencingPartiallyDegradedPerformance": "パフォーマンスが部分的に低下する",
+  "systemUnderMaintainence": "メンテナンス中のシステム",
+  "componentExperiencingMajorOutage": "{{component}} で大規模な停止が発生しています",
+  "componentExperiencingPartialOutage": "{{component}} 部分的な停止が発生しています",
+  "componentExperiencingDegradedPerformance": "{{component}} パフォーマンスが低下しています",
+  "componentUnderMaintainence": "{{component}} メンテナンス中"
 }
