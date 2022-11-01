@@ -185,5 +185,18 @@
   "noServicesFound": "لم يتم العثور على خدمات",
   "reports": "تقارير {{number}}",
   "changeTheme": "غير الخلفية",
-  "goToHome": "اذهب الى المنزل"
+  "goToHome": "اذهب الى المنزل",
+  "partiallyDegradedService": "خدمة منخفضة جزئيًا",
+  "partialSystemOutage": "انقطاع جزئي في النظام",
+  "majorSystemOutage": "انقطاع كبير في النظام",
+  "experiencingMajorOutage": "تعاني من انقطاع كبير",
+  "experiencingPartialOutage": "تعاني من انقطاع جزئي",
+  "experiencingDegradedPerformance": "معاناة الأداء المتدهور",
+  "experiencingMinorOutage": "تعاني من انقطاع طفيف",
+  "experiencingPartiallyDegradedPerformance": "أداء متدهور جزئيًا",
+  "systemUnderMaintainence": "النظام تحت الصيانة",
+  "componentExperiencingMajorOutage": "{{مكون}} حدوث انقطاع كبير",
+  "componentExperiencingPartialOutage": "{{component}} يعاني من انقطاع جزئي",
+  "componentExperiencingDegradedPerformance": "{{component}} يعاني من تدهور في الأداء",
+  "componentUnderMaintainence": "{{component}} قيد الصيانة"
 }

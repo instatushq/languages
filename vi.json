@@ -184,5 +184,18 @@
   "noServicesFound": "Không tìm thấy dịch vụ",
   "reports": "{{number}} báo cáo",
   "changeTheme": "Thay đổi chủ đề",
-  "goToHome": "Đi về nhà"
+  "goToHome": "Đi về nhà",
+  "partiallyDegradedService": "Dịch vụ xuống cấp một phần",
+  "partialSystemOutage": "Hệ thống ngừng hoạt động một phần",
+  "majorSystemOutage": "Hệ thống chính ngừng hoạt động",
+  "experiencingMajorOutage": "Trải qua sự cố lớn",
+  "experiencingPartialOutage": "Trải qua thời gian ngừng hoạt động một phần",
+  "experiencingDegradedPerformance": "Trải qua hiệu suất bị giảm sút",
+  "experiencingMinorOutage": "Trải qua thời gian ngừng hoạt động nhỏ",
+  "experiencingPartiallyDegradedPerformance": "Trải qua hiệu suất bị giảm sút một phần",
+  "systemUnderMaintainence": "Hệ thống đang được bảo trì",
+  "componentExperiencingMajorOutage": "{{component}} Trải qua sự cố ngừng hoạt động lớn",
+  "componentExperiencingPartialOutage": "{{component}} Trải qua thời gian ngừng hoạt động một phần",
+  "componentExperiencingDegradedPerformance": "{{component}} Trải qua Hiệu suất bị Giảm sút",
+  "componentUnderMaintainence": "{{component}} Đang được bảo trì"
 }

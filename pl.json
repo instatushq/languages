@@ -185,5 +185,18 @@
   "noServicesFound": "Nie znaleziono usług",
   "reports": "{{number}} raportów",
   "changeTheme": "Zmień motyw",
-  "goToHome": "Idź do domu"
+  "goToHome": "Idź do domu",
+  "partiallyDegradedService": "Częściowo zdegradowana usługa",
+  "partialSystemOutage": "Częściowa awaria systemu",
+  "majorSystemOutage": "Poważna awaria systemu",
+  "experiencingMajorOutage": "Doświadczanie poważnej awarii",
+  "experiencingPartialOutage": "Doświadczanie częściowej awarii",
+  "experiencingDegradedPerformance": "Doświadczanie obniżonej wydajności",
+  "experiencingMinorOutage": "Doświadczanie drobnej awarii",
+  "experiencingPartiallyDegradedPerformance": "Doświadczanie częściowo obniżonej wydajności",
+  "systemUnderMaintainence": "System w trakcie konserwacji",
+  "componentExperiencingMajorOutage": "{{komponent}} Poważna awaria",
+  "componentExperiencingPartialOutage": "{{komponent}} Częściowa awaria",
+  "componentExperiencingDegradedPerformance": "{{komponent}} Doświadczanie obniżonej wydajności",
+  "componentUnderMaintainence": "{{komponent}} W trakcie konserwacji"
 }

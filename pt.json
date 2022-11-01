@@ -183,5 +183,18 @@
   "noServicesFound": "Nenhum serviço encontrado",
   "reports": "{{number}} relatórios",
   "changeTheme": "Mudar tema",
-  "goToHome": "Vá para casa"
+  "goToHome": "Vá para casa",
+  "partiallyDegradedService": "Serviço Parcialmente Degradado",
+  "partialSystemOutage": "Interrupção parcial do sistema",
+  "majorSystemOutage": "Grande interrupção do sistema",
+  "experiencingMajorOutage": "Experimentando uma grande interrupção",
+  "experiencingPartialOutage": "Experimentando uma interrupção parcial",
+  "experiencingDegradedPerformance": "Experimentando Desempenho Degradado",
+  "experiencingMinorOutage": "Experimentando uma pequena interrupção",
+  "experiencingPartiallyDegradedPerformance": "Experimentando Desempenho Parcialmente Degradado",
+  "systemUnderMaintainence": "Sistema em manutenção",
+  "componentExperiencingMajorOutage": "{{component}} Enfrentando Grande Interrupção",
+  "componentExperiencingPartialOutage": "{{component}} Enfrentando Interrupção Parcial",
+  "componentExperiencingDegradedPerformance": "{{component}} Experimentando Desempenho Degradado",
+  "componentUnderMaintainence": "{{component}} Em Manutenção"
 }

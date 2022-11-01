@@ -185,5 +185,18 @@
   "noServicesFound": "Hizmet bulunamadı",
   "reports": "{{number}} rapor",
   "changeTheme": "Temayı değiştir",
-  "goToHome": "Ana sayfaya git"
+  "goToHome": "Ana sayfaya git",
+  "partiallyDegradedService": "Kısmen Bozulmuş Hizmet",
+  "partialSystemOutage": "Kısmi Sistem Kesintisi",
+  "majorSystemOutage": "Büyük Sistem Kesintisi",
+  "experiencingMajorOutage": "Büyük Kesinti Yaşıyor",
+  "experiencingPartialOutage": "Kısmi Kesinti Yaşanıyor",
+  "experiencingDegradedPerformance": "Düşük Performans Yaşanıyor",
+  "experiencingMinorOutage": "Küçük Kesinti Yaşıyor",
+  "experiencingPartiallyDegradedPerformance": "Kısmen Düşük Performans Yaşanıyor",
+  "systemUnderMaintainence": "Bakımda Sistem",
+  "componentExperiencingMajorOutage": "{{component}} Büyük Kesinti Yaşıyor",
+  "componentExperiencingPartialOutage": "{{component}} Kısmi Kesinti Yaşıyor",
+  "componentExperiencingDegradedPerformance": "{{component}} Düşük Performans Yaşıyor",
+  "componentUnderMaintainence": "{{component}} Bakımda"
 }

@@ -185,5 +185,18 @@
   "noServicesFound": "Tidak ada layanan yang ditemukan",
   "reports": "{{number}} laporan",
   "changeTheme": "Ubah tema",
-  "goToHome": "Pergi ke rumah"
+  "goToHome": "Pergi ke rumah",
+  "partiallyDegradedService": "Layanan Terdegradasi Sebagian",
+  "partialSystemOutage": "Pemadaman Sistem Sebagian",
+  "majorSystemOutage": "Pemadaman Sistem Utama",
+  "experiencingMajorOutage": "Mengalami Pemadaman Besar",
+  "experiencingPartialOutage": "Mengalami Pemadaman Sebagian",
+  "experiencingDegradedPerformance": "Mengalami Penurunan Performa",
+  "experiencingMinorOutage": "Mengalami Pemadaman Ringan",
+  "experiencingPartiallyDegradedPerformance": "Mengalami Penurunan Kinerja Sebagian",
+  "systemUnderMaintainence": "Sistem Dalam Pemeliharaan",
+  "componentExperiencingMajorOutage": "{{component}} Mengalami Pemadaman Besar",
+  "componentExperiencingPartialOutage": "{{component}} Mengalami Pemadaman Sebagian",
+  "componentExperiencingDegradedPerformance": "{{component}} Mengalami Penurunan Kinerja",
+  "componentUnderMaintainence": "{{component}} Dalam Pemeliharaan"
 }

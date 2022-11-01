@@ -185,5 +185,18 @@
   "noServicesFound": "Ni storitev",
   "reports": "{{number}} poročil",
   "changeTheme": "Spremeni temo",
-  "goToHome": "Pojdi domov"
+  "goToHome": "Pojdi domov",
+  "partiallyDegradedService": "Delno poslabšana storitev",
+  "partialSystemOutage": "Delni izpad sistema",
+  "majorSystemOutage": "Večji izpad sistema",
+  "experiencingMajorOutage": "Doživlja velik izpad",
+  "experiencingPartialOutage": "Delni izpad",
+  "experiencingDegradedPerformance": "Doživljate poslabšano delovanje",
+  "experiencingMinorOutage": "Manjši izpad",
+  "experiencingPartiallyDegradedPerformance": "Delno poslabšano delovanje",
+  "systemUnderMaintainence": "Sistem v vzdrževanju",
+  "componentExperiencingMajorOutage": "{{component}} Prihaja do velikega izpada",
+  "componentExperiencingPartialOutage": "{{component}} Delni izpad",
+  "componentExperiencingDegradedPerformance": "{{component}} Izkušnje z zmanjšano zmogljivostjo",
+  "componentUnderMaintainence": "{{component}} V vzdrževanju"
 }

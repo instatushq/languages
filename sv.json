@@ -185,5 +185,18 @@
   "noServicesFound": "Inga tjänster hittades",
   "reports": "{{number}} rapporter",
   "changeTheme": "Byta tema",
-  "goToHome": "Gå till hemmet"
+  "goToHome": "Gå till hemmet",
+  "partiallyDegradedService": "Delvis försämrad tjänst",
+  "partialSystemOutage": "Partiellt systemavbrott",
+  "majorSystemOutage": "Stort systemavbrott",
+  "experiencingMajorOutage": "Upplever stort avbrott",
+  "experiencingPartialOutage": "Upplever partiellt avbrott",
+  "experiencingDegradedPerformance": "Upplever försämrad prestanda",
+  "experiencingMinorOutage": "Upplever mindre avbrott",
+  "experiencingPartiallyDegradedPerformance": "Upplever delvis försämrad prestanda",
+  "systemUnderMaintainence": "System under underhåll",
+  "componentExperiencingMajorOutage": "{{component}} upplever stort avbrott",
+  "componentExperiencingPartialOutage": "{{component}} upplever delvis avbrott",
+  "componentExperiencingDegradedPerformance": "{{component}} upplever försämrad prestanda",
+  "componentUnderMaintainence": "{{component}} Under underhåll"
 }

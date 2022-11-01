@@ -184,5 +184,18 @@
   "noServicesFound": "Послуг не знайдено",
   "reports": "{{number}} звітів",
   "changeTheme": "Змінити тему",
-  "goToHome": "Йти додому"
+  "goToHome": "Йти додому",
+  "partiallyDegradedService": "Частково погіршений сервіс",
+  "partialSystemOutage": "Частковий вихід системи з ладу",
+  "majorSystemOutage": "Основний збій системи",
+  "experiencingMajorOutage": "Значний збій",
+  "experiencingPartialOutage": "Частковий збій",
+  "experiencingDegradedPerformance": "Зниження продуктивності",
+  "experiencingMinorOutage": "Незначний збій",
+  "experiencingPartiallyDegradedPerformance": "Відчувається часткове зниження продуктивності",
+  "systemUnderMaintainence": "Система на технічному обслуговуванні",
+  "componentExperiencingMajorOutage": "{{component}} Значний збій",
+  "componentExperiencingPartialOutage": "{{component}} Частковий збій",
+  "componentExperiencingDegradedPerformance": "{{component}} Знижена продуктивність",
+  "componentUnderMaintainence": "{{component}} на технічному обслуговуванні"
 }

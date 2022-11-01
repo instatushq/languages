@@ -184,5 +184,18 @@
   "noServicesFound": "Geen diensten gevonden",
   "reports": "{{number}} rapporten",
   "changeTheme": "Thema veranderen",
-  "goToHome": "Ga naar huis"
+  "goToHome": "Ga naar huis",
+  "partiallyDegradedService": "Gedeeltelijk verslechterde service",
+  "partialSystemOutage": "Gedeeltelijke systeemstoring",
+  "majorSystemOutage": "Grote systeemstoring",
+  "experiencingMajorOutage": "Grote storing ervaren",
+  "experiencingPartialOutage": "Gedeeltelijke uitval ervaren",
+  "experiencingDegradedPerformance": "Verslechterde prestaties ervaren",
+  "experiencingMinorOutage": "Kleine storing ervaren",
+  "experiencingPartiallyDegradedPerformance": "Gedeeltelijk verminderde prestaties ervaren",
+  "systemUnderMaintainence": "Systeem onder onderhoud",
+  "componentExperiencingMajorOutage": "{{component}} Grote storing ervaren",
+  "componentExperiencingPartialOutage": "{{component}} Gedeeltelijke uitval ervaren",
+  "componentExperiencingDegradedPerformance": "{{component}} Ervaren verminderde prestaties",
+  "componentUnderMaintainence": "{{component}} Onder Onderhoud"
 }
