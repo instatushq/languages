@@ -198,5 +198,5 @@
   "componentExperiencingMajorOutage": "Bei {{component}} ist ein größerer Ausfall aufgetreten",
   "componentExperiencingPartialOutage": "{{component}} Teilweiser Ausfall",
   "componentExperiencingDegradedPerformance": "{{component}} hat eine verminderte Leistung festgestellt",
-  "componentUnderMaintainence": "{{Komponente}} Unter Wartung"
+  "componentUnderMaintainence": "{{component}} Unter Wartung"
 }
