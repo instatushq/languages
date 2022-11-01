@@ -192,8 +192,8 @@
   "experiencingMinorOutage": "Дошло је до мањег квара",
   "experiencingPartiallyDegradedPerformance": "Делимично смањене перформансе",
   "systemUnderMaintainence": "Систем у току одржавања",
-  "componentExperiencingMajorOutage": "{{цомпонент}} Дошло је до великог прекида рада",
-  "componentExperiencingPartialOutage": "{{цомпонент}} Дошло је до делимичног прекида рада",
-  "componentExperiencingDegradedPerformance": "{{цомпонент}} Доживљавају деградиране перформансе",
-  "componentUnderMaintainence": "{{цомпонент}} Под Одржавање"
+  "componentExperiencingMajorOutage": "{{component}} Дошло је до великог прекида рада",
+  "componentExperiencingPartialOutage": "{{component}} Дошло је до делимичног прекида рада",
+  "componentExperiencingDegradedPerformance": "{{component}} Доживљавају деградиране перформансе",
+  "componentUnderMaintainence": "{{component}} Под Одржавање"
 }

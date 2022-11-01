@@ -195,8 +195,8 @@
   "experiencingMinorOutage": "Pieni käyttökatkos",
   "experiencingPartiallyDegradedPerformance": "Suorituskyky on osittain heikentynyt",
   "systemUnderMaintainence": "Järjestelmä huollettavana",
-  "componentExperiencingMajorOutage": "{{komponentti}} Suuri sähkökatkos",
-  "componentExperiencingPartialOutage": "{{komponentti}} Osittainen käyttökatkos",
-  "componentExperiencingDegradedPerformance": "{{komponentti}} Suorituskyky heikentynyt",
-  "componentUnderMaintainence": "{{komponentti}} kohdassa Huolto"
+  "componentExperiencingMajorOutage": "{{component}} Suuri sähkökatkos",
+  "componentExperiencingPartialOutage": "{{component}} Osittainen käyttökatkos",
+  "componentExperiencingDegradedPerformance": "{{component}} Suorituskyky heikentynyt",
+  "componentUnderMaintainence": "{{component}} kohdassa Huolto"
 }

@@ -195,8 +195,8 @@
   "experiencingMinorOutage": "Doświadczanie drobnej awarii",
   "experiencingPartiallyDegradedPerformance": "Doświadczanie częściowo obniżonej wydajności",
   "systemUnderMaintainence": "System w trakcie konserwacji",
-  "componentExperiencingMajorOutage": "{{komponent}} Poważna awaria",
-  "componentExperiencingPartialOutage": "{{komponent}} Częściowa awaria",
-  "componentExperiencingDegradedPerformance": "{{komponent}} Doświadczanie obniżonej wydajności",
-  "componentUnderMaintainence": "{{komponent}} W trakcie konserwacji"
+  "componentExperiencingMajorOutage": "{{component}} Poważna awaria",
+  "componentExperiencingPartialOutage": "{{component}} Częściowa awaria",
+  "componentExperiencingDegradedPerformance": "{{component}} Doświadczanie obniżonej wydajności",
+  "componentUnderMaintainence": "{{component}} W trakcie konserwacji"
 }
