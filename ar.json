@@ -195,7 +195,7 @@
   "experiencingMinorOutage": "تعاني من انقطاع طفيف",
   "experiencingPartiallyDegradedPerformance": "أداء متدهور جزئيًا",
   "systemUnderMaintainence": "النظام تحت الصيانة",
-  "componentExperiencingMajorOutage": "{{مكون}} حدوث انقطاع كبير",
+  "componentExperiencingMajorOutage": "{{component}} حدوث انقطاع كبير",
   "componentExperiencingPartialOutage": "{{component}} يعاني من انقطاع جزئي",
   "componentExperiencingDegradedPerformance": "{{component}} يعاني من تدهور في الأداء",
   "componentUnderMaintainence": "{{component}} قيد الصيانة"
