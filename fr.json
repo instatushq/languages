@@ -197,5 +197,5 @@
   "componentExperiencingMajorOutage": "{{component}} connaît une panne majeure",
   "componentExperiencingPartialOutage": "{{component}} connaît une panne partielle",
   "componentExperiencingDegradedPerformance": "{{component}} connaît une dégradation des performances",
-  "componentUnderMaintainence": "{{composant}} en cours de maintenance"
+  "componentUnderMaintainence": "{{component}} en cours de maintenance"
 }
