@@ -142,7 +142,7 @@
   "maintenanceInProgress": "Huolto on nyt käynnissä",
   "maintenanceComplete": "Huolto on suoritettu onnistuneesti",
   "viewMaintenance": "Katso huolto",
-  "viewincident": "Katso häiriö",
+  "viewIncident": "Katso häiriö",
   "impact": "Vaikutus",
   "maintenanceWillBeginSoon": "Huolto alkaa {{minutes}} minuutin kuluttua",
   "postmortem": "Jälkiselvittely",

@@ -140,7 +140,7 @@
   "maintenanceInProgress": "A manutenção já está em andamento",
   "maintenanceComplete": "Manutenção concluída com sucesso",
   "viewMaintenance": "Ver manutenção",
-  "viewincident": "Ver incidente",
+  "viewIncident": "Ver incidente",
   "impact": "Impacto",
   "maintenanceWillBeginSoon": "A manutenção começará em {{minutes}} minutos",
   "postmortem": "Após a morte",

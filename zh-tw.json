@@ -142,7 +142,7 @@
   "maintenanceInProgress": "維護正在進行中",
   "maintenanceComplete": "維護已成功完成",
   "viewMaintenance": "查看維護",
-  "viewincident": "查看事件",
+  "viewIncident": "查看事件",
   "impact": "影響",
   "maintenanceWillBeginSoon": "維護將在 {{minutes}} 分鐘後開始",
   "postmortem": "死後",

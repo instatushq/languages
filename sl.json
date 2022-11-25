@@ -142,7 +142,7 @@
   "maintenanceInProgress": "Vzdrževanje je v teku",
   "maintenanceComplete": "Vzdrževanje je uspešno zaključeno",
   "viewMaintenance": "Podrobnosti o vzdrževanju",
-  "viewincident": "Podrobnosti o izpadu",
+  "viewIncident": "Podrobnosti o izpadu",
   "impact": "Vpliv",
   "maintenanceWillBeginSoon": "Vzdrževanje se bo začelo čez {{minutes}} minut(o)",
   "postmortem": "Poročilo o napaki",

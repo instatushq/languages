@@ -142,7 +142,7 @@
   "maintenanceInProgress": "Pemeliharaan sedang berlangsung",
   "maintenanceComplete": "Pemeliharaan telah berhasil diselesaikan",
   "viewMaintenance": "Lihat pemeliharaan",
-  "viewincident": "Lihat insiden",
+  "viewIncident": "Lihat insiden",
   "impact": "Dampak",
   "maintenanceWillBeginSoon": "Pemeliharaan akan dimulai dalam {{minutes}} menit",
   "postmortem": "Setelah mati",

@@ -142,7 +142,7 @@
   "maintenanceInProgress": "メンテナンスは現在進行中です",
   "maintenanceComplete": "メンテナンスは正常に完了しました",
   "viewMaintenance": "メンテナンスを表示",
-  "viewincident": "障害情報を表示",
+  "viewIncident": "障害情報を表示",
   "impact": "影響",
   "maintenanceWillBeginSoon": "メンテナンスは{{minutes}}分後に始まります",
   "postmortem": "死後",

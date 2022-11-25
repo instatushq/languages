@@ -142,7 +142,7 @@
   "maintenanceInProgress": "Konserwacja jest teraz w toku",
   "maintenanceComplete": "Konserwacja zakończyła się pomyślnie",
   "viewMaintenance": "Zobacz konserwację",
-  "viewincident": "Zobacz incydent",
+  "viewIncident": "Zobacz incydent",
   "impact": "Uderzenie",
   "maintenanceWillBeginSoon": "Konserwacja rozpocznie się za {{minutes}} minut",
   "postmortem": "Po śmierci",

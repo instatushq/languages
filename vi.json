@@ -141,7 +141,7 @@
   "maintenanceInProgress": "Hiện đang tiến hành bảo trì",
   "maintenanceComplete": "Bảo trì đã hoàn tất thành công",
   "viewMaintenance": "Xem bảo trì",
-  "viewincident": "Xem sự cố",
+  "viewIncident": "Xem sự cố",
   "impact": "Va chạm",
   "maintenanceWillBeginSoon": "Bảo trì sẽ bắt đầu sau {{minutes}} phút nữa",
   "postmortem": "Sau khi chết",

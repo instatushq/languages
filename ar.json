@@ -142,7 +142,7 @@
   "maintenanceInProgress": "الصيانة جارية الآن",
   "maintenanceComplete": "اكتملت الصيانة بنجاح",
   "viewMaintenance": "عرض الصيانة",
-  "viewincident": "مشاهدة الحادث",
+  "viewIncident": "مشاهدة الحادث",
   "impact": "تأثير",
   "maintenanceWillBeginSoon": "ستبدأ الصيانة في غضون {{minutes}} دقيقة",
   "postmortem": "بعد الموت",

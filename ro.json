@@ -142,7 +142,7 @@
   "maintenanceInProgress": "Mentenanța este acum în curs",
   "maintenanceComplete": "Mentenanța a fost finalizată cu succes",
   "viewMaintenance": "Vizualizați lucrarea de mentenanță",
-  "viewincident": "Vizualizați incidentul",
+  "viewIncident": "Vizualizați incidentul",
   "impact": "Impact",
   "maintenanceWillBeginSoon": "Lucrarea de mentenanță va începe în {{minutes}}  minute",
   "postmortem": "După finalizare",

@@ -141,7 +141,7 @@
   "maintenanceInProgress": "Vedligeholdelse er nu i gang",
   "maintenanceComplete": "Vedligeholdelsen er gennemført",
   "viewMaintenance": "Se vedligeholdelse",
-  "viewincident": "Se hændelsen",
+  "viewIncident": "Se hændelsen",
   "impact": "Indvirkning",
   "maintenanceWillBeginSoon": "Vedligeholdelsen begynder om {{minutes}} minutter",
   "postmortem": "Efter døden",

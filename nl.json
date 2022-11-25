@@ -141,7 +141,7 @@
   "maintenanceInProgress": "Er wordt nu onderhoud gepleegd",
   "maintenanceComplete": "Onderhoud is succesvol afgerond",
   "viewMaintenance": "Bekijk onderhoud",
-  "viewincident": "Bekijk incident",
+  "viewIncident": "Bekijk incident",
   "impact": "Invloed",
   "maintenanceWillBeginSoon": "Het onderhoud begint over {{minutes}} minuten",
   "postmortem": "Na de dood",

@@ -142,7 +142,7 @@
   "maintenanceInProgress": "Bakım devam ediyor",
   "maintenanceComplete": "Bakım başarıyla tamamlandı",
   "viewMaintenance": "Bakımı görüntüle",
-  "viewincident": "Olayı görüntüle",
+  "viewIncident": "Olayı görüntüle",
   "impact": "Etki",
   "maintenanceWillBeginSoon": "Bakım {{minutes}} dakika içinde başlayacak.",
   "postmortem": "Ölümden sonra",

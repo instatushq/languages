@@ -141,7 +141,7 @@
   "maintenanceInProgress": "Зараз триває технічне обслуговування",
   "maintenanceComplete": "Технічне обслуговування успішно завершено",
   "viewMaintenance": "Переглянути технічне обслуговування",
-  "viewincident": "Переглянути інцидент",
+  "viewIncident": "Переглянути інцидент",
   "impact": "Вплив",
   "maintenanceWillBeginSoon": "Технічне обслуговування розпочнеться через {{minutes}} хв",
   "postmortem": "Після смерті",

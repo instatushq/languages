@@ -142,7 +142,7 @@
   "maintenanceInProgress": "Maintenance is now in progress",
   "maintenanceComplete": "Maintenance has completed successfully",
   "viewMaintenance": "View maintenance",
-  "viewincident": "View incident",
+  "viewIncident": "View incident",
   "impact": "Impact",
   "maintenanceWillBeginSoon": "Maintenance will begin in {{minutes}} minutes",
   "postmortem": "Postmortem",

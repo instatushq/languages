@@ -142,7 +142,7 @@
   "maintenanceInProgress": "Underhåll pågår nu",
   "maintenanceComplete": "Underhållet har slutförts framgångsrikt",
   "viewMaintenance": "Se underhåll",
-  "viewincident": "Se incidenten",
+  "viewIncident": "Se incidenten",
   "impact": "Påverkan",
   "maintenanceWillBeginSoon": "Underhållet börjar om {{minutes}} minuter",
   "postmortem": "Uppföljning",

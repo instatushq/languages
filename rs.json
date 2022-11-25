@@ -139,7 +139,7 @@
   "maintenanceInProgress": "Одржавање је сада у току",
   "maintenanceComplete": "Одржавање је успешно завршено",
   "viewMaintenance": "Погледајте одржавање",
-  "viewincident": "Погледајте инцидент",
+  "viewIncident": "Погледајте инцидент",
   "impact": "Утицај",
   "maintenanceWillBeginSoon": "Одржавање ће почети за {{minutes}} минута",
   "postmortem": "После смрти",
