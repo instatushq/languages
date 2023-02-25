@@ -33,7 +33,7 @@
   "ofDowntime": "の中断",
   "notResolved": "未解決",
   "affected": "影響あり",
-  "affects": "の影響先",
+  "affects": "影響先",
   "noDowntime": "ダウンタイムは報告されていません。",
   "didntStart": "サービスがまだ開始されていません。",
   "noIncidents": "障害情報は報告されていません。",
