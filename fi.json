@@ -198,5 +198,6 @@
   "componentExperiencingMajorOutage": "{{component}} suuri katkos",
   "componentExperiencingPartialOutage": "{{component}} osittainen katkos",
   "componentExperiencingDegradedPerformance": "{{component}} heikentynyt suorituskyky",
-  "componentUnderMaintainence": "{{component}} huolto meneillään"
+  "componentUnderMaintainence": "{{component}} huolto meneillään",
+  "week": "viikko"
 }

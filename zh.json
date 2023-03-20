@@ -198,5 +198,6 @@
   "componentExperiencingMajorOutage": "{{component}} 目前重大故障",
   "componentExperiencingPartialOutage": "{{component}} 目前部分故障",
   "componentExperiencingDegradedPerformance": "{{component}} 目前性能下降",
-  "componentUnderMaintainence": "{{component}} 维护中"
+  "componentUnderMaintainence": "{{component}} 维护中",
+  "week": "星期"
 }

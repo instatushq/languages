@@ -198,5 +198,6 @@
   "componentExperiencingMajorOutage": "{{component}} Büyük Kesinti Yaşıyor",
   "componentExperiencingPartialOutage": "{{component}} Kısmi Kesinti Yaşıyor",
   "componentExperiencingDegradedPerformance": "{{component}} Düşük Performans Yaşıyor",
-  "componentUnderMaintainence": "{{component}} Bakımda"
+  "componentUnderMaintainence": "{{component}} Bakımda",
+  "week": "hafta"
 }

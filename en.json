@@ -198,5 +198,6 @@
   "componentExperiencingMajorOutage": "{{component}} Experiencing Major Outage",
   "componentExperiencingPartialOutage": "{{component}} Experiencing Partial Outage",
   "componentExperiencingDegradedPerformance": "{{component}} Experiencing Degraded Performance",
-  "componentUnderMaintainence": "{{component}} Under Maintenance"
+  "componentUnderMaintainence": "{{component}} Under Maintenance",
+  "week": "week"
 }

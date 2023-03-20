@@ -197,5 +197,6 @@
   "componentExperiencingMajorOutage": "{{component}} Grote storing ervaren",
   "componentExperiencingPartialOutage": "{{component}} Gedeeltelijke uitval ervaren",
   "componentExperiencingDegradedPerformance": "{{component}} Ervaren verminderde prestaties",
-  "componentUnderMaintainence": "{{component}} Onder Onderhoud"
+  "componentUnderMaintainence": "{{component}} Onder Onderhoud",
+  "week": "week"
 }

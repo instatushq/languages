@@ -198,5 +198,6 @@
   "componentExperiencingMajorOutage": "{{component}} upplever stort avbrott",
   "componentExperiencingPartialOutage": "{{component}} upplever partiellt avbrott",
   "componentExperiencingDegradedPerformance": "{{component}} upplever försämrad prestanda",
-  "componentUnderMaintainence": "{{component}} underhåll pågår"
+  "componentUnderMaintainence": "{{component}} underhåll pågår",
+  "week": "vecka"
 }

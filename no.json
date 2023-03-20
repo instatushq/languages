@@ -197,5 +197,6 @@
   "componentExperiencingMajorOutage": "{{component}} Opplever stor driftsstans",
   "componentExperiencingPartialOutage": "{{component}} Opplever delvis strømbrudd",
   "componentExperiencingDegradedPerformance": "{{component}} Opplever redusert ytelse",
-  "componentUnderMaintainence": "{{component}} Under vedlikehold"
+  "componentUnderMaintainence": "{{component}} Under vedlikehold",
+  "week": "uke"
 }

@@ -197,5 +197,6 @@
   "componentExperiencingMajorOutage": "{{component}} Oplever større udfald",
   "componentExperiencingPartialOutage": "{{component}} Oplever delvist afbrydelse",
   "componentExperiencingDegradedPerformance": "{{component}} Oplever forringet ydeevne",
-  "componentUnderMaintainence": "{{component}} Under vedligeholdelse"
+  "componentUnderMaintainence": "{{component}} Under vedligeholdelse",
+  "week": "uge"
 }

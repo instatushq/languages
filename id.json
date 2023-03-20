@@ -198,5 +198,6 @@
   "componentExperiencingMajorOutage": "{{component}} Mengalami Pemadaman Besar",
   "componentExperiencingPartialOutage": "{{component}} Mengalami Pemadaman Sebagian",
   "componentExperiencingDegradedPerformance": "{{component}} Mengalami Penurunan Kinerja",
-  "componentUnderMaintainence": "{{component}} Dalam Pemeliharaan"
+  "componentUnderMaintainence": "{{component}} Dalam Pemeliharaan",
+  "week": "pekan"
 }
