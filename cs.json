@@ -198,5 +198,6 @@
   "componentExperiencingMajorOutage": "{{component}} Dochází k velkému výpadku",
   "componentExperiencingPartialOutage": "{{component}} Dochází k částečnému výpadku",
   "componentExperiencingDegradedPerformance": "{{component}} Zažívá snížený výkon",
-  "componentUnderMaintainence": "{{component}} V rámci údržby"
+  "componentUnderMaintainence": "{{component}} V rámci údržby",
+  "week": "týden"
 }

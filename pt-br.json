@@ -196,5 +196,6 @@
   "componentExperiencingMajorOutage": "{{component}} Enfrentando Grande Interrupção",
   "componentExperiencingPartialOutage": "{{component}} Enfrentando Interrupção Parcial",
   "componentExperiencingDegradedPerformance": "{{component}} Experimentando Desempenho Degradado",
-  "componentUnderMaintainence": "{{component}} Em Manutenção"
+  "componentUnderMaintainence": "{{component}} Em Manutenção",
+  "week": "semana"
 }

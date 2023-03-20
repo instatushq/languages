@@ -198,5 +198,6 @@
   "componentExperiencingMajorOutage": "{{component}} Se confruntă cu o întrerupere majoră",
   "componentExperiencingPartialOutage": "{{component}} Se confruntă cu o întrerupere parțială",
   "componentExperiencingDegradedPerformance": "{{component}} Înregistrează o performanță degradată",
-  "componentUnderMaintainence": "{{component}} Sub Întreținere"
+  "componentUnderMaintainence": "{{component}} Sub Întreținere",
+  "week": "săptămână"
 }

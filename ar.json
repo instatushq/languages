@@ -198,5 +198,6 @@
   "componentExperiencingMajorOutage": "{{component}} حدوث انقطاع كبير",
   "componentExperiencingPartialOutage": "{{component}} يعاني من انقطاع جزئي",
   "componentExperiencingDegradedPerformance": "{{component}} يعاني من تدهور في الأداء",
-  "componentUnderMaintainence": "{{component}} قيد الصيانة"
+  "componentUnderMaintainence": "{{component}} قيد الصيانة",
+  "week": "أسبوع"
 }

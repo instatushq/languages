@@ -195,5 +195,6 @@
   "componentExperiencingMajorOutage": "{{component}} Дошло је до великог прекида рада",
   "componentExperiencingPartialOutage": "{{component}} Дошло је до делимичног прекида рада",
   "componentExperiencingDegradedPerformance": "{{component}} Доживљавају деградиране перформансе",
-  "componentUnderMaintainence": "{{component}} Под Одржавање"
+  "componentUnderMaintainence": "{{component}} Под Одржавање",
+  "week": "Недеља"
 }

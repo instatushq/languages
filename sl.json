@@ -198,5 +198,6 @@
   "componentExperiencingMajorOutage": "{{component}} Prihaja do velikega izpada",
   "componentExperiencingPartialOutage": "{{component}} Delni izpad",
   "componentExperiencingDegradedPerformance": "{{component}} Izkušnje z zmanjšano zmogljivostjo",
-  "componentUnderMaintainence": "{{component}} V vzdrževanju"
+  "componentUnderMaintainence": "{{component}} V vzdrževanju",
+  "week": "teden"
 }

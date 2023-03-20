@@ -198,5 +198,6 @@
   "componentExperiencingMajorOutage": "{{component}} Poważna awaria",
   "componentExperiencingPartialOutage": "{{component}} Częściowa awaria",
   "componentExperiencingDegradedPerformance": "{{component}} Doświadczanie obniżonej wydajności",
-  "componentUnderMaintainence": "{{component}} W trakcie konserwacji"
+  "componentUnderMaintainence": "{{component}} W trakcie konserwacji",
+  "week": "tydzień"
 }

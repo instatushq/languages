@@ -198,5 +198,6 @@
   "componentExperiencingMajorOutage": "{{component}} で大規模な停止が発生しています",
   "componentExperiencingPartialOutage": "{{component}} で部分的な停止が発生しています",
   "componentExperiencingDegradedPerformance": "{{component}} のパフォーマンスが低下しています",
-  "componentUnderMaintainence": "{{component}} のメンテナンス中"
+  "componentUnderMaintainence": "{{component}} のメンテナンス中",
+  "week": "週"
 }
