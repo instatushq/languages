@@ -92,7 +92,7 @@
   "wellSendYouAMessage": "Quando atualizarmos nosso status, enviaremos uma mensagem de texto.",
   "wellSendYouAnEmail": "Quando atualizarmos nosso status, enviaremos um e-mail.",
   "WebhookUrl": "Webhook URL",
-  "webhookDescription": "Eniaremos solicitações para o seu URL usando",
+  "webhookDescription": "Enviaremos solicitações para o seu URL usando",
   "webhookFormat": "este formato",
   "webhookSendEmail": "Enviaremos a você quando houver um problema com o seu URL",
   "webhookSend": "Quando atualizarmos nosso status, enviaremos as atualizações para o URL do seu Webhook.",
