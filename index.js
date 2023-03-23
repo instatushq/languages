@@ -14,19 +14,7 @@ jsonsInDir.forEach(async file => {
     const json = JSON.parse(fileData.toString())
 
     const originals = {
-      "partiallyDegradedService": "Partially Degraded Service",
-      "partialSystemOutage": "Partial System Outage",
-      "majorSystemOutage": "Major System Outage",
-      "experiencingMajorOutage": "Experiencing Major Outage",
-      "experiencingPartialOutage": "Experiencing Partial Outage",
-      "experiencingDegradedPerformance": "Experiencing Degraded Performance",
-      "experiencingMinorOutage": "Experiencing Minor Outage",
-      "experiencingPartiallyDegradedPerformance": "Experiencing Partially Degraded Performance",
-      "systemUnderMaintainence": "System Under Maintenance",
-      "componentExperiencingMajorOutage": "{{component}} Experiencing Major Outage",
-      "componentExperiencingPartialOutage": "{{component}} Experiencing Partial Outage",
-      "componentExperiencingDegradedPerformance": "{{component}} Experiencing Degraded Performance",
-      "componentUnderMaintainence": "{{component}} Under Maintenance",
+      "week": "week",
     }
 
     try {

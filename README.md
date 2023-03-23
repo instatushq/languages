@@ -22,7 +22,7 @@ Supported languages:
 - 🇮🇹 Italian [UffTec](https://github.com/UffTec)
 - 🇯🇵 Japanese [kr-tukimi](https://github.com/kr-tukimi) & [AGAMES](https://twitter.com/awh_jp)
 - 🇳🇴 Norwegian [Eirik Lie](https://github.com/eiriklie)
-- 🇵🇱 Polski [Artur Kociszewski](https://artuu.pl)
+- 🇵🇱 Polski [Artur Kociszewski](https://artuu.me)
 - 🇵🇹 Portuguese [João Drummond](https://github.com/jlcd)
 - 🇧🇷 Portuguese (Brazilian) [Vitor Pinho](https://github.com/vitor-ao)
 - 🇷🇸 Serbian [Aleksandar Vasilić](https://github.com/net-tech)
@@ -39,7 +39,7 @@ Quick Translate Tool by [Steven John](https://github.com/StevenJohnss)
 
 To use it:
 
-1. Get [Google Cloud translate API key](https://console.developers.google.com/apis/credentials) 
+1. Get [Google Cloud translate API key](https://console.developers.google.com/apis/credentials)
 2. Make sure you have your Google Translation API enabled for your project
 3. Change `.env.examle` to `.env` and enter the obtained API key in `APIKEY`
 4. Run: `yarn && yarn start` 🚀

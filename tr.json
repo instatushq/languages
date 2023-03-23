@@ -131,7 +131,7 @@
   "incidentUpdates": "olay güncellemeleri",
   "youCan": "Buradan",
   "unsubscribe": "aboneliği kaldırmak için tıklayın ",
-  "unsubscribeNotice": "Hatırlatma: Bu gibi uyarıların aboneliğinden şu adresten çıkabilirsiniz:",
+  "unsubscribeNotice": "Aboneliği iptal et:",
   "here": "tıklayın",
   "checkItOut": "Kontrol edin",
   "useThisLink": "Bu linki kullan",
@@ -198,5 +198,6 @@
   "componentExperiencingMajorOutage": "{{component}} Büyük Kesinti Yaşıyor",
   "componentExperiencingPartialOutage": "{{component}} Kısmi Kesinti Yaşıyor",
   "componentExperiencingDegradedPerformance": "{{component}} Düşük Performans Yaşıyor",
-  "componentUnderMaintainence": "{{component}} Bakımda"
+  "componentUnderMaintainence": "{{component}} Bakımda",
+  "week": "hafta"
 }

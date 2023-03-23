@@ -131,7 +131,7 @@
   "incidentUpdates": "dogodkih",
   "youCan": "Od obveščanja se lahko odjavite",
   "unsubscribe": "s klikom",
-  "unsubscribeNotice": "Opomnik: od takih opozoril se lahko odjavite na",
+  "unsubscribeNotice": "Odjava od:",
   "here": "tukaj",
   "checkItOut": "Preverite",
   "useThisLink": "Uporabite to povezavo",
@@ -198,5 +198,6 @@
   "componentExperiencingMajorOutage": "{{component}} Prihaja do velikega izpada",
   "componentExperiencingPartialOutage": "{{component}} Delni izpad",
   "componentExperiencingDegradedPerformance": "{{component}} Izkušnje z zmanjšano zmogljivostjo",
-  "componentUnderMaintainence": "{{component}} V vzdrževanju"
+  "componentUnderMaintainence": "{{component}} V vzdrževanju",
+  "week": "teden"
 }

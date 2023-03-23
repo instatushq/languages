@@ -130,7 +130,7 @@
   "incidentUpdates": "incident updates",
   "youCan": "Jij kan",
   "unsubscribe": "Afmelden",
-  "unsubscribeNotice": "Herinnering: je kunt je afmelden voor waarschuwingen zoals deze op",
+  "unsubscribeNotice": "Afmelden bij:",
   "here": "hier",
   "checkItOut": "Bekijken",
   "useThisLink": "Gebruik deze link",
@@ -197,5 +197,6 @@
   "componentExperiencingMajorOutage": "{{component}} Grote storing ervaren",
   "componentExperiencingPartialOutage": "{{component}} Gedeeltelijke uitval ervaren",
   "componentExperiencingDegradedPerformance": "{{component}} Ervaren verminderde prestaties",
-  "componentUnderMaintainence": "{{component}} Onder Onderhoud"
+  "componentUnderMaintainence": "{{component}} Onder Onderhoud",
+  "week": "week"
 }

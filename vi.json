@@ -130,7 +130,7 @@
   "incidentUpdates": "cập nhật sự cố",
   "youCan": "Bạn có thể",
   "unsubscribe": "hủy đăng ký",
-  "unsubscribeNotice": "Nhắc nhở: bạn có thể hủy đăng ký nhận những cảnh báo như thế này tại",
+  "unsubscribeNotice": "Hủy đăng ký:",
   "here": "đây",
   "checkItOut": "Kiểm tra nó ra",
   "useThisLink": "Sử dụng liên kết này",
@@ -197,5 +197,6 @@
   "componentExperiencingMajorOutage": "{{component}} Trải qua sự cố ngừng hoạt động lớn",
   "componentExperiencingPartialOutage": "{{component}} Trải qua thời gian ngừng hoạt động một phần",
   "componentExperiencingDegradedPerformance": "{{component}} Trải qua Hiệu suất bị Giảm sút",
-  "componentUnderMaintainence": "{{component}} Đang được bảo trì"
+  "componentUnderMaintainence": "{{component}} Đang được bảo trì",
+  "week": "tuần"
 }

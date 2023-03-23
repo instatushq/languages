@@ -130,7 +130,7 @@
   "incidentUpdates": "оновлення інцидентів",
   "youCan": "Ви можете",
   "unsubscribe": "відмовитися від підписки",
-  "unsubscribeNotice": "Нагадування: ви можете скасувати підписку на подібні сповіщення за адресою",
+  "unsubscribeNotice": "Скасувати підписку на:",
   "here": "тут",
   "checkItOut": "Перевірте це",
   "useThisLink": "Використовуйте це посилання",
@@ -197,5 +197,6 @@
   "componentExperiencingMajorOutage": "{{component}} Значний збій",
   "componentExperiencingPartialOutage": "{{component}} Частковий збій",
   "componentExperiencingDegradedPerformance": "{{component}} Знижена продуктивність",
-  "componentUnderMaintainence": "{{component}} на технічному обслуговуванні"
+  "componentUnderMaintainence": "{{component}} на технічному обслуговуванні",
+  "week": "тиждень"
 }

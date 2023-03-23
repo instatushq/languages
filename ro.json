@@ -131,7 +131,7 @@
   "incidentUpdates": "actualizări ale incidentului",
   "youCan": "Puteți",
   "unsubscribe": "dezabonare",
-  "unsubscribeNotice": "Reminder: vă puteți dezabona de la astfel de alerte la ",
+  "unsubscribeNotice": "Dezabonați-vă de la:",
   "here": "aici",
   "checkItOut": "Verificați",
   "useThisLink": "Folosiți acest link",
@@ -198,5 +198,6 @@
   "componentExperiencingMajorOutage": "{{component}} Se confruntă cu o întrerupere majoră",
   "componentExperiencingPartialOutage": "{{component}} Se confruntă cu o întrerupere parțială",
   "componentExperiencingDegradedPerformance": "{{component}} Înregistrează o performanță degradată",
-  "componentUnderMaintainence": "{{component}} Sub Întreținere"
+  "componentUnderMaintainence": "{{component}} Sub Întreținere",
+  "week": "săptămână"
 }

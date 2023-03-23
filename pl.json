@@ -131,7 +131,7 @@
   "incidentUpdates": "aktualizacje zdarzeń",
   "youCan": "Możesz",
   "unsubscribe": "zrezygnować z subskrybcji",
-  "unsubscribeNotice": "Przypomnienie: możesz zrezygnować z otrzymywania takich alertów pod adresem",
+  "unsubscribeNotice": "Wypisz się z:",
   "here": "tutaj",
   "checkItOut": "Sprawdź to",
   "useThisLink": "Skorzystaj z tego linku",
@@ -198,5 +198,6 @@
   "componentExperiencingMajorOutage": "{{component}} Poważna awaria",
   "componentExperiencingPartialOutage": "{{component}} Częściowa awaria",
   "componentExperiencingDegradedPerformance": "{{component}} Doświadczanie obniżonej wydajności",
-  "componentUnderMaintainence": "{{component}} W trakcie konserwacji"
+  "componentUnderMaintainence": "{{component}} W trakcie konserwacji",
+  "week": "tydzień"
 }

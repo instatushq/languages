@@ -128,7 +128,7 @@
   "incidentUpdates": "Incident azuriran",
   "youCan": "Možete",
   "unsubscribe": "se odjaviti",
-  "unsubscribeNotice": "Подсетник: можете да откажете претплату на оваква упозорења на",
+  "unsubscribeNotice": "Откажи претплату на:",
   "here": "ovde",
   "checkItOut": "Pogledaj",
   "useThisLink": "Koristite ovaj link",
@@ -195,5 +195,6 @@
   "componentExperiencingMajorOutage": "{{component}} Дошло је до великог прекида рада",
   "componentExperiencingPartialOutage": "{{component}} Дошло је до делимичног прекида рада",
   "componentExperiencingDegradedPerformance": "{{component}} Доживљавају деградиране перформансе",
-  "componentUnderMaintainence": "{{component}} Под Одржавање"
+  "componentUnderMaintainence": "{{component}} Под Одржавање",
+  "week": "Недеља"
 }

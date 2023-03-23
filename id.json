@@ -131,7 +131,7 @@
   "incidentUpdates": "pembaruan insiden",
   "youCan": "Anda dapat",
   "unsubscribe": "berhenti berlangganan",
-  "unsubscribeNotice": "Pengingat: Anda dapat berhenti berlangganan dari peringatan seperti ini di",
+  "unsubscribeNotice": "Berhenti berlangganan dari:",
   "here": "di sini",
   "checkItOut": "Coba lihat",
   "useThisLink": "Gunakan tautan ini",
@@ -198,5 +198,6 @@
   "componentExperiencingMajorOutage": "{{component}} Mengalami Pemadaman Besar",
   "componentExperiencingPartialOutage": "{{component}} Mengalami Pemadaman Sebagian",
   "componentExperiencingDegradedPerformance": "{{component}} Mengalami Penurunan Kinerja",
-  "componentUnderMaintainence": "{{component}} Dalam Pemeliharaan"
+  "componentUnderMaintainence": "{{component}} Dalam Pemeliharaan",
+  "week": "pekan"
 }

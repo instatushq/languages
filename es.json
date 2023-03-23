@@ -131,7 +131,7 @@
   "incidentUpdates": "actualizaciones de incidentes",
   "youCan": "Usted puede",
   "unsubscribe": "darse de baja",
-  "unsubscribeNotice": "Recordatorio: puede darse de baja de alertas como estas en",
+  "unsubscribeNotice": "Darse de baja de:",
   "here": "aquí",
   "checkItOut": "Verifique",
   "useThisLink": "Use este enlace",
@@ -198,5 +198,6 @@
   "componentExperiencingMajorOutage": "{{component}} está experimentando una interrupción importante",
   "componentExperiencingPartialOutage": "{{component}} está experimentando una interrupción parcial",
   "componentExperiencingDegradedPerformance": "{{component}} está experimentando un rendimiento degradado",
-  "componentUnderMaintainence": "{{component}} en mantenimiento"
+  "componentUnderMaintainence": "{{component}} en mantenimiento",
+  "week": "semana"
 }
