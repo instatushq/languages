@@ -65,6 +65,11 @@
     "emoji": "🇯🇵"
   },
   {
+    "value": "ko",
+    "label": "Korean",
+    "emoji": "🇰🇷"
+  },
+  {
     "value": "no",
     "label": "Norwegian",
     "emoji": "🇳🇴"
@@ -128,10 +133,5 @@
     "value": "vi",
     "label": "Vietnamese",
     "emoji": "🇻🇳"
-  },
-  {
-    "value": "ko",
-    "label": "Korean",
-    "emoji": "🇰🇷"
   }
 ]
