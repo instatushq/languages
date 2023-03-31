@@ -128,5 +128,10 @@
     "value": "vi",
     "label": "Vietnamese",
     "emoji": "🇻🇳"
+  },
+  {
+    "value": "ko",
+    "label": "Korean",
+    "emoji": "🇰🇷"
   }
 ]
