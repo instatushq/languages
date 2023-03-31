@@ -199,5 +199,5 @@
   "componentExperiencingPartialOutage": "{{component}} 에서 부분적인 장애가 발생",
   "componentExperiencingDegradedPerformance": "{{component}} 의 성능이 저하",
   "componentUnderMaintainence": "{{component}} 유지보수 중",
-  "week": "week"
+  "week": "주"
 }
