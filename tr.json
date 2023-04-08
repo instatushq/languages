@@ -199,5 +199,6 @@
   "componentExperiencingPartialOutage": "{{component}} Kısmi Kesinti Yaşıyor",
   "componentExperiencingDegradedPerformance": "{{component}} Düşük Performans Yaşıyor",
   "componentUnderMaintainence": "{{component}} Bakımda",
-  "week": "hafta"
+  "week": "hafta",
+  "systemMetricsNoData": "Bu döneme henüz eklenmiş bir veri yok"
 }

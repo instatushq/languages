@@ -199,5 +199,6 @@
   "componentExperiencingPartialOutage": "{{component}} osittainen katkos",
   "componentExperiencingDegradedPerformance": "{{component}} heikentynyt suorituskyky",
   "componentUnderMaintainence": "{{component}} huolto meneillään",
-  "week": "viikko"
+  "week": "viikko",
+  "systemMetricsNoData": "Tälle ajanjaksolle ei ole vielä lisätty tietoja"
 }

@@ -198,5 +198,6 @@
   "componentExperiencingPartialOutage": "{{component}} Gedeeltelijke uitval ervaren",
   "componentExperiencingDegradedPerformance": "{{component}} Ervaren verminderde prestaties",
   "componentUnderMaintainence": "{{component}} Onder Onderhoud",
-  "week": "week"
+  "week": "week",
+  "systemMetricsNoData": "Er zijn nog geen gegevens toegevoegd aan deze periode"
 }

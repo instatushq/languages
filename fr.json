@@ -198,5 +198,6 @@
   "componentExperiencingPartialOutage": "{{component}} connaît une panne partielle",
   "componentExperiencingDegradedPerformance": "{{component}} connaît une dégradation des performances",
   "componentUnderMaintainence": "{{component}} en cours de maintenance",
-  "week": "semaine"
+  "week": "semaine",
+  "systemMetricsNoData": "Il n'y a pas encore de données ajoutées à cette période"
 }

@@ -196,5 +196,6 @@
   "componentExperiencingPartialOutage": "{{component}} Дошло је до делимичног прекида рада",
   "componentExperiencingDegradedPerformance": "{{component}} Доживљавају деградиране перформансе",
   "componentUnderMaintainence": "{{component}} Под Одржавање",
-  "week": "Недеља"
+  "week": "Недеља",
+  "systemMetricsNoData": "Још увек нема додатих података за овај период"
 }

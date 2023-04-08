@@ -198,5 +198,6 @@
   "componentExperiencingPartialOutage": "{{component}} Opplever delvis strømbrudd",
   "componentExperiencingDegradedPerformance": "{{component}} Opplever redusert ytelse",
   "componentUnderMaintainence": "{{component}} Under vedlikehold",
-  "week": "uke"
+  "week": "uke",
+  "systemMetricsNoData": "Det er ingen data lagt til denne perioden ennå"
 }

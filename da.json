@@ -198,5 +198,6 @@
   "componentExperiencingPartialOutage": "{{component}} Oplever delvist afbrydelse",
   "componentExperiencingDegradedPerformance": "{{component}} Oplever forringet ydeevne",
   "componentUnderMaintainence": "{{component}} Under vedligeholdelse",
-  "week": "uge"
+  "week": "uge",
+  "systemMetricsNoData": "Der er endnu ikke tilføjet data til denne periode"
 }

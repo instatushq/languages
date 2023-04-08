@@ -199,5 +199,6 @@
   "componentExperiencingPartialOutage": "{{component}} In fase di interruzione parziale",
   "componentExperiencingDegradedPerformance": "{{component}} Con prestazioni ridotte",
   "componentUnderMaintainence": "{{component}} In manutenzione",
-  "week": "settimana"
+  "week": "settimana",
+  "systemMetricsNoData": "Non ci sono ancora dati aggiunti a questo periodo"
 }

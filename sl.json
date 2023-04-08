@@ -199,5 +199,6 @@
   "componentExperiencingPartialOutage": "{{component}} Delni izpad",
   "componentExperiencingDegradedPerformance": "{{component}} Izkušnje z zmanjšano zmogljivostjo",
   "componentUnderMaintainence": "{{component}} V vzdrževanju",
-  "week": "teden"
+  "week": "teden",
+  "systemMetricsNoData": "Za to obdobje še ni dodanih nobenih podatkov"
 }
