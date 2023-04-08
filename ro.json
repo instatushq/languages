@@ -199,5 +199,6 @@
   "componentExperiencingPartialOutage": "{{component}} Se confruntă cu o întrerupere parțială",
   "componentExperiencingDegradedPerformance": "{{component}} Înregistrează o performanță degradată",
   "componentUnderMaintainence": "{{component}} Sub Întreținere",
-  "week": "săptămână"
+  "week": "săptămână",
+  "systemMetricsNoData": "Nu există încă date adăugate în această perioadă"
 }

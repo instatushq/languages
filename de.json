@@ -199,5 +199,6 @@
   "componentExperiencingPartialOutage": "{{component}} Teilweiser Ausfall",
   "componentExperiencingDegradedPerformance": "{{component}} hat eine verminderte Leistung festgestellt",
   "componentUnderMaintainence": "{{component}} Unter Wartung",
-  "week": "Woche"
+  "week": "Woche",
+  "systemMetricsNoData": "Für diesen Zeitraum wurden noch keine Daten hinzugefügt"
 }

@@ -198,5 +198,6 @@
   "componentExperiencingPartialOutage": "{{component}} Trải qua thời gian ngừng hoạt động một phần",
   "componentExperiencingDegradedPerformance": "{{component}} Trải qua Hiệu suất bị Giảm sút",
   "componentUnderMaintainence": "{{component}} Đang được bảo trì",
-  "week": "tuần"
+  "week": "tuần",
+  "systemMetricsNoData": "Chưa có dữ liệu nào được thêm vào khoảng thời gian này"
 }

@@ -199,5 +199,6 @@
   "componentExperiencingPartialOutage": "{{component}} يعاني من انقطاع جزئي",
   "componentExperiencingDegradedPerformance": "{{component}} يعاني من تدهور في الأداء",
   "componentUnderMaintainence": "{{component}} قيد الصيانة",
-  "week": "أسبوع"
+  "week": "أسبوع",
+  "systemMetricsNoData": "لا توجد بيانات مضافة لهذه الفترة حتى الان"
 }

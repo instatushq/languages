@@ -199,5 +199,6 @@
   "componentExperiencingPartialOutage": "{{component}} está experimentando una interrupción parcial",
   "componentExperiencingDegradedPerformance": "{{component}} está experimentando un rendimiento degradado",
   "componentUnderMaintainence": "{{component}} en mantenimiento",
-  "week": "semana"
+  "week": "semana",
+  "systemMetricsNoData": "No hay datos añadidos a este período todavía"
 }

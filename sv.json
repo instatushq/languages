@@ -199,5 +199,6 @@
   "componentExperiencingPartialOutage": "{{component}} upplever partiellt avbrott",
   "componentExperiencingDegradedPerformance": "{{component}} upplever försämrad prestanda",
   "componentUnderMaintainence": "{{component}} underhåll pågår",
-  "week": "vecka"
+  "week": "vecka",
+  "systemMetricsNoData": "Det finns inga uppgifter tillagda för denna period ännu"
 }
