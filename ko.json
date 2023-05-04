@@ -22,9 +22,9 @@
   "incidents": "이전 사건",
   "incidentHistory": "사건 기록",
   "incidentDetails": "사건 세부 정보",
-  "maintenances" : "유지보수들",
-  "maintenanceHistory" : "유지보수 기록",
-  "maintenanceDetails" : "유지보수 세부정보",
+  "maintenances": "유지보수들",
+  "maintenanceHistory": "유지보수 기록",
+  "maintenanceDetails": "유지보수 세부정보",
   "started": "시작일 ",
   "scheduledFor": "예정",
   "updated": "업데이트",
@@ -199,5 +199,6 @@
   "componentExperiencingPartialOutage": "{{component}} 에서 부분적인 장애가 발생",
   "componentExperiencingDegradedPerformance": "{{component}} 의 성능이 저하",
   "componentUnderMaintainence": "{{component}} 유지보수 중",
-  "week": "주"
+  "week": "주",
+  "systemMetricsNoData": "아직 이 기간에 추가된 데이터가 없습니다."
 }

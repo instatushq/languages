@@ -199,5 +199,6 @@
   "componentExperiencingPartialOutage": "{{component}} Dochází k částečnému výpadku",
   "componentExperiencingDegradedPerformance": "{{component}} Zažívá snížený výkon",
   "componentUnderMaintainence": "{{component}} V rámci údržby",
-  "week": "týden"
+  "week": "týden",
+  "systemMetricsNoData": "K tomuto období zatím nejsou přidána žádná data"
 }

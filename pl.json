@@ -199,5 +199,6 @@
   "componentExperiencingPartialOutage": "{{component}} Częściowa awaria",
   "componentExperiencingDegradedPerformance": "{{component}} Doświadczanie obniżonej wydajności",
   "componentUnderMaintainence": "{{component}} W trakcie konserwacji",
-  "week": "tydzień"
+  "week": "tydzień",
+  "systemMetricsNoData": "Do tego okresu nie dodano jeszcze żadnych danych"
 }

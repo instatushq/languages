@@ -198,5 +198,6 @@
   "componentExperiencingPartialOutage": "{{component}} Частковий збій",
   "componentExperiencingDegradedPerformance": "{{component}} Знижена продуктивність",
   "componentUnderMaintainence": "{{component}} на технічному обслуговуванні",
-  "week": "тиждень"
+  "week": "тиждень",
+  "systemMetricsNoData": "До цього періоду ще немає даних"
 }

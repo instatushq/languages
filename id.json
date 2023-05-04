@@ -199,5 +199,6 @@
   "componentExperiencingPartialOutage": "{{component}} Mengalami Pemadaman Sebagian",
   "componentExperiencingDegradedPerformance": "{{component}} Mengalami Penurunan Kinerja",
   "componentUnderMaintainence": "{{component}} Dalam Pemeliharaan",
-  "week": "pekan"
+  "week": "pekan",
+  "systemMetricsNoData": "Belum ada data yang ditambahkan ke periode ini"
 }

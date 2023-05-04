@@ -199,5 +199,6 @@
   "componentExperiencingPartialOutage": "{{component}} で部分的な停止が発生しています",
   "componentExperiencingDegradedPerformance": "{{component}} のパフォーマンスが低下しています",
   "componentUnderMaintainence": "{{component}} のメンテナンス中",
-  "week": "週"
+  "week": "週",
+  "systemMetricsNoData": "この期間に追加されたデータはまだありません"
 }

@@ -198,5 +198,6 @@
   "componentExperiencingPartialOutage": "{{component}} частично отключен",
   "componentExperiencingDegradedPerformance": "{{component}} испытывает снижение производительности",
   "componentUnderMaintainence": "{{component}} на обслуживании",
-  "week": "неделя"
+  "week": "неделя",
+  "systemMetricsNoData": "Данные за этот период еще не добавлены"
 }

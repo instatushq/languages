@@ -199,5 +199,6 @@
   "componentExperiencingPartialOutage": "{{component}} 目前部分故障",
   "componentExperiencingDegradedPerformance": "{{component}} 目前性能下降",
   "componentUnderMaintainence": "{{component}} 维护中",
-  "week": "星期"
+  "week": "星期",
+  "systemMetricsNoData": "此期间还没有添加数据"
 }
