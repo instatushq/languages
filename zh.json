@@ -200,5 +200,10 @@
   "componentExperiencingDegradedPerformance": "{{component}} 目前性能下降",
   "componentUnderMaintainence": "{{component}} 维护中",
   "week": "星期",
-  "systemMetricsNoData": "此期间还没有添加数据"
+  "systemMetricsNoData": "此期间还没有添加数据",
+  "googleChat": "谷歌聊天",
+  "getUpdatesGoogleChatShort": "在您的空间中获取更新",
+  "getUpdatesGoogleChatLong": "在您的空间中获取更新",
+  "learnGoogleChatWebhook": "了解如何将网络钩子添加到您的 Google 聊天空间",
+  "googleChatSend": "当我们更新状态时，我们会将更新发送到您的 Google Chat 空间。"
 }

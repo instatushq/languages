@@ -200,5 +200,10 @@
   "componentExperiencingDegradedPerformance": "{{component}} heikentynyt suorituskyky",
   "componentUnderMaintainence": "{{component}} huolto meneillään",
   "week": "viikko",
-  "systemMetricsNoData": "Tälle ajanjaksolle ei ole vielä lisätty tietoja"
+  "systemMetricsNoData": "Tälle ajanjaksolle ei ole vielä lisätty tietoja",
+  "googleChat": "Google Chat",
+  "getUpdatesGoogleChatShort": "Hanki päivityksiä tilaan",
+  "getUpdatesGoogleChatLong": "Hanki päivityksiä tilaan",
+  "learnGoogleChatWebhook": "Opi lisäämään webhook Google-keskustelutilaan",
+  "googleChatSend": "Kun päivitämme tilamme, lähetämme sinulle päivitykset Google Chat -alueeseesi."
 }

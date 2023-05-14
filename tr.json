@@ -200,5 +200,10 @@
   "componentExperiencingDegradedPerformance": "{{component}} Düşük Performans Yaşıyor",
   "componentUnderMaintainence": "{{component}} Bakımda",
   "week": "hafta",
-  "systemMetricsNoData": "Bu döneme henüz eklenmiş bir veri yok"
+  "systemMetricsNoData": "Bu döneme henüz eklenmiş bir veri yok",
+  "googleChat": "Google Sohbet",
+  "getUpdatesGoogleChatShort": "Alanınızda güncellemeler alın",
+  "getUpdatesGoogleChatLong": "Alanınızda güncellemeler alın",
+  "learnGoogleChatWebhook": "Google sohbet alanınıza nasıl web kancası ekleyeceğinizi öğrenin",
+  "googleChatSend": "Durumumuzu güncellediğimizde, güncellemeleri size Google Chat alanınıza göndereceğiz."
 }

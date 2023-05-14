@@ -200,5 +200,10 @@
   "componentExperiencingDegradedPerformance": "{{component}} يعاني من تدهور في الأداء",
   "componentUnderMaintainence": "{{component}} قيد الصيانة",
   "week": "أسبوع",
-  "systemMetricsNoData": "لا توجد بيانات مضافة لهذه الفترة حتى الان"
+  "systemMetricsNoData": "لا توجد بيانات مضافة لهذه الفترة حتى الان",
+  "googleChat": "دردشة جوجل",
+  "getUpdatesGoogleChatShort": "احصل على التحديثات في مساحتك",
+  "getUpdatesGoogleChatLong": "احصل على التحديثات في مساحتك",
+  "learnGoogleChatWebhook": "تعرف على كيفية إضافة خطاف ويب إلى مساحة الدردشة على Google",
+  "googleChatSend": "عندما نقوم بتحديث حالتنا ، سنرسل لك التحديثات إلى مساحة الدردشة الخاصة بك على Google."
 }

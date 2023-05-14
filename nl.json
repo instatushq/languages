@@ -199,5 +199,10 @@
   "componentExperiencingDegradedPerformance": "{{component}} Ervaren verminderde prestaties",
   "componentUnderMaintainence": "{{component}} Onder Onderhoud",
   "week": "week",
-  "systemMetricsNoData": "Er zijn nog geen gegevens toegevoegd aan deze periode"
+  "systemMetricsNoData": "Er zijn nog geen gegevens toegevoegd aan deze periode",
+  "googleChat": "Google Chatten",
+  "getUpdatesGoogleChatShort": "Ontvang updates in uw ruimte",
+  "getUpdatesGoogleChatLong": "Ontvang updates in uw ruimte",
+  "learnGoogleChatWebhook": "Meer informatie over het toevoegen van een webhook aan uw Google-chatruimte",
+  "googleChatSend": "Wanneer we onze status bijwerken, sturen we u de updates naar uw Google Chat-ruimte."
 }
