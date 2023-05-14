@@ -200,5 +200,10 @@
   "componentExperiencingDegradedPerformance": "{{component}} Zažívá snížený výkon",
   "componentUnderMaintainence": "{{component}} V rámci údržby",
   "week": "týden",
-  "systemMetricsNoData": "K tomuto období zatím nejsou přidána žádná data"
+  "systemMetricsNoData": "K tomuto období zatím nejsou přidána žádná data",
+  "googleChat": "Google Chat",
+  "getUpdatesGoogleChatShort": "Získejte aktualizace ve svém prostoru",
+  "getUpdatesGoogleChatLong": "Získejte aktualizace ve svém prostoru",
+  "learnGoogleChatWebhook": "Přečtěte si, jak přidat webhook do vašeho chatovacího prostoru Google",
+  "googleChatSend": "Když aktualizujeme náš stav, zašleme vám aktualizace do vašeho prostoru Google Chat."
 }

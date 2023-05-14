@@ -199,5 +199,10 @@
   "componentExperiencingDegradedPerformance": "{{component}} испытывает снижение производительности",
   "componentUnderMaintainence": "{{component}} на обслуживании",
   "week": "неделя",
-  "systemMetricsNoData": "Данные за этот период еще не добавлены"
+  "systemMetricsNoData": "Данные за этот период еще не добавлены",
+  "googleChat": "Google Чат",
+  "getUpdatesGoogleChatShort": "Получайте обновления в своем пространстве",
+  "getUpdatesGoogleChatLong": "Получайте обновления в своем пространстве",
+  "learnGoogleChatWebhook": "Узнайте, как добавить веб-перехватчик в пространство чата Google.",
+  "googleChatSend": "Когда мы обновим наш статус, мы отправим вам обновления в ваше пространство Google Chat."
 }

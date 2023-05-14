@@ -199,5 +199,10 @@
   "componentExperiencingDegradedPerformance": "{{component}} Oplever forringet ydeevne",
   "componentUnderMaintainence": "{{component}} Under vedligeholdelse",
   "week": "uge",
-  "systemMetricsNoData": "Der er endnu ikke tilføjet data til denne periode"
+  "systemMetricsNoData": "Der er endnu ikke tilføjet data til denne periode",
+  "googleChat": "Google Chat",
+  "getUpdatesGoogleChatShort": "Få opdateringer i dit rum",
+  "getUpdatesGoogleChatLong": "Få opdateringer i dit rum",
+  "learnGoogleChatWebhook": "Lær, hvordan du tilføjer en webhook til dit Google-chatområde",
+  "googleChatSend": "Når vi opdaterer vores status, sender vi dig opdateringerne til dit Google Chat-område."
 }

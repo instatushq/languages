@@ -199,5 +199,10 @@
   "componentExperiencingDegradedPerformance": "{{component}} Знижена продуктивність",
   "componentUnderMaintainence": "{{component}} на технічному обслуговуванні",
   "week": "тиждень",
-  "systemMetricsNoData": "До цього періоду ще немає даних"
+  "systemMetricsNoData": "До цього періоду ще немає даних",
+  "googleChat": "Чат Google",
+  "getUpdatesGoogleChatShort": "Отримуйте оновлення у своєму просторі",
+  "getUpdatesGoogleChatLong": "Отримуйте оновлення у своєму просторі",
+  "learnGoogleChatWebhook": "Дізнайтеся, як додати вебхук до простору чату Google",
+  "googleChatSend": "Коли ми оновимо свій статус, ми надішлемо вам оновлення у ваш чат Google."
 }

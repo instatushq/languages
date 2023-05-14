@@ -78,11 +78,6 @@
   "getUpdatesMicrosoftTeamsLong": "Get updates in your channel",
   "learnMicrosoftTeamsWebhook": "Learn how to add a webhook to your Microsoft Teams channel",
   "microsoftTeamsSend": "When we update our status, we'll send you the updates to your Microsoft Teams channel.",
-  "googleChat": "Google Chat",
-  "getUpdatesGoogleChatShort": "Get updates in your space",
-  "getUpdatesGoogleChatLong": "Get updates in your space",
-  "learnGoogleChatWebhook": "Learn how to add a webhook to your Google chat space",
-  "googleChatSend": "When we update our status, we'll send you the updates to your Google Chat space.",
   "language": "Language",
   "darkMode": "Dark mode",
   "lightMode": "Light mode",
@@ -205,5 +200,10 @@
   "componentExperiencingDegradedPerformance": "{{component}} Experiencing Degraded Performance",
   "componentUnderMaintainence": "{{component}} Under Maintenance",
   "week": "week",
-  "systemMetricsNoData": "There is no data added to this period yet"
+  "systemMetricsNoData": "There is no data added to this period yet",
+  "googleChat": "Google Chat",
+  "getUpdatesGoogleChatShort": "Get updates in your space",
+  "getUpdatesGoogleChatLong": "Get updates in your space",
+  "learnGoogleChatWebhook": "Learn how to add a webhook to your Google chat space",
+  "googleChatSend": "When we update our status, we'll send you the updates to your Google Chat space."
 }

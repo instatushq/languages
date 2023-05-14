@@ -197,5 +197,10 @@
   "componentExperiencingDegradedPerformance": "{{component}} Доживљавају деградиране перформансе",
   "componentUnderMaintainence": "{{component}} Под Одржавање",
   "week": "Недеља",
-  "systemMetricsNoData": "Још увек нема додатих података за овај период"
+  "systemMetricsNoData": "Још увек нема додатих података за овај период",
+  "googleChat": "Гоогле ћаскање",
+  "getUpdatesGoogleChatShort": "Добијајте ажурирања у свом простору",
+  "getUpdatesGoogleChatLong": "Добијајте ажурирања у свом простору",
+  "learnGoogleChatWebhook": "Сазнајте како да додате веб-хук у свој Гоогле простор за ћаскање",
+  "googleChatSend": "Када ажурирамо наш статус, послаћемо вам ажурирања у ваш простор за Гоогле ћаскање."
 }

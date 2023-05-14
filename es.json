@@ -200,5 +200,10 @@
   "componentExperiencingDegradedPerformance": "{{component}} está experimentando un rendimiento degradado",
   "componentUnderMaintainence": "{{component}} en mantenimiento",
   "week": "semana",
-  "systemMetricsNoData": "No hay datos añadidos a este período todavía"
+  "systemMetricsNoData": "No hay datos añadidos a este período todavía",
+  "googleChat": "Chat de Google",
+  "getUpdatesGoogleChatShort": "Recibe actualizaciones en tu espacio",
+  "getUpdatesGoogleChatLong": "Recibe actualizaciones en tu espacio",
+  "learnGoogleChatWebhook": "Aprende a agregar un webhook a tu espacio de chat de Google",
+  "googleChatSend": "Cuando actualicemos nuestro estado, le enviaremos las actualizaciones a su espacio de Google Chat."
 }

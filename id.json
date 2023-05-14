@@ -200,5 +200,10 @@
   "componentExperiencingDegradedPerformance": "{{component}} Mengalami Penurunan Kinerja",
   "componentUnderMaintainence": "{{component}} Dalam Pemeliharaan",
   "week": "pekan",
-  "systemMetricsNoData": "Belum ada data yang ditambahkan ke periode ini"
+  "systemMetricsNoData": "Belum ada data yang ditambahkan ke periode ini",
+  "googleChat": "Obrolan Google",
+  "getUpdatesGoogleChatShort": "Dapatkan pembaruan di ruang Anda",
+  "getUpdatesGoogleChatLong": "Dapatkan pembaruan di ruang Anda",
+  "learnGoogleChatWebhook": "Pelajari cara menambahkan webhook ke ruang obrolan Google Anda",
+  "googleChatSend": "Saat kami memperbarui status, kami akan mengirimkan pembaruan tersebut ke ruang Google Chat Anda."
 }
