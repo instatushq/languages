@@ -200,5 +200,10 @@
   "componentExperiencingDegradedPerformance": "{{component}} hat eine verminderte Leistung festgestellt",
   "componentUnderMaintainence": "{{component}} Unter Wartung",
   "week": "Woche",
-  "systemMetricsNoData": "Für diesen Zeitraum wurden noch keine Daten hinzugefügt"
+  "systemMetricsNoData": "Für diesen Zeitraum wurden noch keine Daten hinzugefügt",
+  "googleChat": "Google Chat",
+  "getUpdatesGoogleChatShort": "Erhalten Sie Updates in Ihrem Bereich",
+  "getUpdatesGoogleChatLong": "Erhalten Sie Updates in Ihrem Bereich",
+  "learnGoogleChatWebhook": "Erfahren Sie, wie Sie Ihrem Google-Chat-Bereich einen Webhook hinzufügen",
+  "googleChatSend": "Wenn wir unseren Status aktualisieren, senden wir Ihnen die Aktualisierungen an Ihren Google Chat-Bereich."
 }

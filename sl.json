@@ -200,5 +200,10 @@
   "componentExperiencingDegradedPerformance": "{{component}} Izkušnje z zmanjšano zmogljivostjo",
   "componentUnderMaintainence": "{{component}} V vzdrževanju",
   "week": "teden",
-  "systemMetricsNoData": "Za to obdobje še ni dodanih nobenih podatkov"
+  "systemMetricsNoData": "Za to obdobje še ni dodanih nobenih podatkov",
+  "googleChat": "Google Klepet",
+  "getUpdatesGoogleChatShort": "Pridobite posodobitve v svojem prostoru",
+  "getUpdatesGoogleChatLong": "Pridobite posodobitve v svojem prostoru",
+  "learnGoogleChatWebhook": "Naučite se dodati webhook v prostor za klepet Google",
+  "googleChatSend": "Ko posodobimo svoje stanje, vam bomo posodobitve poslali v vaš prostor Google Klepet."
 }

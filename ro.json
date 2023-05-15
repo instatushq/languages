@@ -200,5 +200,10 @@
   "componentExperiencingDegradedPerformance": "{{component}} Înregistrează o performanță degradată",
   "componentUnderMaintainence": "{{component}} Sub Întreținere",
   "week": "săptămână",
-  "systemMetricsNoData": "Nu există încă date adăugate în această perioadă"
+  "systemMetricsNoData": "Nu există încă date adăugate în această perioadă",
+  "googleChat": "Google Chat",
+  "getUpdatesGoogleChatShort": "Primiți actualizări în spațiul dvs",
+  "getUpdatesGoogleChatLong": "Primiți actualizări în spațiul dvs",
+  "learnGoogleChatWebhook": "Aflați cum să adăugați un webhook la spațiul dvs. de chat Google",
+  "googleChatSend": "Când ne actualizăm starea, îți vom trimite actualizările în spațiul tău Google Chat."
 }
