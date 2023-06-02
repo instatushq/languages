@@ -27,7 +27,7 @@ Supported languages:
 - 🇵🇱 Polski [Artur Kociszewski](https://artuu.me)
 - 🇵🇹 Portuguese [João Drummond](https://github.com/jlcd)
 - 🇧🇷 Portuguese (Brazilian) [Vitor Pinho](https://github.com/vitor-ao)
-- 🇷🇸 Serbian [Aleksandar Vasilić](https://github.com/net-tech)
+- 🇷🇸 Serbian [Aleksandar](https://github.com/net-tech)
 - 🇷🇺 Russian [Vova Pilipchatin](https://twitter.com/VPilipchatin)
 - 🇸🇮 Slovenian [Matej Žerovnik](https://github.com/matejzero)
 - 🇷🇴 Romanian [marwain91](https://github.com/marwain91)
