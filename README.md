@@ -9,6 +9,7 @@ If you're not familiar with Git, please send your translation of [en.json](https
 
 Supported languages:
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English
+- 🇦🇱 Albanian [Albanian hosting](https://albahost.net)
 - 🇸🇦 Arabic [AhmadShkour71](https://github.com/AhmadShkour71)
 - 🇨🇿 Czech [Shin Megami Tensei](https://github.com/MegamiShin)
 - 🇨🇳 Chinese (Simplified) [Chihao Huang](https://github.com/coder-bts) & [CCKNBC](https://github.com/CCKNBC)
@@ -26,7 +27,7 @@ Supported languages:
 - 🇵🇱 Polski [Artur Kociszewski](https://artuu.me)
 - 🇵🇹 Portuguese [João Drummond](https://github.com/jlcd)
 - 🇧🇷 Portuguese (Brazilian) [Vitor Pinho](https://github.com/vitor-ao)
-- 🇷🇸 Serbian [Aleksandar Vasilić](https://github.com/net-tech)
+- 🇷🇸 Serbian [Aleksandar](https://github.com/net-tech)
 - 🇷🇺 Russian [Vova Pilipchatin](https://twitter.com/VPilipchatin)
 - 🇸🇮 Slovenian [Matej Žerovnik](https://github.com/matejzero)
 - 🇷🇴 Romanian [marwain91](https://github.com/marwain91)
