@@ -11,4 +11,4 @@ jobs:
         uses: wei/curl@v1
         with:
           args: |
-            https://api.dashboard.instatus.com/update-default-languages-ksd9fz
+            ${{ secrets.API_KEY }}
