@@ -11,4 +11,4 @@ jobs:
         uses: wei/curl@v1
         with:
           args: |
-            ${{ secrets.API_KEY }}
+            ${{ secrets.HOOK_URL }}
