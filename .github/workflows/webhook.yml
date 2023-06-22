@@ -1,0 +1,14 @@
+name: Call Webhook on Push
+on:
+  push:
+    branches:
+      - main
+jobs:
+  call-webhook:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Call webhook
+        uses: wei/curl@v1
+        with:
+          args: |
+            ${{ secrets.HOOK_URL }}
