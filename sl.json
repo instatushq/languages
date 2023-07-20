@@ -205,5 +205,8 @@
   "getUpdatesGoogleChatShort": "Pridobite posodobitve v svojem prostoru",
   "getUpdatesGoogleChatLong": "Pridobite posodobitve v svojem prostoru",
   "learnGoogleChatWebhook": "Naučite se dodati webhook v prostor za klepet Google",
-  "googleChatSend": "Ko posodobimo svoje stanje, vam bomo posodobitve poslali v vaš prostor Google Klepet."
+  "googleChatSend": "Ko posodobimo svoje stanje, vam bomo posodobitve poslali v vaš prostor Google Klepet.",
+  "ourPublicAPI": "Naš javni API",
+  "summary": "Pridobite splošno stanje za svojo stran s stanjem. Ne vključuje komponent in zgodovinskih obvestil.",
+  "components": "Pridobite komponente strani s stanjem in aktivne težave, ki nanje vplivajo."
 }

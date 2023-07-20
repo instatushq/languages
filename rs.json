@@ -202,5 +202,8 @@
   "getUpdatesGoogleChatShort": "Dobite Google Chat obaveštenja",
   "getUpdatesGoogleChatLong": "Dobite obaveštenja na Google Chat prostoru kada komponent ne radi",
   "learnGoogleChatWebhook": "Saznajte kako da dodate webhook na Google Chat prostor",
-  "googleChatSend": "Kada ažuriramo naš status, poslaćemo Vam obaveštenje na Vaš Google Chat kanal."
+  "googleChatSend": "Kada ažuriramo naš status, poslaćemo Vam obaveštenje na Vaš Google Chat kanal.",
+  "ourPublicAPI": "Наш јавни АПИ",
+  "summary": "Добијте општи статус странице са статусом. Не укључује компоненте и историјска обавештења.",
+  "components": "Преузмите компоненте странице са статусом и активне проблеме који на њих утичу."
 }
