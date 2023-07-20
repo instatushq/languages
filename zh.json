@@ -205,5 +205,8 @@
   "getUpdatesGoogleChatShort": "在您的空间中获取更新",
   "getUpdatesGoogleChatLong": "在您的空间中获取更新",
   "learnGoogleChatWebhook": "了解如何将网络钩子添加到您的 Google 聊天空间",
-  "googleChatSend": "当我们更新状态时，我们会将更新发送到您的 Google Chat 空间。"
+  "googleChatSend": "当我们更新状态时，我们会将更新发送到您的 Google Chat 空间。",
+  "ourPublicAPI": "我们的公共 API",
+  "summary": "获取状态页面的整体状态。不包括组件和历史通知。",
+  "components": "获取您的状态页面组件以及影响它们的活动问题。"
 }

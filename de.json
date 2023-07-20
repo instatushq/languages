@@ -205,5 +205,8 @@
   "getUpdatesGoogleChatShort": "Erhalten Sie Updates in Ihrem Bereich",
   "getUpdatesGoogleChatLong": "Erhalten Sie Updates in Ihrem Bereich",
   "learnGoogleChatWebhook": "Erfahren Sie, wie Sie Ihrem Google-Chat-Bereich einen Webhook hinzufügen",
-  "googleChatSend": "Wenn wir unseren Status aktualisieren, senden wir Ihnen die Aktualisierungen an Ihren Google Chat-Bereich."
+  "googleChatSend": "Wenn wir unseren Status aktualisieren, senden wir Ihnen die Aktualisierungen an Ihren Google Chat-Bereich.",
+  "ourPublicAPI": "Unsere öffentliche API",
+  "summary": "Erhalten Sie den Gesamtstatus für Ihre Statusseite. Enthält keine Komponenten und historischen Hinweise.",
+  "components": "Erhalten Sie die Komponenten Ihrer Statusseite und die aktiven Probleme, die sie betreffen."
 }

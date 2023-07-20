@@ -205,5 +205,8 @@
   "getUpdatesGoogleChatShort": "自分のスペースの最新情報を入手する",
   "getUpdatesGoogleChatLong": "自分のスペースの最新情報を入手する",
   "learnGoogleChatWebhook": "Google チャット スペースに Webhook を追加する方法を学びます",
-  "googleChatSend": "ステータスが更新されると、Google チャット スペースに更新情報が送信されます。"
+  "googleChatSend": "ステータスが更新されると、Google チャット スペースに更新情報が送信されます。",
+  "ourPublicAPI": "当社のパブリック API",
+  "summary": "ステータス ページの全体的なステータスを取得します。コンポーネントや過去の通知は含まれません。",
+  "components": "ステータス ページのコンポーネントと、それらに影響を与える現在の問題を取得します。"
 }

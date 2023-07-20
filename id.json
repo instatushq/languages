@@ -205,5 +205,8 @@
   "getUpdatesGoogleChatShort": "Dapatkan pembaruan di ruang Anda",
   "getUpdatesGoogleChatLong": "Dapatkan pembaruan di ruang Anda",
   "learnGoogleChatWebhook": "Pelajari cara menambahkan webhook ke ruang obrolan Google Anda",
-  "googleChatSend": "Saat kami memperbarui status, kami akan mengirimkan pembaruan tersebut ke ruang Google Chat Anda."
+  "googleChatSend": "Saat kami memperbarui status, kami akan mengirimkan pembaruan tersebut ke ruang Google Chat Anda.",
+  "ourPublicAPI": "API Publik kami",
+  "summary": "Dapatkan status keseluruhan untuk halaman status Anda. Tidak termasuk komponen dan pemberitahuan sejarah.",
+  "components": "Dapatkan komponen halaman status Anda, dan masalah aktif yang memengaruhinya."
 }
