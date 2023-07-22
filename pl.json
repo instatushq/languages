@@ -208,5 +208,6 @@
   "googleChatSend": "Gdy zaktualizujemy nasz status, wyślemy Ci aktualizacje do Twojej przestrzeni Google Chat.",
   "ourPublicAPI": "Nasz publiczny interfejs API",
   "summary": "Uzyskaj ogólny status swojej strony stanu. Nie obejmuje komponentów i uwag historycznych.",
-  "components": "Uzyskaj składniki strony stanu i aktywne problemy, które mają na nie wpływ."
+  "components": "Uzyskaj składniki strony stanu i aktywne problemy, które mają na nie wpływ.",
+  "API": "API"
 }

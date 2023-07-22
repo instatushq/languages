@@ -206,5 +206,6 @@
   "googleChatSend": "Quando atualizarmos nosso status, enviaremos as atualizações para seu espaço de bate-papo do Google.",
   "ourPublicAPI": "Nossa API pública",
   "summary": "Obtenha o status geral da sua página de status. Não inclui componentes e avisos históricos.",
-  "components": "Obtenha os componentes da página de status e os problemas ativos que os afetam."
+  "components": "Obtenha os componentes da página de status e os problemas ativos que os afetam.",
+  "API": "API"
 }

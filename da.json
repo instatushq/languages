@@ -207,5 +207,6 @@
   "googleChatSend": "Når vi opdaterer vores status, sender vi dig opdateringerne til dit Google Chat-område.",
   "ourPublicAPI": "Vores offentlige API",
   "summary": "Få den overordnede status for din statusside. Inkluderer ikke komponenter og historiske meddelelser.",
-  "components": "Få dine statussidekomponenter og aktive problemer, der påvirker dem."
+  "components": "Få dine statussidekomponenter og aktive problemer, der påvirker dem.",
+  "API": "API"
 }

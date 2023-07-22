@@ -207,5 +207,6 @@
   "googleChatSend": "Lorsque nous mettrons à jour notre statut, nous vous enverrons les mises à jour de votre espace Google Chat.",
   "ourPublicAPI": "Notre API publique",
   "summary": "Obtenez le statut général de votre page de statut. N'inclut pas les composants et les avis historiques.",
-  "components": "Obtenez les composants de votre page d'état et les problèmes actifs les affectant."
+  "components": "Obtenez les composants de votre page d'état et les problèmes actifs les affectant.",
+  "API": "API"
 }

@@ -208,5 +208,6 @@
   "googleChatSend": "Ko posodobimo svoje stanje, vam bomo posodobitve poslali v vaš prostor Google Klepet.",
   "ourPublicAPI": "Naš javni API",
   "summary": "Pridobite splošno stanje za svojo stran s stanjem. Ne vključuje komponent in zgodovinskih obvestil.",
-  "components": "Pridobite komponente strani s stanjem in aktivne težave, ki nanje vplivajo."
+  "components": "Pridobite komponente strani s stanjem in aktivne težave, ki nanje vplivajo.",
+  "API": "API"
 }

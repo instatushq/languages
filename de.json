@@ -208,5 +208,6 @@
   "googleChatSend": "Wenn wir unseren Status aktualisieren, senden wir Ihnen die Aktualisierungen an Ihren Google Chat-Bereich.",
   "ourPublicAPI": "Unsere öffentliche API",
   "summary": "Erhalten Sie den Gesamtstatus für Ihre Statusseite. Enthält keine Komponenten und historischen Hinweise.",
-  "components": "Erhalten Sie die Komponenten Ihrer Statusseite und die aktiven Probleme, die sie betreffen."
+  "components": "Erhalten Sie die Komponenten Ihrer Statusseite und die aktiven Probleme, die sie betreffen.",
+  "API": "API"
 }

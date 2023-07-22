@@ -208,5 +208,6 @@
   "googleChatSend": "Kun päivitämme tilamme, lähetämme sinulle päivitykset Google Chat -alueeseesi.",
   "ourPublicAPI": "Julkinen API",
   "summary": "Hanki tilasivusi yleinen tila. Ei sisällä komponentteja ja historiallisia huomautuksia.",
-  "components": "Hanki tilasivusi komponentit ja niihin vaikuttavat aktiiviset ongelmat."
+  "components": "Hanki tilasivusi komponentit ja niihin vaikuttavat aktiiviset ongelmat.",
+  "API": "API"
 }
