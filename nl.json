@@ -204,5 +204,9 @@
   "getUpdatesGoogleChatShort": "Ontvang updates in uw ruimte",
   "getUpdatesGoogleChatLong": "Ontvang updates in uw ruimte",
   "learnGoogleChatWebhook": "Meer informatie over het toevoegen van een webhook aan uw Google-chatruimte",
-  "googleChatSend": "Wanneer we onze status bijwerken, sturen we u de updates naar uw Google Chat-ruimte."
+  "googleChatSend": "Wanneer we onze status bijwerken, sturen we u de updates naar uw Google Chat-ruimte.",
+  "ourPublicAPI": "Onze openbare API",
+  "summary": "Krijg de algemene status voor uw statuspagina. Bevat geen componenten en historische mededelingen.",
+  "components": "Krijg uw statuspaginacomponenten en actieve problemen die hierop van invloed zijn.",
+  "API": "API"
 }

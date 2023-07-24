@@ -205,5 +205,9 @@
   "getUpdatesGoogleChatShort": "Recibe actualizaciones en tu espacio",
   "getUpdatesGoogleChatLong": "Recibe actualizaciones en tu espacio",
   "learnGoogleChatWebhook": "Aprende a agregar un webhook a tu espacio de chat de Google",
-  "googleChatSend": "Cuando actualicemos nuestro estado, le enviaremos las actualizaciones a su espacio de Google Chat."
+  "googleChatSend": "Cuando actualicemos nuestro estado, le enviaremos las actualizaciones a su espacio de Google Chat.",
+  "ourPublicAPI": "Nuestra API pública",
+  "summary": "Obtenga el estado general de su página de estado. No incluye componentes y avisos históricos.",
+  "components": "Obtenga los componentes de su página de estado y los problemas activos que los afectan.",
+  "API": "API"
 }

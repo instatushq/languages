@@ -14,12 +14,7 @@ jsonsInDir.forEach(async file => {
     const json = JSON.parse(fileData.toString())
 
     const originals = {
-      "week": "week",
-      "googleChat": "Google Chat",
-      "getUpdatesGoogleChatShort": "Get updates in your space",
-      "getUpdatesGoogleChatLong": "Get updates in your space",
-      "learnGoogleChatWebhook": "Learn how to add a webhook to your Google chat space",
-      "googleChatSend": "When we update our status, we'll send you the updates to your Google Chat space."    
+      "API": "API",
     }
 
     try {

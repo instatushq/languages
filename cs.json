@@ -205,5 +205,9 @@
   "getUpdatesGoogleChatShort": "Získejte aktualizace ve svém prostoru",
   "getUpdatesGoogleChatLong": "Získejte aktualizace ve svém prostoru",
   "learnGoogleChatWebhook": "Přečtěte si, jak přidat webhook do vašeho chatovacího prostoru Google",
-  "googleChatSend": "Když aktualizujeme náš stav, zašleme vám aktualizace do vašeho prostoru Google Chat."
+  "googleChatSend": "Když aktualizujeme náš stav, zašleme vám aktualizace do vašeho prostoru Google Chat.",
+  "ourPublicAPI": "Naše veřejné API",
+  "summary": "Získejte celkový stav své stavové stránky. Nezahrnuje součásti a historické poznámky.",
+  "components": "Získejte komponenty stavové stránky a aktivní problémy, které je ovlivňují.",
+  "API": "API"
 }

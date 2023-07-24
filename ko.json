@@ -205,5 +205,9 @@
   "getUpdatesGoogleChatShort": "내 공간에서 업데이트 받기",
   "getUpdatesGoogleChatLong": "내 공간에서 업데이트 받기",
   "learnGoogleChatWebhook": "Google 채팅 공간에 웹훅을 추가하는 방법 알아보기",
-  "googleChatSend": "상태를 업데이트하면 Google Chat 공간에 대한 업데이트를 보내드립니다."
+  "googleChatSend": "상태를 업데이트하면 Google Chat 공간에 대한 업데이트를 보내드립니다.",
+  "ourPublicAPI": "공개 API",
+  "summary": "상태 페이지의 전체 상태를 가져옵니다. 구성 요소 및 기록 고지 사항은 포함하지 않습니다.",
+  "components": "상태 페이지 구성 요소 및 이에 영향을 미치는 활성 문제를 가져옵니다.",
+  "API": "API"
 }

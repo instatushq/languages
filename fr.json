@@ -204,5 +204,9 @@
   "getUpdatesGoogleChatShort": "Recevez des mises à jour dans votre espace",
   "getUpdatesGoogleChatLong": "Recevez des mises à jour dans votre espace",
   "learnGoogleChatWebhook": "Découvrez comment ajouter un webhook à votre espace de chat Google",
-  "googleChatSend": "Lorsque nous mettrons à jour notre statut, nous vous enverrons les mises à jour de votre espace Google Chat."
+  "googleChatSend": "Lorsque nous mettrons à jour notre statut, nous vous enverrons les mises à jour de votre espace Google Chat.",
+  "ourPublicAPI": "Notre API publique",
+  "summary": "Obtenez le statut général de votre page de statut. N'inclut pas les composants et les avis historiques.",
+  "components": "Obtenez les composants de votre page d'état et les problèmes actifs les affectant.",
+  "API": "API"
 }

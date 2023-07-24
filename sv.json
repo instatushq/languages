@@ -205,5 +205,9 @@
   "getUpdatesGoogleChatShort": "Få uppdateringar i ditt utrymme",
   "getUpdatesGoogleChatLong": "Få uppdateringar i ditt utrymme",
   "learnGoogleChatWebhook": "Lär dig hur du lägger till en webhook till ditt chattutrymme på Google",
-  "googleChatSend": "När vi uppdaterar vår status skickar vi uppdateringarna till ditt Google Chat-utrymme."
+  "googleChatSend": "När vi uppdaterar vår status skickar vi uppdateringarna till ditt Google Chat-utrymme.",
+  "ourPublicAPI": "Vårt offentliga API",
+  "summary": "Få den övergripande statusen för din statussida. Inkluderar inte komponenter och historiska meddelanden.",
+  "components": "Få statussidans komponenter och aktiva problem som påverkar dem.",
+  "API": "API"
 }

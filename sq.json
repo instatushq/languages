@@ -205,5 +205,9 @@
   "getUpdatesGoogleChatShort": "Merrni përditësime në hapësirën tuaj",
   "getUpdatesGoogleChatLong": "Merrni përditësime në hapësirën tuaj",
   "learnGoogleChatWebhook": "Mësoni se si të shtoni një uebhook në hapësirën tuaj të Google Chat",
-  "googleChatSend": "Kur të përditësojmë statusin tonë, do t'ju dërgojmë përditësimet në hapësirën tuaj të Google Chat."
+  "googleChatSend": "Kur të përditësojmë statusin tonë, do t'ju dërgojmë përditësimet në hapësirën tuaj të Google Chat.",
+  "ourPublicAPI": "API-ja jonë publike",
+  "summary": "Merrni statusin e përgjithshëm për faqen tuaj të statusit. Nuk përfshin komponentë dhe njoftime historike.",
+  "components": "Merrni përbërësit e faqes tuaj të statusit dhe çështjet aktive që i prekin ato.",
+  "API": "API"
 }
