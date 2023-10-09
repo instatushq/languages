@@ -36,6 +36,7 @@ Supported languages:
 - 🇹🇷 Turkish
 - 🇺🇦 Ukrainian [CTO](https://github.com/svc-git)
 - 🇻🇳 Vietnamese [Ngô Quý](https://github.com/JustHmmmm)
+- 🇭🇺 Hungarian [Summerfall Médiacsoport](https://github.com/summerfallmediagroup)
 
 Quick Translate Tool by [Steven John](https://github.com/StevenJohnss)
 
