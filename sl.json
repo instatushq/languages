@@ -37,6 +37,7 @@
   "affects": "Vplivi",
   "noDowntime": "Brez izpadov.",
   "didntStart": "Storitev še ne deluje.",
+  "dayDidntStart": "Dan se še ni začel.",
   "noIncidents": "Brez dogodkov.",
   "noIncidentsMonth": "Brez dogodkov v tem mesecu.",
   "noIncidentsWeek": "Brez dogodkov v zadnjih 7 dneh.",

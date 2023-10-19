@@ -37,6 +37,7 @@
   "affects": "Afectează",
   "noDowntime": "Nu au fost raportate nefuncționări",
   "didntStart": "Serviciul nu este funcțional încă",
+  "dayDidntStart": "Ziua încă nu a început",
   "noIncidents": "Nu au fost raportate incidente",
   "noIncidentsMonth": "Nu au fost raportate incidente luna aceasta.",
   "noIncidentsWeek": "Nu au fost raportate incidente în ultimele 7 zile.",

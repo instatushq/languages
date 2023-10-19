@@ -37,6 +37,7 @@
   "affects": "영향",
   "noDowntime": "보고된 다운타임 없음",
   "didntStart": "서비스가 아직 시작되지 않았습니다",
+  "dayDidntStart": "아직 하루가 시작되지도 않았는데",
   "noIncidents": "보고된 사건 없음",
   "noIncidentsMonth": "이번 달에 보고된 사건이 없습니다.",
   "noIncidentsWeek": "지난 7일 동안 보고된 사건이 없습니다.",

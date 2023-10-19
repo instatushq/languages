@@ -37,6 +37,7 @@
   "affects": "Affecte",
   "noDowntime": "Aucun temps d'arrêt signalé.",
   "didntStart": "Le service n'a pas encore démarré.",
+  "dayDidntStart": "Le jour n'a pas encore commencé.",
   "noIncidents": "Aucun incident signalé.",
   "noIncidentsMonth": "Aucun incident signalé ce mois-ci.",
   "noIncidentsWeek": "Aucun incident signalé cette semaine.",

@@ -37,6 +37,7 @@
   "affects": "影響",
   "noDowntime": "無停機時間記錄",
   "didntStart": "服務暫未啓用",
+  "dayDidntStart": "這一天還沒開始",
   "noIncidents": "沒有報告的事件",
   "noIncidentsMonth": "本月沒有報告的事件。",
   "noIncidentsWeek": "過去七天沒有報告的事件。",

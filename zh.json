@@ -37,6 +37,7 @@
   "affects": "影响",
   "noDowntime": "无故障时间记录",
   "didntStart": "服务暂未启用",
+  "dayDidntStart": "这一天还没有开始",
   "noIncidents": "无故障记录",
   "noIncidentsMonth": "本月无故障记录",
   "noIncidentsWeek": "近七日无故障记录",

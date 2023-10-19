@@ -37,6 +37,7 @@
   "affects": "Etkilenenler",
   "noDowntime": "Kesinti bildirilmedi",
   "didntStart": "Servis başlamadı.",
+  "dayDidntStart": "Gün henüz başlamadı.",
   "noIncidents": "Sorun bildirilmedi.",
   "noIncidentsMonth": "Bu ay sorun bildirilmedi.",
   "noIncidentsWeek": "Son 7 gün içinde sorun bildirilmedi.",

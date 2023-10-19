@@ -37,6 +37,7 @@
   "affects": "Ảnh hưởng",
   "noDowntime": "Không có sự cố.",
   "didntStart": "Dịch vụ chưa bắt đầu.",
+  "dayDidntStart": "Ngày vẫn chưa bắt đầu.",
   "noIncidents": "Không có sự cố.",
   "noIncidentsMonth": "Không có sự cố nào trong tháng này.",
   "noIncidentsWeek": "Không có sự cố nào được báo cáo trong tuần này.",

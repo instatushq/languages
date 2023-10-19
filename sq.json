@@ -37,6 +37,7 @@
   "affects": "Afekton",
   "noDowntime": "Nuk raportohet për ndërprerje",
   "didntStart": "Shërbimi nuk ka filluar ende",
+  "dayDidntStart": "Dita nuk ka filluar ende",
   "noIncidents": "Nuk raportohet asnjë incident",
   "noIncidentsMonth": "Asnjë incident nuk u raportua këtë muaj.",
   "noIncidentsWeek": "Asnjë incident nuk është raportuar për 7 ditët e fundit.",

@@ -37,6 +37,7 @@
   "affects": "Mempengaruhi",
   "noDowntime": "Tidak ada waktu gangguan yang dilaporkan",
   "didntStart": "Layanan belum dimulai",
+  "dayDidntStart": "Hari belum dimulai",
   "noIncidents": "Tidak ada insiden yang dilaporkan",
   "noIncidentsMonth": "Tidak ada insiden yang dilaporkan bulan ini.",
   "noIncidentsWeek": "Tidak ada insiden yang dilaporkan selama 7 hari terakhir.",

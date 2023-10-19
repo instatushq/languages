@@ -37,6 +37,7 @@
   "affects": "Påvirker",
   "noDowntime": "Ingen nedetid rapportert.",
   "didntStart": "Tjenesten startet ikke ennå.",
+  "dayDidntStart": "Dagen hadde ikke begynt enda.",
   "noIncidents": "Ingen hendelser rapportert.",
   "noIncidentsMonth": "Ingen hendelser rapportert denne måneden.",
   "noIncidentsWeek": "Ingen hendelser ble rapportert denne uken.",
