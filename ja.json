@@ -37,6 +37,7 @@
   "affects": "影響先",
   "noDowntime": "ダウンタイムは報告されていません。",
   "didntStart": "サービスがまだ開始されていません。",
+  "dayDidntStart": "その日はまだ始まっていませんでした",
   "noIncidents": "障害情報は報告されていません。",
   "noIncidentsMonth": "今月は障害情報は報告されていません。",
   "noIncidentsWeek": "直近7日間で障害情報は報告されていません。",

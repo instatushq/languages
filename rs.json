@@ -37,6 +37,7 @@
   "affects": "Utiče na",
   "noDowntime": "Nije bilo prekida rada",
   "didntStart": "Komponent nije još počeo",
+  "dayDidntStart": "Dan još nije počeo",
   "noIncidents": "Nije prijavljen nijedan prekid rada",
   "noIncidentsMonth": "Nije bilo prekida rada ovog meseca.",
   "noIncidentsWeek": "Nije bilo rada u zadnjih 7 dana.",

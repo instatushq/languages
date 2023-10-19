@@ -37,6 +37,7 @@
   "affects": "Affects",
   "noDowntime": "No downtime reported",
   "didntStart": "Service hasn't started yet",
+  "dayDidntStart": "Day didn't start yet",
   "noIncidents": "No incidents reported",
   "noIncidentsMonth": "No incidents reported this month.",
   "noIncidentsWeek": "No incidents reported for the past 7 days.",

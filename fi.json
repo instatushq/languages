@@ -37,6 +37,7 @@
   "affects": "Vaikuttaa",
   "noDowntime": "Ei raportoitua häiriöaikaa",
   "didntStart": "Palvelua ei vielä aloitettu",
+  "dayDidntStart": "Päivä ei vielä alkanut",
   "noIncidents": "Ei raportoituja häiriöitä",
   "noIncidentsMonth": "Ei raportoituja häiriöitä tässä kuussa.",
   "noIncidentsWeek": "Ei raportoituja häiriöitä viimeisen 7 päivän aikana.",

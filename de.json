@@ -37,6 +37,7 @@
   "affects": "Auswirkungen",
   "noDowntime": "Keine Ausfallzeiten gemeldet",
   "didntStart": "Service noch nicht gestartet",
+  "dayDidntStart": "Der Tag hat noch nicht begonnen",
   "noIncidents": "Keine Vorfälle gemeldet",
   "noIncidentsMonth": "Keine Vorfälle in diesem Monat gemeldet.",
   "noIncidentsWeek": "Keine Vorfälle in den letzten 7 Tagen gemeldet.",

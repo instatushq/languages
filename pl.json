@@ -37,6 +37,7 @@
   "affects": "Dotyczy",
   "noDowntime": "Nie zgłoszono przerwy w pracy",
   "didntStart": "Naprawa nie została jeszcze rozpoczęta",
+  "dayDidntStart": "Dzień jeszcze się nie zaczął",
   "noIncidents": "Nie zgłoszono żadnych incydentów",
   "noIncidentsMonth": "W tym miesiącu nie odnotowano żadnych incydentów.",
   "noIncidentsWeek": "W ciągu ostatnich 7 dni nie odnotowano żadnych incydentów.",

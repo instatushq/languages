@@ -37,6 +37,7 @@
   "affects": "Érinti",
   "noDowntime": "Nincs jelentett leállás",
   "didntStart": "A szolgáltatás nem indult még el",
+  "dayDidntStart": "A nap még nem kezdődött el",
   "noIncidents": "Nincsenek jelentett incidensek",
   "noIncidentsMonth": "Nincsenek jelentett incidensek a hónapban.",
   "noIncidentsWeek": "Nincsenek jelenett incidensek az elmúlt 7 napban.",

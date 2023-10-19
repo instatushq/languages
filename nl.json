@@ -37,6 +37,7 @@
   "affects": "Impact op",
   "noDowntime": "Geen downtime gemeld.",
   "didntStart": "De service is nog niet gestart.",
+  "dayDidntStart": "De dag was nog niet begonnen.",
   "noIncidents": "Geen incidenten gemeld.",
   "noIncidentsMonth": "Geen incidenten gemeld deze maand.",
   "noIncidentsWeek": "Er zijn deze maand geen incidenten gemeld.",

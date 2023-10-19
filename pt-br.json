@@ -37,6 +37,7 @@
   "affects": "Afeta",
   "noDowntime": "Nenhum tempo de indisponibilidade comunicado.",
   "didntStart": "O serviço ainda não iniciou.",
+  "dayDidntStart": "O dia ainda não começou.",
   "noIncidents": "Nenhum incidente reportado.",
   "noIncidentsMonth": "Nenhum incidente reportado este mês.",
   "noIncidentsWeek": "Nenhum incidente relatado esta semana.",

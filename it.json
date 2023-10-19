@@ -37,6 +37,7 @@
   "affects": "Affetti",
   "noDowntime": "Nessun tempo di inattività rilevato",
   "didntStart": "Il servizio non è stato avviato",
+  "dayDidntStart": "La giornata non era ancora iniziata",
   "noIncidents": "Nessun guasto rilevato",
   "noIncidentsMonth": "Nessun guasto rilevato questo mese.",
   "noIncidentsWeek": "Nessun guasto rilevato negli ultimi 7 giorni.",

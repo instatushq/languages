@@ -37,6 +37,7 @@
   "affects": "Ovlivňuje",
   "noDowntime": "Žádný výpadek nebyl nahlášen",
   "didntStart": "Služba ještě nebyla v provozu",
+  "dayDidntStart": "Den ještě nezačal",
   "noIncidents": "Nebyly nahlášeny žádné incidenty",
   "noIncidentsMonth": "Tento měsíc nebyly hlášeny žádné incidenty.",
   "noIncidentsWeek": "Za poslední měsíc nebyly nahlášeny žádné incidenty.",
