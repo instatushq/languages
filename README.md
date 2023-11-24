@@ -16,6 +16,7 @@ Supported languages:
 - 🇨🇳 Chinese (Traditional) [Mr-Sheep](https://github.com/Mr-Sheep) & [CCKNBC](https://github.com/CCKNBC)
 - 🇩🇰 Danish [Dan Storm](https://github.com/Repox)
 - 🇳🇱 Dutch [Ezra van den Broek](https://twitter.com/ezraistaken)
+- 🇪🇪 Estonia [Joonas](https://wiki.ut.ee)
 - 🇫🇮 Finnish [GhostSlayer](https://github.com/GhostSlayer)
 - 🇫🇷 French [Joshua Tabakhoff](https://twitter.com/joshtab_)
 - 🇩🇪 German [An](https://twitter.com/AnTheMaker)
