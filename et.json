@@ -94,7 +94,7 @@
     "confirmYourSubscription": "Kinnita tellimus",
     "allDone": "Kõik tehtud!",
     "wellSendYouAMessage": "Kui uuendame staatust, saadame teavitused SMS'iga.",
-    "wellSendYouAnEmail": "Kui uuendame staatust, saadame teavitused SMS'iga.",
+    "wellSendYouAnEmail": "Kui uuendame staatust, saadame teavitused e-posti aadressile.",
     "webhookUrl": "Webhook URL",
     "webhookDescription": "Kui uuendame staatust, saadame teavitused URL'ile",
     "webhookFormat": "selles formaadis",
