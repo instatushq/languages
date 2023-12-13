@@ -126,7 +126,7 @@
     "automatedIncidentMessage": "ei ole hetkel kättesaadav (automaatne teavitus)",
     "automatedResolveMessage": "on nüüd töökorras (automaatne teavitus)",
     "statusUpdates": "teavitused",
-    "hasANewIncident": "on uus itsident",
+    "hasANewIncident": "lisas uue intsidendi",
     "openStatusPage": "Ava staatusleht",
     "youreReceivingThisEmailBecauseYouSubscribed": "Saite selle e-kirja, sest olete tellinud",
     "pleaseConfirmYourSubscription": "",
