@@ -211,5 +211,6 @@
   "ourPublicAPI": "Our Public API",
   "summary": "Get the overall status for your status page. Doesn’t include components and historical notices.",
   "components": "Get your status page components, and active issues affecting them.",
-  "API": "API"
+  "API": "API",
+  "noRelatedNotices": "No related notices"
 }

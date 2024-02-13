@@ -211,5 +211,6 @@
   "ourPublicAPI": "我們的公共 API",
   "summary": "獲取狀態頁面的整體狀態。不包括組件和歷史通知。",
   "components": "獲取您的狀態頁面組件以及影響它們的活動問題。",
-  "API": "應用程序編程接口"
+  "API": "應用程式介面",
+  "noRelatedNotices": "暫無相關通知"
 }

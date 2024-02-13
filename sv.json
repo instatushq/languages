@@ -211,5 +211,6 @@
   "ourPublicAPI": "Vårt offentliga API",
   "summary": "Få den övergripande statusen för din statussida. Inkluderar inte komponenter och historiska meddelanden.",
   "components": "Få statussidans komponenter och aktiva problem som påverkar dem.",
-  "API": "API"
+  "API": "API",
+  "noRelatedNotices": "Inga relaterade meddelanden"
 }
