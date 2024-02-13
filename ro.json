@@ -211,5 +211,6 @@
   "ourPublicAPI": "API-ul nostru public",
   "summary": "Obțineți starea generală pentru pagina dvs. de stare. Nu include componente și notificări istorice.",
   "components": "Obțineți componentele paginii de stare și problemele active care le afectează.",
-  "API": "API"
+  "API": "API",
+  "noRelatedNotices": "Nicio notificare aferentă"
 }

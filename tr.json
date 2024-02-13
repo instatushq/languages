@@ -211,5 +211,6 @@
   "ourPublicAPI": "Genel API'miz",
   "summary": "Durum sayfanız için genel durumu alın. Bileşenleri ve geçmiş bildirimleri içermez.",
   "components": "Durum sayfası bileşenlerinizi ve bunları etkileyen etkin sorunları alın.",
-  "API": "API"
+  "API": "API'si",
+  "noRelatedNotices": "İlgili bildirim yok"
 }

@@ -211,5 +211,6 @@
   "ourPublicAPI": "API Publik kami",
   "summary": "Dapatkan status keseluruhan untuk halaman status Anda. Tidak termasuk komponen dan pemberitahuan sejarah.",
   "components": "Dapatkan komponen halaman status Anda, dan masalah aktif yang memengaruhinya.",
-  "API": "API"
+  "API": "API",
+  "noRelatedNotices": "Tidak ada pemberitahuan terkait"
 }

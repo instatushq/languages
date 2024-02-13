@@ -210,5 +210,6 @@
   "ourPublicAPI": "Onze openbare API",
   "summary": "Krijg de algemene status voor uw statuspagina. Bevat geen componenten en historische mededelingen.",
   "components": "Krijg uw statuspaginacomponenten en actieve problemen die hierop van invloed zijn.",
-  "API": "API"
+  "API": "API",
+  "noRelatedNotices": "Geen gerelateerde mededelingen"
 }

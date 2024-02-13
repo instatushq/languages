@@ -211,5 +211,6 @@
   "ourPublicAPI": "공개 API",
   "summary": "상태 페이지의 전체 상태를 가져옵니다. 구성 요소 및 기록 고지 사항은 포함하지 않습니다.",
   "components": "상태 페이지 구성 요소 및 이에 영향을 미치는 활성 문제를 가져옵니다.",
-  "API": "API"
+  "API": "API",
+  "noRelatedNotices": "관련 공지가 없습니다"
 }

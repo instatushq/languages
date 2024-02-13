@@ -211,5 +211,6 @@
   "ourPublicAPI": "Naše veřejné API",
   "summary": "Získejte celkový stav své stavové stránky. Nezahrnuje součásti a historické poznámky.",
   "components": "Získejte komponenty stavové stránky a aktivní problémy, které je ovlivňují.",
-  "API": "API"
+  "API": "API",
+  "noRelatedNotices": "Žádná související upozornění"
 }

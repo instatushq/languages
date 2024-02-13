@@ -210,5 +210,6 @@
   "ourPublicAPI": "Vårt offentlige API",
   "summary": "Få den generelle statusen for statussiden din. Inkluderer ikke komponenter og historiske merknader.",
   "components": "Få statussidekomponentene dine og aktive problemer som påvirker dem.",
-  "API": "API"
+  "API": "API",
+  "noRelatedNotices": "Ingen relaterte merknader"
 }

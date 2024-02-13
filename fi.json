@@ -211,5 +211,6 @@
   "ourPublicAPI": "Julkinen API",
   "summary": "Hanki tilasivusi yleinen tila. Ei sisällä komponentteja ja historiallisia huomautuksia.",
   "components": "Hanki tilasivusi komponentit ja niihin vaikuttavat aktiiviset ongelmat.",
-  "API": "API"
+  "API": "API",
+  "noRelatedNotices": "Ei aiheeseen liittyviä ilmoituksia"
 }
