@@ -212,5 +212,6 @@
   "summary": "Získejte celkový stav své stavové stránky. Nezahrnuje součásti a historické poznámky.",
   "components": "Získejte komponenty stavové stránky a aktivní problémy, které je ovlivňují.",
   "API": "API",
-  "noRelatedNotices": "Žádná související upozornění"
+  "noRelatedNotices": "Žádná související upozornění",
+  "customizeRequest": "Přizpůsobit požadavek"
 }

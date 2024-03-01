@@ -212,5 +212,6 @@
   "summary": "Kapd meg a teljes adathalmazát státusz oldaladnak. Nem tartalmazza a komponenseket és a visszamenőleges feljegyzéseket sem.",
   "components": "Kapd meg a komponensek állapotát, és ami érinti őket.",
   "API": "API",
-  "noRelatedNotices": "Nincsenek kapcsolódó értesítések"
+  "noRelatedNotices": "Nincsenek kapcsolódó értesítések",
+  "customizeRequest": "Kérelem testreszabása"
 }

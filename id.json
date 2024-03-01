@@ -212,5 +212,6 @@
   "summary": "Dapatkan status keseluruhan untuk halaman status Anda. Tidak termasuk komponen dan pemberitahuan sejarah.",
   "components": "Dapatkan komponen halaman status Anda, dan masalah aktif yang memengaruhinya.",
   "API": "API",
-  "noRelatedNotices": "Tidak ada pemberitahuan terkait"
+  "noRelatedNotices": "Tidak ada pemberitahuan terkait",
+  "customizeRequest": "Sesuaikan permintaan"
 }

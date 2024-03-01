@@ -211,5 +211,6 @@
   "summary": "Få den overordnede status for din statusside. Inkluderer ikke komponenter og historiske meddelelser.",
   "components": "Få dine statussidekomponenter og aktive problemer, der påvirker dem.",
   "API": "API",
-  "noRelatedNotices": "Ingen relaterede meddelelser"
+  "noRelatedNotices": "Ingen relaterede meddelelser",
+  "customizeRequest": "Tilpas anmodning"
 }

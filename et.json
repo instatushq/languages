@@ -212,5 +212,6 @@
   "summary": "Telli teenuste üldine olek. Ei sisalda komponente ja ajalugu.",
   "components": "Telli staatuslehe olek reaalajas komponentide ja neid mõjutavate aktiivsete probleemidega.",
   "API": "API",
-  "noRelatedNotices": "Seonduvaid teateid pole"
+  "noRelatedNotices": "Seonduvaid teateid pole",
+  "customizeRequest": "Kohandage taotlust"
 }

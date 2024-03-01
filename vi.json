@@ -211,5 +211,6 @@
   "summary": "Nhận trạng thái tổng thể cho trang trạng thái của bạn. Không bao gồm các thành phần và thông báo lịch sử.",
   "components": "Nhận các thành phần trang trạng thái của bạn và các sự cố đang hoạt động ảnh hưởng đến chúng.",
   "API": "API",
-  "noRelatedNotices": "Không có thông báo liên quan"
+  "noRelatedNotices": "Không có thông báo liên quan",
+  "customizeRequest": "Tùy chỉnh yêu cầu"
 }

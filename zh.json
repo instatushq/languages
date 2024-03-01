@@ -212,5 +212,6 @@
   "summary": "获取状态页面的整体状态。不包括组件和历史通知。",
   "components": "获取您的状态页面组件以及影响它们的活动问题。",
   "API": "应用程序编程接口",
-  "noRelatedNotices": "暂无相关通知"
+  "noRelatedNotices": "暂无相关通知",
+  "customizeRequest": "定制请求"
 }

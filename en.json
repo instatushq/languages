@@ -212,5 +212,6 @@
   "summary": "Get the overall status for your status page. Doesn’t include components and historical notices.",
   "components": "Get your status page components, and active issues affecting them.",
   "API": "API",
-  "noRelatedNotices": "No related notices"
+  "noRelatedNotices": "No related notices",
+  "customizeRequest": "Customize request"
 }

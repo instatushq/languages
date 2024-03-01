@@ -212,5 +212,6 @@
   "summary": "Obtenga el estado general de su página de estado. No incluye componentes y avisos históricos.",
   "components": "Obtenga los componentes de su página de estado y los problemas activos que los afectan.",
   "API": "API",
-  "noRelatedNotices": "No hay avisos relacionados"
+  "noRelatedNotices": "No hay avisos relacionados",
+  "customizeRequest": "Personalizar solicitud"
 }

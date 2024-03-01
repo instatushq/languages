@@ -211,5 +211,6 @@
   "summary": "Obtenez le statut général de votre page de statut. N'inclut pas les composants et les avis historiques.",
   "components": "Obtenez les composants de votre page d'état et les problèmes actifs les affectant.",
   "API": "API",
-  "noRelatedNotices": "Aucun avis associé"
+  "noRelatedNotices": "Aucun avis associé",
+  "customizeRequest": "Personnaliser la demande"
 }

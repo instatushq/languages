@@ -212,5 +212,6 @@
   "summary": "Merrni statusin e përgjithshëm për faqen tuaj të statusit. Nuk përfshin komponentë dhe njoftime historike.",
   "components": "Merrni përbërësit e faqes tuaj të statusit dhe çështjet aktive që i prekin ato.",
   "API": "API",
-  "noRelatedNotices": "Nuk ka njoftime të lidhura"
+  "noRelatedNotices": "Nuk ka njoftime të lidhura",
+  "customizeRequest": "Personalizo kërkesën"
 }

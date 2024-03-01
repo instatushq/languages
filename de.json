@@ -212,5 +212,6 @@
   "summary": "Erhalten Sie den Gesamtstatus für Ihre Statusseite. Enthält keine Komponenten und historischen Hinweise.",
   "components": "Erhalten Sie die Komponenten Ihrer Statusseite und die aktiven Probleme, die sie betreffen.",
   "API": "API",
-  "noRelatedNotices": "Keine diesbezüglichen Hinweise"
+  "noRelatedNotices": "Keine diesbezüglichen Hinweise",
+  "customizeRequest": "Anfrage anpassen"
 }

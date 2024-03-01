@@ -212,5 +212,6 @@
   "summary": "Uzyskaj ogólny status swojej strony stanu. Nie obejmuje komponentów i uwag historycznych.",
   "components": "Uzyskaj składniki strony stanu i aktywne problemy, które mają na nie wpływ.",
   "API": "API",
-  "noRelatedNotices": "Brak powiązanych powiadomień"
+  "noRelatedNotices": "Brak powiązanych powiadomień",
+  "customizeRequest": "Dostosuj żądanie"
 }
