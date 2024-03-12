@@ -213,5 +213,6 @@
   "components": "Merrni përbërësit e faqes tuaj të statusit dhe çështjet aktive që i prekin ato.",
   "API": "API",
   "noRelatedNotices": "Nuk ka njoftime të lidhura",
-  "customizeRequest": "Personalizo kërkesën"
+  "customizeRequest": "Personalizo kërkesën",
+  "lasted": "Zgjati"
 }

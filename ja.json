@@ -213,5 +213,6 @@
   "components": "ステータス ページのコンポーネントと、それらに影響を与える現在の問題を取得します。",
   "API": "API",
   "noRelatedNotices": "関連するお知らせはありません",
-  "customizeRequest": "カスタマイズリクエスト"
+  "customizeRequest": "カスタマイズリクエスト",
+  "lasted": "持続した"
 }

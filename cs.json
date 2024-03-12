@@ -213,5 +213,6 @@
   "components": "Získejte komponenty stavové stránky a aktivní problémy, které je ovlivňují.",
   "API": "API",
   "noRelatedNotices": "Žádná související upozornění",
-  "customizeRequest": "Přizpůsobit požadavek"
+  "customizeRequest": "Přizpůsobit požadavek",
+  "lasted": "Trvalo"
 }

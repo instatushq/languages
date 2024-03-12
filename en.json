@@ -213,5 +213,6 @@
   "components": "Get your status page components, and active issues affecting them.",
   "API": "API",
   "noRelatedNotices": "No related notices",
-  "customizeRequest": "Customize request"
+  "customizeRequest": "Customize request",
+  "lasted": "Lasted"
 }

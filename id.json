@@ -213,5 +213,6 @@
   "components": "Dapatkan komponen halaman status Anda, dan masalah aktif yang memengaruhinya.",
   "API": "API",
   "noRelatedNotices": "Tidak ada pemberitahuan terkait",
-  "customizeRequest": "Sesuaikan permintaan"
+  "customizeRequest": "Sesuaikan permintaan",
+  "lasted": "Berlangsung"
 }

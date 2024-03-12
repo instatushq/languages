@@ -213,5 +213,6 @@
   "components": "Erhalten Sie die Komponenten Ihrer Statusseite und die aktiven Probleme, die sie betreffen.",
   "API": "API",
   "noRelatedNotices": "Keine diesbezüglichen Hinweise",
-  "customizeRequest": "Anfrage anpassen"
+  "customizeRequest": "Anfrage anpassen",
+  "lasted": "Dauerte"
 }

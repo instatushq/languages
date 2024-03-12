@@ -213,5 +213,6 @@
   "components": "獲取您的狀態頁面組件以及影響它們的活動問題。",
   "API": "應用程式介面",
   "noRelatedNotices": "暫無相關通知",
-  "customizeRequest": "客製化請求"
+  "customizeRequest": "客製化請求",
+  "lasted": "持續"
 }

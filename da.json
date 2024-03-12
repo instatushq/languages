@@ -212,5 +212,6 @@
   "components": "Få dine statussidekomponenter og aktive problemer, der påvirker dem.",
   "API": "API",
   "noRelatedNotices": "Ingen relaterede meddelelser",
-  "customizeRequest": "Tilpas anmodning"
+  "customizeRequest": "Tilpas anmodning",
+  "lasted": "Varede"
 }

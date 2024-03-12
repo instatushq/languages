@@ -213,5 +213,6 @@
   "components": "Uzyskaj składniki strony stanu i aktywne problemy, które mają na nie wpływ.",
   "API": "API",
   "noRelatedNotices": "Brak powiązanych powiadomień",
-  "customizeRequest": "Dostosuj żądanie"
+  "customizeRequest": "Dostosuj żądanie",
+  "lasted": "Trwało"
 }

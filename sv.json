@@ -213,5 +213,6 @@
   "components": "Få statussidans komponenter och aktiva problem som påverkar dem.",
   "API": "API",
   "noRelatedNotices": "Inga relaterade meddelanden",
-  "customizeRequest": "Anpassa begäran"
+  "customizeRequest": "Anpassa begäran",
+  "lasted": "Varade"
 }
