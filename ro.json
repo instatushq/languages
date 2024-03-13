@@ -213,5 +213,6 @@
   "components": "Obțineți componentele paginii de stare și problemele active care le afectează.",
   "API": "API",
   "noRelatedNotices": "Nicio notificare aferentă",
-  "customizeRequest": "Personalizați cererea"
+  "customizeRequest": "Personalizați cererea",
+  "lasted": "A durat"
 }

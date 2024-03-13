@@ -213,5 +213,6 @@
   "components": "상태 페이지 구성 요소 및 이에 영향을 미치는 활성 문제를 가져옵니다.",
   "API": "API",
   "noRelatedNotices": "관련 공지가 없습니다",
-  "customizeRequest": "요청 맞춤화"
+  "customizeRequest": "요청 맞춤화",
+  "lasted": "지속됨"
 }

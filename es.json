@@ -213,5 +213,6 @@
   "components": "Obtenga los componentes de su página de estado y los problemas activos que los afectan.",
   "API": "API",
   "noRelatedNotices": "No hay avisos relacionados",
-  "customizeRequest": "Personalizar solicitud"
+  "customizeRequest": "Personalizar solicitud",
+  "lasted": "Duró"
 }

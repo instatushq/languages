@@ -212,5 +212,6 @@
   "components": "Nhận các thành phần trang trạng thái của bạn và các sự cố đang hoạt động ảnh hưởng đến chúng.",
   "API": "API",
   "noRelatedNotices": "Không có thông báo liên quan",
-  "customizeRequest": "Tùy chỉnh yêu cầu"
+  "customizeRequest": "Tùy chỉnh yêu cầu",
+  "lasted": "kéo dài"
 }

@@ -213,5 +213,6 @@
   "components": "Hanki tilasivusi komponentit ja niihin vaikuttavat aktiiviset ongelmat.",
   "API": "API",
   "noRelatedNotices": "Ei aiheeseen liittyviä ilmoituksia",
-  "customizeRequest": "Mukauta pyyntöä"
+  "customizeRequest": "Mukauta pyyntöä",
+  "lasted": "Kesti"
 }

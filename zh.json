@@ -213,5 +213,6 @@
   "components": "获取您的状态页面组件以及影响它们的活动问题。",
   "API": "应用程序编程接口",
   "noRelatedNotices": "暂无相关通知",
-  "customizeRequest": "定制请求"
+  "customizeRequest": "定制请求",
+  "lasted": "持续"
 }

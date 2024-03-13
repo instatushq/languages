@@ -212,5 +212,6 @@
   "components": "Krijg uw statuspaginacomponenten en actieve problemen die hierop van invloed zijn.",
   "API": "API",
   "noRelatedNotices": "Geen gerelateerde mededelingen",
-  "customizeRequest": "Aanvraag aanpassen"
+  "customizeRequest": "Aanvraag aanpassen",
+  "lasted": "Duurde"
 }

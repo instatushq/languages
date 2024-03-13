@@ -213,5 +213,6 @@
   "components": "Durum sayfası bileşenlerinizi ve bunları etkileyen etkin sorunları alın.",
   "API": "API'si",
   "noRelatedNotices": "İlgili bildirim yok",
-  "customizeRequest": "İsteği özelleştir"
+  "customizeRequest": "İsteği özelleştir",
+  "lasted": "sürdü"
 }

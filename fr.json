@@ -212,5 +212,6 @@
   "components": "Obtenez les composants de votre page d'état et les problèmes actifs les affectant.",
   "API": "API",
   "noRelatedNotices": "Aucun avis associé",
-  "customizeRequest": "Personnaliser la demande"
+  "customizeRequest": "Personnaliser la demande",
+  "lasted": "A duré"
 }

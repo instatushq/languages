@@ -213,5 +213,6 @@
   "components": "Telli staatuslehe olek reaalajas komponentide ja neid mõjutavate aktiivsete probleemidega.",
   "API": "API",
   "noRelatedNotices": "Seonduvaid teateid pole",
-  "customizeRequest": "Kohandage taotlust"
+  "customizeRequest": "Kohandage taotlust",
+  "lasted": "Kestis"
 }

@@ -213,5 +213,6 @@
   "components": "Pridobite komponente strani s stanjem in aktivne težave, ki nanje vplivajo.",
   "API": "API",
   "noRelatedNotices": "Ni povezanih obvestil",
-  "customizeRequest": "Prilagodite zahtevo"
+  "customizeRequest": "Prilagodite zahtevo",
+  "lasted": "Trajalo"
 }
