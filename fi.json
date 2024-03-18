@@ -214,5 +214,6 @@
   "API": "API",
   "noRelatedNotices": "Ei aiheeseen liittyviä ilmoituksia",
   "customizeRequest": "Mukauta pyyntöä",
-  "lasted": "Kesti"
+  "lasted": "Kesti",
+  "updates": "Päivitykset"
 }
