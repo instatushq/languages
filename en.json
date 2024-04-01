@@ -168,6 +168,8 @@
   "hours": "hours",
   "minute": "minute",
   "minutes": "minutes",
+  "second": "second",
+  "seconds": "seconds",
   "getNoticeUpdates": "Get updates for this notice",
   "subscribeToAll": "Subscribe to all status page updates instead",
   "phoneNumber": "Phone number",
@@ -202,6 +204,7 @@
   "componentExperiencingDegradedPerformance": "{{component}} experiencing degraded performance",
   "componentUnderMaintainence": "{{component}} under maintenance",
   "week": "week",
+  "weeks": "weeks",
   "systemMetricsNoData": "There is no data added to this period yet",
   "googleChat": "Google Chat",
   "getUpdatesGoogleChatShort": "Get updates in your space",
@@ -215,5 +218,6 @@
   "noRelatedNotices": "No related notices",
   "customizeRequest": "Customize request",
   "lasted": "Lasted",
-  "updates": "Updates"
+  "updates": "Updates",
+  "readMore": "Read More"
 }

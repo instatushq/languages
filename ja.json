@@ -215,5 +215,9 @@
   "noRelatedNotices": "関連するお知らせはありません",
   "customizeRequest": "カスタマイズリクエスト",
   "lasted": "持続した",
-  "updates": "アップデート"
+  "updates": "アップデート",
+  "readMore": "続きを読む",
+  "second": "2番",
+  "seconds": "秒",
+  "weeks": "週間"
 }

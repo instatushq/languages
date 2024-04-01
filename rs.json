@@ -212,5 +212,9 @@
   "noRelatedNotices": "Нема повезаних обавештења",
   "customizeRequest": "Прилагодите захтев",
   "lasted": "Трајало",
-  "updates": "Ажурирања"
+  "updates": "Ажурирања",
+  "readMore": "Опширније",
+  "second": "друго",
+  "seconds": "секунди",
+  "weeks": "недеље"
 }

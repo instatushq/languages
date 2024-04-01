@@ -215,5 +215,9 @@
   "noRelatedNotices": "Nincsenek kapcsolódó értesítések",
   "customizeRequest": "Kérelem testreszabása",
   "lasted": "Tartott",
-  "updates": "Frissítések"
+  "updates": "Frissítések",
+  "readMore": "Olvass tovább",
+  "second": "második",
+  "seconds": "másodpercig",
+  "weeks": "hétig"
 }
