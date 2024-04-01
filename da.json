@@ -214,5 +214,9 @@
   "noRelatedNotices": "Ingen relaterede meddelelser",
   "customizeRequest": "Tilpas anmodning",
   "lasted": "Varede",
-  "updates": "Opdateringer"
+  "updates": "Opdateringer",
+  "readMore": "Læs mere",
+  "second": "anden",
+  "seconds": "sekunder",
+  "weeks": "uger"
 }

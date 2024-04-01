@@ -215,5 +215,9 @@
   "noRelatedNotices": "Ei aiheeseen liittyviä ilmoituksia",
   "customizeRequest": "Mukauta pyyntöä",
   "lasted": "Kesti",
-  "updates": "Päivitykset"
+  "updates": "Päivitykset",
+  "readMore": "Lue lisää",
+  "second": "toinen",
+  "seconds": "sekuntia",
+  "weeks": "viikkoa"
 }

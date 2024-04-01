@@ -214,5 +214,9 @@
   "noRelatedNotices": "Немає відповідних повідомлень",
   "customizeRequest": "Налаштувати запит",
   "lasted": "Тривала",
-  "updates": "Оновлення"
+  "updates": "Оновлення",
+  "readMore": "Детальніше",
+  "second": "другий",
+  "seconds": "секунд",
+  "weeks": "тижнів"
 }

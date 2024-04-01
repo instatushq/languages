@@ -215,5 +215,9 @@
   "noRelatedNotices": "Seonduvaid teateid pole",
   "customizeRequest": "Kohandage taotlust",
   "lasted": "Kestis",
-  "updates": "Värskendused"
+  "updates": "Värskendused",
+  "readMore": "Loe rohkem",
+  "second": "teiseks",
+  "seconds": "sekundit",
+  "weeks": "nädalaid"
 }

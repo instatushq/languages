@@ -215,5 +215,9 @@
   "noRelatedNotices": "관련 공지가 없습니다",
   "customizeRequest": "요청 맞춤화",
   "lasted": "지속됨",
-  "updates": "업데이트"
+  "updates": "업데이트",
+  "readMore": "자세히 알아보기",
+  "second": "두번째",
+  "seconds": "초",
+  "weeks": "주"
 }

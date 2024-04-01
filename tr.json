@@ -215,5 +215,9 @@
   "noRelatedNotices": "İlgili bildirim yok",
   "customizeRequest": "İsteği özelleştir",
   "lasted": "Çözülme süresi: ",
-  "updates": "Güncellemeler"
+  "updates": "Güncellemeler",
+  "readMore": "Devamını oku",
+  "second": "ikinci",
+  "seconds": "saniye",
+  "weeks": "haftalar"
 }
