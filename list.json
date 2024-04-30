@@ -143,5 +143,10 @@
     "value": "vi",
     "label": "Vietnamese",
     "emoji": "🇻🇳"
+  },
+  {
+    "value": "hu",
+    "label": "Hungarian",
+    "emoji": "🇭🇺"
   }
 ]
