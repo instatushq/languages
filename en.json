@@ -5,7 +5,9 @@
   "dateLocale": "enUS",
   "emoji": "🇬🇧",
   "or": "or",
+  "from": "from",
   "to": "to",
+  "for": "for",
   "at": "at",
   "status": "Status",
   "statusPage": "Status Page",
@@ -219,5 +221,10 @@
   "customizeRequest": "Customize request",
   "lasted": "Lasted",
   "updates": "Updates",
-  "readMore": "Read more"
+  "readMore": "Read more",
+  "issue": "issue",
+  "issues": "issues",
+  "skipUptimeGraph": "Skip uptime graph",
+  "readUptimeGraph": "Read uptime graph",
+  "reachedTheEndOfUptimeGraph": "You reached the end of the uptime graph for {{component}}"
 }
