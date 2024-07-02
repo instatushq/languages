@@ -226,5 +226,6 @@
   "issues": "çështjet",
   "skipUptimeGraph": "Kapërce grafikun e kohës së funksionimit",
   "readUptimeGraph": "Lexoni grafikun e kohës së funksionimit",
-  "reachedTheEndOfUptimeGraph": "Ke arritur në fund të grafikut të kohës së funksionimit për {{component}}"
+  "reachedTheEndOfUptimeGraph": "Ke arritur në fund të grafikut të kohës së funksionimit për {{component}}",
+  "Incident": "Incidenti"
 }

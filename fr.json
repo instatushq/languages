@@ -226,5 +226,6 @@
   "issues": "problèmes",
   "skipUptimeGraph": "Ignorer le graphique de disponibilité",
   "readUptimeGraph": "Lire le graphique de disponibilité",
-  "reachedTheEndOfUptimeGraph": "Vous avez atteint la fin du graphique de disponibilité pour {{component}}"
+  "reachedTheEndOfUptimeGraph": "Vous avez atteint la fin du graphique de disponibilité pour {{component}}",
+  "Incident": "Incident"
 }

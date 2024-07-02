@@ -226,5 +226,6 @@
   "issues": "vấn đề",
   "skipUptimeGraph": "Bỏ qua biểu đồ thời gian hoạt động",
   "readUptimeGraph": "Đọc biểu đồ thời gian hoạt động",
-  "reachedTheEndOfUptimeGraph": "Bạn đã đến cuối biểu đồ thời gian hoạt động của {{component}}"
+  "reachedTheEndOfUptimeGraph": "Bạn đã đến cuối biểu đồ thời gian hoạt động của {{component}}",
+  "Incident": "Sự cố"
 }

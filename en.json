@@ -226,5 +226,6 @@
   "issues": "issues",
   "skipUptimeGraph": "Skip uptime graph",
   "readUptimeGraph": "Read uptime graph",
-  "reachedTheEndOfUptimeGraph": "You reached the end of the uptime graph for {{component}}"
+  "reachedTheEndOfUptimeGraph": "You reached the end of the uptime graph for {{component}}",
+  "Incident": "Incident"
 }

@@ -226,5 +226,6 @@
   "issues": "asuntos",
   "skipUptimeGraph": "Saltar gráfico de tiempo de actividad",
   "readUptimeGraph": "Leer gráfico de tiempo de actividad",
-  "reachedTheEndOfUptimeGraph": "Has llegado al final del gráfico de tiempo de actividad de {{component}}"
+  "reachedTheEndOfUptimeGraph": "Has llegado al final del gráfico de tiempo de actividad de {{component}}",
+  "Incident": "Incidente"
 }

@@ -226,5 +226,6 @@
   "issues": "kwestie",
   "skipUptimeGraph": "Pomiń wykres czasu sprawności",
   "readUptimeGraph": "Przeczytaj wykres czasu pracy",
-  "reachedTheEndOfUptimeGraph": "Osiągnąłeś koniec wykresu czasu pracy dla: {{component}}"
+  "reachedTheEndOfUptimeGraph": "Osiągnąłeś koniec wykresu czasu pracy dla: {{component}}",
+  "Incident": "Incydent"
 }

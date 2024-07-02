@@ -226,5 +226,6 @@
   "issues": "problémy",
   "skipUptimeGraph": "Přeskočit graf doby provozuschopnosti",
   "readUptimeGraph": "Přečtěte si graf doby provozuschopnosti",
-  "reachedTheEndOfUptimeGraph": "Dosáhli jste konce grafu dostupnosti pro {{component}}"
+  "reachedTheEndOfUptimeGraph": "Dosáhli jste konce grafu dostupnosti pro {{component}}",
+  "Incident": "Incident"
 }

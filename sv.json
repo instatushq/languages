@@ -226,5 +226,6 @@
   "issues": "frågor",
   "skipUptimeGraph": "Hoppa över drifttidsdiagram",
   "readUptimeGraph": "Läs diagram över drifttid",
-  "reachedTheEndOfUptimeGraph": "Du nådde slutet av drifttidsdiagrammet för {{component}}"
+  "reachedTheEndOfUptimeGraph": "Du nådde slutet av drifttidsdiagrammet för {{component}}",
+  "Incident": "Incident"
 }

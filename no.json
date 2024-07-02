@@ -226,5 +226,6 @@
   "issues": "problemer",
   "skipUptimeGraph": "Hopp over oppetidsgraf",
   "readUptimeGraph": "Les oppetidsgraf",
-  "reachedTheEndOfUptimeGraph": "Du nådde slutten av oppetidsdiagrammet for {{component}}"
+  "reachedTheEndOfUptimeGraph": "Du nådde slutten av oppetidsdiagrammet for {{component}}",
+  "Incident": "hendelse"
 }

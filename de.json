@@ -226,5 +226,6 @@
   "issues": "Probleme",
   "skipUptimeGraph": "Verfügbarkeitsdiagramm überspringen",
   "readUptimeGraph": "Verfügbarkeitsdiagramm lesen",
-  "reachedTheEndOfUptimeGraph": "Sie haben das Ende des Verfügbarkeitsdiagramms für {{component}} erreicht."
+  "reachedTheEndOfUptimeGraph": "Sie haben das Ende des Verfügbarkeitsdiagramms für {{component}} erreicht.",
+  "Incident": "Vorfall"
 }

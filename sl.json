@@ -226,5 +226,6 @@
   "issues": "vprašanja",
   "skipUptimeGraph": "Preskoči graf časa delovanja",
   "readUptimeGraph": "Preberite graf časa delovanja",
-  "reachedTheEndOfUptimeGraph": "Dosegli ste konec grafa časa delovanja za {{component}}"
+  "reachedTheEndOfUptimeGraph": "Dosegli ste konec grafa časa delovanja za {{component}}",
+  "Incident": "Nezgoda"
 }

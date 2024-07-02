@@ -226,5 +226,6 @@
   "issues": "питань",
   "skipUptimeGraph": "Пропустити графік безвідмовної роботи",
   "readUptimeGraph": "Читайте графік безвідмовної роботи",
-  "reachedTheEndOfUptimeGraph": "Ви досягли кінця графіка безвідмовної роботи для {{component}}"
+  "reachedTheEndOfUptimeGraph": "Ви досягли кінця графіка безвідмовної роботи для {{component}}",
+  "Incident": "Інцидент"
 }

@@ -226,5 +226,6 @@
   "issues": "problemen",
   "skipUptimeGraph": "Uptimegrafiek overslaan",
   "readUptimeGraph": "Uptimegrafiek lezen",
-  "reachedTheEndOfUptimeGraph": "U heeft het einde van de uptimegrafiek bereikt voor {{component}}"
+  "reachedTheEndOfUptimeGraph": "U heeft het einde van de uptimegrafiek bereikt voor {{component}}",
+  "Incident": "Incident"
 }

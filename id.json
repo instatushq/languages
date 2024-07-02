@@ -226,5 +226,6 @@
   "issues": "masalah",
   "skipUptimeGraph": "Lewati grafik uptime",
   "readUptimeGraph": "Baca grafik uptime",
-  "reachedTheEndOfUptimeGraph": "Anda mencapai akhir grafik waktu aktif untuk {{component}}"
+  "reachedTheEndOfUptimeGraph": "Anda mencapai akhir grafik waktu aktif untuk {{component}}",
+  "Incident": "Kejadian"
 }

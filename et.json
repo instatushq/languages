@@ -226,5 +226,6 @@
   "issues": "probleeme",
   "skipUptimeGraph": "Jäta tööaja graafik vahele",
   "readUptimeGraph": "Lugege tööaja graafikut",
-  "reachedTheEndOfUptimeGraph": "Jõudsite {{component}} tööaja graafiku lõppu"
+  "reachedTheEndOfUptimeGraph": "Jõudsite {{component}} tööaja graafiku lõppu",
+  "Incident": "Intsident"
 }

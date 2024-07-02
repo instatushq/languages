@@ -226,5 +226,6 @@
   "issues": "问题",
   "skipUptimeGraph": "跳过正常运行时间图表",
   "readUptimeGraph": "阅读正常运行时间图表",
-  "reachedTheEndOfUptimeGraph": "您已到达 {{component}} 的正常运行时间图表的末尾"
+  "reachedTheEndOfUptimeGraph": "您已到达 {{component}} 的正常运行时间图表的末尾",
+  "Incident": "事件"
 }
