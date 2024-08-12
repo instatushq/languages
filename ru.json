@@ -227,5 +227,6 @@
   "skipUptimeGraph": "Пропустить график времени безотказной работы",
   "readUptimeGraph": "Читать график времени безотказной работы",
   "reachedTheEndOfUptimeGraph": "Вы достигли конца графика работоспособности для {{component}}.",
-  "Incident": "Инцидент"
+  "Incident": "Инцидент",
+  "maintenanceWillBeginAfter": "Техническое обслуживание начнется через {{time}}"
 }

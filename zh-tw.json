@@ -220,5 +220,6 @@
   "second": "第二",
   "seconds": "秒",
   "weeks": "週",
-  "Incident": "事件"
+  "Incident": "事件",
+  "maintenanceWillBeginAfter": "維護將於 {{time}} 開始"
 }

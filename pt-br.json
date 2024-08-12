@@ -218,5 +218,6 @@
   "second": "segundo",
   "seconds": "segundos",
   "weeks": "semanas",
-  "Incident": "Incidente"
+  "Incident": "Incidente",
+  "maintenanceWillBeginAfter": "A manutenção começará em {{time}}"
 }

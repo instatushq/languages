@@ -227,5 +227,6 @@
   "skipUptimeGraph": "Az üzemidő grafikonjának kihagyása",
   "readUptimeGraph": "Olvassa el az üzemidő grafikonját",
   "reachedTheEndOfUptimeGraph": "Elérte a(z) {{component}} üzemidő diagramjának végét",
-  "Incident": "Incidens"
+  "Incident": "Incidens",
+  "maintenanceWillBeginAfter": "A karbantartás {{time}} múlva kezdődik"
 }

@@ -227,5 +227,6 @@
   "skipUptimeGraph": "Přeskočit graf doby provozuschopnosti",
   "readUptimeGraph": "Přečtěte si graf doby provozuschopnosti",
   "reachedTheEndOfUptimeGraph": "Dosáhli jste konce grafu dostupnosti pro {{component}}",
-  "Incident": "Incident"
+  "Incident": "Incident",
+  "maintenanceWillBeginAfter": "Údržba začne za {{time}}"
 }

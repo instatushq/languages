@@ -227,5 +227,6 @@
   "skipUptimeGraph": "Uptimegrafiek overslaan",
   "readUptimeGraph": "Uptimegrafiek lezen",
   "reachedTheEndOfUptimeGraph": "U heeft het einde van de uptimegrafiek bereikt voor {{component}}",
-  "Incident": "Incident"
+  "Incident": "Incident",
+  "maintenanceWillBeginAfter": "Onderhoud begint over {{time}}"
 }

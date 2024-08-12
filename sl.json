@@ -227,5 +227,6 @@
   "skipUptimeGraph": "Preskoči graf časa delovanja",
   "readUptimeGraph": "Preberite graf časa delovanja",
   "reachedTheEndOfUptimeGraph": "Dosegli ste konec grafa časa delovanja za {{component}}",
-  "Incident": "Nezgoda"
+  "Incident": "Nezgoda",
+  "maintenanceWillBeginAfter": "Vzdrževanje se bo začelo čez {{time}}"
 }

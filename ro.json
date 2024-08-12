@@ -227,5 +227,6 @@
   "skipUptimeGraph": "Omite graficul timpului de funcționare",
   "readUptimeGraph": "Citiți graficul timpului de funcționare",
   "reachedTheEndOfUptimeGraph": "Ați ajuns la sfârșitul graficului timpului de funcționare pentru {{component}}",
-  "Incident": "Incident"
+  "Incident": "Incident",
+  "maintenanceWillBeginAfter": "Întreținerea va începe în {{time}}"
 }

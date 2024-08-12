@@ -227,5 +227,6 @@
   "skipUptimeGraph": "稼働時間グラフをスキップ",
   "readUptimeGraph": "稼働時間グラフを読む",
   "reachedTheEndOfUptimeGraph": "{{component}} の稼働時間グラフの最後まで到達しました",
-  "Incident": "事件"
+  "Incident": "事件",
+  "maintenanceWillBeginAfter": "メンテナンスは {{time}} に開始されます"
 }

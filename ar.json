@@ -227,5 +227,6 @@
   "skipUptimeGraph": "تخطي الرسم البياني لوقت التشغيل",
   "readUptimeGraph": "قراءة الرسم البياني الجهوزية",
   "reachedTheEndOfUptimeGraph": "لقد وصلت إلى نهاية الرسم البياني لوقت التشغيل لـ {{component}}",
-  "Incident": "حادثة"
+  "Incident": "حادثة",
+  "maintenanceWillBeginAfter": "ستبدأ الصيانة في {{time}}"
 }

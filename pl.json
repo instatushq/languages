@@ -227,5 +227,6 @@
   "skipUptimeGraph": "Pomiń wykres czasu sprawności",
   "readUptimeGraph": "Przeczytaj wykres czasu pracy",
   "reachedTheEndOfUptimeGraph": "Osiągnąłeś koniec wykresu czasu pracy dla: {{component}}",
-  "Incident": "Incydent"
+  "Incident": "Incydent",
+  "maintenanceWillBeginAfter": "Konserwacja rozpocznie się za {{time}}"
 }

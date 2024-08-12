@@ -227,5 +227,6 @@
   "skipUptimeGraph": "Ohita käyttöaikakaavio",
   "readUptimeGraph": "Lue käyttöaikakaavio",
   "reachedTheEndOfUptimeGraph": "Pääsit käyttöaikakaavion loppuun: {{component}}",
-  "Incident": "Tapahtuma"
+  "Incident": "Tapahtuma",
+  "maintenanceWillBeginAfter": "Huolto alkaa {{time}}"
 }

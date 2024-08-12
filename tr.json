@@ -227,5 +227,6 @@
   "skipUptimeGraph": "Çalışma süresi grafiğini atla",
   "readUptimeGraph": "Çalışma süresi grafiğini okuyun",
   "reachedTheEndOfUptimeGraph": "{{component}} için çalışma süresi grafiğinin sonuna ulaştınız",
-  "Incident": "Olay"
+  "Incident": "Olay",
+  "maintenanceWillBeginAfter": "Bakım {{time}} içinde başlayacak"
 }

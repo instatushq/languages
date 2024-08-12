@@ -227,5 +227,6 @@
   "skipUptimeGraph": "Verfügbarkeitsdiagramm überspringen",
   "readUptimeGraph": "Verfügbarkeitsdiagramm lesen",
   "reachedTheEndOfUptimeGraph": "Sie haben das Ende des Verfügbarkeitsdiagramms für {{component}} erreicht.",
-  "Incident": "Vorfall"
+  "Incident": "Vorfall",
+  "maintenanceWillBeginAfter": "Die Wartung beginnt in {{time}}"
 }

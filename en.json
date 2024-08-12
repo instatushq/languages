@@ -149,6 +149,7 @@
   "viewIncident": "View incident",
   "impact": "Impact",
   "maintenanceWillBeginSoon": "Maintenance will begin in {{minutes}} minutes",
+  "maintenanceWillBeginAfter": "Maintenance will begin in {{time}}",
   "postmortem": "Postmortem",
   "recentNotices": "Recent notices",
   "showNoticeHistory": "Show notice history",

@@ -216,7 +216,7 @@
   "ourPublicAPI": "API công khai của chúng tôi",
   "summary": "Nhận trạng thái tổng thể cho trang trạng thái của bạn. Không bao gồm các thành phần và thông báo lịch sử.",
   "components": "Nhận các thành phần trang trạng thái của bạn và các sự cố đang hoạt động ảnh hưởng đến chúng.",
-  "API": "API",
+  "API": "Giao diện lập trình ứng dụng (API)",
   "noRelatedNotices": "Không có thông báo liên quan",
   "customizeRequest": "Tùy chỉnh yêu cầu",
   "lasted": "kéo dài",
@@ -227,5 +227,6 @@
   "skipUptimeGraph": "Bỏ qua biểu đồ thời gian hoạt động",
   "readUptimeGraph": "Đọc biểu đồ thời gian hoạt động",
   "reachedTheEndOfUptimeGraph": "Bạn đã đến cuối biểu đồ thời gian hoạt động của {{component}}",
-  "Incident": "Sự cố"
+  "Incident": "Sự cố",
+  "maintenanceWillBeginAfter": "Việc bảo trì sẽ bắt đầu vào {{time}}"
 }

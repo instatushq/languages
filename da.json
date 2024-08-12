@@ -227,5 +227,6 @@
   "skipUptimeGraph": "Spring over oppetidsgraf",
   "readUptimeGraph": "Læs oppetidsgraf",
   "reachedTheEndOfUptimeGraph": "Du nåede slutningen af oppetidsgrafen for {{component}}",
-  "Incident": "Utilsigtet hændelse"
+  "Incident": "Utilsigtet hændelse",
+  "maintenanceWillBeginAfter": "Vedligeholdelse begynder om {{time}}"
 }

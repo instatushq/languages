@@ -227,5 +227,6 @@
   "skipUptimeGraph": "Kapërce grafikun e kohës së funksionimit",
   "readUptimeGraph": "Lexoni grafikun e kohës së funksionimit",
   "reachedTheEndOfUptimeGraph": "Ke arritur në fund të grafikut të kohës së funksionimit për {{component}}",
-  "Incident": "Incidenti"
+  "Incident": "Incidenti",
+  "maintenanceWillBeginAfter": "Mirëmbajtja do të fillojë në {{time}}"
 }

@@ -217,5 +217,6 @@
   "second": "друго",
   "seconds": "секунди",
   "weeks": "недеље",
-  "Incident": "Инцидент"
+  "Incident": "Инцидент",
+  "maintenanceWillBeginAfter": "Одржавање ће почети за {{тиме}}"
 }

@@ -216,7 +216,7 @@
   "ourPublicAPI": "我们的公共 API",
   "summary": "获取状态页面的整体状态。不包括组件和历史通知。",
   "components": "获取您的状态页面组件以及影响它们的活动问题。",
-  "API": "应用程序编程接口",
+  "API": "API",
   "noRelatedNotices": "暂无相关通知",
   "customizeRequest": "定制请求",
   "lasted": "持续",
@@ -227,5 +227,6 @@
   "skipUptimeGraph": "跳过正常运行时间图表",
   "readUptimeGraph": "阅读正常运行时间图表",
   "reachedTheEndOfUptimeGraph": "您已到达 {{component}} 的正常运行时间图表的末尾",
-  "Incident": "事件"
+  "Incident": "事件",
+  "maintenanceWillBeginAfter": "维护将于 {{time}} 开始"
 }

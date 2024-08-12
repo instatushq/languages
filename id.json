@@ -227,5 +227,6 @@
   "skipUptimeGraph": "Lewati grafik uptime",
   "readUptimeGraph": "Baca grafik uptime",
   "reachedTheEndOfUptimeGraph": "Anda mencapai akhir grafik waktu aktif untuk {{component}}",
-  "Incident": "Kejadian"
+  "Incident": "Kejadian",
+  "maintenanceWillBeginAfter": "Pemeliharaan akan dimulai dalam {{time}}"
 }
