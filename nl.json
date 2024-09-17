@@ -228,5 +228,7 @@
   "readUptimeGraph": "Uptimegrafiek lezen",
   "reachedTheEndOfUptimeGraph": "U heeft het einde van de uptimegrafiek bereikt voor {{component}}",
   "Incident": "Incident",
-  "maintenanceWillBeginAfter": "Onderhoud begint over {{time}}"
+  "maintenanceWillBeginAfter": "Onderhoud begint over {{time}}",
+  "oneMaintenanceIsScheduled": "Er is één onderhoudsbeurt gepland",
+  "multipleMaintenancePeriodsAreScheduled": "Er zijn {{multiple}} onderhoudsperioden gepland"
 }

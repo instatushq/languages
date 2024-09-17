@@ -228,5 +228,7 @@
   "readUptimeGraph": "가동 시간 그래프 읽기",
   "reachedTheEndOfUptimeGraph": "{{component}}에 대한 가동 시간 그래프의 끝에 도달했습니다.",
   "Incident": "사건",
-  "maintenanceWillBeginAfter": "{{time}} 후에 유지 관리가 시작됩니다."
+  "maintenanceWillBeginAfter": "{{time}} 후에 유지 관리가 시작됩니다.",
+  "oneMaintenanceIsScheduled": "1회 유지보수가 예정되어 있습니다",
+  "multipleMaintenancePeriodsAreScheduled": "{{multiple}}개의 유지관리 기간이 예정되어 있습니다"
 }

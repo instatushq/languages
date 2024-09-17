@@ -228,5 +228,7 @@
   "readUptimeGraph": "Olvassa el az üzemidő grafikonját",
   "reachedTheEndOfUptimeGraph": "Elérte a(z) {{component}} üzemidő diagramjának végét",
   "Incident": "Incidens",
-  "maintenanceWillBeginAfter": "A karbantartás {{time}} múlva kezdődik"
+  "maintenanceWillBeginAfter": "A karbantartás {{time}} múlva kezdődik",
+  "oneMaintenanceIsScheduled": "Egy karbantartást terveznek",
+  "multipleMaintenancePeriodsAreScheduled": "{{multiple}} karbantartási időszak van beütemezve"
 }

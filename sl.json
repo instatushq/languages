@@ -228,5 +228,7 @@
   "readUptimeGraph": "Preberite graf časa delovanja",
   "reachedTheEndOfUptimeGraph": "Dosegli ste konec grafa časa delovanja za {{component}}",
   "Incident": "Nezgoda",
-  "maintenanceWillBeginAfter": "Vzdrževanje se bo začelo čez {{time}}"
+  "maintenanceWillBeginAfter": "Vzdrževanje se bo začelo čez {{time}}",
+  "oneMaintenanceIsScheduled": "Načrtovano je eno vzdrževanje",
+  "multipleMaintenancePeriodsAreScheduled": "Predvidenih je {{multiple}} vzdrževalnih obdobij"
 }

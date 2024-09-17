@@ -228,5 +228,7 @@
   "readUptimeGraph": "Đọc biểu đồ thời gian hoạt động",
   "reachedTheEndOfUptimeGraph": "Bạn đã đến cuối biểu đồ thời gian hoạt động của {{component}}",
   "Incident": "Sự cố",
-  "maintenanceWillBeginAfter": "Việc bảo trì sẽ bắt đầu vào {{time}}"
+  "maintenanceWillBeginAfter": "Việc bảo trì sẽ bắt đầu vào {{time}}",
+  "oneMaintenanceIsScheduled": "Một bảo trì được lên lịch",
+  "multipleMaintenancePeriodsAreScheduled": "{{multiple}} đợt bảo trì được lên lịch"
 }

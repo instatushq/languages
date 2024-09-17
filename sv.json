@@ -228,5 +228,7 @@
   "readUptimeGraph": "Läs diagram över drifttid",
   "reachedTheEndOfUptimeGraph": "Du nådde slutet av drifttidsdiagrammet för {{component}}",
   "Incident": "Incident",
-  "maintenanceWillBeginAfter": "Underhållet börjar om {{time}}"
+  "maintenanceWillBeginAfter": "Underhållet börjar om {{time}}",
+  "oneMaintenanceIsScheduled": "Ett underhåll är planerat",
+  "multipleMaintenancePeriodsAreScheduled": "{{multiple}} underhållsperioder är planerade"
 }

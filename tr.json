@@ -228,5 +228,7 @@
   "readUptimeGraph": "Çalışma süresi grafiğini okuyun",
   "reachedTheEndOfUptimeGraph": "{{component}} için çalışma süresi grafiğinin sonuna ulaştınız",
   "Incident": "Olay",
-  "maintenanceWillBeginAfter": "Bakım {{time}} içinde başlayacak"
+  "maintenanceWillBeginAfter": "Bakım {{time}} içinde başlayacak",
+  "oneMaintenanceIsScheduled": "Bir bakım planlandı",
+  "multipleMaintenancePeriodsAreScheduled": "{{multiple}} bakım periyodu planlandı"
 }

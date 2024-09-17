@@ -228,5 +228,7 @@
   "readUptimeGraph": "قراءة الرسم البياني الجهوزية",
   "reachedTheEndOfUptimeGraph": "لقد وصلت إلى نهاية الرسم البياني لوقت التشغيل لـ {{component}}",
   "Incident": "حادثة",
-  "maintenanceWillBeginAfter": "ستبدأ الصيانة في {{time}}"
+  "maintenanceWillBeginAfter": "ستبدأ الصيانة في {{time}}",
+  "oneMaintenanceIsScheduled": "تم جدولة صيانة واحدة",
+  "multipleMaintenancePeriodsAreScheduled": "تم جدولة {{multiple}} فترات صيانة"
 }

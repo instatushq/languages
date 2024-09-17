@@ -228,5 +228,7 @@
   "readUptimeGraph": "Читать график времени безотказной работы",
   "reachedTheEndOfUptimeGraph": "Вы достигли конца графика работоспособности для {{component}}.",
   "Incident": "Инцидент",
-  "maintenanceWillBeginAfter": "Техническое обслуживание начнется через {{time}}"
+  "maintenanceWillBeginAfter": "Техническое обслуживание начнется через {{time}}",
+  "oneMaintenanceIsScheduled": "Запланировано одно техническое обслуживание",
+  "multipleMaintenancePeriodsAreScheduled": "Запланировано {{multiple}} периодов технического обслуживания"
 }

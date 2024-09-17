@@ -228,5 +228,7 @@
   "readUptimeGraph": "Lugege tööaja graafikut",
   "reachedTheEndOfUptimeGraph": "Jõudsite {{component}} tööaja graafiku lõppu",
   "Incident": "Intsident",
-  "maintenanceWillBeginAfter": "Hooldus algab {{time}} pärast"
+  "maintenanceWillBeginAfter": "Hooldus algab {{time}} pärast",
+  "oneMaintenanceIsScheduled": "Plaanis on üks hooldus",
+  "multipleMaintenancePeriodsAreScheduled": "Plaanis on {{multiple}} hooldusperioodi"
 }

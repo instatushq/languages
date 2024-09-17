@@ -228,5 +228,7 @@
   "readUptimeGraph": "Verfügbarkeitsdiagramm lesen",
   "reachedTheEndOfUptimeGraph": "Sie haben das Ende des Verfügbarkeitsdiagramms für {{component}} erreicht.",
   "Incident": "Vorfall",
-  "maintenanceWillBeginAfter": "Die Wartung beginnt in {{time}}"
+  "maintenanceWillBeginAfter": "Die Wartung beginnt in {{time}}",
+  "oneMaintenanceIsScheduled": "Eine Wartung ist geplant",
+  "multipleMaintenancePeriodsAreScheduled": "Es sind {{multiple}} Wartungsperioden geplant"
 }

@@ -219,5 +219,7 @@
   "seconds": "segundos",
   "weeks": "semanas",
   "Incident": "Incidente",
-  "maintenanceWillBeginAfter": "A manutenção começará em {{time}}"
+  "maintenanceWillBeginAfter": "A manutenção começará em {{time}}",
+  "oneMaintenanceIsScheduled": "Uma manutenção está programada",
+  "multipleMaintenancePeriodsAreScheduled": "Estão programados {{multiple}} períodos de manutenção"
 }

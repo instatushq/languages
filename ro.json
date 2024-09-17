@@ -228,5 +228,7 @@
   "readUptimeGraph": "Citiți graficul timpului de funcționare",
   "reachedTheEndOfUptimeGraph": "Ați ajuns la sfârșitul graficului timpului de funcționare pentru {{component}}",
   "Incident": "Incident",
-  "maintenanceWillBeginAfter": "Întreținerea va începe în {{time}}"
+  "maintenanceWillBeginAfter": "Întreținerea va începe în {{time}}",
+  "oneMaintenanceIsScheduled": "Este programată o întreținere",
+  "multipleMaintenancePeriodsAreScheduled": "Sunt programate {{multiple}} perioade de întreținere"
 }

@@ -218,5 +218,7 @@
   "seconds": "секунди",
   "weeks": "недеље",
   "Incident": "Инцидент",
-  "maintenanceWillBeginAfter": "Одржавање ће почети за {{тиме}}"
+  "maintenanceWillBeginAfter": "Одржавање ће почети за {{тиме}}",
+  "oneMaintenanceIsScheduled": "Заказано је једно одржавање",
+  "multipleMaintenancePeriodsAreScheduled": "Предвиђено је {{multiple}} периода одржавања"
 }

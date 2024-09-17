@@ -228,5 +228,7 @@
   "readUptimeGraph": "Lexoni grafikun e kohës së funksionimit",
   "reachedTheEndOfUptimeGraph": "Ke arritur në fund të grafikut të kohës së funksionimit për {{component}}",
   "Incident": "Incidenti",
-  "maintenanceWillBeginAfter": "Mirëmbajtja do të fillojë në {{time}}"
+  "maintenanceWillBeginAfter": "Mirëmbajtja do të fillojë në {{time}}",
+  "oneMaintenanceIsScheduled": "Një mirëmbajtje është planifikuar",
+  "multipleMaintenancePeriodsAreScheduled": "Janë planifikuar {{multiple}} periudha mirëmbajtjeje"
 }

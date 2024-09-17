@@ -228,5 +228,7 @@
   "readUptimeGraph": "Læs oppetidsgraf",
   "reachedTheEndOfUptimeGraph": "Du nåede slutningen af oppetidsgrafen for {{component}}",
   "Incident": "Utilsigtet hændelse",
-  "maintenanceWillBeginAfter": "Vedligeholdelse begynder om {{time}}"
+  "maintenanceWillBeginAfter": "Vedligeholdelse begynder om {{time}}",
+  "oneMaintenanceIsScheduled": "Én vedligeholdelse er planlagt",
+  "multipleMaintenancePeriodsAreScheduled": "Der er planlagt {{multiple}} vedligeholdelsesperioder"
 }

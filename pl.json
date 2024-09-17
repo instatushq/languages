@@ -228,5 +228,7 @@
   "readUptimeGraph": "Przeczytaj wykres czasu pracy",
   "reachedTheEndOfUptimeGraph": "Osiągnąłeś koniec wykresu czasu pracy dla: {{component}}",
   "Incident": "Incydent",
-  "maintenanceWillBeginAfter": "Konserwacja rozpocznie się za {{time}}"
+  "maintenanceWillBeginAfter": "Konserwacja rozpocznie się za {{time}}",
+  "oneMaintenanceIsScheduled": "Zaplanowano jedną konserwację",
+  "multipleMaintenancePeriodsAreScheduled": "Zaplanowano {{multiple}} okresów konserwacji"
 }

@@ -228,5 +228,7 @@
   "readUptimeGraph": "Leer gráfico de tiempo de actividad",
   "reachedTheEndOfUptimeGraph": "Has llegado al final del gráfico de tiempo de actividad de {{component}}",
   "Incident": "Incidente",
-  "maintenanceWillBeginAfter": "El mantenimiento comenzará en {{time}}"
+  "maintenanceWillBeginAfter": "El mantenimiento comenzará en {{time}}",
+  "oneMaintenanceIsScheduled": "Se ha programado un mantenimiento",
+  "multipleMaintenancePeriodsAreScheduled": "Se programan {{multiple}} períodos de mantenimiento"
 }
