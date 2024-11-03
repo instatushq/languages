@@ -230,5 +230,7 @@
   "Incident": "Incidente",
   "maintenanceWillBeginAfter": "El mantenimiento comenzará en {{time}}",
   "oneMaintenanceIsScheduled": "Se ha programado un mantenimiento",
-  "multipleMaintenancePeriodsAreScheduled": "Se programan {{multiple}} períodos de mantenimiento"
+  "multipleMaintenancePeriodsAreScheduled": "Se programan {{multiple}} períodos de mantenimiento",
+  "nextMonths": "Próximos meses",
+  "previousMonths": "Meses anteriores"
 }

@@ -230,5 +230,7 @@
   "Incident": "Incident",
   "maintenanceWillBeginAfter": "Údržba začne za {{time}}",
   "oneMaintenanceIsScheduled": "Naplánována je jedna údržba",
-  "multipleMaintenancePeriodsAreScheduled": "Naplánováno je {{multiple}} období údržby"
+  "multipleMaintenancePeriodsAreScheduled": "Naplánováno je {{multiple}} období údržby",
+  "nextMonths": "Další měsíce",
+  "previousMonths": "Předchozí měsíce"
 }

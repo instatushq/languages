@@ -230,5 +230,7 @@
   "Incident": "Kejadian",
   "maintenanceWillBeginAfter": "Pemeliharaan akan dimulai dalam {{time}}",
   "oneMaintenanceIsScheduled": "Satu pemeliharaan dijadwalkan",
-  "multipleMaintenancePeriodsAreScheduled": "{{multiple}} periode pemeliharaan dijadwalkan"
+  "multipleMaintenancePeriodsAreScheduled": "{{multiple}} periode pemeliharaan dijadwalkan",
+  "nextMonths": "Bulan berikutnya",
+  "previousMonths": "Bulan sebelumnya"
 }

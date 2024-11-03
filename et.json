@@ -230,5 +230,7 @@
   "Incident": "Intsident",
   "maintenanceWillBeginAfter": "Hooldus algab {{time}} pärast",
   "oneMaintenanceIsScheduled": "Plaanis on üks hooldus",
-  "multipleMaintenancePeriodsAreScheduled": "Plaanis on {{multiple}} hooldusperioodi"
+  "multipleMaintenancePeriodsAreScheduled": "Plaanis on {{multiple}} hooldusperioodi",
+  "nextMonths": "Järgmised kuud",
+  "previousMonths": "Eelmised kuud"
 }

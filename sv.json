@@ -230,5 +230,7 @@
   "Incident": "Incident",
   "maintenanceWillBeginAfter": "Underhållet börjar om {{time}}",
   "oneMaintenanceIsScheduled": "Ett underhåll är planerat",
-  "multipleMaintenancePeriodsAreScheduled": "{{multiple}} underhållsperioder är planerade"
+  "multipleMaintenancePeriodsAreScheduled": "{{multiple}} underhållsperioder är planerade",
+  "nextMonths": "Nästa månader",
+  "previousMonths": "Tidigare månader"
 }

@@ -230,5 +230,7 @@
   "Incident": "Tapahtuma",
   "maintenanceWillBeginAfter": "Huolto alkaa {{time}}",
   "oneMaintenanceIsScheduled": "Yksi huolto on suunniteltu",
-  "multipleMaintenancePeriodsAreScheduled": "{{multiple}} huoltojaksoa on suunniteltu"
+  "multipleMaintenancePeriodsAreScheduled": "{{multiple}} huoltojaksoa on suunniteltu",
+  "nextMonths": "Seuraavat kuukaudet",
+  "previousMonths": "Edelliset kuukaudet"
 }

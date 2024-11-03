@@ -220,5 +220,7 @@
   "Incident": "Инцидент",
   "maintenanceWillBeginAfter": "Одржавање ће почети за {{тиме}}",
   "oneMaintenanceIsScheduled": "Заказано је једно одржавање",
-  "multipleMaintenancePeriodsAreScheduled": "Предвиђено је {{multiple}} периода одржавања"
+  "multipleMaintenancePeriodsAreScheduled": "Предвиђено је {{multiple}} периода одржавања",
+  "nextMonths": "Следећих месеци",
+  "previousMonths": "Претходних месеци"
 }

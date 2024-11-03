@@ -223,5 +223,7 @@
   "Incident": "事件",
   "maintenanceWillBeginAfter": "維護將於 {{time}} 開始",
   "oneMaintenanceIsScheduled": "已安排 1 次維護",
-  "multipleMaintenancePeriodsAreScheduled": "安排{{multiple}}個維護週期"
+  "multipleMaintenancePeriodsAreScheduled": "安排{{multiple}}個維護週期",
+  "nextMonths": "接下來的幾個月",
+  "previousMonths": "前幾個月"
 }

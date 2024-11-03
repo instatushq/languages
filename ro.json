@@ -230,5 +230,7 @@
   "Incident": "Incident",
   "maintenanceWillBeginAfter": "Întreținerea va începe în {{time}}",
   "oneMaintenanceIsScheduled": "Este programată o întreținere",
-  "multipleMaintenancePeriodsAreScheduled": "Sunt programate {{multiple}} perioade de întreținere"
+  "multipleMaintenancePeriodsAreScheduled": "Sunt programate {{multiple}} perioade de întreținere",
+  "nextMonths": "Lunile viitoare",
+  "previousMonths": "Lunile anterioare"
 }

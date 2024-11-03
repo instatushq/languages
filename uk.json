@@ -230,5 +230,7 @@
   "Incident": "Інцидент",
   "maintenanceWillBeginAfter": "Технічне обслуговування розпочнеться через {{time}}",
   "oneMaintenanceIsScheduled": "Запланований один ремонт",
-  "multipleMaintenancePeriodsAreScheduled": "Заплановано {{multiple}} ремонтних періодів"
+  "multipleMaintenancePeriodsAreScheduled": "Заплановано {{multiple}} ремонтних періодів",
+  "nextMonths": "Наступні місяці",
+  "previousMonths": "Попередні місяці"
 }

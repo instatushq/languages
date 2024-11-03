@@ -230,5 +230,7 @@
   "Incident": "Incident",
   "maintenanceWillBeginAfter": "Onderhoud begint over {{time}}",
   "oneMaintenanceIsScheduled": "Er is één onderhoudsbeurt gepland",
-  "multipleMaintenancePeriodsAreScheduled": "Er zijn {{multiple}} onderhoudsperioden gepland"
+  "multipleMaintenancePeriodsAreScheduled": "Er zijn {{multiple}} onderhoudsperioden gepland",
+  "nextMonths": "Volgende maanden",
+  "previousMonths": "Vorige maanden"
 }

@@ -216,7 +216,7 @@
   "ourPublicAPI": "当社のパブリック API",
   "summary": "ステータス ページの全体的なステータスを取得します。コンポーネントや過去の通知は含まれません。",
   "components": "ステータス ページのコンポーネントと、それらに影響を与える現在の問題を取得します。",
-  "API": "API",
+  "API": "翻訳",
   "noRelatedNotices": "関連するお知らせはありません",
   "customizeRequest": "カスタマイズリクエスト",
   "lasted": "持続した",
@@ -230,5 +230,7 @@
   "Incident": "事件",
   "maintenanceWillBeginAfter": "メンテナンスは {{time}} に開始されます",
   "oneMaintenanceIsScheduled": "メンテナンスが1回予定されています",
-  "multipleMaintenancePeriodsAreScheduled": "{{multiple}}回のメンテナンス期間が予定されています"
+  "multipleMaintenancePeriodsAreScheduled": "{{multiple}}回のメンテナンス期間が予定されています",
+  "nextMonths": "今後数か月",
+  "previousMonths": "先月"
 }

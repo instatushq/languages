@@ -120,6 +120,8 @@
   "daysAgo": "days ago",
   "uptime": "uptime",
   "numDaysAgo": "{{num}} days ago",
+  "nextMonths": "Next months",
+  "previousMonths": "Previous months",
   "90DaysAgo": "90 days ago",
   "54DaysAgo": "54 days ago",
   "48DaysAgo": "48 days ago",

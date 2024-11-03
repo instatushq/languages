@@ -230,5 +230,7 @@
   "Incident": "حادثة",
   "maintenanceWillBeginAfter": "ستبدأ الصيانة في {{time}}",
   "oneMaintenanceIsScheduled": "تم جدولة صيانة واحدة",
-  "multipleMaintenancePeriodsAreScheduled": "تم جدولة {{multiple}} فترات صيانة"
+  "multipleMaintenancePeriodsAreScheduled": "تم جدولة {{multiple}} فترات صيانة",
+  "nextMonths": "الأشهر القادمة",
+  "previousMonths": "الأشهر السابقة"
 }

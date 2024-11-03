@@ -230,5 +230,7 @@
   "Incident": "事件",
   "maintenanceWillBeginAfter": "维护将于 {{time}} 开始",
   "oneMaintenanceIsScheduled": "计划进行一次维护",
-  "multipleMaintenancePeriodsAreScheduled": "计划进行 {{multiple}} 次维护"
+  "multipleMaintenancePeriodsAreScheduled": "计划进行 {{multiple}} 次维护",
+  "nextMonths": "未来几个月",
+  "previousMonths": "前几个月"
 }

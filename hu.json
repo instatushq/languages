@@ -230,5 +230,7 @@
   "Incident": "Incidens",
   "maintenanceWillBeginAfter": "A karbantartás {{time}} múlva kezdődik",
   "oneMaintenanceIsScheduled": "Egy karbantartást terveznek",
-  "multipleMaintenancePeriodsAreScheduled": "{{multiple}} karbantartási időszak van beütemezve"
+  "multipleMaintenancePeriodsAreScheduled": "{{multiple}} karbantartási időszak van beütemezve",
+  "nextMonths": "A következő hónapokban",
+  "previousMonths": "Előző hónapok"
 }
