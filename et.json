@@ -232,5 +232,7 @@
   "oneMaintenanceIsScheduled": "Plaanis on üks hooldus",
   "multipleMaintenancePeriodsAreScheduled": "Plaanis on {{multiple}} hooldusperioodi",
   "nextMonths": "Järgmised kuud",
-  "previousMonths": "Eelmised kuud"
+  "previousMonths": "Eelmised kuud",
+  "previousPage": "Eelmine leht",
+  "nextPage": "Järgmine leht"
 }

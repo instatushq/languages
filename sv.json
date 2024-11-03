@@ -232,5 +232,7 @@
   "oneMaintenanceIsScheduled": "Ett underhåll är planerat",
   "multipleMaintenancePeriodsAreScheduled": "{{multiple}} underhållsperioder är planerade",
   "nextMonths": "Nästa månader",
-  "previousMonths": "Tidigare månader"
+  "previousMonths": "Tidigare månader",
+  "previousPage": "Föregående sida",
+  "nextPage": "Nästa sida"
 }

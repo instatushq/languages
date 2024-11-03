@@ -232,5 +232,7 @@
   "oneMaintenanceIsScheduled": "Naplánována je jedna údržba",
   "multipleMaintenancePeriodsAreScheduled": "Naplánováno je {{multiple}} období údržby",
   "nextMonths": "Další měsíce",
-  "previousMonths": "Předchozí měsíce"
+  "previousMonths": "Předchozí měsíce",
+  "previousPage": "Předchozí stránka",
+  "nextPage": "Další stránka"
 }

@@ -232,5 +232,7 @@
   "oneMaintenanceIsScheduled": "Bir bakım planlandı",
   "multipleMaintenancePeriodsAreScheduled": "{{multiple}} bakım periyodu planlandı",
   "nextMonths": "Önümüzdeki aylar",
-  "previousMonths": "Önceki aylar"
+  "previousMonths": "Önceki aylar",
+  "previousPage": "Önceki sayfa",
+  "nextPage": "Sonraki sayfa"
 }

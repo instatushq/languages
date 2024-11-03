@@ -225,5 +225,7 @@
   "oneMaintenanceIsScheduled": "已安排 1 次維護",
   "multipleMaintenancePeriodsAreScheduled": "安排{{multiple}}個維護週期",
   "nextMonths": "接下來的幾個月",
-  "previousMonths": "前幾個月"
+  "previousMonths": "前幾個月",
+  "previousPage": "上一頁",
+  "nextPage": "下一頁"
 }

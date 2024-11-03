@@ -232,5 +232,7 @@
   "oneMaintenanceIsScheduled": "Er is één onderhoudsbeurt gepland",
   "multipleMaintenancePeriodsAreScheduled": "Er zijn {{multiple}} onderhoudsperioden gepland",
   "nextMonths": "Volgende maanden",
-  "previousMonths": "Vorige maanden"
+  "previousMonths": "Vorige maanden",
+  "previousPage": "Vorige pagina",
+  "nextPage": "Volgende pagina"
 }

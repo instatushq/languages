@@ -232,5 +232,7 @@
   "oneMaintenanceIsScheduled": "Satu pemeliharaan dijadwalkan",
   "multipleMaintenancePeriodsAreScheduled": "{{multiple}} periode pemeliharaan dijadwalkan",
   "nextMonths": "Bulan berikutnya",
-  "previousMonths": "Bulan sebelumnya"
+  "previousMonths": "Bulan sebelumnya",
+  "previousPage": "Halaman sebelumnya",
+  "nextPage": "Halaman berikutnya"
 }

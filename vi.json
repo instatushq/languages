@@ -232,5 +232,7 @@
   "oneMaintenanceIsScheduled": "Một bảo trì được lên lịch",
   "multipleMaintenancePeriodsAreScheduled": "{{multiple}} đợt bảo trì được lên lịch",
   "nextMonths": "Những tháng tiếp theo",
-  "previousMonths": "Những tháng trước"
+  "previousMonths": "Những tháng trước",
+  "previousPage": "Trang trước",
+  "nextPage": "Trang tiếp theo"
 }

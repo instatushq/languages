@@ -232,5 +232,7 @@
   "oneMaintenanceIsScheduled": "Načrtovano je eno vzdrževanje",
   "multipleMaintenancePeriodsAreScheduled": "Predvidenih je {{multiple}} vzdrževalnih obdobij",
   "nextMonths": "Naslednji meseci",
-  "previousMonths": "Prejšnji meseci"
+  "previousMonths": "Prejšnji meseci",
+  "previousPage": "Prejšnja stran",
+  "nextPage": "Naslednja stran"
 }

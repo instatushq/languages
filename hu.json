@@ -232,5 +232,7 @@
   "oneMaintenanceIsScheduled": "Egy karbantartást terveznek",
   "multipleMaintenancePeriodsAreScheduled": "{{multiple}} karbantartási időszak van beütemezve",
   "nextMonths": "A következő hónapokban",
-  "previousMonths": "Előző hónapok"
+  "previousMonths": "Előző hónapok",
+  "previousPage": "Előző oldal",
+  "nextPage": "Következő oldal"
 }

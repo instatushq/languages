@@ -223,5 +223,7 @@
   "oneMaintenanceIsScheduled": "Uma manutenção está programada",
   "multipleMaintenancePeriodsAreScheduled": "Estão programados {{multiple}} períodos de manutenção",
   "nextMonths": "Próximos meses",
-  "previousMonths": "Meses anteriores"
+  "previousMonths": "Meses anteriores",
+  "previousPage": "Página anterior",
+  "nextPage": "Próxima página"
 }

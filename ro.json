@@ -232,5 +232,7 @@
   "oneMaintenanceIsScheduled": "Este programată o întreținere",
   "multipleMaintenancePeriodsAreScheduled": "Sunt programate {{multiple}} perioade de întreținere",
   "nextMonths": "Lunile viitoare",
-  "previousMonths": "Lunile anterioare"
+  "previousMonths": "Lunile anterioare",
+  "previousPage": "Pagina anterioară",
+  "nextPage": "Pagina următoare"
 }

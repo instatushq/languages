@@ -232,5 +232,7 @@
   "oneMaintenanceIsScheduled": "Yksi huolto on suunniteltu",
   "multipleMaintenancePeriodsAreScheduled": "{{multiple}} huoltojaksoa on suunniteltu",
   "nextMonths": "Seuraavat kuukaudet",
-  "previousMonths": "Edelliset kuukaudet"
+  "previousMonths": "Edelliset kuukaudet",
+  "previousPage": "Edellinen sivu",
+  "nextPage": "Seuraava sivu"
 }

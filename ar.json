@@ -232,5 +232,7 @@
   "oneMaintenanceIsScheduled": "تم جدولة صيانة واحدة",
   "multipleMaintenancePeriodsAreScheduled": "تم جدولة {{multiple}} فترات صيانة",
   "nextMonths": "الأشهر القادمة",
-  "previousMonths": "الأشهر السابقة"
+  "previousMonths": "الأشهر السابقة",
+  "previousPage": "الصفحة السابقة",
+  "nextPage": "الصفحة التالية"
 }

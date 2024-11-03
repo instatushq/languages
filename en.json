@@ -121,6 +121,8 @@
   "uptime": "uptime",
   "numDaysAgo": "{{num}} days ago",
   "nextMonths": "Next months",
+  "nextPage": "Next page",
+  "previousPage": "Previous page",
   "previousMonths": "Previous months",
   "90DaysAgo": "90 days ago",
   "54DaysAgo": "54 days ago",

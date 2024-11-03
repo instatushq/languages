@@ -232,5 +232,7 @@
   "oneMaintenanceIsScheduled": "1회 유지보수가 예정되어 있습니다",
   "multipleMaintenancePeriodsAreScheduled": "{{multiple}}개의 유지관리 기간이 예정되어 있습니다",
   "nextMonths": "다음 달",
-  "previousMonths": "지난 달"
+  "previousMonths": "지난 달",
+  "previousPage": "이전 페이지",
+  "nextPage": "다음 페이지"
 }

@@ -232,5 +232,7 @@
   "oneMaintenanceIsScheduled": "メンテナンスが1回予定されています",
   "multipleMaintenancePeriodsAreScheduled": "{{multiple}}回のメンテナンス期間が予定されています",
   "nextMonths": "今後数か月",
-  "previousMonths": "先月"
+  "previousMonths": "先月",
+  "previousPage": "前のページ",
+  "nextPage": "次のページ"
 }

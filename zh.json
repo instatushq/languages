@@ -232,5 +232,7 @@
   "oneMaintenanceIsScheduled": "计划进行一次维护",
   "multipleMaintenancePeriodsAreScheduled": "计划进行 {{multiple}} 次维护",
   "nextMonths": "未来几个月",
-  "previousMonths": "前几个月"
+  "previousMonths": "前几个月",
+  "previousPage": "上一页",
+  "nextPage": "下一页"
 }

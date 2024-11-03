@@ -232,5 +232,7 @@
   "oneMaintenanceIsScheduled": "Запланований один ремонт",
   "multipleMaintenancePeriodsAreScheduled": "Заплановано {{multiple}} ремонтних періодів",
   "nextMonths": "Наступні місяці",
-  "previousMonths": "Попередні місяці"
+  "previousMonths": "Попередні місяці",
+  "previousPage": "Попередня сторінка",
+  "nextPage": "Наступна сторінка"
 }

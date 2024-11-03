@@ -232,5 +232,7 @@
   "oneMaintenanceIsScheduled": "Një mirëmbajtje është planifikuar",
   "multipleMaintenancePeriodsAreScheduled": "Janë planifikuar {{multiple}} periudha mirëmbajtjeje",
   "nextMonths": "Muajt e ardhshëm",
-  "previousMonths": "Muajt e mëparshëm"
+  "previousMonths": "Muajt e mëparshëm",
+  "previousPage": "Faqja e mëparshme",
+  "nextPage": "Faqja tjetër"
 }
