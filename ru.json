@@ -234,5 +234,9 @@
   "nextMonths": "Следующие месяцы",
   "previousMonths": "Предыдущие месяцы",
   "previousPage": "Предыдущая страница",
-  "nextPage": "Следующая страница"
+  "nextPage": "Следующая страница",
+  "investigatingIncidentPlaceholderDescription": "В настоящее время мы расследуем этот инцидент.",
+  "identifiedIncidentPlaceholderDescription": "Мы продолжаем работать над устранением этого инцидента.",
+  "monitoringIncidentPlaceholderDescription": "Мы внесли исправление и в настоящее время отслеживаем результат.",
+  "resolvedIncidentPlaceholderDescription": "Этот инцидент был урегулирован."
 }

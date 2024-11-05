@@ -234,5 +234,9 @@
   "nextMonths": "未来几个月",
   "previousMonths": "前几个月",
   "previousPage": "上一页",
-  "nextPage": "下一页"
+  "nextPage": "下一页",
+  "investigatingIncidentPlaceholderDescription": "我们目前正在调查此事件。",
+  "identifiedIncidentPlaceholderDescription": "我们正在继续努力解决此事件。",
+  "monitoringIncidentPlaceholderDescription": "我们实施了修复，目前正在监控结果。",
+  "resolvedIncidentPlaceholderDescription": "此事件已解决。"
 }

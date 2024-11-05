@@ -227,5 +227,9 @@
   "nextMonths": "接下來的幾個月",
   "previousMonths": "前幾個月",
   "previousPage": "上一頁",
-  "nextPage": "下一頁"
+  "nextPage": "下一頁",
+  "investigatingIncidentPlaceholderDescription": "目前我們正在調查這起事件。",
+  "identifiedIncidentPlaceholderDescription": "我們正在繼續努力修復此事件。",
+  "monitoringIncidentPlaceholderDescription": "我們實施了修復，目前正在監控結果。",
+  "resolvedIncidentPlaceholderDescription": "此事件已解決。"
 }

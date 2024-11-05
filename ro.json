@@ -234,5 +234,9 @@
   "nextMonths": "Lunile viitoare",
   "previousMonths": "Lunile anterioare",
   "previousPage": "Pagina anterioară",
-  "nextPage": "Pagina următoare"
+  "nextPage": "Pagina următoare",
+  "investigatingIncidentPlaceholderDescription": "În prezent investigăm acest incident.",
+  "identifiedIncidentPlaceholderDescription": "Continuăm să lucrăm la o remediere a acestui incident.",
+  "monitoringIncidentPlaceholderDescription": "Am implementat o remediere și în prezent monitorizăm rezultatul.",
+  "resolvedIncidentPlaceholderDescription": "Acest incident a fost rezolvat."
 }

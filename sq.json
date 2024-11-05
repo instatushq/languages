@@ -234,5 +234,9 @@
   "nextMonths": "Muajt e ardhshëm",
   "previousMonths": "Muajt e mëparshëm",
   "previousPage": "Faqja e mëparshme",
-  "nextPage": "Faqja tjetër"
+  "nextPage": "Faqja tjetër",
+  "investigatingIncidentPlaceholderDescription": "Aktualisht jemi duke hetuar këtë ngjarje.",
+  "identifiedIncidentPlaceholderDescription": "Ne po vazhdojmë të punojmë për korrigjimin e këtij incidenti.",
+  "monitoringIncidentPlaceholderDescription": "Ne kemi zbatuar një rregullim dhe aktualisht po monitorojmë rezultatin.",
+  "resolvedIncidentPlaceholderDescription": "Kjo ngjarje është zbardhur."
 }

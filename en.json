@@ -234,5 +234,9 @@
   "reachedTheEndOfUptimeGraph": "You reached the end of the uptime graph for {{component}}",
   "Incident": "Incident",
   "oneMaintenanceIsScheduled": "One maintenance is scheduled",
-  "multipleMaintenancePeriodsAreScheduled": "{{multiple}} maintenance periods are scheduled"
+  "multipleMaintenancePeriodsAreScheduled": "{{multiple}} maintenance periods are scheduled",
+  "investigatingIncidentPlaceholderDescription": "We are currently investigating this incident.",
+  "identifiedIncidentPlaceholderDescription": "We are continuing to work on a fix for this incident.",
+  "monitoringIncidentPlaceholderDescription": "We implemented a fix and are currently monitoring the result.",
+  "resolvedIncidentPlaceholderDescription": "This incident has been resolved."
 }

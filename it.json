@@ -234,5 +234,9 @@
   "nextMonths": "Prossimi mesi",
   "previousMonths": "Mesi precedenti",
   "previousPage": "Pagina precedente",
-  "nextPage": "Pagina successiva"
+  "nextPage": "Pagina successiva",
+  "investigatingIncidentPlaceholderDescription": "Stiamo attualmente indagando sull'incidente.",
+  "identifiedIncidentPlaceholderDescription": "Stiamo continuando a lavorare per risolvere questo incidente.",
+  "monitoringIncidentPlaceholderDescription": "Abbiamo implementato una correzione e stiamo monitorando i risultati.",
+  "resolvedIncidentPlaceholderDescription": "Questo incidente è stato risolto."
 }

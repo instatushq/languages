@@ -234,5 +234,9 @@
   "nextMonths": "Järgmised kuud",
   "previousMonths": "Eelmised kuud",
   "previousPage": "Eelmine leht",
-  "nextPage": "Järgmine leht"
+  "nextPage": "Järgmine leht",
+  "investigatingIncidentPlaceholderDescription": "Praegu uurime seda juhtumit.",
+  "identifiedIncidentPlaceholderDescription": "Jätkame tööd selle juhtumi lahendamise kallal.",
+  "monitoringIncidentPlaceholderDescription": "Rakendasime paranduse ja jälgime praegu tulemust.",
+  "resolvedIncidentPlaceholderDescription": "See juhtum on lahendatud."
 }

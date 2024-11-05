@@ -234,5 +234,9 @@
   "nextMonths": "Наступні місяці",
   "previousMonths": "Попередні місяці",
   "previousPage": "Попередня сторінка",
-  "nextPage": "Наступна сторінка"
+  "nextPage": "Наступна сторінка",
+  "investigatingIncidentPlaceholderDescription": "Зараз ми розслідуємо цей інцидент.",
+  "identifiedIncidentPlaceholderDescription": "Ми продовжуємо працювати над вирішенням цієї проблеми.",
+  "monitoringIncidentPlaceholderDescription": "Ми впровадили виправлення та зараз стежимо за результатом.",
+  "resolvedIncidentPlaceholderDescription": "Цей інцидент було вирішено."
 }

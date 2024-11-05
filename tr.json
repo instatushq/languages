@@ -234,5 +234,9 @@
   "nextMonths": "Önümüzdeki aylar",
   "previousMonths": "Önceki aylar",
   "previousPage": "Önceki sayfa",
-  "nextPage": "Sonraki sayfa"
+  "nextPage": "Sonraki sayfa",
+  "investigatingIncidentPlaceholderDescription": "Şu anda bu olayı araştırıyoruz.",
+  "identifiedIncidentPlaceholderDescription": "Bu olayın çözümü için çalışmalarımızı sürdürüyoruz.",
+  "monitoringIncidentPlaceholderDescription": "Bir düzeltme uyguladık ve şu anda sonucu izliyoruz.",
+  "resolvedIncidentPlaceholderDescription": "Bu olay çözüldü."
 }

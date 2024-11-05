@@ -234,5 +234,9 @@
   "nextMonths": "Naslednji meseci",
   "previousMonths": "Prejšnji meseci",
   "previousPage": "Prejšnja stran",
-  "nextPage": "Naslednja stran"
+  "nextPage": "Naslednja stran",
+  "investigatingIncidentPlaceholderDescription": "Trenutno preiskujemo ta incident.",
+  "identifiedIncidentPlaceholderDescription": "Nadaljujemo z delom na popravku tega incidenta.",
+  "monitoringIncidentPlaceholderDescription": "Izvedli smo popravek in trenutno spremljamo rezultat.",
+  "resolvedIncidentPlaceholderDescription": "Ta incident je bil rešen."
 }

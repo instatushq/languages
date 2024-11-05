@@ -234,5 +234,9 @@
   "nextMonths": "Næste måneder",
   "previousMonths": "Tidligere måneder",
   "previousPage": "Forrige side",
-  "nextPage": "Næste side"
+  "nextPage": "Næste side",
+  "investigatingIncidentPlaceholderDescription": "Vi er i øjeblikket ved at undersøge denne hændelse.",
+  "identifiedIncidentPlaceholderDescription": "Vi arbejder fortsat på at rette op på denne hændelse.",
+  "monitoringIncidentPlaceholderDescription": "Vi implementerede en rettelse og overvåger i øjeblikket resultatet.",
+  "resolvedIncidentPlaceholderDescription": "Denne hændelse er blevet løst."
 }

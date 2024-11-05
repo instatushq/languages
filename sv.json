@@ -234,5 +234,9 @@
   "nextMonths": "Nästa månader",
   "previousMonths": "Tidigare månader",
   "previousPage": "Föregående sida",
-  "nextPage": "Nästa sida"
+  "nextPage": "Nästa sida",
+  "investigatingIncidentPlaceholderDescription": "Vi utreder för närvarande denna händelse.",
+  "identifiedIncidentPlaceholderDescription": "Vi fortsätter att arbeta med att åtgärda denna incident.",
+  "monitoringIncidentPlaceholderDescription": "Vi implementerade en fix och övervakar för närvarande resultatet.",
+  "resolvedIncidentPlaceholderDescription": "Denna incident har lösts."
 }

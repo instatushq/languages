@@ -234,5 +234,9 @@
   "nextMonths": "Những tháng tiếp theo",
   "previousMonths": "Những tháng trước",
   "previousPage": "Trang trước",
-  "nextPage": "Trang tiếp theo"
+  "nextPage": "Trang tiếp theo",
+  "investigatingIncidentPlaceholderDescription": "Chúng tôi hiện đang điều tra vụ việc này.",
+  "identifiedIncidentPlaceholderDescription": "Chúng tôi đang tiếp tục tìm cách khắc phục sự cố này.",
+  "monitoringIncidentPlaceholderDescription": "Chúng tôi đã triển khai bản sửa lỗi và hiện đang theo dõi kết quả.",
+  "resolvedIncidentPlaceholderDescription": "Sự cố này đã được giải quyết."
 }

@@ -234,5 +234,9 @@
   "nextMonths": "Neste måneder",
   "previousMonths": "Tidligere måneder",
   "previousPage": "Forrige side",
-  "nextPage": "Neste side"
+  "nextPage": "Neste side",
+  "investigatingIncidentPlaceholderDescription": "Vi etterforsker nå denne hendelsen.",
+  "identifiedIncidentPlaceholderDescription": "Vi jobber videre med å fikse denne hendelsen.",
+  "monitoringIncidentPlaceholderDescription": "Vi implementerte en løsning og overvåker nå resultatet.",
+  "resolvedIncidentPlaceholderDescription": "Denne hendelsen er løst."
 }

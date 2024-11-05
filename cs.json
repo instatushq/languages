@@ -234,5 +234,9 @@
   "nextMonths": "Další měsíce",
   "previousMonths": "Předchozí měsíce",
   "previousPage": "Předchozí stránka",
-  "nextPage": "Další stránka"
+  "nextPage": "Další stránka",
+  "investigatingIncidentPlaceholderDescription": "V současné době tento incident vyšetřujeme.",
+  "identifiedIncidentPlaceholderDescription": "Na nápravě tohoto incidentu nadále pracujeme.",
+  "monitoringIncidentPlaceholderDescription": "Implementovali jsme opravu a v současné době sledujeme výsledek.",
+  "resolvedIncidentPlaceholderDescription": "Tento incident byl vyřešen."
 }

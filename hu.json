@@ -234,5 +234,9 @@
   "nextMonths": "A következő hónapokban",
   "previousMonths": "Előző hónapok",
   "previousPage": "Előző oldal",
-  "nextPage": "Következő oldal"
+  "nextPage": "Következő oldal",
+  "investigatingIncidentPlaceholderDescription": "Jelenleg vizsgáljuk ezt az esetet.",
+  "identifiedIncidentPlaceholderDescription": "Folytatjuk a munkát az eset kijavításán.",
+  "monitoringIncidentPlaceholderDescription": "Bevezettünk egy javítást, és jelenleg figyeljük az eredményt.",
+  "resolvedIncidentPlaceholderDescription": "Ez az eset megoldódott."
 }
