@@ -200,7 +200,7 @@
   "experiencingDegradedPerformance": "Düşük Performans Yaşanıyor",
   "experiencingMinorOutage": "Küçük Kesinti Yaşıyor",
   "experiencingPartiallyDegradedPerformance": "Kısmen Düşük Performans Yaşanıyor",
-  "systemUnderMaintenance": "Bakımda Sistem",
+  "systemUnderMaintenance": "Bazı Servisler Bakımda",
   "componentExperiencingMajorOutage": "{{component}} Büyük Kesinti Yaşıyor",
   "componentExperiencingPartialOutage": "{{component}} Kısmi Kesinti Yaşıyor",
   "componentExperiencingDegradedPerformance": "{{component}} Düşük Performans Yaşıyor",
