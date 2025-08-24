@@ -39,11 +39,16 @@ Supported languages:
 - 🇻🇳 Vietnamese [Ngô Quý](https://github.com/JustHmmmm)
 - 🇭🇺 Hungarian [Summerfall Médiacsoport](https://github.com/summerfallmediagroup)
 
-Quick Translate Tool by [Steven John](https://github.com/StevenJohnss)
-
 To use it:
 
 1. Get [Google Cloud translate API key](https://console.developers.google.com/apis/credentials)
 2. Make sure you have your Google Translation API enabled for your project
 3. Change `.env.examle` to `.env` and enter the obtained API key in `APIKEY`
 4. Run: `yarn && yarn start` 🚀
+
+## What's Instatus?
+
+[Instatus](https://instatus.com) helps you:
+1. Monitor your services
+2. Fix incidents with your team
+3. Share your status with customers
