@@ -238,5 +238,6 @@
   "investigatingIncidentPlaceholderDescription": "Wij onderzoeken dit incident momenteel.",
   "identifiedIncidentPlaceholderDescription": "We werken momenteel aan een oplossing voor dit incident.",
   "monitoringIncidentPlaceholderDescription": "We hebben een oplossing geïmplementeerd en houden momenteel de resultaten in de gaten.",
-  "resolvedIncidentPlaceholderDescription": "Dit incident is opgelost."
+  "resolvedIncidentPlaceholderDescription": "Dit incident is opgelost.",
+  "resecheduledMaintenance": "hun onderhoud opnieuw gepland"
 }

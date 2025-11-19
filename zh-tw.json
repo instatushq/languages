@@ -231,5 +231,6 @@
   "investigatingIncidentPlaceholderDescription": "目前我們正在調查這起事件。",
   "identifiedIncidentPlaceholderDescription": "我們正在繼續努力修復此事件。",
   "monitoringIncidentPlaceholderDescription": "我們實施了修復，目前正在監控結果。",
-  "resolvedIncidentPlaceholderDescription": "此事件已解決。"
+  "resolvedIncidentPlaceholderDescription": "此事件已解決。",
+  "resecheduledMaintenance": "他們重新安排了維修計劃"
 }

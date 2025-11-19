@@ -238,5 +238,6 @@
   "investigatingIncidentPlaceholderDescription": "Şu anda bu olayı araştırıyoruz.",
   "identifiedIncidentPlaceholderDescription": "Bu olayın çözümü için çalışmalarımızı sürdürüyoruz.",
   "monitoringIncidentPlaceholderDescription": "Bir düzeltme uyguladık ve şu anda sonucu izliyoruz.",
-  "resolvedIncidentPlaceholderDescription": "Bu olay çözüldü."
+  "resolvedIncidentPlaceholderDescription": "Bu olay çözüldü.",
+  "resecheduledMaintenance": "bakımlarını yeniden planladılar"
 }

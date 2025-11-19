@@ -238,5 +238,6 @@
   "investigatingIncidentPlaceholderDescription": "Obecnie badamy ten incydent.",
   "identifiedIncidentPlaceholderDescription": "Nadal pracujemy nad rozwiązaniem tego problemu.",
   "monitoringIncidentPlaceholderDescription": "Wprowadziliśmy poprawkę i obecnie monitorujemy efekty.",
-  "resolvedIncidentPlaceholderDescription": "Incydent został rozwiązany."
+  "resolvedIncidentPlaceholderDescription": "Incydent został rozwiązany.",
+  "resecheduledMaintenance": "przełożyli termin konserwacji"
 }

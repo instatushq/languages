@@ -238,5 +238,6 @@
   "investigatingIncidentPlaceholderDescription": "Jelenleg vizsgáljuk ezt az esetet.",
   "identifiedIncidentPlaceholderDescription": "Folytatjuk a munkát az eset kijavításán.",
   "monitoringIncidentPlaceholderDescription": "Bevezettünk egy javítást, és jelenleg figyeljük az eredményt.",
-  "resolvedIncidentPlaceholderDescription": "Ez az eset megoldódott."
+  "resolvedIncidentPlaceholderDescription": "Ez az eset megoldódott.",
+  "resecheduledMaintenance": "átütemezték a karbantartásukat"
 }

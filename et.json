@@ -238,5 +238,6 @@
   "investigatingIncidentPlaceholderDescription": "Praegu uurime seda juhtumit.",
   "identifiedIncidentPlaceholderDescription": "Jätkame tööd selle juhtumi lahendamise kallal.",
   "monitoringIncidentPlaceholderDescription": "Rakendasime paranduse ja jälgime praegu tulemust.",
-  "resolvedIncidentPlaceholderDescription": "See juhtum on lahendatud."
+  "resolvedIncidentPlaceholderDescription": "See juhtum on lahendatud.",
+  "resecheduledMaintenance": "ajakava muutsid"
 }

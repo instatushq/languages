@@ -238,5 +238,6 @@
   "investigatingIncidentPlaceholderDescription": "Aktualisht jemi duke hetuar këtë ngjarje.",
   "identifiedIncidentPlaceholderDescription": "Ne po vazhdojmë të punojmë për korrigjimin e këtij incidenti.",
   "monitoringIncidentPlaceholderDescription": "Ne kemi zbatuar një rregullim dhe aktualisht po monitorojmë rezultatin.",
-  "resolvedIncidentPlaceholderDescription": "Kjo ngjarje është zbardhur."
+  "resolvedIncidentPlaceholderDescription": "Kjo ngjarje është zbardhur.",
+  "resecheduledMaintenance": "riplanifikuan mirëmbajtjen e tyre"
 }

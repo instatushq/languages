@@ -238,5 +238,6 @@
   "investigatingIncidentPlaceholderDescription": "В настоящее время мы расследуем этот инцидент.",
   "identifiedIncidentPlaceholderDescription": "Мы продолжаем работать над устранением этого инцидента.",
   "monitoringIncidentPlaceholderDescription": "Мы внесли исправление и в настоящее время отслеживаем результат.",
-  "resolvedIncidentPlaceholderDescription": "Этот инцидент был урегулирован."
+  "resolvedIncidentPlaceholderDescription": "Этот инцидент был урегулирован.",
+  "resecheduledMaintenance": "перенесли сроки своего технического обслуживания"
 }

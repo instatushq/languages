@@ -238,5 +238,6 @@
   "investigatingIncidentPlaceholderDescription": "În prezent investigăm acest incident.",
   "identifiedIncidentPlaceholderDescription": "Continuăm să lucrăm la o remediere a acestui incident.",
   "monitoringIncidentPlaceholderDescription": "Am implementat o remediere și în prezent monitorizăm rezultatul.",
-  "resolvedIncidentPlaceholderDescription": "Acest incident a fost rezolvat."
+  "resolvedIncidentPlaceholderDescription": "Acest incident a fost rezolvat.",
+  "resecheduledMaintenance": "și-au reprogramat întreținerea"
 }

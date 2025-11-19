@@ -238,5 +238,6 @@
   "investigatingIncidentPlaceholderDescription": "Vi utreder för närvarande denna händelse.",
   "identifiedIncidentPlaceholderDescription": "Vi fortsätter att arbeta med att åtgärda denna incident.",
   "monitoringIncidentPlaceholderDescription": "Vi implementerade en fix och övervakar för närvarande resultatet.",
-  "resolvedIncidentPlaceholderDescription": "Denna incident har lösts."
+  "resolvedIncidentPlaceholderDescription": "Denna incident har lösts.",
+  "resecheduledMaintenance": "omplanerade sitt underhåll"
 }

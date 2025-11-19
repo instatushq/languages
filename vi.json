@@ -238,5 +238,6 @@
   "investigatingIncidentPlaceholderDescription": "Chúng tôi hiện đang điều tra vụ việc này.",
   "identifiedIncidentPlaceholderDescription": "Chúng tôi đang tiếp tục tìm cách khắc phục sự cố này.",
   "monitoringIncidentPlaceholderDescription": "Chúng tôi đã triển khai bản sửa lỗi và hiện đang theo dõi kết quả.",
-  "resolvedIncidentPlaceholderDescription": "Sự cố này đã được giải quyết."
+  "resolvedIncidentPlaceholderDescription": "Sự cố này đã được giải quyết.",
+  "resecheduledMaintenance": "đã lên lịch lại việc bảo trì của họ"
 }

@@ -228,5 +228,6 @@
   "investigatingIncidentPlaceholderDescription": "Тренутно истражујемо овај инцидент.",
   "identifiedIncidentPlaceholderDescription": "Настављамо да радимо на решавању овог инцидента.",
   "monitoringIncidentPlaceholderDescription": "Применили смо исправку и тренутно пратимо резултат.",
-  "resolvedIncidentPlaceholderDescription": "Овај инцидент је решен."
+  "resolvedIncidentPlaceholderDescription": "Овај инцидент је решен.",
+  "resecheduledMaintenance": "поново заказале своје одржавање"
 }

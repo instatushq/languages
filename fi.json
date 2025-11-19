@@ -238,5 +238,6 @@
   "investigatingIncidentPlaceholderDescription": "Tutkimme parhaillaan tätä tapausta.",
   "identifiedIncidentPlaceholderDescription": "Jatkamme tämän tapauksen korjaamista.",
   "monitoringIncidentPlaceholderDescription": "Otimme korjauksen käyttöön ja seuraamme parhaillaan tulosta.",
-  "resolvedIncidentPlaceholderDescription": "Tämä tapaus on ratkaistu."
+  "resolvedIncidentPlaceholderDescription": "Tämä tapaus on ratkaistu.",
+  "resecheduledMaintenance": "aikatauluttivat huoltonsa uudelleen"
 }

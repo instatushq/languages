@@ -238,5 +238,6 @@
   "investigatingIncidentPlaceholderDescription": "Kami sedang menyelidiki insiden ini.",
   "identifiedIncidentPlaceholderDescription": "Kami terus berupaya memperbaiki insiden ini.",
   "monitoringIncidentPlaceholderDescription": "Kami menerapkan perbaikan dan saat ini sedang memantau hasilnya.",
-  "resolvedIncidentPlaceholderDescription": "Insiden ini telah diselesaikan."
+  "resolvedIncidentPlaceholderDescription": "Insiden ini telah diselesaikan.",
+  "resecheduledMaintenance": "menjadwalkan ulang pemeliharaannya"
 }
