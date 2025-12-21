@@ -230,5 +230,7 @@
   "identifiedIncidentPlaceholderDescription": "Continuamos trabalhando para corrigir esse incidente.",
   "monitoringIncidentPlaceholderDescription": "Implementamos uma correção e estamos monitorando o resultado.",
   "resolvedIncidentPlaceholderDescription": "Este incidente foi resolvido.",
-  "resecheduledMaintenance": "reprogramaram sua manutenção."
+  "resecheduledMaintenance": "reprogramaram sua manutenção.",
+  "unsubscribed": "Você cancelou a sua inscrição.",
+  "unsubscribedDescription": "Você não receberá mais atualizações de status."
 }

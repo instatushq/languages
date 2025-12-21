@@ -239,5 +239,7 @@
   "investigatingIncidentPlaceholderDescription": "We are currently investigating this incident.",
   "identifiedIncidentPlaceholderDescription": "We are continuing to work on a fix for this incident.",
   "monitoringIncidentPlaceholderDescription": "We implemented a fix and are currently monitoring the result.",
-  "resolvedIncidentPlaceholderDescription": "This incident has been resolved."
+  "resolvedIncidentPlaceholderDescription": "This incident has been resolved.",
+  "unsubscribed": "You're unsubscribed",
+  "unsubscribedDescription": "You will no longer receive status updates"
 }

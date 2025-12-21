@@ -239,5 +239,7 @@
   "identifiedIncidentPlaceholderDescription": "نحن نواصل العمل على حل هذه الحادثة.",
   "monitoringIncidentPlaceholderDescription": "لقد قمنا بتنفيذ الإصلاح ونقوم حاليًا بمراقبة النتيجة.",
   "resolvedIncidentPlaceholderDescription": "لقد تم حل هذه الحادثة.",
-  "resecheduledMaintenance": "تم إعادة جدولة صيانتهم"
+  "resecheduledMaintenance": "تم إعادة جدولة صيانتهم",
+  "unsubscribed": "لقد ألغيت اشتراكك",
+  "unsubscribedDescription": "لن تتلقى تحديثات الحالة بعد الآن"
 }

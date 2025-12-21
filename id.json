@@ -239,5 +239,7 @@
   "identifiedIncidentPlaceholderDescription": "Kami terus berupaya memperbaiki insiden ini.",
   "monitoringIncidentPlaceholderDescription": "Kami menerapkan perbaikan dan saat ini sedang memantau hasilnya.",
   "resolvedIncidentPlaceholderDescription": "Insiden ini telah diselesaikan.",
-  "resecheduledMaintenance": "menjadwalkan ulang pemeliharaannya"
+  "resecheduledMaintenance": "menjadwalkan ulang pemeliharaannya",
+  "unsubscribed": "Anda telah berhenti berlangganan",
+  "unsubscribedDescription": "Anda tidak akan lagi menerima pembaruan status."
 }

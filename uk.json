@@ -239,5 +239,7 @@
   "identifiedIncidentPlaceholderDescription": "Ми продовжуємо працювати над вирішенням цієї проблеми.",
   "monitoringIncidentPlaceholderDescription": "Ми впровадили виправлення та зараз стежимо за результатом.",
   "resolvedIncidentPlaceholderDescription": "Цей інцидент було вирішено.",
-  "resecheduledMaintenance": "перенесли графік їхнього технічного обслуговування"
+  "resecheduledMaintenance": "перенесли графік їхнього технічного обслуговування",
+  "unsubscribed": "Ви скасували підписку",
+  "unsubscribedDescription": "Ви більше не отримуватимете оновлення статусу"
 }

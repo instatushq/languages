@@ -239,5 +239,7 @@
   "identifiedIncidentPlaceholderDescription": "私たちはこの事件の解決に向けて引き続き取り組んでいます。",
   "monitoringIncidentPlaceholderDescription": "修正を実施し、現在結果を監視しています。",
   "resolvedIncidentPlaceholderDescription": "この事件は解決しました。",
-  "resecheduledMaintenance": "メンテナンスのスケジュールを変更した"
+  "resecheduledMaintenance": "メンテナンスのスケジュールを変更した",
+  "unsubscribed": "購読解除されました",
+  "unsubscribedDescription": "ステータスの更新は受信されなくなります"
 }

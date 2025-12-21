@@ -239,5 +239,7 @@
   "identifiedIncidentPlaceholderDescription": "Continuăm să lucrăm la o remediere a acestui incident.",
   "monitoringIncidentPlaceholderDescription": "Am implementat o remediere și în prezent monitorizăm rezultatul.",
   "resolvedIncidentPlaceholderDescription": "Acest incident a fost rezolvat.",
-  "resecheduledMaintenance": "și-au reprogramat întreținerea"
+  "resecheduledMaintenance": "și-au reprogramat întreținerea",
+  "unsubscribed": "Te-ai dezabonat",
+  "unsubscribedDescription": "Nu veți mai primi actualizări de stare"
 }

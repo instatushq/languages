@@ -239,5 +239,7 @@
   "identifiedIncidentPlaceholderDescription": "우리는 이 문제에 대한 해결책을 찾기 위해 계속 노력하고 있습니다.",
   "monitoringIncidentPlaceholderDescription": "우리는 해결책을 구현했으며 현재 결과를 모니터링하고 있습니다.",
   "resolvedIncidentPlaceholderDescription": "이 사건은 해결되었습니다.",
-  "resecheduledMaintenance": "유지 관리를 재조정했습니다"
+  "resecheduledMaintenance": "유지 관리를 재조정했습니다",
+  "unsubscribed": "구독을 취소하셨습니다.",
+  "unsubscribedDescription": "더 이상 상태 업데이트를 받지 못하게 됩니다."
 }

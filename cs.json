@@ -239,5 +239,7 @@
   "identifiedIncidentPlaceholderDescription": "Na nápravě tohoto incidentu nadále pracujeme.",
   "monitoringIncidentPlaceholderDescription": "Implementovali jsme opravu a v současné době sledujeme výsledek.",
   "resolvedIncidentPlaceholderDescription": "Tento incident byl vyřešen.",
-  "resecheduledMaintenance": "přeplánovali jejich údržbu"
+  "resecheduledMaintenance": "přeplánovali jejich údržbu",
+  "unsubscribed": "Jste odhlášeni z odběru",
+  "unsubscribedDescription": "Již nebudete dostávat aktualizace stavu"
 }

@@ -239,5 +239,7 @@
   "identifiedIncidentPlaceholderDescription": "Bu olayın çözümü için çalışmalarımızı sürdürüyoruz.",
   "monitoringIncidentPlaceholderDescription": "Bir düzeltme uyguladık ve şu anda sonucu izliyoruz.",
   "resolvedIncidentPlaceholderDescription": "Bu olay çözüldü.",
-  "resecheduledMaintenance": "bakımlarını yeniden planladılar"
+  "resecheduledMaintenance": "bakımlarını yeniden planladılar",
+  "unsubscribed": "Aboneliğiniz iptal edildi.",
+  "unsubscribedDescription": "Artık durum güncellemeleri almayacaksınız."
 }

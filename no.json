@@ -239,5 +239,7 @@
   "identifiedIncidentPlaceholderDescription": "Vi jobber videre med å fikse denne hendelsen.",
   "monitoringIncidentPlaceholderDescription": "Vi implementerte en løsning og overvåker nå resultatet.",
   "resolvedIncidentPlaceholderDescription": "Denne hendelsen er løst.",
-  "resecheduledMaintenance": "omplanla vedlikeholdet sitt"
+  "resecheduledMaintenance": "omplanla vedlikeholdet sitt",
+  "unsubscribed": "Du er utmeldt",
+  "unsubscribedDescription": "Du vil ikke lenger motta statusoppdateringer"
 }

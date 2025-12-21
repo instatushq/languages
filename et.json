@@ -239,5 +239,7 @@
   "identifiedIncidentPlaceholderDescription": "Jätkame tööd selle juhtumi lahendamise kallal.",
   "monitoringIncidentPlaceholderDescription": "Rakendasime paranduse ja jälgime praegu tulemust.",
   "resolvedIncidentPlaceholderDescription": "See juhtum on lahendatud.",
-  "resecheduledMaintenance": "ajakava muutsid"
+  "resecheduledMaintenance": "ajakava muutsid",
+  "unsubscribed": "Te olete tellimuse tühistanud",
+  "unsubscribedDescription": "Te ei saa enam olekuvärskendusi"
 }

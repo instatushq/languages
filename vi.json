@@ -239,5 +239,7 @@
   "identifiedIncidentPlaceholderDescription": "Chúng tôi đang tiếp tục tìm cách khắc phục sự cố này.",
   "monitoringIncidentPlaceholderDescription": "Chúng tôi đã triển khai bản sửa lỗi và hiện đang theo dõi kết quả.",
   "resolvedIncidentPlaceholderDescription": "Sự cố này đã được giải quyết.",
-  "resecheduledMaintenance": "đã lên lịch lại việc bảo trì của họ"
+  "resecheduledMaintenance": "đã lên lịch lại việc bảo trì của họ",
+  "unsubscribed": "Bạn đã hủy đăng ký",
+  "unsubscribedDescription": "Bạn sẽ không còn nhận được thông báo cập nhật trạng thái nữa."
 }

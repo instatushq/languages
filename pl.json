@@ -239,5 +239,7 @@
   "identifiedIncidentPlaceholderDescription": "Nadal pracujemy nad rozwiązaniem tego problemu.",
   "monitoringIncidentPlaceholderDescription": "Wprowadziliśmy poprawkę i obecnie monitorujemy efekty.",
   "resolvedIncidentPlaceholderDescription": "Incydent został rozwiązany.",
-  "resecheduledMaintenance": "przełożyli termin konserwacji"
+  "resecheduledMaintenance": "przełożyli termin konserwacji",
+  "unsubscribed": "Zostałeś wypisany",
+  "unsubscribedDescription": "Nie będziesz już otrzymywać aktualizacji statusu"
 }

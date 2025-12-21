@@ -239,5 +239,7 @@
   "identifiedIncidentPlaceholderDescription": "Jatkamme tämän tapauksen korjaamista.",
   "monitoringIncidentPlaceholderDescription": "Otimme korjauksen käyttöön ja seuraamme parhaillaan tulosta.",
   "resolvedIncidentPlaceholderDescription": "Tämä tapaus on ratkaistu.",
-  "resecheduledMaintenance": "aikatauluttivat huoltonsa uudelleen"
+  "resecheduledMaintenance": "aikatauluttivat huoltonsa uudelleen",
+  "unsubscribed": "Olet peruuttanut tilauksen",
+  "unsubscribedDescription": "Et enää saa tilapäivityksiä"
 }

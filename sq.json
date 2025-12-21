@@ -239,5 +239,7 @@
   "identifiedIncidentPlaceholderDescription": "Ne po vazhdojmë të punojmë për korrigjimin e këtij incidenti.",
   "monitoringIncidentPlaceholderDescription": "Ne kemi zbatuar një rregullim dhe aktualisht po monitorojmë rezultatin.",
   "resolvedIncidentPlaceholderDescription": "Kjo ngjarje është zbardhur.",
-  "resecheduledMaintenance": "riplanifikuan mirëmbajtjen e tyre"
+  "resecheduledMaintenance": "riplanifikuan mirëmbajtjen e tyre",
+  "unsubscribed": "Je çregjistruar",
+  "unsubscribedDescription": "Nuk do të merrni më përditësime të statusit"
 }

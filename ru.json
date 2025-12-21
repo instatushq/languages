@@ -239,5 +239,7 @@
   "identifiedIncidentPlaceholderDescription": "Мы продолжаем работать над устранением этого инцидента.",
   "monitoringIncidentPlaceholderDescription": "Мы внесли исправление и в настоящее время отслеживаем результат.",
   "resolvedIncidentPlaceholderDescription": "Этот инцидент был урегулирован.",
-  "resecheduledMaintenance": "перенесли сроки своего технического обслуживания"
+  "resecheduledMaintenance": "перенесли сроки своего технического обслуживания",
+  "unsubscribed": "Вы отписались от рассылки",
+  "unsubscribedDescription": "Вы больше не будете получать обновления статуса."
 }

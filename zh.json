@@ -239,5 +239,7 @@
   "identifiedIncidentPlaceholderDescription": "我们正在继续努力解决此事件。",
   "monitoringIncidentPlaceholderDescription": "我们实施了修复，目前正在监控结果。",
   "resolvedIncidentPlaceholderDescription": "此事件已解决。",
-  "resecheduledMaintenance": "他们重新安排了维护计划"
+  "resecheduledMaintenance": "他们重新安排了维护计划",
+  "unsubscribed": "您已取消订阅",
+  "unsubscribedDescription": "您将不再收到状态更新"
 }
