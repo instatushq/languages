@@ -241,5 +241,7 @@
   "resolvedIncidentPlaceholderDescription": "Questo incidente è stato risolto.",
   "resecheduledMaintenance": "hanno riprogrammato la loro manutenzione",
   "unsubscribed": "Hai annullato l'iscrizione",
-  "unsubscribedDescription": "Non riceverai più aggiornamenti di stato"
+  "unsubscribedDescription": "Non riceverai più aggiornamenti di stato",
+  "unsubscribeError": "Annullamento iscrizione non riuscito",
+  "unsubscribeDetailedError": "Questo link per annullare l'iscrizione non è più attivo. Potresti aver già completato la richiesta di annullamento dell'iscrizione."
 }

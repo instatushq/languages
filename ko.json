@@ -241,5 +241,7 @@
   "resolvedIncidentPlaceholderDescription": "이 사건은 해결되었습니다.",
   "resecheduledMaintenance": "유지 관리를 재조정했습니다",
   "unsubscribed": "구독을 취소하셨습니다.",
-  "unsubscribedDescription": "더 이상 상태 업데이트를 받지 못하게 됩니다."
+  "unsubscribedDescription": "더 이상 상태 업데이트를 받지 못하게 됩니다.",
+  "unsubscribeError": "구독 취소 실패",
+  "unsubscribeDetailedError": "이 구독 취소 링크는 더 이상 활성화되어 있지 않습니다. 이미 구독 취소 요청을 완료하셨을 수 있습니다."
 }

@@ -234,5 +234,7 @@
   "resolvedIncidentPlaceholderDescription": "此事件已解決。",
   "resecheduledMaintenance": "他們重新安排了維修計劃",
   "unsubscribed": "您已取消訂閱",
-  "unsubscribedDescription": "您將不再收到狀態更新"
+  "unsubscribedDescription": "您將不再收到狀態更新",
+  "unsubscribeError": "取消訂閱失敗",
+  "unsubscribeDetailedError": "此退訂連結已失效。您可能已完成取消訂閱操作。"
 }

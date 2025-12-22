@@ -241,5 +241,7 @@
   "resolvedIncidentPlaceholderDescription": "Bu olay çözüldü.",
   "resecheduledMaintenance": "bakımlarını yeniden planladılar",
   "unsubscribed": "Aboneliğiniz iptal edildi.",
-  "unsubscribedDescription": "Artık durum güncellemeleri almayacaksınız."
+  "unsubscribedDescription": "Artık durum güncellemeleri almayacaksınız.",
+  "unsubscribeError": "Abonelikten çıkma başarısız oldu",
+  "unsubscribeDetailedError": "Bu abonelikten çıkma bağlantısı artık aktif değil. Abonelikten çıkma isteğinizi zaten tamamlamış olabilirsiniz."
 }

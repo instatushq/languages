@@ -241,5 +241,7 @@
   "resolvedIncidentPlaceholderDescription": "Incydent został rozwiązany.",
   "resecheduledMaintenance": "przełożyli termin konserwacji",
   "unsubscribed": "Zostałeś wypisany",
-  "unsubscribedDescription": "Nie będziesz już otrzymywać aktualizacji statusu"
+  "unsubscribedDescription": "Nie będziesz już otrzymywać aktualizacji statusu",
+  "unsubscribeError": "Anulowanie subskrypcji nie powiodło się",
+  "unsubscribeDetailedError": "Ten link do anulowania subskrypcji jest już nieaktywny. Możliwe, że wniosek o anulowanie subskrypcji został już wypełniony."
 }

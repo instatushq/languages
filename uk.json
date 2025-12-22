@@ -241,5 +241,7 @@
   "resolvedIncidentPlaceholderDescription": "Цей інцидент було вирішено.",
   "resecheduledMaintenance": "перенесли графік їхнього технічного обслуговування",
   "unsubscribed": "Ви скасували підписку",
-  "unsubscribedDescription": "Ви більше не отримуватимете оновлення статусу"
+  "unsubscribedDescription": "Ви більше не отримуватимете оновлення статусу",
+  "unsubscribeError": "Не вдалося скасувати підписку",
+  "unsubscribeDetailedError": "Це посилання для скасування підписки більше неактивне. Можливо, ви вже завершили свій запит на скасування підписки."
 }

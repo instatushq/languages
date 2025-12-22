@@ -241,5 +241,7 @@
   "resolvedIncidentPlaceholderDescription": "Dieser Vorfall wurde behoben.",
   "resecheduledMaintenance": "haben ihre Wartung neu geplant.",
   "unsubscribed": "Sie sind abgemeldet.",
-  "unsubscribedDescription": "Sie erhalten keine Statusaktualisierungen mehr."
+  "unsubscribedDescription": "Sie erhalten keine Statusaktualisierungen mehr.",
+  "unsubscribeError": "Abmeldung fehlgeschlagen",
+  "unsubscribeDetailedError": "Dieser Abmeldelink ist nicht mehr aktiv. Möglicherweise haben Sie Ihre Abmeldung bereits abgeschlossen."
 }

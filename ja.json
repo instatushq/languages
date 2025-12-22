@@ -241,5 +241,7 @@
   "resolvedIncidentPlaceholderDescription": "この事件は解決しました。",
   "resecheduledMaintenance": "メンテナンスのスケジュールを変更した",
   "unsubscribed": "購読解除されました",
-  "unsubscribedDescription": "ステータスの更新は受信されなくなります"
+  "unsubscribedDescription": "ステータスの更新は受信されなくなります",
+  "unsubscribeError": "登録解除に失敗しました",
+  "unsubscribeDetailedError": "この配信停止リンクは無効です。配信停止リクエストは既に完了している可能性があります。"
 }

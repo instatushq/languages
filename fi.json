@@ -241,5 +241,7 @@
   "resolvedIncidentPlaceholderDescription": "Tämä tapaus on ratkaistu.",
   "resecheduledMaintenance": "aikatauluttivat huoltonsa uudelleen",
   "unsubscribed": "Olet peruuttanut tilauksen",
-  "unsubscribedDescription": "Et enää saa tilapäivityksiä"
+  "unsubscribedDescription": "Et enää saa tilapäivityksiä",
+  "unsubscribeError": "Tilauksen peruutus epäonnistui",
+  "unsubscribeDetailedError": "Tämä tilauksen peruutuslinkki ei ole enää aktiivinen. Olet ehkä jo lähettänyt tilauksen peruutuspyyntösi."
 }

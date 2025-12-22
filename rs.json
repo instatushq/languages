@@ -231,5 +231,7 @@
   "resolvedIncidentPlaceholderDescription": "Овај инцидент је решен.",
   "resecheduledMaintenance": "поново заказале своје одржавање",
   "unsubscribed": "Одјављени сте",
-  "unsubscribedDescription": "Више нећете добијати ажурирања статуса"
+  "unsubscribedDescription": "Више нећете добијати ажурирања статуса",
+  "unsubscribeError": "Одјава није успела",
+  "unsubscribeDetailedError": "Овај линк за одјаву више није активан. Можда сте већ завршили захтев за одјаву."
 }

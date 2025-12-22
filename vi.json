@@ -241,5 +241,7 @@
   "resolvedIncidentPlaceholderDescription": "Sự cố này đã được giải quyết.",
   "resecheduledMaintenance": "đã lên lịch lại việc bảo trì của họ",
   "unsubscribed": "Bạn đã hủy đăng ký",
-  "unsubscribedDescription": "Bạn sẽ không còn nhận được thông báo cập nhật trạng thái nữa."
+  "unsubscribedDescription": "Bạn sẽ không còn nhận được thông báo cập nhật trạng thái nữa.",
+  "unsubscribeError": "Hủy đăng ký không thành công",
+  "unsubscribeDetailedError": "Liên kết hủy đăng ký này không còn hoạt động nữa. Có thể bạn đã hoàn tất yêu cầu hủy đăng ký của mình."
 }

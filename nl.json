@@ -241,5 +241,7 @@
   "resolvedIncidentPlaceholderDescription": "Dit incident is opgelost.",
   "resecheduledMaintenance": "hun onderhoud opnieuw gepland",
   "unsubscribed": "Je bent afgemeld.",
-  "unsubscribedDescription": "Je ontvangt geen statusupdates meer."
+  "unsubscribedDescription": "Je ontvangt geen statusupdates meer.",
+  "unsubscribeError": "Afmelden mislukt",
+  "unsubscribeDetailedError": "Deze link om je af te melden is niet meer actief. Je hebt je mogelijk al afgemeld."
 }

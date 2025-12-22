@@ -241,5 +241,7 @@
   "resolvedIncidentPlaceholderDescription": "Cet incident a été résolu.",
   "resecheduledMaintenance": "ont reprogrammé leur maintenance",
   "unsubscribed": "Vous êtes désabonné",
-  "unsubscribedDescription": "Vous ne recevrez plus de mises à jour de statut."
+  "unsubscribedDescription": "Vous ne recevrez plus de mises à jour de statut.",
+  "unsubscribeError": "La désinscription a échoué",
+  "unsubscribeDetailedError": "Ce lien de désabonnement n'est plus actif. Vous avez peut-être déjà effectué votre demande de désabonnement."
 }

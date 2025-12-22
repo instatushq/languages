@@ -241,5 +241,7 @@
   "resolvedIncidentPlaceholderDescription": "Tento incident byl vyřešen.",
   "resecheduledMaintenance": "přeplánovali jejich údržbu",
   "unsubscribed": "Jste odhlášeni z odběru",
-  "unsubscribedDescription": "Již nebudete dostávat aktualizace stavu"
+  "unsubscribedDescription": "Již nebudete dostávat aktualizace stavu",
+  "unsubscribeError": "Odhlášení se nezdařilo",
+  "unsubscribeDetailedError": "Tento odkaz pro odhlášení již není aktivní. Možná jste již žádost o odhlášení dokončili."
 }

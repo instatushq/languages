@@ -241,5 +241,7 @@
   "resolvedIncidentPlaceholderDescription": "Este incidente ha sido resuelto.",
   "resecheduledMaintenance": "reprogramaron su mantenimiento",
   "unsubscribed": "Estás dado de baja",
-  "unsubscribedDescription": "Ya no recibirás actualizaciones de estado"
+  "unsubscribedDescription": "Ya no recibirás actualizaciones de estado",
+  "unsubscribeError": "Cancelación de suscripción fallida",
+  "unsubscribeDetailedError": "Este enlace para cancelar la suscripción ya no está activo. Es posible que ya haya completado su solicitud de cancelación."
 }

@@ -241,5 +241,7 @@
   "resolvedIncidentPlaceholderDescription": "Denna incident har lösts.",
   "resecheduledMaintenance": "omplanerade sitt underhåll",
   "unsubscribed": "Du har avslutat prenumerationen",
-  "unsubscribedDescription": "Du kommer inte längre att få statusuppdateringar"
+  "unsubscribedDescription": "Du kommer inte längre att få statusuppdateringar",
+  "unsubscribeError": "Avprenumerationen misslyckades",
+  "unsubscribeDetailedError": "Den här länken för att avsluta prenumerationen är inte längre aktiv. Du kanske redan har slutfört din begäran om att avsluta prenumerationen."
 }

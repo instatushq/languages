@@ -241,5 +241,7 @@
   "resolvedIncidentPlaceholderDescription": "Ta incident je bil rešen.",
   "resecheduledMaintenance": "prestavili njihovo vzdrževanje",
   "unsubscribed": "Odjavljeni ste",
-  "unsubscribedDescription": "Ne boste več prejemali posodobitev statusa"
+  "unsubscribedDescription": "Ne boste več prejemali posodobitev statusa",
+  "unsubscribeError": "Odjava ni uspela",
+  "unsubscribeDetailedError": "Ta povezava za odjavo ni več aktivna. Morda ste že oddali zahtevo za odjavo."
 }

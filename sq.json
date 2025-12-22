@@ -241,5 +241,7 @@
   "resolvedIncidentPlaceholderDescription": "Kjo ngjarje është zbardhur.",
   "resecheduledMaintenance": "riplanifikuan mirëmbajtjen e tyre",
   "unsubscribed": "Je çregjistruar",
-  "unsubscribedDescription": "Nuk do të merrni më përditësime të statusit"
+  "unsubscribedDescription": "Nuk do të merrni më përditësime të statusit",
+  "unsubscribeError": "Çregjistrimi dështoi",
+  "unsubscribeDetailedError": "Kjo lidhje për çregjistrim nuk është më aktive. Mund ta keni përfunduar tashmë kërkesën tuaj për çregjistrim."
 }

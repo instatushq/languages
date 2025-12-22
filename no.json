@@ -241,5 +241,7 @@
   "resolvedIncidentPlaceholderDescription": "Denne hendelsen er løst.",
   "resecheduledMaintenance": "omplanla vedlikeholdet sitt",
   "unsubscribed": "Du er utmeldt",
-  "unsubscribedDescription": "Du vil ikke lenger motta statusoppdateringer"
+  "unsubscribedDescription": "Du vil ikke lenger motta statusoppdateringer",
+  "unsubscribeError": "Avmelding mislyktes",
+  "unsubscribeDetailedError": "Denne avmeldingslenken er ikke lenger aktiv. Du har kanskje allerede fullført avmeldingsforespørselen din."
 }

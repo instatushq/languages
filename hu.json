@@ -241,5 +241,7 @@
   "resolvedIncidentPlaceholderDescription": "Ez az eset megoldódott.",
   "resecheduledMaintenance": "átütemezték a karbantartásukat",
   "unsubscribed": "Leiratkozott",
-  "unsubscribedDescription": "Többé nem fogsz állapotfrissítéseket kapni"
+  "unsubscribedDescription": "Többé nem fogsz állapotfrissítéseket kapni",
+  "unsubscribeError": "Leiratkozás sikertelen",
+  "unsubscribeDetailedError": "Ez a leiratkozási link már nem aktív. Lehetséges, hogy már elküldted a leiratkozási kérelmedet."
 }

@@ -241,5 +241,7 @@
   "resolvedIncidentPlaceholderDescription": "Этот инцидент был урегулирован.",
   "resecheduledMaintenance": "перенесли сроки своего технического обслуживания",
   "unsubscribed": "Вы отписались от рассылки",
-  "unsubscribedDescription": "Вы больше не будете получать обновления статуса."
+  "unsubscribedDescription": "Вы больше не будете получать обновления статуса.",
+  "unsubscribeError": "Отписка не удалась",
+  "unsubscribeDetailedError": "Эта ссылка для отписки больше не активна. Возможно, вы уже отправили запрос на отписку."
 }

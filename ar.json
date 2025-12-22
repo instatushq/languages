@@ -241,5 +241,7 @@
   "resolvedIncidentPlaceholderDescription": "لقد تم حل هذه الحادثة.",
   "resecheduledMaintenance": "تم إعادة جدولة صيانتهم",
   "unsubscribed": "لقد ألغيت اشتراكك",
-  "unsubscribedDescription": "لن تتلقى تحديثات الحالة بعد الآن"
+  "unsubscribedDescription": "لن تتلقى تحديثات الحالة بعد الآن",
+  "unsubscribeError": "فشل إلغاء الاشتراك",
+  "unsubscribeDetailedError": "هذا الرابط الخاص بإلغاء الاشتراك غير فعال. ربما تكون قد أكملت طلب إلغاء الاشتراك بالفعل."
 }

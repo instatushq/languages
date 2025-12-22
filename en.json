@@ -241,5 +241,7 @@
   "monitoringIncidentPlaceholderDescription": "We implemented a fix and are currently monitoring the result.",
   "resolvedIncidentPlaceholderDescription": "This incident has been resolved.",
   "unsubscribed": "You're unsubscribed",
-  "unsubscribedDescription": "You will no longer receive status updates"
+  "unsubscribedDescription": "You will no longer receive status updates",
+  "unsubscribeError": "Unsubscribe Failed",
+  "unsubscribeDetailedError": "This unsubscribe link is no longer active. You may have already completed your unsubscribe request."
 }
