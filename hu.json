@@ -243,5 +243,8 @@
   "unsubscribed": "Leiratkozott",
   "unsubscribedDescription": "Többé nem fogsz állapotfrissítéseket kapni",
   "unsubscribeError": "Leiratkozás sikertelen",
-  "unsubscribeDetailedError": "Ez a leiratkozási link már nem aktív. Lehetséges, hogy már elküldted a leiratkozási kérelmedet."
+  "unsubscribeDetailedError": "Ez a leiratkozási link már nem aktív. Lehetséges, hogy már elküldted a leiratkozási kérelmedet.",
+  "genericNotice": "általános közlemény",
+  "genericNotices": "általános közlemények",
+  "noticeDetails": "Értesítés részletei"
 }

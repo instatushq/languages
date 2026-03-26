@@ -243,5 +243,8 @@
   "unsubscribed": "Hai annullato l'iscrizione",
   "unsubscribedDescription": "Non riceverai più aggiornamenti di stato",
   "unsubscribeError": "Annullamento iscrizione non riuscito",
-  "unsubscribeDetailedError": "Questo link per annullare l'iscrizione non è più attivo. Potresti aver già completato la richiesta di annullamento dell'iscrizione."
+  "unsubscribeDetailedError": "Questo link per annullare l'iscrizione non è più attivo. Potresti aver già completato la richiesta di annullamento dell'iscrizione.",
+  "genericNotice": "avviso generico",
+  "genericNotices": "avvisi generici",
+  "noticeDetails": "Dettagli dell'avviso"
 }

@@ -243,5 +243,8 @@
   "unsubscribed": "Vous êtes désabonné",
   "unsubscribedDescription": "Vous ne recevrez plus de mises à jour de statut.",
   "unsubscribeError": "La désinscription a échoué",
-  "unsubscribeDetailedError": "Ce lien de désabonnement n'est plus actif. Vous avez peut-être déjà effectué votre demande de désabonnement."
+  "unsubscribeDetailedError": "Ce lien de désabonnement n'est plus actif. Vous avez peut-être déjà effectué votre demande de désabonnement.",
+  "genericNotice": "avis générique",
+  "genericNotices": "avis génériques",
+  "noticeDetails": "Détails de l'avis"
 }

@@ -243,5 +243,8 @@
   "unsubscribed": "Je çregjistruar",
   "unsubscribedDescription": "Nuk do të merrni më përditësime të statusit",
   "unsubscribeError": "Çregjistrimi dështoi",
-  "unsubscribeDetailedError": "Kjo lidhje për çregjistrim nuk është më aktive. Mund ta keni përfunduar tashmë kërkesën tuaj për çregjistrim."
+  "unsubscribeDetailedError": "Kjo lidhje për çregjistrim nuk është më aktive. Mund ta keni përfunduar tashmë kërkesën tuaj për çregjistrim.",
+  "genericNotice": "njoftim i përgjithshëm",
+  "genericNotices": "njoftime të përgjithshme",
+  "noticeDetails": "Detajet e njoftimit"
 }

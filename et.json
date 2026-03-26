@@ -243,5 +243,8 @@
   "unsubscribed": "Te olete tellimuse tühistanud",
   "unsubscribedDescription": "Te ei saa enam olekuvärskendusi",
   "unsubscribeError": "Tellimuse tühistamine ebaõnnestus",
-  "unsubscribeDetailedError": "See tellimuse tühistamise link ei ole enam aktiivne. Võimalik, et olete oma tellimuse tühistamise taotluse juba esitanud."
+  "unsubscribeDetailedError": "See tellimuse tühistamise link ei ole enam aktiivne. Võimalik, et olete oma tellimuse tühistamise taotluse juba esitanud.",
+  "genericNotice": "üldine teade",
+  "genericNotices": "üldised teated",
+  "noticeDetails": "Teate üksikasjad"
 }

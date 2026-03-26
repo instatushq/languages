@@ -243,5 +243,8 @@
   "unsubscribed": "Odjavljeni ste",
   "unsubscribedDescription": "Ne boste več prejemali posodobitev statusa",
   "unsubscribeError": "Odjava ni uspela",
-  "unsubscribeDetailedError": "Ta povezava za odjavo ni več aktivna. Morda ste že oddali zahtevo za odjavo."
+  "unsubscribeDetailedError": "Ta povezava za odjavo ni več aktivna. Morda ste že oddali zahtevo za odjavo.",
+  "genericNotice": "splošno obvestilo",
+  "genericNotices": "splošna obvestila",
+  "noticeDetails": "Podrobnosti obvestila"
 }

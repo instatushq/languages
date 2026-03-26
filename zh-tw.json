@@ -236,5 +236,8 @@
   "unsubscribed": "您已取消訂閱",
   "unsubscribedDescription": "您將不再收到狀態更新",
   "unsubscribeError": "取消訂閱失敗",
-  "unsubscribeDetailedError": "此退訂連結已失效。您可能已完成取消訂閱操作。"
+  "unsubscribeDetailedError": "此退訂連結已失效。您可能已完成取消訂閱操作。",
+  "genericNotice": "通用通知",
+  "genericNotices": "通用通知",
+  "noticeDetails": "通知詳情"
 }

@@ -243,5 +243,8 @@
   "unsubscribed": "Du er utmeldt",
   "unsubscribedDescription": "Du vil ikke lenger motta statusoppdateringer",
   "unsubscribeError": "Avmelding mislyktes",
-  "unsubscribeDetailedError": "Denne avmeldingslenken er ikke lenger aktiv. Du har kanskje allerede fullført avmeldingsforespørselen din."
+  "unsubscribeDetailedError": "Denne avmeldingslenken er ikke lenger aktiv. Du har kanskje allerede fullført avmeldingsforespørselen din.",
+  "genericNotice": "generisk varsel",
+  "genericNotices": "generiske merknader",
+  "noticeDetails": "Varseldetaljer"
 }

@@ -243,5 +243,8 @@
   "unsubscribed": "Você cancelou a sua inscrição.",
   "unsubscribedDescription": "Você não receberá mais atualizações de status.",
   "unsubscribeError": "Cancelamento de inscrição falhou",
-  "unsubscribeDetailedError": "Este link para cancelar a inscrição não está mais ativo. Você pode já ter concluído sua solicitação de cancelamento de inscrição."
+  "unsubscribeDetailedError": "Este link para cancelar a inscrição não está mais ativo. Você pode já ter concluído sua solicitação de cancelamento de inscrição.",
+  "genericNotice": "aviso genérico",
+  "genericNotices": "avisos genéricos",
+  "noticeDetails": "Detalhes do aviso"
 }

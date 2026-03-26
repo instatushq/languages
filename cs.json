@@ -243,5 +243,8 @@
   "unsubscribed": "Jste odhlášeni z odběru",
   "unsubscribedDescription": "Již nebudete dostávat aktualizace stavu",
   "unsubscribeError": "Odhlášení se nezdařilo",
-  "unsubscribeDetailedError": "Tento odkaz pro odhlášení již není aktivní. Možná jste již žádost o odhlášení dokončili."
+  "unsubscribeDetailedError": "Tento odkaz pro odhlášení již není aktivní. Možná jste již žádost o odhlášení dokončili.",
+  "genericNotice": "obecné oznámení",
+  "genericNotices": "obecná oznámení",
+  "noticeDetails": "Podrobnosti oznámení"
 }

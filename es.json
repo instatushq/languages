@@ -243,5 +243,8 @@
   "unsubscribed": "Estás dado de baja",
   "unsubscribedDescription": "Ya no recibirás actualizaciones de estado",
   "unsubscribeError": "Cancelación de suscripción fallida",
-  "unsubscribeDetailedError": "Este enlace para cancelar la suscripción ya no está activo. Es posible que ya haya completado su solicitud de cancelación."
+  "unsubscribeDetailedError": "Este enlace para cancelar la suscripción ya no está activo. Es posible que ya haya completado su solicitud de cancelación.",
+  "genericNotice": "aviso genérico",
+  "genericNotices": "avisos genéricos",
+  "noticeDetails": "Detalles del aviso"
 }

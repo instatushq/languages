@@ -243,5 +243,8 @@
   "unsubscribed": "لقد ألغيت اشتراكك",
   "unsubscribedDescription": "لن تتلقى تحديثات الحالة بعد الآن",
   "unsubscribeError": "فشل إلغاء الاشتراك",
-  "unsubscribeDetailedError": "هذا الرابط الخاص بإلغاء الاشتراك غير فعال. ربما تكون قد أكملت طلب إلغاء الاشتراك بالفعل."
+  "unsubscribeDetailedError": "هذا الرابط الخاص بإلغاء الاشتراك غير فعال. ربما تكون قد أكملت طلب إلغاء الاشتراك بالفعل.",
+  "genericNotice": "إشعار عام",
+  "genericNotices": "إشعارات عامة",
+  "noticeDetails": "تفاصيل الإشعار"
 }

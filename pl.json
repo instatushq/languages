@@ -243,5 +243,8 @@
   "unsubscribed": "Zostałeś wypisany",
   "unsubscribedDescription": "Nie będziesz już otrzymywać aktualizacji statusu",
   "unsubscribeError": "Anulowanie subskrypcji nie powiodło się",
-  "unsubscribeDetailedError": "Ten link do anulowania subskrypcji jest już nieaktywny. Możliwe, że wniosek o anulowanie subskrypcji został już wypełniony."
+  "unsubscribeDetailedError": "Ten link do anulowania subskrypcji jest już nieaktywny. Możliwe, że wniosek o anulowanie subskrypcji został już wypełniony.",
+  "genericNotice": "ogólne powiadomienie",
+  "genericNotices": "powiadomienia ogólne",
+  "noticeDetails": "Szczegóły powiadomienia"
 }

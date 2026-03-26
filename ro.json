@@ -243,5 +243,8 @@
   "unsubscribed": "Te-ai dezabonat",
   "unsubscribedDescription": "Nu veți mai primi actualizări de stare",
   "unsubscribeError": "Dezabonare eșuată",
-  "unsubscribeDetailedError": "Acest link de dezabonare nu mai este activ. Este posibil să fi finalizat deja solicitarea de dezabonare."
+  "unsubscribeDetailedError": "Acest link de dezabonare nu mai este activ. Este posibil să fi finalizat deja solicitarea de dezabonare.",
+  "genericNotice": "notificare generică",
+  "genericNotices": "notificări generice",
+  "noticeDetails": "Detalii notificare"
 }
