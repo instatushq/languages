@@ -246,5 +246,6 @@
   "unsubscribeDetailedError": "Den här länken för att avsluta prenumerationen är inte längre aktiv. Du kanske redan har slutfört din begäran om att avsluta prenumerationen.",
   "genericNotice": "allmänt meddelande",
   "genericNotices": "allmänna meddelanden",
-  "noticeDetails": "Meddelandedetaljer"
+  "noticeDetails": "Meddelandedetaljer",
+  "Posted": "Postat"
 }

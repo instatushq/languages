@@ -246,5 +246,6 @@
   "unsubscribeDetailedError": "此退订链接已失效。您可能已完成退订操作。",
   "genericNotice": "通用通知",
   "genericNotices": "通用通知",
-  "noticeDetails": "通知详情"
+  "noticeDetails": "通知详情",
+  "Posted": "发布"
 }

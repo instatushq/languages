@@ -246,5 +246,6 @@
   "unsubscribeDetailedError": "이 구독 취소 링크는 더 이상 활성화되어 있지 않습니다. 이미 구독 취소 요청을 완료하셨을 수 있습니다.",
   "genericNotice": "일반 공지",
   "genericNotices": "일반 공지",
-  "noticeDetails": "공지사항 세부 정보"
+  "noticeDetails": "공지사항 세부 정보",
+  "Posted": "게시됨"
 }

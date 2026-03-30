@@ -246,5 +246,6 @@
   "unsubscribeDetailedError": "この配信停止リンクは無効です。配信停止リクエストは既に完了している可能性があります。",
   "genericNotice": "一般的な通知",
   "genericNotices": "一般的な通知",
-  "noticeDetails": "通知の詳細"
+  "noticeDetails": "通知の詳細",
+  "Posted": "投稿済み"
 }

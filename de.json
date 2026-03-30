@@ -246,5 +246,6 @@
   "unsubscribeDetailedError": "Dieser Abmeldelink ist nicht mehr aktiv. Möglicherweise haben Sie Ihre Abmeldung bereits abgeschlossen.",
   "genericNotice": "allgemeiner Hinweis",
   "genericNotices": "Allgemeine Hinweise",
-  "noticeDetails": "Details zur Bekanntmachung"
+  "noticeDetails": "Details zur Bekanntmachung",
+  "Posted": "Veröffentlicht"
 }

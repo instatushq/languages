@@ -246,5 +246,6 @@
   "unsubscribeDetailedError": "Tautan berhenti berlangganan ini sudah tidak aktif. Anda mungkin sudah menyelesaikan permintaan berhenti berlangganan Anda.",
   "genericNotice": "pemberitahuan umum",
   "genericNotices": "pemberitahuan umum",
-  "noticeDetails": "Rincian pemberitahuan"
+  "noticeDetails": "Rincian pemberitahuan",
+  "Posted": "Diposting"
 }

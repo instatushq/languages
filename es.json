@@ -246,5 +246,6 @@
   "unsubscribeDetailedError": "Este enlace para cancelar la suscripción ya no está activo. Es posible que ya haya completado su solicitud de cancelación.",
   "genericNotice": "aviso genérico",
   "genericNotices": "avisos genéricos",
-  "noticeDetails": "Detalles del aviso"
+  "noticeDetails": "Detalles del aviso",
+  "Posted": "Al corriente"
 }

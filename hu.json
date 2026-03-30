@@ -246,5 +246,6 @@
   "unsubscribeDetailedError": "Ez a leiratkozási link már nem aktív. Lehetséges, hogy már elküldted a leiratkozási kérelmedet.",
   "genericNotice": "általános közlemény",
   "genericNotices": "általános közlemények",
-  "noticeDetails": "Értesítés részletei"
+  "noticeDetails": "Értesítés részletei",
+  "Posted": "Közzétéve"
 }

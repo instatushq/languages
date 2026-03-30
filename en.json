@@ -246,5 +246,6 @@
   "unsubscribeDetailedError": "This unsubscribe link is no longer active. You may have already completed your unsubscribe request.",
   "genericNotice": "generic notice",
   "genericNotices": "generic notices",
-  "noticeDetails": "Notice details"
+  "noticeDetails": "Notice details",
+  "Posted": "Posted"
 }

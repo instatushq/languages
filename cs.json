@@ -246,5 +246,6 @@
   "unsubscribeDetailedError": "Tento odkaz pro odhlášení již není aktivní. Možná jste již žádost o odhlášení dokončili.",
   "genericNotice": "obecné oznámení",
   "genericNotices": "obecná oznámení",
-  "noticeDetails": "Podrobnosti oznámení"
+  "noticeDetails": "Podrobnosti oznámení",
+  "Posted": "Zveřejněno"
 }

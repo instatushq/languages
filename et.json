@@ -246,5 +246,6 @@
   "unsubscribeDetailedError": "See tellimuse tühistamise link ei ole enam aktiivne. Võimalik, et olete oma tellimuse tühistamise taotluse juba esitanud.",
   "genericNotice": "üldine teade",
   "genericNotices": "üldised teated",
-  "noticeDetails": "Teate üksikasjad"
+  "noticeDetails": "Teate üksikasjad",
+  "Posted": "Postitatud"
 }

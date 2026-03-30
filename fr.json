@@ -246,5 +246,6 @@
   "unsubscribeDetailedError": "Ce lien de désabonnement n'est plus actif. Vous avez peut-être déjà effectué votre demande de désabonnement.",
   "genericNotice": "avis générique",
   "genericNotices": "avis génériques",
-  "noticeDetails": "Détails de l'avis"
+  "noticeDetails": "Détails de l'avis",
+  "Posted": "Publié"
 }

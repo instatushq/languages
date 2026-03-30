@@ -246,5 +246,6 @@
   "unsubscribeDetailedError": "Acest link de dezabonare nu mai este activ. Este posibil să fi finalizat deja solicitarea de dezabonare.",
   "genericNotice": "notificare generică",
   "genericNotices": "notificări generice",
-  "noticeDetails": "Detalii notificare"
+  "noticeDetails": "Detalii notificare",
+  "Posted": "Publicat"
 }

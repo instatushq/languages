@@ -246,5 +246,6 @@
   "unsubscribeDetailedError": "Bu abonelikten çıkma bağlantısı artık aktif değil. Abonelikten çıkma isteğinizi zaten tamamlamış olabilirsiniz.",
   "genericNotice": "genel bildirim",
   "genericNotices": "genel bildirimler",
-  "noticeDetails": "Bildirim detayları"
+  "noticeDetails": "Bildirim detayları",
+  "Posted": "Yayınlandı"
 }

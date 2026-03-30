@@ -246,5 +246,6 @@
   "unsubscribeDetailedError": "هذا الرابط الخاص بإلغاء الاشتراك غير فعال. ربما تكون قد أكملت طلب إلغاء الاشتراك بالفعل.",
   "genericNotice": "إشعار عام",
   "genericNotices": "إشعارات عامة",
-  "noticeDetails": "تفاصيل الإشعار"
+  "noticeDetails": "تفاصيل الإشعار",
+  "Posted": "تم النشر"
 }

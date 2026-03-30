@@ -246,5 +246,6 @@
   "unsubscribeDetailedError": "Dette afmeldingslink er ikke længere aktivt. Du har muligvis allerede gennemført din afmeldingsanmodning.",
   "genericNotice": "generisk meddelelse",
   "genericNotices": "generiske meddelelser",
-  "noticeDetails": "Meddelelsesoplysninger"
+  "noticeDetails": "Meddelelsesoplysninger",
+  "Posted": "Opslået"
 }

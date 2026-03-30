@@ -246,5 +246,6 @@
   "unsubscribeDetailedError": "Ten link do anulowania subskrypcji jest już nieaktywny. Możliwe, że wniosek o anulowanie subskrypcji został już wypełniony.",
   "genericNotice": "ogólne powiadomienie",
   "genericNotices": "powiadomienia ogólne",
-  "noticeDetails": "Szczegóły powiadomienia"
+  "noticeDetails": "Szczegóły powiadomienia",
+  "Posted": "Opublikowano"
 }

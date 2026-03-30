@@ -246,5 +246,6 @@
   "unsubscribeDetailedError": "Tämä tilauksen peruutuslinkki ei ole enää aktiivinen. Olet ehkä jo lähettänyt tilauksen peruutuspyyntösi.",
   "genericNotice": "yleinen ilmoitus",
   "genericNotices": "yleiset ilmoitukset",
-  "noticeDetails": "Ilmoituksen tiedot"
+  "noticeDetails": "Ilmoituksen tiedot",
+  "Posted": "Lähetetty"
 }

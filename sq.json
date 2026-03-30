@@ -246,5 +246,6 @@
   "unsubscribeDetailedError": "Kjo lidhje për çregjistrim nuk është më aktive. Mund ta keni përfunduar tashmë kërkesën tuaj për çregjistrim.",
   "genericNotice": "njoftim i përgjithshëm",
   "genericNotices": "njoftime të përgjithshme",
-  "noticeDetails": "Detajet e njoftimit"
+  "noticeDetails": "Detajet e njoftimit",
+  "Posted": "Postuar"
 }

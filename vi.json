@@ -246,5 +246,6 @@
   "unsubscribeDetailedError": "Liên kết hủy đăng ký này không còn hoạt động nữa. Có thể bạn đã hoàn tất yêu cầu hủy đăng ký của mình.",
   "genericNotice": "thông báo chung",
   "genericNotices": "thông báo chung",
-  "noticeDetails": "Thông báo chi tiết"
+  "noticeDetails": "Thông báo chi tiết",
+  "Posted": "Đã đăng"
 }
