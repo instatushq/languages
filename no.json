@@ -247,5 +247,9 @@
   "genericNotice": "generisk varsel",
   "genericNotices": "generiske merknader",
   "noticeDetails": "Varseldetaljer",
-  "Posted": "Postet"
+  "Posted": "Postet",
+  "manageSubscription": "Administrer abonnement",
+  "manageYourSubscription": "Administrer abonnementet ditt",
+  "manageComponentsYouAreSubscribedTo": "Administrer komponenter du abonnerer på",
+  "manageYourNotificationSettings": "Administrer varslingsinnstillingene dine →"
 }

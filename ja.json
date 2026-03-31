@@ -247,5 +247,9 @@
   "genericNotice": "一般的な通知",
   "genericNotices": "一般的な通知",
   "noticeDetails": "通知の詳細",
-  "Posted": "投稿済み"
+  "Posted": "投稿済み",
+  "manageSubscription": "購読を管理する",
+  "manageYourSubscription": "購読を管理する",
+  "manageComponentsYouAreSubscribedTo": "購読しているコンポーネントを管理する",
+  "manageYourNotificationSettings": "通知設定を管理する →"
 }

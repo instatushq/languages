@@ -247,5 +247,9 @@
   "genericNotice": "общее уведомление",
   "genericNotices": "общие уведомления",
   "noticeDetails": "Подробности уведомления",
-  "Posted": "Опубликовано"
+  "Posted": "Опубликовано",
+  "manageSubscription": "Управление подпиской",
+  "manageYourSubscription": "Управление подпиской",
+  "manageComponentsYouAreSubscribedTo": "Управляйте компонентами, на которые вы подписаны.",
+  "manageYourNotificationSettings": "Управление настройками уведомлений →"
 }

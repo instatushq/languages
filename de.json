@@ -247,5 +247,9 @@
   "genericNotice": "allgemeiner Hinweis",
   "genericNotices": "Allgemeine Hinweise",
   "noticeDetails": "Details zur Bekanntmachung",
-  "Posted": "Veröffentlicht"
+  "Posted": "Veröffentlicht",
+  "manageSubscription": "Abonnement verwalten",
+  "manageYourSubscription": "Verwalten Sie Ihr Abonnement",
+  "manageComponentsYouAreSubscribedTo": "Verwalten Sie die Komponenten, die Sie abonniert haben.",
+  "manageYourNotificationSettings": "Verwalten Sie Ihre Benachrichtigungseinstellungen →"
 }

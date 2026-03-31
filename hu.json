@@ -247,5 +247,9 @@
   "genericNotice": "általános közlemény",
   "genericNotices": "általános közlemények",
   "noticeDetails": "Értesítés részletei",
-  "Posted": "Közzétéve"
+  "Posted": "Közzétéve",
+  "manageSubscription": "Előfizetés kezelése",
+  "manageYourSubscription": "Előfizetés kezelése",
+  "manageComponentsYouAreSubscribedTo": "Az előfizetett összetevők kezelése",
+  "manageYourNotificationSettings": "Értesítési beállítások kezelése →"
 }

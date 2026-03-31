@@ -247,5 +247,9 @@
   "genericNotice": "일반 공지",
   "genericNotices": "일반 공지",
   "noticeDetails": "공지사항 세부 정보",
-  "Posted": "게시됨"
+  "Posted": "게시됨",
+  "manageSubscription": "구독 관리",
+  "manageYourSubscription": "구독 관리하기",
+  "manageComponentsYouAreSubscribedTo": "구독 중인 구성 요소를 관리하세요",
+  "manageYourNotificationSettings": "알림 설정 관리 →"
 }

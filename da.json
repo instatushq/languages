@@ -247,5 +247,9 @@
   "genericNotice": "generisk meddelelse",
   "genericNotices": "generiske meddelelser",
   "noticeDetails": "Meddelelsesoplysninger",
-  "Posted": "Opslået"
+  "Posted": "Opslået",
+  "manageSubscription": "Administrer abonnement",
+  "manageYourSubscription": "Administrer dit abonnement",
+  "manageComponentsYouAreSubscribedTo": "Administrer komponenter, du abonnerer på",
+  "manageYourNotificationSettings": "Administrer dine notifikationsindstillinger →"
 }

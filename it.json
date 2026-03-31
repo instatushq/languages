@@ -247,5 +247,9 @@
   "genericNotice": "avviso generico",
   "genericNotices": "avvisi generici",
   "noticeDetails": "Dettagli dell'avviso",
-  "Posted": "Pubblicato"
+  "Posted": "Pubblicato",
+  "manageSubscription": "Gestisci l'abbonamento",
+  "manageYourSubscription": "Gestisci il tuo abbonamento",
+  "manageComponentsYouAreSubscribedTo": "Gestisci i componenti a cui sei abbonato",
+  "manageYourNotificationSettings": "Gestisci le tue impostazioni di notifica →"
 }

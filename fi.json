@@ -247,5 +247,9 @@
   "genericNotice": "yleinen ilmoitus",
   "genericNotices": "yleiset ilmoitukset",
   "noticeDetails": "Ilmoituksen tiedot",
-  "Posted": "Lähetetty"
+  "Posted": "Lähetetty",
+  "manageSubscription": "Hallinnoi tilausta",
+  "manageYourSubscription": "Hallinnoi tilaustasi",
+  "manageComponentsYouAreSubscribedTo": "Hallinnoi tilaamiasi komponentteja",
+  "manageYourNotificationSettings": "Hallinnoi ilmoitusasetuksiasi →"
 }

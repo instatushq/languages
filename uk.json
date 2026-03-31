@@ -247,5 +247,9 @@
   "genericNotice": "загальне повідомлення",
   "genericNotices": "загальні повідомлення",
   "noticeDetails": "Деталі повідомлення",
-  "Posted": "Опубліковано"
+  "Posted": "Опубліковано",
+  "manageSubscription": "Керування підпискою",
+  "manageYourSubscription": "Керуйте своєю підпискою",
+  "manageComponentsYouAreSubscribedTo": "Керування компонентами, на які ви підписані",
+  "manageYourNotificationSettings": "Керування налаштуваннями сповіщень →"
 }

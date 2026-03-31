@@ -247,5 +247,9 @@
   "genericNotice": "avis générique",
   "genericNotices": "avis génériques",
   "noticeDetails": "Détails de l'avis",
-  "Posted": "Publié"
+  "Posted": "Publié",
+  "manageSubscription": "Gérer l'abonnement",
+  "manageYourSubscription": "Gérez votre abonnement",
+  "manageComponentsYouAreSubscribedTo": "Gérez les composants auxquels vous êtes abonné.",
+  "manageYourNotificationSettings": "Gérer vos paramètres de notification →"
 }

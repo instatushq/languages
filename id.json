@@ -247,5 +247,9 @@
   "genericNotice": "pemberitahuan umum",
   "genericNotices": "pemberitahuan umum",
   "noticeDetails": "Rincian pemberitahuan",
-  "Posted": "Diposting"
+  "Posted": "Diposting",
+  "manageSubscription": "Kelola langganan",
+  "manageYourSubscription": "Kelola langganan Anda",
+  "manageComponentsYouAreSubscribedTo": "Kelola komponen yang Anda langgan",
+  "manageYourNotificationSettings": "Kelola pengaturan notifikasi Anda →"
 }

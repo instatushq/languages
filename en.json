@@ -247,5 +247,9 @@
   "genericNotice": "generic notice",
   "genericNotices": "generic notices",
   "noticeDetails": "Notice details",
-  "Posted": "Posted"
+  "Posted": "Posted",
+  "manageSubscription": "Manage subscription",
+  "manageYourSubscription": "Manage your subscription",
+  "manageComponentsYouAreSubscribedTo": "Manage components you're subscribed to",
+  "manageYourNotificationSettings": "Manage your notification settings →"
 }

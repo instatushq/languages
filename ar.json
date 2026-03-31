@@ -247,5 +247,9 @@
   "genericNotice": "إشعار عام",
   "genericNotices": "إشعارات عامة",
   "noticeDetails": "تفاصيل الإشعار",
-  "Posted": "تم النشر"
+  "Posted": "تم النشر",
+  "manageSubscription": "إدارة الاشتراك",
+  "manageYourSubscription": "إدارة اشتراكك",
+  "manageComponentsYouAreSubscribedTo": "إدارة المكونات التي اشتركت بها",
+  "manageYourNotificationSettings": "إدارة إعدادات الإشعارات →"
 }

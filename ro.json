@@ -247,5 +247,9 @@
   "genericNotice": "notificare generică",
   "genericNotices": "notificări generice",
   "noticeDetails": "Detalii notificare",
-  "Posted": "Publicat"
+  "Posted": "Publicat",
+  "manageSubscription": "Gestionează abonamentul",
+  "manageYourSubscription": "Gestionează-ți abonamentul",
+  "manageComponentsYouAreSubscribedTo": "Gestionați componentele la care sunteți abonat",
+  "manageYourNotificationSettings": "Gestionează setările de notificare →"
 }

@@ -247,5 +247,9 @@
   "genericNotice": "üldine teade",
   "genericNotices": "üldised teated",
   "noticeDetails": "Teate üksikasjad",
-  "Posted": "Postitatud"
+  "Posted": "Postitatud",
+  "manageSubscription": "Tellimuse haldamine",
+  "manageYourSubscription": "Tellimuse haldamine",
+  "manageComponentsYouAreSubscribedTo": "Halda komponente, millele oled tellinud",
+  "manageYourNotificationSettings": "Halda oma teavitusseadeid →"
 }

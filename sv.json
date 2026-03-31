@@ -247,5 +247,9 @@
   "genericNotice": "allmänt meddelande",
   "genericNotices": "allmänna meddelanden",
   "noticeDetails": "Meddelandedetaljer",
-  "Posted": "Postat"
+  "Posted": "Postat",
+  "manageSubscription": "Hantera prenumeration",
+  "manageYourSubscription": "Hantera din prenumeration",
+  "manageComponentsYouAreSubscribedTo": "Hantera komponenter du prenumererar på",
+  "manageYourNotificationSettings": "Hantera dina aviseringsinställningar →"
 }

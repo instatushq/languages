@@ -247,5 +247,9 @@
   "genericNotice": "genel bildirim",
   "genericNotices": "genel bildirimler",
   "noticeDetails": "Bildirim detayları",
-  "Posted": "Yayınlandı"
+  "Posted": "Yayınlandı",
+  "manageSubscription": "Aboneliği yönetin",
+  "manageYourSubscription": "Aboneliğinizi yönetin",
+  "manageComponentsYouAreSubscribedTo": "Abone olduğunuz bileşenleri yönetin",
+  "manageYourNotificationSettings": "Bildirim ayarlarınızı yönetin →"
 }

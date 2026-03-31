@@ -247,5 +247,9 @@
   "genericNotice": "obecné oznámení",
   "genericNotices": "obecná oznámení",
   "noticeDetails": "Podrobnosti oznámení",
-  "Posted": "Zveřejněno"
+  "Posted": "Zveřejněno",
+  "manageSubscription": "Spravovat předplatné",
+  "manageYourSubscription": "Spravujte své předplatné",
+  "manageComponentsYouAreSubscribedTo": "Správa komponent, ke kterým jste přihlášeni",
+  "manageYourNotificationSettings": "Spravujte nastavení oznámení →"
 }

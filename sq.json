@@ -247,5 +247,9 @@
   "genericNotice": "njoftim i përgjithshëm",
   "genericNotices": "njoftime të përgjithshme",
   "noticeDetails": "Detajet e njoftimit",
-  "Posted": "Postuar"
+  "Posted": "Postuar",
+  "manageSubscription": "Menaxho abonimin",
+  "manageYourSubscription": "Menaxho abonimin tënd",
+  "manageComponentsYouAreSubscribedTo": "Menaxhoni komponentët në të cilët jeni abonuar",
+  "manageYourNotificationSettings": "Menaxho cilësimet e njoftimeve →"
 }

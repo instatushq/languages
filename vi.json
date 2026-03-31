@@ -247,5 +247,9 @@
   "genericNotice": "thông báo chung",
   "genericNotices": "thông báo chung",
   "noticeDetails": "Thông báo chi tiết",
-  "Posted": "Đã đăng"
+  "Posted": "Đã đăng",
+  "manageSubscription": "Quản lý đăng ký",
+  "manageYourSubscription": "Quản lý gói đăng ký của bạn",
+  "manageComponentsYouAreSubscribedTo": "Quản lý các thành phần mà bạn đã đăng ký.",
+  "manageYourNotificationSettings": "Quản lý cài đặt thông báo của bạn →"
 }

@@ -247,5 +247,9 @@
   "genericNotice": "algemene kennisgeving",
   "genericNotices": "algemene mededelingen",
   "noticeDetails": "Details van de kennisgeving",
-  "Posted": "Geplaatst"
+  "Posted": "Geplaatst",
+  "manageSubscription": "Abonnement beheren",
+  "manageYourSubscription": "Beheer uw abonnement",
+  "manageComponentsYouAreSubscribedTo": "Beheer de componenten waarop u bent geabonneerd.",
+  "manageYourNotificationSettings": "Beheer je notificatie-instellingen →"
 }

@@ -247,5 +247,9 @@
   "genericNotice": "aviso genérico",
   "genericNotices": "avisos genéricos",
   "noticeDetails": "Detalhes do aviso",
-  "Posted": "Publicado"
+  "Posted": "Publicado",
+  "manageSubscription": "Gerenciar assinatura",
+  "manageYourSubscription": "Gerencie sua assinatura",
+  "manageComponentsYouAreSubscribedTo": "Gerencie os componentes aos quais você está inscrito.",
+  "manageYourNotificationSettings": "Gerencie suas configurações de notificação →"
 }

@@ -247,5 +247,9 @@
   "genericNotice": "splošno obvestilo",
   "genericNotices": "splošna obvestila",
   "noticeDetails": "Podrobnosti obvestila",
-  "Posted": "Objavljeno"
+  "Posted": "Objavljeno",
+  "manageSubscription": "Upravljanje naročnine",
+  "manageYourSubscription": "Upravljajte svojo naročnino",
+  "manageComponentsYouAreSubscribedTo": "Upravljajte komponente, na katere ste naročeni",
+  "manageYourNotificationSettings": "Upravljajte nastavitve obvestil →"
 }

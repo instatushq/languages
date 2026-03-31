@@ -247,5 +247,9 @@
   "genericNotice": "ogólne powiadomienie",
   "genericNotices": "powiadomienia ogólne",
   "noticeDetails": "Szczegóły powiadomienia",
-  "Posted": "Opublikowano"
+  "Posted": "Opublikowano",
+  "manageSubscription": "Zarządzaj subskrypcją",
+  "manageYourSubscription": "Zarządzaj swoją subskrypcją",
+  "manageComponentsYouAreSubscribedTo": "Zarządzaj komponentami, które subskrybujesz",
+  "manageYourNotificationSettings": "Zarządzaj ustawieniami powiadomień →"
 }

@@ -247,5 +247,9 @@
   "genericNotice": "通用通知",
   "genericNotices": "通用通知",
   "noticeDetails": "通知详情",
-  "Posted": "发布"
+  "Posted": "发布",
+  "manageSubscription": "管理订阅",
+  "manageYourSubscription": "管理您的订阅",
+  "manageComponentsYouAreSubscribedTo": "管理您订阅的组件",
+  "manageYourNotificationSettings": "管理您的通知设置 →"
 }
