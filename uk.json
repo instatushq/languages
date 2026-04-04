@@ -251,5 +251,10 @@
   "manageSubscription": "Керування підпискою",
   "manageYourSubscription": "Керуйте своєю підпискою",
   "manageComponentsYouAreSubscribedTo": "Керування компонентами, на які ви підписані",
-  "manageYourNotificationSettings": "Керування налаштуваннями сповіщень →"
+  "manageYourNotificationSettings": "Керування налаштуваннями сповіщень →",
+  "repeatsDaily": "Повторюється щодня",
+  "repeatsWeekdays": "Повторюється у будні дні",
+  "repeatsWeekly": "Повторюється щотижня",
+  "repeatsMonthly": "Повторюється щомісяця",
+  "repeatsYearly": "Повторюється щорічно"
 }

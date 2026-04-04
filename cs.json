@@ -251,5 +251,10 @@
   "manageSubscription": "Spravovat předplatné",
   "manageYourSubscription": "Spravujte své předplatné",
   "manageComponentsYouAreSubscribedTo": "Správa komponent, ke kterým jste přihlášeni",
-  "manageYourNotificationSettings": "Spravujte nastavení oznámení →"
+  "manageYourNotificationSettings": "Spravujte nastavení oznámení →",
+  "repeatsDaily": "Opakuje se denně",
+  "repeatsWeekdays": "Opakuje se ve všední dny",
+  "repeatsWeekly": "Opakuje se každý týden",
+  "repeatsMonthly": "Opakuje se měsíčně",
+  "repeatsYearly": "Opakuje se každoročně"
 }

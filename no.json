@@ -251,5 +251,10 @@
   "manageSubscription": "Administrer abonnement",
   "manageYourSubscription": "Administrer abonnementet ditt",
   "manageComponentsYouAreSubscribedTo": "Administrer komponenter du abonnerer på",
-  "manageYourNotificationSettings": "Administrer varslingsinnstillingene dine →"
+  "manageYourNotificationSettings": "Administrer varslingsinnstillingene dine →",
+  "repeatsDaily": "Gjentas daglig",
+  "repeatsWeekdays": "Gjentas på hverdager",
+  "repeatsWeekly": "Gjentas ukentlig",
+  "repeatsMonthly": "Gjentas månedlig",
+  "repeatsYearly": "Gjentas årlig"
 }

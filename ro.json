@@ -251,5 +251,10 @@
   "manageSubscription": "Gestionează abonamentul",
   "manageYourSubscription": "Gestionează-ți abonamentul",
   "manageComponentsYouAreSubscribedTo": "Gestionați componentele la care sunteți abonat",
-  "manageYourNotificationSettings": "Gestionează setările de notificare →"
+  "manageYourNotificationSettings": "Gestionează setările de notificare →",
+  "repeatsDaily": "Se repetă zilnic",
+  "repeatsWeekdays": "Se repetă în zilele lucrătoare",
+  "repeatsWeekly": "Se repetă săptămânal",
+  "repeatsMonthly": "Se repetă lunar",
+  "repeatsYearly": "Se repetă anual"
 }

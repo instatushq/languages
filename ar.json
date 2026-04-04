@@ -251,5 +251,10 @@
   "manageSubscription": "إدارة الاشتراك",
   "manageYourSubscription": "إدارة اشتراكك",
   "manageComponentsYouAreSubscribedTo": "إدارة المكونات التي اشتركت بها",
-  "manageYourNotificationSettings": "إدارة إعدادات الإشعارات →"
+  "manageYourNotificationSettings": "إدارة إعدادات الإشعارات →",
+  "repeatsDaily": "يتكرر يومياً",
+  "repeatsWeekdays": "يُعاد عرضه خلال أيام الأسبوع",
+  "repeatsWeekly": "يتكرر أسبوعياً",
+  "repeatsMonthly": "يتكرر شهريًا",
+  "repeatsYearly": "يتكرر سنوياً"
 }

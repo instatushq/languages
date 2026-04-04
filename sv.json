@@ -251,5 +251,10 @@
   "manageSubscription": "Hantera prenumeration",
   "manageYourSubscription": "Hantera din prenumeration",
   "manageComponentsYouAreSubscribedTo": "Hantera komponenter du prenumererar på",
-  "manageYourNotificationSettings": "Hantera dina aviseringsinställningar →"
+  "manageYourNotificationSettings": "Hantera dina aviseringsinställningar →",
+  "repeatsDaily": "Upprepas dagligen",
+  "repeatsWeekdays": "Upprepas vardagar",
+  "repeatsWeekly": "Upprepas varje vecka",
+  "repeatsMonthly": "Upprepas varje månad",
+  "repeatsYearly": "Upprepas årligen"
 }

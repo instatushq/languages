@@ -251,5 +251,10 @@
   "manageSubscription": "Tellimuse haldamine",
   "manageYourSubscription": "Tellimuse haldamine",
   "manageComponentsYouAreSubscribedTo": "Halda komponente, millele oled tellinud",
-  "manageYourNotificationSettings": "Halda oma teavitusseadeid →"
+  "manageYourNotificationSettings": "Halda oma teavitusseadeid →",
+  "repeatsDaily": "Kordub iga päev",
+  "repeatsWeekdays": "Kordub nädalapäevadel",
+  "repeatsWeekly": "Kordub iganädalaselt",
+  "repeatsMonthly": "Kordub igakuiselt",
+  "repeatsYearly": "Kordub igal aastal"
 }

@@ -251,5 +251,10 @@
   "manageSubscription": "Abonnement beheren",
   "manageYourSubscription": "Beheer uw abonnement",
   "manageComponentsYouAreSubscribedTo": "Beheer de componenten waarop u bent geabonneerd.",
-  "manageYourNotificationSettings": "Beheer je notificatie-instellingen →"
+  "manageYourNotificationSettings": "Beheer je notificatie-instellingen →",
+  "repeatsDaily": "Herhaalt zich dagelijks",
+  "repeatsWeekdays": "Herhaalt zich op weekdagen",
+  "repeatsWeekly": "Herhaalt zich wekelijks",
+  "repeatsMonthly": "Herhaalt zich maandelijks",
+  "repeatsYearly": "Herhaalt zich jaarlijks"
 }

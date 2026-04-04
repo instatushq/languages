@@ -251,5 +251,10 @@
   "manageSubscription": "購読を管理する",
   "manageYourSubscription": "購読を管理する",
   "manageComponentsYouAreSubscribedTo": "購読しているコンポーネントを管理する",
-  "manageYourNotificationSettings": "通知設定を管理する →"
+  "manageYourNotificationSettings": "通知設定を管理する →",
+  "repeatsDaily": "毎日繰り返す",
+  "repeatsWeekdays": "平日に繰り返し放送",
+  "repeatsWeekly": "毎週繰り返す",
+  "repeatsMonthly": "毎月繰り返される",
+  "repeatsYearly": "毎年繰り返される"
 }

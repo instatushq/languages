@@ -251,5 +251,10 @@
   "manageSubscription": "Hallinnoi tilausta",
   "manageYourSubscription": "Hallinnoi tilaustasi",
   "manageComponentsYouAreSubscribedTo": "Hallinnoi tilaamiasi komponentteja",
-  "manageYourNotificationSettings": "Hallinnoi ilmoitusasetuksiasi →"
+  "manageYourNotificationSettings": "Hallinnoi ilmoitusasetuksiasi →",
+  "repeatsDaily": "Toistuu päivittäin",
+  "repeatsWeekdays": "Toistuu arkipäivisin",
+  "repeatsWeekly": "Toistuu viikoittain",
+  "repeatsMonthly": "Toistuu kuukausittain",
+  "repeatsYearly": "Toistuu vuosittain"
 }

@@ -251,5 +251,10 @@
   "manageSubscription": "Kelola langganan",
   "manageYourSubscription": "Kelola langganan Anda",
   "manageComponentsYouAreSubscribedTo": "Kelola komponen yang Anda langgan",
-  "manageYourNotificationSettings": "Kelola pengaturan notifikasi Anda →"
+  "manageYourNotificationSettings": "Kelola pengaturan notifikasi Anda →",
+  "repeatsDaily": "Diulang setiap hari",
+  "repeatsWeekdays": "Tayangan ulang setiap hari kerja",
+  "repeatsWeekly": "Tayangan berulang setiap minggu",
+  "repeatsMonthly": "Berulang setiap bulan",
+  "repeatsYearly": "Diulang setiap tahun"
 }

@@ -251,5 +251,10 @@
   "manageSubscription": "Gestisci l'abbonamento",
   "manageYourSubscription": "Gestisci il tuo abbonamento",
   "manageComponentsYouAreSubscribedTo": "Gestisci i componenti a cui sei abbonato",
-  "manageYourNotificationSettings": "Gestisci le tue impostazioni di notifica →"
+  "manageYourNotificationSettings": "Gestisci le tue impostazioni di notifica →",
+  "repeatsDaily": "Ripetizioni giornaliere",
+  "repeatsWeekdays": "si ripete nei giorni feriali",
+  "repeatsWeekly": "Si ripete settimanalmente",
+  "repeatsMonthly": "ricorre mensilmente",
+  "repeatsYearly": "Si ripete annualmente"
 }

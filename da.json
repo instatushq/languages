@@ -251,5 +251,10 @@
   "manageSubscription": "Administrer abonnement",
   "manageYourSubscription": "Administrer dit abonnement",
   "manageComponentsYouAreSubscribedTo": "Administrer komponenter, du abonnerer på",
-  "manageYourNotificationSettings": "Administrer dine notifikationsindstillinger →"
+  "manageYourNotificationSettings": "Administrer dine notifikationsindstillinger →",
+  "repeatsDaily": "Gentages dagligt",
+  "repeatsWeekdays": "Gentages på hverdage",
+  "repeatsWeekly": "Gentages ugentligt",
+  "repeatsMonthly": "Gentages månedligt",
+  "repeatsYearly": "Gentages årligt"
 }
