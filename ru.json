@@ -251,5 +251,10 @@
   "manageSubscription": "Управление подпиской",
   "manageYourSubscription": "Управление подпиской",
   "manageComponentsYouAreSubscribedTo": "Управляйте компонентами, на которые вы подписаны.",
-  "manageYourNotificationSettings": "Управление настройками уведомлений →"
+  "manageYourNotificationSettings": "Управление настройками уведомлений →",
+  "repeatsDaily": "Повторяется ежедневно",
+  "repeatsWeekdays": "Повторяется по будням",
+  "repeatsWeekly": "Повторяется еженедельно",
+  "repeatsMonthly": "Повторяется ежемесячно",
+  "repeatsYearly": "Повторяется ежегодно"
 }

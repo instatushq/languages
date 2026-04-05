@@ -241,5 +241,10 @@
   "manageSubscription": "Управљање претплатом",
   "manageYourSubscription": "Управљајте својом претплатом",
   "manageComponentsYouAreSubscribedTo": "Управљајте компонентама на које сте претплаћени",
-  "manageYourNotificationSettings": "Управљајте подешавањима обавештења →"
+  "manageYourNotificationSettings": "Управљајте подешавањима обавештења →",
+  "repeatsDaily": "Понавља се свакодневно",
+  "repeatsWeekdays": "Понавља се радним данима",
+  "repeatsWeekly": "Понавља се недељно",
+  "repeatsMonthly": "Понавља се месечно",
+  "repeatsYearly": "Понавља се годишње"
 }

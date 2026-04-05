@@ -251,5 +251,10 @@
   "manageSubscription": "Előfizetés kezelése",
   "manageYourSubscription": "Előfizetés kezelése",
   "manageComponentsYouAreSubscribedTo": "Az előfizetett összetevők kezelése",
-  "manageYourNotificationSettings": "Értesítési beállítások kezelése →"
+  "manageYourNotificationSettings": "Értesítési beállítások kezelése →",
+  "repeatsDaily": "Naponta ismétlődik",
+  "repeatsWeekdays": "Ismétlődik hétköznapokon",
+  "repeatsWeekly": "Hetente ismétlődik",
+  "repeatsMonthly": "Havonta ismétlődik",
+  "repeatsYearly": "Évente ismétlődik"
 }

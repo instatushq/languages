@@ -251,5 +251,10 @@
   "manageSubscription": "Abonnement verwalten",
   "manageYourSubscription": "Verwalten Sie Ihr Abonnement",
   "manageComponentsYouAreSubscribedTo": "Verwalten Sie die Komponenten, die Sie abonniert haben.",
-  "manageYourNotificationSettings": "Verwalten Sie Ihre Benachrichtigungseinstellungen →"
+  "manageYourNotificationSettings": "Verwalten Sie Ihre Benachrichtigungseinstellungen →",
+  "repeatsDaily": "Wiederholt sich täglich",
+  "repeatsWeekdays": "Wiederholt sich an Wochentagen",
+  "repeatsWeekly": "Wiederholt sich wöchentlich",
+  "repeatsMonthly": "Wiederholt sich monatlich",
+  "repeatsYearly": "Wiederholt sich jährlich"
 }

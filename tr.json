@@ -251,5 +251,10 @@
   "manageSubscription": "Aboneliği yönetin",
   "manageYourSubscription": "Aboneliğinizi yönetin",
   "manageComponentsYouAreSubscribedTo": "Abone olduğunuz bileşenleri yönetin",
-  "manageYourNotificationSettings": "Bildirim ayarlarınızı yönetin →"
+  "manageYourNotificationSettings": "Bildirim ayarlarınızı yönetin →",
+  "repeatsDaily": "Günlük olarak tekrarlanır",
+  "repeatsWeekdays": "Hafta içi tekrarlanır",
+  "repeatsWeekly": "Haftalık olarak tekrarlanır",
+  "repeatsMonthly": "Aylık olarak tekrarlanır",
+  "repeatsYearly": "Her yıl tekrarlanır"
 }

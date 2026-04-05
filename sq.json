@@ -251,5 +251,10 @@
   "manageSubscription": "Menaxho abonimin",
   "manageYourSubscription": "Menaxho abonimin tënd",
   "manageComponentsYouAreSubscribedTo": "Menaxhoni komponentët në të cilët jeni abonuar",
-  "manageYourNotificationSettings": "Menaxho cilësimet e njoftimeve →"
+  "manageYourNotificationSettings": "Menaxho cilësimet e njoftimeve →",
+  "repeatsDaily": "Përsëritet çdo ditë",
+  "repeatsWeekdays": "Përsëritet gjatë ditëve të javës",
+  "repeatsWeekly": "Përsëritet çdo javë",
+  "repeatsMonthly": "Përsëritet çdo muaj",
+  "repeatsYearly": "Përsëritet çdo vit"
 }

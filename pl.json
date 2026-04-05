@@ -251,5 +251,10 @@
   "manageSubscription": "Zarządzaj subskrypcją",
   "manageYourSubscription": "Zarządzaj swoją subskrypcją",
   "manageComponentsYouAreSubscribedTo": "Zarządzaj komponentami, które subskrybujesz",
-  "manageYourNotificationSettings": "Zarządzaj ustawieniami powiadomień →"
+  "manageYourNotificationSettings": "Zarządzaj ustawieniami powiadomień →",
+  "repeatsDaily": "Powtarza się codziennie",
+  "repeatsWeekdays": "Powtarza się w dni powszednie",
+  "repeatsWeekly": "Powtarza się co tydzień",
+  "repeatsMonthly": "Powtarza się co miesiąc",
+  "repeatsYearly": "Powtarza się co roku"
 }

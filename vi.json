@@ -251,5 +251,10 @@
   "manageSubscription": "Quản lý đăng ký",
   "manageYourSubscription": "Quản lý gói đăng ký của bạn",
   "manageComponentsYouAreSubscribedTo": "Quản lý các thành phần mà bạn đã đăng ký.",
-  "manageYourNotificationSettings": "Quản lý cài đặt thông báo của bạn →"
+  "manageYourNotificationSettings": "Quản lý cài đặt thông báo của bạn →",
+  "repeatsDaily": "Lặp lại hàng ngày",
+  "repeatsWeekdays": "Lặp lại các ngày trong tuần",
+  "repeatsWeekly": "Lặp lại hàng tuần",
+  "repeatsMonthly": "Lặp lại hàng tháng",
+  "repeatsYearly": "Lặp lại hàng năm"
 }

@@ -251,5 +251,10 @@
   "manageSubscription": "Manage subscription",
   "manageYourSubscription": "Manage your subscription",
   "manageComponentsYouAreSubscribedTo": "Manage components you're subscribed to",
-  "manageYourNotificationSettings": "Manage your notification settings →"
+  "manageYourNotificationSettings": "Manage your notification settings →",
+  "repeatsDaily": "Repeats daily",
+  "repeatsWeekdays": "Repeats weekdays",
+  "repeatsWeekly": "Repeats weekly",
+  "repeatsMonthly": "Repeats monthly",
+  "repeatsYearly": "Repeats yearly"
 }
