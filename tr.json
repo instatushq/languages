@@ -264,7 +264,7 @@
   "showOriginal": "Orijinali göster",
   "translating": "Çevriliyor...",
   "downloadingTranslationModel": "Çeviri modeli indiriliyor...",
-  "percentComplete": "%{{pct}} tamamlandı",
+  "percentComplete": "{{pct}}% tamamlandı",
   "translationFailed": "Çeviri başarısız oldu",
   "yourName": "Adınız",
   "addAComment": "Yorum ekle...",
