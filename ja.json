@@ -300,5 +300,6 @@
   "switchToDarkMode": "ダークモードに切り替え",
   "allServices": "すべてのサービス",
   "thatsAll": "以上です",
-  "serviceNotFoundDescription": "お探しのサービスは存在しないか、まだ追加されていません。"
+  "serviceNotFoundDescription": "お探しのサービスは存在しないか、まだ追加されていません。",
+  "slackSend": "状況を更新する際には、Slackチャンネルに更新情報をお送りします。"
 }

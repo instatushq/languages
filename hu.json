@@ -300,5 +300,6 @@
   "switchToDarkMode": "Váltás sötét módra",
   "allServices": "Összes szolgáltatás",
   "thatsAll": "Ennyi",
-  "serviceNotFoundDescription": "A keresett szolgáltatás nem létezik vagy még nem lett hozzáadva."
+  "serviceNotFoundDescription": "A keresett szolgáltatás nem létezik vagy még nem lett hozzáadva.",
+  "slackSend": "Amikor frissítjük az állapotunkat, elküldjük a frissítéseket a Slack csatornádra."
 }

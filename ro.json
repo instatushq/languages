@@ -300,5 +300,6 @@
   "switchToDarkMode": "Comută la modul întunecat",
   "allServices": "Toate serviciile",
   "thatsAll": "Asta e tot",
-  "serviceNotFoundDescription": "Serviciul pe care îl cauți nu există sau nu a fost încă adăugat."
+  "serviceNotFoundDescription": "Serviciul pe care îl cauți nu există sau nu a fost încă adăugat.",
+  "slackSend": "Când ne vom actualiza starea, vă vom trimite actualizările pe canalul dvs. Slack."
 }

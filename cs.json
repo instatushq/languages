@@ -300,5 +300,6 @@
   "switchToDarkMode": "Přepnout na tmavý režim",
   "allServices": "Všechny služby",
   "thatsAll": "To je vše",
-  "serviceNotFoundDescription": "Služba, kterou hledáte, neexistuje nebo nebyla dosud přidána."
+  "serviceNotFoundDescription": "Služba, kterou hledáte, neexistuje nebo nebyla dosud přidána.",
+  "slackSend": "Jakmile aktualizujeme náš stav, zašleme vám aktualizace na váš Slack kanál."
 }

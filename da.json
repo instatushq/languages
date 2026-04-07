@@ -300,5 +300,6 @@
   "switchToDarkMode": "Skift til mørkt tema",
   "allServices": "Alle tjenester",
   "thatsAll": "Det er det",
-  "serviceNotFoundDescription": "Tjenesten du leder efter findes ikke eller er ikke blevet tilføjet endnu."
+  "serviceNotFoundDescription": "Tjenesten du leder efter findes ikke eller er ikke blevet tilføjet endnu.",
+  "slackSend": "Når vi opdaterer vores status, sender vi dig opdateringerne til din Slack-kanal."
 }

@@ -300,5 +300,6 @@
   "switchToDarkMode": "Preklopi na temni način",
   "allServices": "Vse storitve",
   "thatsAll": "To je vse",
-  "serviceNotFoundDescription": "Storitev, ki jo iščete, ne obstaja ali še ni bila dodana."
+  "serviceNotFoundDescription": "Storitev, ki jo iščete, ne obstaja ali še ni bila dodana.",
+  "slackSend": "Ko posodobimo stanje, vam bomo posodobitve poslali v vaš Slack kanal."
 }

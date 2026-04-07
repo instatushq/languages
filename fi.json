@@ -300,5 +300,6 @@
   "switchToDarkMode": "Vaihda tummaan tilaan",
   "allServices": "Kaikki palvelut",
   "thatsAll": "Siinä kaikki",
-  "serviceNotFoundDescription": "Etsimääsi palvelua ei ole olemassa tai sitä ei ole vielä lisätty."
+  "serviceNotFoundDescription": "Etsimääsi palvelua ei ole olemassa tai sitä ei ole vielä lisätty.",
+  "slackSend": "Kun päivitämme tilaamme, lähetämme sinulle päivitykset Slack-kanavallesi."
 }

@@ -300,5 +300,6 @@
   "switchToDarkMode": "Beralih ke mode gelap",
   "allServices": "Semua layanan",
   "thatsAll": "Itu saja",
-  "serviceNotFoundDescription": "Layanan yang Anda cari tidak ada atau belum ditambahkan."
+  "serviceNotFoundDescription": "Layanan yang Anda cari tidak ada atau belum ditambahkan.",
+  "slackSend": "Saat kami memperbarui status, kami akan mengirimkan pembaruan tersebut ke saluran Slack Anda."
 }

@@ -300,5 +300,6 @@
   "switchToDarkMode": "Overschakelen naar donkere modus",
   "allServices": "Alle diensten",
   "thatsAll": "Dat is alles",
-  "serviceNotFoundDescription": "De dienst die je zoekt bestaat niet of is nog niet toegevoegd."
+  "serviceNotFoundDescription": "De dienst die je zoekt bestaat niet of is nog niet toegevoegd.",
+  "slackSend": "Wanneer we onze status bijwerken, sturen we de updates naar je Slack-kanaal."
 }

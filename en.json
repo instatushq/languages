@@ -300,5 +300,6 @@
   "switchToDarkMode": "Switch to dark mode",
   "allServices": "All services",
   "thatsAll": "That's it",
-  "serviceNotFoundDescription": "The service you're looking for doesn't exist or hasn't been added yet."
+  "serviceNotFoundDescription": "The service you're looking for doesn't exist or hasn't been added yet.",
+  "slackSend": "When we update our status, we'll send you the updates to your Slack channel."
 }

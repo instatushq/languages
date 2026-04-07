@@ -300,5 +300,6 @@
   "switchToDarkMode": "Lülitu tumedasse režiimi",
   "allServices": "Kõik teenused",
   "thatsAll": "See on kõik",
-  "serviceNotFoundDescription": "Teenust, mida otsid, ei eksisteeri või pole seda veel lisatud."
+  "serviceNotFoundDescription": "Teenust, mida otsid, ei eksisteeri või pole seda veel lisatud.",
+  "slackSend": "Kui me oma olekut värskendame, saadame teile värskendused teie Slacki kanalile."
 }

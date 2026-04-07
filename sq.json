@@ -300,5 +300,6 @@
   "switchToDarkMode": "Kalo në modalitetin e errët",
   "allServices": "Të gjitha shërbimet",
   "thatsAll": "Kjo është e gjitha",
-  "serviceNotFoundDescription": "Shërbimi që po kërkoni nuk ekziston ose nuk është shtuar ende."
+  "serviceNotFoundDescription": "Shërbimi që po kërkoni nuk ekziston ose nuk është shtuar ende.",
+  "slackSend": "Kur të përditësojmë statusin tonë, do t'ju dërgojmë përditësimet në kanalin tuaj në Slack."
 }

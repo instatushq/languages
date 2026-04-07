@@ -300,5 +300,6 @@
   "switchToDarkMode": "切换到深色模式",
   "allServices": "所有服务",
   "thatsAll": "就这些了",
-  "serviceNotFoundDescription": "您查找的服务不存在或尚未被添加。"
+  "serviceNotFoundDescription": "您查找的服务不存在或尚未被添加。",
+  "slackSend": "当我们更新状态时，我们会将更新内容发送到您的 Slack 频道。"
 }

@@ -300,5 +300,6 @@
   "switchToDarkMode": "Koyu temaya geç",
   "allServices": "Tüm hizmetler",
   "thatsAll": "Hepsi bu",
-  "serviceNotFoundDescription": "Aradığınız hizmet mevcut değil veya henüz eklenmedi."
+  "serviceNotFoundDescription": "Aradığınız hizmet mevcut değil veya henüz eklenmedi.",
+  "slackSend": "Durumumuzu güncellediğimizde, güncellemeleri Slack kanalınıza göndereceğiz."
 }

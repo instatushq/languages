@@ -289,5 +289,6 @@
   "switchToDarkMode": "Prebaci na tamnu temu",
   "allServices": "Svi servisi",
   "thatsAll": "To je sve",
-  "serviceNotFoundDescription": "Servis koji tražite ne postoji ili još nije dodat."
+  "serviceNotFoundDescription": "Servis koji tražite ne postoji ili još nije dodat.",
+  "slackSend": "Када ажурирамо наш статус, послаћемо вам новости на ваш Slack канал."
 }
