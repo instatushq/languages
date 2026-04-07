@@ -301,5 +301,6 @@
   "allServices": "すべてのサービス",
   "thatsAll": "以上です",
   "serviceNotFoundDescription": "お探しのサービスは存在しないか、まだ追加されていません。",
-  "slackSend": "状況を更新する際には、Slackチャンネルに更新情報をお送りします。"
+  "slackSend": "状況を更新する際には、Slackチャンネルに更新情報をお送りします。",
+  "discordSend": "状況を更新した際には、Discordチャンネルに更新情報をお送りします。"
 }

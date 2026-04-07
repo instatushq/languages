@@ -301,5 +301,6 @@
   "allServices": "Toate serviciile",
   "thatsAll": "Asta e tot",
   "serviceNotFoundDescription": "Serviciul pe care îl cauți nu există sau nu a fost încă adăugat.",
-  "slackSend": "Când ne vom actualiza starea, vă vom trimite actualizările pe canalul dvs. Slack."
+  "slackSend": "Când ne vom actualiza starea, vă vom trimite actualizările pe canalul dvs. Slack.",
+  "discordSend": "Când ne vom actualiza statusul, îți vom trimite actualizările pe canalul tău de Discord."
 }

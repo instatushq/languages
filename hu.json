@@ -301,5 +301,6 @@
   "allServices": "Összes szolgáltatás",
   "thatsAll": "Ennyi",
   "serviceNotFoundDescription": "A keresett szolgáltatás nem létezik vagy még nem lett hozzáadva.",
-  "slackSend": "Amikor frissítjük az állapotunkat, elküldjük a frissítéseket a Slack csatornádra."
+  "slackSend": "Amikor frissítjük az állapotunkat, elküldjük a frissítéseket a Slack csatornádra.",
+  "discordSend": "Amikor frissítjük az állapotunkat, elküldjük a frissítéseket a Discord csatornádra."
 }

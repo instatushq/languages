@@ -301,5 +301,6 @@
   "allServices": "Vse storitve",
   "thatsAll": "To je vse",
   "serviceNotFoundDescription": "Storitev, ki jo iščete, ne obstaja ali še ni bila dodana.",
-  "slackSend": "Ko posodobimo stanje, vam bomo posodobitve poslali v vaš Slack kanal."
+  "slackSend": "Ko posodobimo stanje, vam bomo posodobitve poslali v vaš Slack kanal.",
+  "discordSend": "Ko posodobimo naš status, vam bomo posodobitve poslali na vaš Discord kanal."
 }

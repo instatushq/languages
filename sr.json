@@ -290,5 +290,6 @@
   "allServices": "Svi servisi",
   "thatsAll": "To je sve",
   "serviceNotFoundDescription": "Servis koji tražite ne postoji ili još nije dodat.",
-  "slackSend": "Када ажурирамо наш статус, послаћемо вам новости на ваш Slack канал."
+  "slackSend": "Када ажурирамо наш статус, послаћемо вам новости на ваш Slack канал.",
+  "discordSend": "Када ажурирамо наш статус, послаћемо вам новости на ваш Discord канал."
 }

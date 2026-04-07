@@ -294,5 +294,6 @@
   "allServices": "所有服務",
   "thatsAll": "就這些了",
   "serviceNotFoundDescription": "您尋找的服務不存在或尚未被加入。",
-  "slackSend": "當我們更新狀態時，我們會將更新內容傳送到您的 Slack 頻道。"
+  "slackSend": "當我們更新狀態時，我們會將更新內容傳送到您的 Slack 頻道。",
+  "discordSend": "當我們更新狀態時，我們會將更新內容傳送到您的 Discord 頻道。"
 }

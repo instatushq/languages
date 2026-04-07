@@ -301,5 +301,6 @@
   "allServices": "Tất cả dịch vụ",
   "thatsAll": "Đó là tất cả",
   "serviceNotFoundDescription": "Dịch vụ bạn đang tìm không tồn tại hoặc chưa được thêm.",
-  "slackSend": "Khi chúng tôi cập nhật trạng thái, chúng tôi sẽ gửi thông báo cập nhật đến kênh Slack của bạn."
+  "slackSend": "Khi chúng tôi cập nhật trạng thái, chúng tôi sẽ gửi thông báo cập nhật đến kênh Slack của bạn.",
+  "discordSend": "Khi chúng tôi cập nhật trạng thái, chúng tôi sẽ gửi thông báo đến kênh Discord của bạn."
 }

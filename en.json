@@ -301,5 +301,6 @@
   "allServices": "All services",
   "thatsAll": "That's it",
   "serviceNotFoundDescription": "The service you're looking for doesn't exist or hasn't been added yet.",
-  "slackSend": "When we update our status, we'll send you the updates to your Slack channel."
+  "slackSend": "When we update our status, we'll send you the updates to your Slack channel.",
+  "discordSend": "When we update our status, we'll send you the updates to your Discord channel."
 }

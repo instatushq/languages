@@ -301,5 +301,6 @@
   "allServices": "Alla tjänster",
   "thatsAll": "Det var allt",
   "serviceNotFoundDescription": "Tjänsten du letar efter finns inte eller har inte lagts till ännu.",
-  "slackSend": "När vi uppdaterar vår status skickar vi uppdateringarna till din Slack-kanal."
+  "slackSend": "När vi uppdaterar vår status skickar vi uppdateringarna till din Slack-kanal.",
+  "discordSend": "När vi uppdaterar vår status skickar vi uppdateringarna till din Discord-kanal."
 }

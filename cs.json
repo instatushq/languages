@@ -301,5 +301,6 @@
   "allServices": "Všechny služby",
   "thatsAll": "To je vše",
   "serviceNotFoundDescription": "Služba, kterou hledáte, neexistuje nebo nebyla dosud přidána.",
-  "slackSend": "Jakmile aktualizujeme náš stav, zašleme vám aktualizace na váš Slack kanál."
+  "slackSend": "Jakmile aktualizujeme náš stav, zašleme vám aktualizace na váš Slack kanál.",
+  "discordSend": "Jakmile aktualizujeme náš stav, zašleme vám aktualizace na váš kanál Discord."
 }

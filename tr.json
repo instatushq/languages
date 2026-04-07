@@ -301,5 +301,6 @@
   "allServices": "Tüm hizmetler",
   "thatsAll": "Hepsi bu",
   "serviceNotFoundDescription": "Aradığınız hizmet mevcut değil veya henüz eklenmedi.",
-  "slackSend": "Durumumuzu güncellediğimizde, güncellemeleri Slack kanalınıza göndereceğiz."
+  "slackSend": "Durumumuzu güncellediğimizde, güncellemeleri Slack kanalınıza göndereceğiz.",
+  "discordSend": "Durumumuzu güncellediğimizde, güncellemeleri Discord kanalınız üzerinden size göndereceğiz."
 }

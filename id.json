@@ -301,5 +301,6 @@
   "allServices": "Semua layanan",
   "thatsAll": "Itu saja",
   "serviceNotFoundDescription": "Layanan yang Anda cari tidak ada atau belum ditambahkan.",
-  "slackSend": "Saat kami memperbarui status, kami akan mengirimkan pembaruan tersebut ke saluran Slack Anda."
+  "slackSend": "Saat kami memperbarui status, kami akan mengirimkan pembaruan tersebut ke saluran Slack Anda.",
+  "discordSend": "Saat kami memperbarui status, kami akan mengirimkan pembaruan tersebut ke saluran Discord Anda."
 }

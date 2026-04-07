@@ -301,5 +301,6 @@
   "allServices": "Kõik teenused",
   "thatsAll": "See on kõik",
   "serviceNotFoundDescription": "Teenust, mida otsid, ei eksisteeri või pole seda veel lisatud.",
-  "slackSend": "Kui me oma olekut värskendame, saadame teile värskendused teie Slacki kanalile."
+  "slackSend": "Kui me oma olekut värskendame, saadame teile värskendused teie Slacki kanalile.",
+  "discordSend": "Kui me oma staatust värskendame, saadame sulle värskendused sinu Discordi kanalile."
 }
