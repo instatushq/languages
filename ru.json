@@ -178,7 +178,7 @@
   "findAService": "Найти услугу",
   "noIssuesReportedYet": "О проблемах пока не сообщалось",
   "peopleReportedThis": "{{number}} человек сообщили об этом за последний час",
-  "peopleVisitedThisPage": "{{number}} человек посетили эту страницу за последний час",
+  "peopleVisitedThisPage": "{{number}} человек просматривают эту страницу сейчас",
   "hotRightNow": "Неотложно",
   "services": "Услуги",
   "favorites": "Избранное",

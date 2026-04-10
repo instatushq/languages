@@ -178,7 +178,7 @@
   "findAService": "Bir hizmet bulun",
   "noIssuesReportedYet": "Henüz sorun bildirilmedi",
   "peopleReportedThis": "{{number}} kişi bunu son bir saat içinde bildirdi",
-  "peopleVisitedThisPage": "{{number}} kişi son bir saat içinde bu sayfayı ziyaret etti",
+  "peopleVisitedThisPage": "{{number}} kişi şu anda bu sayfayı görüntülüyor",
   "hotRightNow": "Sıcak şimdi",
   "services": "Hizmetler",
   "favorites": "Favoriler",

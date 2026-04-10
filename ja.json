@@ -178,7 +178,7 @@
   "findAService": "サービスを探す",
   "noIssuesReportedYet": "まだ問題は報告されていません",
   "peopleReportedThis": "{{number}}人が過去1時間にこれを報告しました",
-  "peopleVisitedThisPage": "{{number}}人が過去1時間にこのページを訪問しました",
+  "peopleVisitedThisPage": "{{number}}人が今このページを見ています",
   "hotRightNow": "いま話題",
   "services": "サービス",
   "favorites": "お気に入り",

@@ -178,7 +178,7 @@
   "findAService": "ابحث عن خدمة",
   "noIssuesReportedYet": "لم يتم الإبلاغ عن أية مشكلات حتى الآن",
   "peopleReportedThis": "أبلغ {{number}} من الأشخاص عن هذا في الساعة الأخيرة",
-  "peopleVisitedThisPage": "{{number}} شخص زاروا هذه الصفحة في الساعة الأخيرة",
+  "peopleVisitedThisPage": "{{number}} شخص يتصفحون هذه الصفحة الآن",
   "hotRightNow": "ساخن الآن",
   "services": "خدمات",
   "favorites": "المفضلة",

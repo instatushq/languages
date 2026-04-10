@@ -178,7 +178,7 @@
   "findAService": "Знайдіть послугу",
   "noIssuesReportedYet": "Про проблеми ще не повідомляється",
   "peopleReportedThis": "{{number}} людей повідомили про це за останню годину",
-  "peopleVisitedThisPage": "{{number}} людей відвідали цю сторінку за останню годину",
+  "peopleVisitedThisPage": "{{number}} людей переглядають цю сторінку зараз",
   "hotRightNow": "Жарко зараз",
   "services": "Послуги",
   "favorites": "Вибране",

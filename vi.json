@@ -178,7 +178,7 @@
   "findAService": "Tìm một dịch vụ",
   "noIssuesReportedYet": "Chưa có vấn đề nào được báo cáo",
   "peopleReportedThis": "{{number}} người đã báo cáo điều này trong giờ qua",
-  "peopleVisitedThisPage": "{{number}} người đã truy cập trang này trong giờ qua",
+  "peopleVisitedThisPage": "{{number}} người đang xem trang này",
   "hotRightNow": "Nóng ngay bây giờ",
   "services": "Dịch vụ",
   "favorites": "Yêu thích",

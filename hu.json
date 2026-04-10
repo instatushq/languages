@@ -178,7 +178,7 @@
   "findAService": "Keress egy szolgáltatást",
   "noIssuesReportedYet": "Nincs jelenleg probléma jelentve",
   "peopleReportedThis": "{{number}} ember jelentette ezt az elmúlt egy órában",
-  "peopleVisitedThisPage": "{{number}} ember látogatta meg ezt az oldalt az elmúlt egy órában",
+  "peopleVisitedThisPage": "{{number}} ember nézi ezt az oldalt most",
   "hotRightNow": "Jelenleg népszerű",
   "services": "Szolgáltatások",
   "favorites": "Kedvencek",

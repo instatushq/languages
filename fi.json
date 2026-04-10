@@ -178,7 +178,7 @@
   "findAService": "Etsi palvelu",
   "noIssuesReportedYet": "Ongelmia ei ole vielä raportoitu",
   "peopleReportedThis": "{{number}} henkilöä ilmoitti tästä viimeisen tunnin aikana",
-  "peopleVisitedThisPage": "{{number}} henkilöä vieraili tällä sivulla viimeisen tunnin aikana",
+  "peopleVisitedThisPage": "{{number}} henkilöä katselee tätä sivua nyt",
   "hotRightNow": "Kuuma juuri nyt",
   "services": "Palvelut",
   "favorites": "Suosikit",

@@ -178,7 +178,7 @@
   "findAService": "Trouver un service",
   "noIssuesReportedYet": "Aucun problème signalé pour le moment",
   "peopleReportedThis": "{{number}} personnes l'ont signalé au cours de la dernière heure",
-  "peopleVisitedThisPage": "{{number}} personnes ont visité cette page au cours de la dernière heure",
+  "peopleVisitedThisPage": "{{number}} personnes consultent cette page en ce moment",
   "hotRightNow": "Chaud en ce moment",
   "services": "Prestations de service",
   "favorites": "Favoris",

@@ -178,7 +178,7 @@
   "findAService": "Otsi teenust",
   "noIssuesReportedYet": "Probleemidest pole veel teavitatud",
   "peopleReportedThis": "{{number}} inimest teavitasid sellest probleemist viimase tunni jooksul",
-  "peopleVisitedThisPage": "{{number}} inimest külastas seda lehte viimase tunni jooksul",
+  "peopleVisitedThisPage": "{{number}} inimest vaatab seda lehte praegu",
   "hotRightNow": "Kuum",
   "services": "Teenused",
   "favorites": "Lemmikud",
