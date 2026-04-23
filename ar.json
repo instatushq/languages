@@ -326,6 +326,6 @@
   "serviceFaqHowToCheckQuestion": "كيفية التحقق مما إذا كان {{service}} معطلاً؟",
   "serviceFaqHowToCheckAnswer": "تفضل بزيارة {{url}} لمعرفة حالة {{service}} في الوقت الفعلي. تعرض الصفحة تقارير الانقطاع المباشرة التي قدمها المستخدم ومخطط سجل مدته 12 ساعة حتى تتمكن من معرفة ما إذا كان {{service}} معطلاً أو يواجه مشاكل.",
   "breadcrumbHome": "بيت",
-  "serviceWebPageName": "هل {{service}} معطل؟ - حالة {{service}}",
+  "serviceWebPageName": "هل {{service}} معطل؟ – حالة {{service}}",
   "serviceWebPageDescription": "مراقبة الحالة والانقطاع في الوقت الفعلي لـ {{service}}. معرفة ما إذا كان {{service}} معطلاً وعرض سجل التقرير."
 }
