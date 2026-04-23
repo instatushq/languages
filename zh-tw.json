@@ -306,7 +306,7 @@
   "serviceNotFoundTitle": "未找到服務 – {{siteName}}",
   "isServiceDownQuestion": "{{service}} 掛了嗎？",
   "serviceStatusDescriptionDown": "{{service}} 目前已關閉。檢查即時狀態，查看 {{count}} 最近的停機報告，並查看 12 小時歷史圖表。",
-  "serviceStatusDescriptionUp": "{{service}} 目前已上线。檢查即時狀態，查看 {{count}} 最近的停機報告，並查看 12 小時歷史圖表。",
+  "serviceStatusDescriptionUp": "{{service}} 目前已上線。檢查即時狀態，查看 {{count}} 最近的停機報告，並查看 12 小時歷史圖表。",
   "serviceAnnouncementNameDown": "{{service}} 遇到問題",
   "serviceAnnouncementNameUp": "{{service}} 已投入運作",
   "serviceAnnouncementHeadlineDown": "{{service}} 報告停電",
