@@ -326,6 +326,6 @@
   "serviceFaqHowToCheckQuestion": "Kuidas kontrollida, kas {{service}} on maas?",
   "serviceFaqHowToCheckAnswer": "Külastage lehte {{url}}, et näha {{service}} reaalajas olekut. Lehel kuvatakse reaalajas kasutajate esitatud katkestusaruanded ja 12-tunnine ajaloo diagramm, et saaksite aru saada, kas {{service}} ei tööta või on probleeme.",
   "breadcrumbHome": "Kodu",
-  "serviceWebPageName": "Kas {{service}} on maas? - {{service}} olek",
+  "serviceWebPageName": "Kas {{service}} on maas? – {{service}} olek",
   "serviceWebPageDescription": "{{service}} oleku ja katkestuste reaalajas jälgimine. Vaadake, kas {{service}} on maas, ja vaadake aruannete ajalugu."
 }
