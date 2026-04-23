@@ -306,7 +306,7 @@
   "discordSend": "When we update our status, we'll send you the updates to your Discord channel.",
   "homepageTitle": "{{siteName}} – Is it down? Real-time service status",
   "homepageDescription": "Real-time status monitoring for hundreds of popular services. Check if a service is down, view outage reports, and see 12-hour status history.",
-  "homepageTwitterDescription": "Realtime status based on user reports for thousands of popular services. Check outages and view 12-hour history.",
+  "homepageTwitterDescription": "Real-time status based on user reports for thousands of popular services. Check outages and view 12-hour history.",
   "homepageOgImageAlt": "{{siteName}} – realtime status based on user reports",
   "homepageJsonLdDescription": "Real-time service status monitoring. Check if popular services are down and view outage reports.",
   "popularServices": "Popular services",
