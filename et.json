@@ -304,7 +304,7 @@
   "serviceNotFoundDescription": "Teenust, mida otsid, ei eksisteeri või pole seda veel lisatud.",
   "slackSend": "Kui me oma olekut värskendame, saadame teile värskendused teie Slacki kanalile.",
   "discordSend": "Kui me oma staatust värskendame, saadame sulle värskendused sinu Discordi kanalile.",
-  "homepageTitle": "{{siteName}} – kas see on maas? Reaalajas teenuse olek",
+  "homepageTitle": "{{siteName}} – Kas see on maas? Reaalajas teenuse olek",
   "homepageDescription": "Reaalajas oleku jälgimine sadade populaarsete teenuste jaoks. Kontrollige, kas teenus ei tööta, vaadake katkestuste aruandeid ja vaadake 12-tunnist olekuajalugu.",
   "homepageTwitterDescription": "Reaalajas olek, mis põhineb tuhandete populaarsete teenuste kasutajaaruannetel. Kontrollige katkestusi ja vaadake 12-tunnist ajalugu.",
   "homepageOgImageAlt": "{{siteName}} – reaalajas olek, mis põhineb kasutajaaruannetel",
