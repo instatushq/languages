@@ -327,5 +327,7 @@
   "serviceFaqHowToCheckAnswer": "Visite {{url}} para ver el estado en tiempo real de {{service}}. La página muestra informes de interrupciones en vivo enviados por los usuarios y un gráfico histórico de 12 horas para que pueda saber si {{service}} está inactivo o tiene problemas.",
   "breadcrumbHome": "Hogar",
   "serviceWebPageName": "¿Está caído {{service}}? – Estado {{service}}",
-  "serviceWebPageDescription": "Monitoreo de apagones y estado en tiempo real para {{service}}. Vea si {{service}} está inactivo y vea el historial de informes."
+  "serviceWebPageDescription": "Monitoreo de apagones y estado en tiempo real para {{service}}. Vea si {{service}} está inactivo y vea el historial de informes.",
+  "monitorYourWebsiteWithInstatus": "¡Monitoriza tu propio sitio web con Instatus!",
+  "fromInstatus": "De Instatus.com"
 }

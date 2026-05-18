@@ -327,5 +327,7 @@
   "serviceFaqHowToCheckAnswer": "Truy cập {{url}} để xem trạng thái thời gian thực của {{service}}. Trang này hiển thị các báo cáo ngừng hoạt động trực tiếp do người dùng gửi và biểu đồ lịch sử 12 giờ để bạn có thể biết liệu {{service}} có ngừng hoạt động hay gặp sự cố hay không.",
   "breadcrumbHome": "Trang chủ",
   "serviceWebPageName": "{{service}} có bị hỏng không? – Trạng thái {{service}}",
-  "serviceWebPageDescription": "Giám sát trạng thái thời gian thực và ngừng hoạt động của {{service}}. Xem liệu {{service}} có ngừng hoạt động hay không và xem lịch sử báo cáo."
+  "serviceWebPageDescription": "Giám sát trạng thái thời gian thực và ngừng hoạt động của {{service}}. Xem liệu {{service}} có ngừng hoạt động hay không và xem lịch sử báo cáo.",
+  "monitorYourWebsiteWithInstatus": "Theo dõi trang web của riêng bạn với Instatus!",
+  "fromInstatus": "Từ Instatus.com"
 }

@@ -327,5 +327,7 @@
   "serviceFaqHowToCheckAnswer": "Kunjungi {{url}} untuk melihat status {{service}} secara real-time. Halaman tersebut menampilkan laporan pemadaman langsung yang dikirimkan pengguna dan bagan riwayat 12 jam sehingga Anda dapat mengetahui apakah {{service}} tidak aktif atau mengalami masalah.",
   "breadcrumbHome": "Rumah",
   "serviceWebPageName": "Apakah {{service}} mati? – status {{service}}",
-  "serviceWebPageDescription": "Status real-time dan pemantauan pemadaman untuk {{service}}. Lihat apakah {{service}} tidak aktif dan lihat riwayat laporan."
+  "serviceWebPageDescription": "Status real-time dan pemantauan pemadaman untuk {{service}}. Lihat apakah {{service}} tidak aktif dan lihat riwayat laporan.",
+  "monitorYourWebsiteWithInstatus": "Pantau situs web Anda sendiri dengan Instatus!",
+  "fromInstatus": "Dari Instatus.com"
 }

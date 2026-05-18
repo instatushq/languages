@@ -327,5 +327,7 @@
   "serviceFaqHowToCheckAnswer": "Látogassa meg a {{url}} oldalt, hogy megtekinthesse a {{service}} valós idejű állapotát. Az oldal élő felhasználók által benyújtott kimaradási jelentéseket és egy 12 órás előzménydiagramot jelenít meg, így megállapíthatja, hogy a {{service}} nem működik-e, vagy vannak-e problémák.",
   "breadcrumbHome": "Otthon",
   "serviceWebPageName": "A {{service}} leállt? – {{service}} állapot",
-  "serviceWebPageDescription": "Valós idejű állapot- és kimaradásfigyelés a {{service}} számára. Ellenőrizze, hogy a {{service}} nem működik-e, és tekintse meg a jelentéselőzményeket."
+  "serviceWebPageDescription": "Valós idejű állapot- és kimaradásfigyelés a {{service}} számára. Ellenőrizze, hogy a {{service}} nem működik-e, és tekintse meg a jelentéselőzményeket.",
+  "monitorYourWebsiteWithInstatus": "Figyelje saját webhelyét az Instatusszal!",
+  "fromInstatus": "Az Instatus.com-tól"
 }

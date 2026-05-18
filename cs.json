@@ -327,5 +327,7 @@
   "serviceFaqHowToCheckAnswer": "Navštivte {{url}} a podívejte se na stav {{service}} v reálném čase. Stránka zobrazuje živé zprávy o výpadku odeslané uživateli a 12hodinový graf historie, takže můžete zjistit, zda je {{service}} mimo provoz nebo má problémy.",
   "breadcrumbHome": "Domov",
   "serviceWebPageName": "Je {{service}} nefunkční? – stav {{service}}",
-  "serviceWebPageDescription": "Monitorování stavu a výpadků v reálném čase pro {{service}}. Podívejte se, zda je {{service}} nefunkční, a zobrazte historii hlášení."
+  "serviceWebPageDescription": "Monitorování stavu a výpadků v reálném čase pro {{service}}. Podívejte se, zda je {{service}} nefunkční, a zobrazte historii hlášení.",
+  "monitorYourWebsiteWithInstatus": "Sledujte vlastní web pomocí Instatus!",
+  "fromInstatus": "Z Instatus.com"
 }

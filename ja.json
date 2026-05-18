@@ -327,5 +327,7 @@
   "serviceFaqHowToCheckAnswer": "{{service}} のリアルタイムのステータスを確認するには、{{url}} にアクセスしてください。このページには、ユーザーが送信したライブの停止レポートと 12 時間の履歴グラフが表示されるので、{{service}} がダウンしているか、問題が発生しているかを判断できます。",
   "breadcrumbHome": "ホーム",
   "serviceWebPageName": "{{service}} はダウンしていますか？ – {{service}} ステータス",
-  "serviceWebPageDescription": "{{service}} のリアルタイムステータスと障害状況を監視。{{service}} がダウンしているか確認し、報告履歴を確認できます。"
+  "serviceWebPageDescription": "{{service}} のリアルタイムステータスと障害状況を監視。{{service}} がダウンしているか確認し、報告履歴を確認できます。",
+  "monitorYourWebsiteWithInstatus": "Instatus で自分のウェブサイトを監視しましょう！",
+  "fromInstatus": "Instatus.com より"
 }

@@ -327,5 +327,7 @@
   "serviceFaqHowToCheckAnswer": "Besøg {{url}} for at se realtidsstatus for {{service}}. Siden viser direkte brugerindsendte afbrydelsesrapporter og et 12-timers historikdiagram, så du kan se, om {{service}} er nede eller har problemer.",
   "breadcrumbHome": "Hjem",
   "serviceWebPageName": "Er {{service}} nede? – {{service}} status",
-  "serviceWebPageDescription": "Status- og udfaldsovervågning i realtid for {{service}}. Se, om {{service}} er nede, og se rapporthistorikken."
+  "serviceWebPageDescription": "Status- og udfaldsovervågning i realtid for {{service}}. Se, om {{service}} er nede, og se rapporthistorikken.",
+  "monitorYourWebsiteWithInstatus": "Overvåg dit eget websted med Instatus!",
+  "fromInstatus": "Fra Instatus.com"
 }

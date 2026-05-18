@@ -327,5 +327,7 @@
   "serviceFaqHowToCheckAnswer": "Odwiedź {{url}}, aby zobaczyć status {{service}} w czasie rzeczywistym. Strona wyświetla na bieżąco raporty o przestojach przesyłane przez użytkowników oraz 12-godzinny wykres historii, dzięki czemu można stwierdzić, czy {{service}} nie działa lub występują problemy.",
   "breadcrumbHome": "Dom",
   "serviceWebPageName": "Czy {{service}} nie działa? – stan {{service}}",
-  "serviceWebPageDescription": "Monitorowanie stanu i przestojów w czasie rzeczywistym dla {{service}}. Sprawdź, czy {{service}} nie działa i przejrzyj historię raportów."
+  "serviceWebPageDescription": "Monitorowanie stanu i przestojów w czasie rzeczywistym dla {{service}}. Sprawdź, czy {{service}} nie działa i przejrzyj historię raportów.",
+  "monitorYourWebsiteWithInstatus": "Monitoruj własną stronę za pomocą Instatus!",
+  "fromInstatus": "Z Instatus.com"
 }

@@ -327,5 +327,7 @@
   "serviceFaqHowToCheckAnswer": "Vizitoni {{url}} për të parë statusin në kohë reale të {{service}}. Faqja tregon raporte të drejtpërdrejta të ndërprerjeve të dorëzuara nga përdoruesit dhe një diagram historik 12-orësh, në mënyrë që të mund të dalloni nëse {{service}} është në funksion ose ka probleme.",
   "breadcrumbHome": "Shtëpi",
   "serviceWebPageName": "A është {{service}} i dëmtuar? – Statusi {{service}}",
-  "serviceWebPageDescription": "Monitorimi i statusit dhe ndërprerjeve në kohë reale për {{service}}. Shihni nëse {{service}} nuk funksionon dhe shikoni historikun e raportit."
+  "serviceWebPageDescription": "Monitorimi i statusit dhe ndërprerjeve në kohë reale për {{service}}. Shihni nëse {{service}} nuk funksionon dhe shikoni historikun e raportit.",
+  "monitorYourWebsiteWithInstatus": "Monitoroni faqen tuaj të internetit me Instatus!",
+  "fromInstatus": "Nga Instatus.com"
 }

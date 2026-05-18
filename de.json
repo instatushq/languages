@@ -327,5 +327,7 @@
   "serviceFaqHowToCheckAnswer": "Besuchen Sie {{url}}, um den Echtzeitstatus von {{service}} anzuzeigen. Auf der Seite werden von Benutzern übermittelte Live-Ausfallberichte und ein 12-Stunden-Verlaufsdiagramm angezeigt, sodass Sie erkennen können, ob {{service}} ausgefallen ist oder Probleme vorliegen.",
   "breadcrumbHome": "Startseite",
   "serviceWebPageName": "Ist {{service}} ausgefallen? – {{service}}-Status",
-  "serviceWebPageDescription": "Echtzeit-Status- und Ausfallüberwachung für {{service}}. Überprüfen Sie, ob {{service}} ausgefallen ist, und sehen Sie sich den Berichtsverlauf an."
+  "serviceWebPageDescription": "Echtzeit-Status- und Ausfallüberwachung für {{service}}. Überprüfen Sie, ob {{service}} ausgefallen ist, und sehen Sie sich den Berichtsverlauf an.",
+  "monitorYourWebsiteWithInstatus": "Überwachen Sie Ihre eigene Website mit Instatus!",
+  "fromInstatus": "Von Instatus.com"
 }

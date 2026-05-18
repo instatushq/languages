@@ -327,5 +327,7 @@
   "serviceFaqHowToCheckAnswer": "Відвідайте {{url}}, щоб побачити статус {{service}} у реальному часі. На сторінці відображаються звіти про збої, надіслані користувачами, і 12-годинна діаграма історії, щоб ви могли визначити, чи {{service}} не працює чи має проблеми.",
   "breadcrumbHome": "додому",
   "serviceWebPageName": "{{service}} не працює? – статус {{service}}",
-  "serviceWebPageDescription": "Моніторинг стану та збоїв у режимі реального часу для {{service}}. Подивіться, чи не працює {{service}}, і перегляньте історію звітів."
+  "serviceWebPageDescription": "Моніторинг стану та збоїв у режимі реального часу для {{service}}. Подивіться, чи не працює {{service}}, і перегляньте історію звітів.",
+  "monitorYourWebsiteWithInstatus": "Стежте за власним сайтом за допомогою Instatus!",
+  "fromInstatus": "Від Instatus.com"
 }

@@ -327,5 +327,7 @@
   "serviceFaqHowToCheckAnswer": "Vieraile osoitteessa {{url}} nähdäksesi {{service}}:n reaaliaikainen tila. Sivu näyttää reaaliaikaiset käyttäjien lähettämät käyttökatkosraportit ja 12 tunnin historiakaavion, jotta voit kertoa, onko {{service}} toiminnassa tai onko sinulla ongelmia.",
   "breadcrumbHome": "Kotiin",
   "serviceWebPageName": "Onko {{service}} alhaalla? – {{service}} tila",
-  "serviceWebPageDescription": "Reaaliaikainen tilan ja katkosten valvonta {{service}}:lle. Katso, onko {{service}} alhaalla, ja tarkastele raporttihistoriaa."
+  "serviceWebPageDescription": "Reaaliaikainen tilan ja katkosten valvonta {{service}}:lle. Katso, onko {{service}} alhaalla, ja tarkastele raporttihistoriaa.",
+  "monitorYourWebsiteWithInstatus": "Valvo omaa verkkosivustoasi Instatusilla!",
+  "fromInstatus": "Instatus.comista"
 }

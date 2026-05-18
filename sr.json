@@ -316,5 +316,7 @@
   "serviceFaqHowToCheckAnswer": "Посетите {{url}} да бисте видели статус {{service}} у реалном времену. Страница приказује уживо извештаје о прекиду рада које су послали корисници и 12-часовни графикон историје тако да можете да кажете да ли {{service}} не ради или има проблема.",
   "breadcrumbHome": "Хоме",
   "serviceWebPageName": "Да ли је {{service}} пао? – {{service}} статус",
-  "serviceWebPageDescription": "Праћење статуса и испада у реалном времену за {{service}}. Погледајте да ли {{service}} не ради и погледајте историју извештаја."
+  "serviceWebPageDescription": "Праћење статуса и испада у реалном времену за {{service}}. Погледајте да ли {{service}} не ради и погледајте историју извештаја.",
+  "monitorYourWebsiteWithInstatus": "Пратите свој веб-сајт уз Instatus!",
+  "fromInstatus": "Од Instatus.com"
 }

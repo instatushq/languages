@@ -327,5 +327,7 @@
   "serviceFaqHowToCheckAnswer": "Visitez {{url}} pour voir l’état en temps réel de {{service}}. La page affiche des rapports de panne en direct soumis par les utilisateurs et un historique de 12 heures afin que vous puissiez savoir si {{service}} est en panne ou rencontre des problèmes.",
   "breadcrumbHome": "Accueil",
   "serviceWebPageName": "{{service}} est-il en panne ? – Statut {{service}}",
-  "serviceWebPageDescription": "Surveillance en temps réel de l'état et des pannes de {{service}}. Vérifiez si {{service}} est en panne et consultez l'historique des signalements."
+  "serviceWebPageDescription": "Surveillance en temps réel de l'état et des pannes de {{service}}. Vérifiez si {{service}} est en panne et consultez l'historique des signalements.",
+  "monitorYourWebsiteWithInstatus": "Surveillez votre propre site web avec Instatus !",
+  "fromInstatus": "De Instatus.com"
 }

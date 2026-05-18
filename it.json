@@ -327,5 +327,7 @@
   "serviceFaqHowToCheckAnswer": "Visita {{url}} per vedere lo stato in tempo reale di {{service}}. La pagina mostra i rapporti di interruzione in tempo reale inviati dagli utenti e un grafico cronologico di 12 ore in modo da poter sapere se {{service}} è inattivo o ha problemi.",
   "breadcrumbHome": "Casa",
   "serviceWebPageName": "{{service}} è inattivo? – Stato {{service}}",
-  "serviceWebPageDescription": "Monitoraggio dello stato e delle interruzioni in tempo reale per {{service}}. Verifica se {{service}} è inattivo e visualizza la cronologia dei rapporti."
+  "serviceWebPageDescription": "Monitoraggio dello stato e delle interruzioni in tempo reale per {{service}}. Verifica se {{service}} è inattivo e visualizza la cronologia dei rapporti.",
+  "monitorYourWebsiteWithInstatus": "Monitora il tuo sito web con Instatus!",
+  "fromInstatus": "Da Instatus.com"
 }

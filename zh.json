@@ -327,5 +327,7 @@
   "serviceFaqHowToCheckAnswer": "访问{{url}}查看{{service}}的实时状态。该页面显示用户提交的实时停机报告和 12 小时历史图表，以便您可以判断 {{service}} 是否已关闭或出现问题。",
   "breadcrumbHome": "家",
   "serviceWebPageName": "{{service}} 挂了吗？ – {{service}} 状态",
-  "serviceWebPageDescription": "{{service}} 的实时状态和断电监控。查看 {{service}} 是否已关闭并查看报告历史记录。"
+  "serviceWebPageDescription": "{{service}} 的实时状态和断电监控。查看 {{service}} 是否已关闭并查看报告历史记录。",
+  "monitorYourWebsiteWithInstatus": "使用 Instatus 监控您自己的网站！",
+  "fromInstatus": "来自 Instatus.com"
 }

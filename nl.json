@@ -327,5 +327,7 @@
   "serviceFaqHowToCheckAnswer": "Bezoek {{url}} om de realtime status van {{service}} te zien. De pagina toont live door de gebruiker ingediende storingsrapporten en een geschiedenisgrafiek van 12 uur, zodat u kunt zien of {{service}} offline is of problemen ondervindt.",
   "breadcrumbHome": "Thuis",
   "serviceWebPageName": "Is {{service}} uitgeschakeld? – {{service}}-status",
-  "serviceWebPageDescription": "Realtime status- en uitvalmonitoring voor {{service}}. Kijk of {{service}} offline is en bekijk de rapportgeschiedenis."
+  "serviceWebPageDescription": "Realtime status- en uitvalmonitoring voor {{service}}. Kijk of {{service}} offline is en bekijk de rapportgeschiedenis.",
+  "monitorYourWebsiteWithInstatus": "Monitor je eigen website met Instatus!",
+  "fromInstatus": "Van Instatus.com"
 }

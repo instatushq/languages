@@ -320,5 +320,7 @@
   "serviceFaqHowToCheckAnswer": "存取{{url}}查看{{service}}的即時狀態。此頁面顯示使用者提交的即時停機報告和 12 小時歷史圖表，以便您可以判斷 {{service}} 是否已關閉或出現問題。",
   "breadcrumbHome": "家",
   "serviceWebPageName": "{{service}} 掛了嗎？ – {{service}} 狀態",
-  "serviceWebPageDescription": "{{service}} 的即時狀態與斷電監控。查看 {{service}} 是否已關閉並查看報告記錄。"
+  "serviceWebPageDescription": "{{service}} 的即時狀態與斷電監控。查看 {{service}} 是否已關閉並查看報告記錄。",
+  "monitorYourWebsiteWithInstatus": "使用 Instatus 監控您自己的網站！",
+  "fromInstatus": "來自 Instatus.com"
 }

@@ -327,5 +327,7 @@
   "serviceFaqHowToCheckAnswer": "Vizitați {{url}} pentru a vedea starea în timp real a {{service}}. Pagina afișează rapoarte de întrerupere transmise de utilizatori în timp real și un grafic cu istoric de 12 ore, astfel încât să puteți spune dacă {{service}} este oprit sau are probleme.",
   "breadcrumbHome": "Acasă",
   "serviceWebPageName": "{{service}} este jos? – Stare {{service}}",
-  "serviceWebPageDescription": "Monitorizare în timp real a stării și întreruperii pentru {{service}}. Vedeți dacă {{service}} este oprit și vizualizați istoricul raportului."
+  "serviceWebPageDescription": "Monitorizare în timp real a stării și întreruperii pentru {{service}}. Vedeți dacă {{service}} este oprit și vizualizați istoricul raportului.",
+  "monitorYourWebsiteWithInstatus": "Monitorizează-ți propriul site web cu Instatus!",
+  "fromInstatus": "De la Instatus.com"
 }

@@ -327,5 +327,7 @@
   "serviceFaqHowToCheckAnswer": "{{service}}'nin gerçek zamanlı durumunu görmek için {{url}}'yi ziyaret edin. Sayfa, kullanıcılar tarafından gönderilen canlı kesinti raporlarını ve 12 saatlik geçmiş grafiğini gösterir; böylece {{service}}'nin kapalı mı yoksa sorun mu yaşadığını anlayabilirsiniz.",
   "breadcrumbHome": "Ev",
   "serviceWebPageName": "{{service}} çalışmıyor mu? – {{service}} durumu",
-  "serviceWebPageDescription": "{{service}} için gerçek zamanlı durum ve kesinti izleme. {{service}}'nin kapalı olup olmadığına bakın ve rapor geçmişini görüntüleyin."
+  "serviceWebPageDescription": "{{service}} için gerçek zamanlı durum ve kesinti izleme. {{service}}'nin kapalı olup olmadığına bakın ve rapor geçmişini görüntüleyin.",
+  "monitorYourWebsiteWithInstatus": "Kendi web sitenizi Instatus ile izleyin!",
+  "fromInstatus": "Instatus.com'dan"
 }

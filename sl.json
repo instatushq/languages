@@ -327,5 +327,7 @@
   "serviceFaqHowToCheckAnswer": "Obiščite {{url}}, če si želite ogledati stanje {{service}} v realnem času. Stran prikazuje poročila o izpadih v živo, ki jih pošljejo uporabniki, in 12-urni grafikon zgodovine, tako da lahko ugotovite, ali {{service}} ne deluje ali ima težave.",
   "breadcrumbHome": "domov",
   "serviceWebPageName": "Ali {{service}} ne deluje? – stanje {{service}}",
-  "serviceWebPageDescription": "Stanje v realnem času in spremljanje izpadov za {{service}}. Preverite, ali {{service}} ne deluje, in si oglejte zgodovino poročil."
+  "serviceWebPageDescription": "Stanje v realnem času in spremljanje izpadov za {{service}}. Preverite, ali {{service}} ne deluje, in si oglejte zgodovino poročil.",
+  "monitorYourWebsiteWithInstatus": "Spremljajte svojo spletno stran z Instatusom!",
+  "fromInstatus": "Od Instatus.com"
 }
