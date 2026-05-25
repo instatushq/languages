@@ -148,5 +148,55 @@
     "value": "hu",
     "label": "Hungarian",
     "emoji": "🇭🇺"
+  },
+  {
+    "value": "hi",
+    "label": "Hindi",
+    "emoji": "🇮🇳"
+  },
+  {
+    "value": "bn",
+    "label": "Bengali",
+    "emoji": "🇧🇩"
+  },
+  {
+    "value": "ta",
+    "label": "Tamil",
+    "emoji": "🇮🇳"
+  },
+  {
+    "value": "fa",
+    "label": "Persian",
+    "emoji": "🇮🇷"
+  },
+  {
+    "value": "ur",
+    "label": "Urdu",
+    "emoji": "🇵🇰"
+  },
+  {
+    "value": "he",
+    "label": "Hebrew",
+    "emoji": "🇮🇱"
+  },
+  {
+    "value": "th",
+    "label": "Thai",
+    "emoji": "🇹🇭"
+  },
+  {
+    "value": "tl",
+    "label": "Filipino",
+    "emoji": "🇵🇭"
+  },
+  {
+    "value": "ms",
+    "label": "Malay",
+    "emoji": "🇲🇾"
+  },
+  {
+    "value": "el",
+    "label": "Greek",
+    "emoji": "🇬🇷"
   }
 ]

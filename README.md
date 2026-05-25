@@ -38,6 +38,16 @@ Supported languages:
 - 🇺🇦 Ukrainian [CTO](https://github.com/svc-git)
 - 🇻🇳 Vietnamese [Ngô Quý](https://github.com/JustHmmmm)
 - 🇭🇺 Hungarian [Summerfall Médiacsoport](https://github.com/summerfallmediagroup)
+- 🇮🇳 Hindi
+- 🇧🇩 Bengali
+- 🇮🇳 Tamil
+- 🇮🇷 Persian
+- 🇵🇰 Urdu
+- 🇮🇱 Hebrew
+- 🇹🇭 Thai
+- 🇵🇭 Filipino
+- 🇲🇾 Malay
+- 🇬🇷 Greek
 
 To use it:
 
