@@ -329,5 +329,9 @@
   "serviceWebPageName": "Är {{service}} nere? – {{service}} status",
   "serviceWebPageDescription": "Status- och avbrottsövervakning i realtid för {{service}}. Se om {{service}} är nere och visa rapporthistoriken.",
   "monitorYourWebsiteWithInstatus": "Övervaka din egen webbplats med Instatus!",
-  "fromInstatus": "Från Instatus.com"
+  "fromInstatus": "Från Instatus.com",
+  "search": "Sök…",
+  "noOptions": "Inga alternativ",
+  "yourTimezone": "Din tidszon",
+  "chooseTimezone": "Välj tidszon"
 }

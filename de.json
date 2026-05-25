@@ -329,5 +329,9 @@
   "serviceWebPageName": "Ist {{service}} ausgefallen? – {{service}}-Status",
   "serviceWebPageDescription": "Echtzeit-Status- und Ausfallüberwachung für {{service}}. Überprüfen Sie, ob {{service}} ausgefallen ist, und sehen Sie sich den Berichtsverlauf an.",
   "monitorYourWebsiteWithInstatus": "Überwachen Sie Ihre eigene Website mit Instatus!",
-  "fromInstatus": "Von Instatus.com"
+  "fromInstatus": "Von Instatus.com",
+  "search": "Suchen…",
+  "noOptions": "Keine Optionen",
+  "yourTimezone": "Ihre Zeitzone",
+  "chooseTimezone": "Zeitzone wählen"
 }

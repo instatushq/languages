@@ -329,5 +329,9 @@
   "serviceWebPageName": "{{service}} este jos? – Stare {{service}}",
   "serviceWebPageDescription": "Monitorizare în timp real a stării și întreruperii pentru {{service}}. Vedeți dacă {{service}} este oprit și vizualizați istoricul raportului.",
   "monitorYourWebsiteWithInstatus": "Monitorizează-ți propriul site web cu Instatus!",
-  "fromInstatus": "De la Instatus.com"
+  "fromInstatus": "De la Instatus.com",
+  "search": "Caută…",
+  "noOptions": "Nicio opțiune",
+  "yourTimezone": "Fusul tău orar",
+  "chooseTimezone": "Alege fusul orar"
 }

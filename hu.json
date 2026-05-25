@@ -329,5 +329,9 @@
   "serviceWebPageName": "A {{service}} leállt? – {{service}} állapot",
   "serviceWebPageDescription": "Valós idejű állapot- és kimaradásfigyelés a {{service}} számára. Ellenőrizze, hogy a {{service}} nem működik-e, és tekintse meg a jelentéselőzményeket.",
   "monitorYourWebsiteWithInstatus": "Figyelje saját webhelyét az Instatusszal!",
-  "fromInstatus": "Az Instatus.com-tól"
+  "fromInstatus": "Az Instatus.com-tól",
+  "search": "Keresés…",
+  "noOptions": "Nincsenek lehetőségek",
+  "yourTimezone": "Az Ön időzónája",
+  "chooseTimezone": "Időzóna kiválasztása"
 }

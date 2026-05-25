@@ -329,5 +329,9 @@
   "serviceWebPageName": "Is {{service}} down? – {{service}} status",
   "serviceWebPageDescription": "Real-time status and outage monitoring for {{service}}. See if {{service}} is down and view the report history.",
   "monitorYourWebsiteWithInstatus": "Monitor your own website with Instatus!",
-  "fromInstatus": "From Instatus.com"
+  "fromInstatus": "From Instatus.com",
+  "search": "Search…",
+  "noOptions": "No options",
+  "yourTimezone": "Your time zone",
+  "chooseTimezone": "Choose time zone"
 }

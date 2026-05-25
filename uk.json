@@ -329,5 +329,9 @@
   "serviceWebPageName": "{{service}} не працює? – статус {{service}}",
   "serviceWebPageDescription": "Моніторинг стану та збоїв у режимі реального часу для {{service}}. Подивіться, чи не працює {{service}}, і перегляньте історію звітів.",
   "monitorYourWebsiteWithInstatus": "Стежте за власним сайтом за допомогою Instatus!",
-  "fromInstatus": "Від Instatus.com"
+  "fromInstatus": "Від Instatus.com",
+  "search": "Пошук…",
+  "noOptions": "Немає варіантів",
+  "yourTimezone": "Ваш часовий пояс",
+  "chooseTimezone": "Виберіть часовий пояс"
 }

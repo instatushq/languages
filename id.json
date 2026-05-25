@@ -329,5 +329,9 @@
   "serviceWebPageName": "Apakah {{service}} mati? – status {{service}}",
   "serviceWebPageDescription": "Status real-time dan pemantauan pemadaman untuk {{service}}. Lihat apakah {{service}} tidak aktif dan lihat riwayat laporan.",
   "monitorYourWebsiteWithInstatus": "Pantau situs web Anda sendiri dengan Instatus!",
-  "fromInstatus": "Dari Instatus.com"
+  "fromInstatus": "Dari Instatus.com",
+  "search": "Cari…",
+  "noOptions": "Tidak ada opsi",
+  "yourTimezone": "Zona waktu Anda",
+  "chooseTimezone": "Pilih zona waktu"
 }

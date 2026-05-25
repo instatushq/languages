@@ -329,5 +329,9 @@
   "serviceWebPageName": "{{service}} はダウンしていますか？ – {{service}} ステータス",
   "serviceWebPageDescription": "{{service}} のリアルタイムステータスと障害状況を監視。{{service}} がダウンしているか確認し、報告履歴を確認できます。",
   "monitorYourWebsiteWithInstatus": "Instatus で自分のウェブサイトを監視しましょう！",
-  "fromInstatus": "Instatus.com より"
+  "fromInstatus": "Instatus.com より",
+  "search": "検索…",
+  "noOptions": "選択肢なし",
+  "yourTimezone": "あなたのタイムゾーン",
+  "chooseTimezone": "タイムゾーンを選択"
 }

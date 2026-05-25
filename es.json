@@ -329,5 +329,9 @@
   "serviceWebPageName": "¿Está caído {{service}}? – Estado {{service}}",
   "serviceWebPageDescription": "Monitoreo de apagones y estado en tiempo real para {{service}}. Vea si {{service}} está inactivo y vea el historial de informes.",
   "monitorYourWebsiteWithInstatus": "¡Monitoriza tu propio sitio web con Instatus!",
-  "fromInstatus": "De Instatus.com"
+  "fromInstatus": "De Instatus.com",
+  "search": "Buscar…",
+  "noOptions": "Sin opciones",
+  "yourTimezone": "Tu zona horaria",
+  "chooseTimezone": "Elige zona horaria"
 }

@@ -329,5 +329,9 @@
   "serviceWebPageName": "Czy {{service}} nie działa? – stan {{service}}",
   "serviceWebPageDescription": "Monitorowanie stanu i przestojów w czasie rzeczywistym dla {{service}}. Sprawdź, czy {{service}} nie działa i przejrzyj historię raportów.",
   "monitorYourWebsiteWithInstatus": "Monitoruj własną stronę za pomocą Instatus!",
-  "fromInstatus": "Z Instatus.com"
+  "fromInstatus": "Z Instatus.com",
+  "search": "Szukaj…",
+  "noOptions": "Brak opcji",
+  "yourTimezone": "Twoja strefa czasowa",
+  "chooseTimezone": "Wybierz strefę czasową"
 }

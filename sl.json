@@ -329,5 +329,9 @@
   "serviceWebPageName": "Ali {{service}} ne deluje? – stanje {{service}}",
   "serviceWebPageDescription": "Stanje v realnem času in spremljanje izpadov za {{service}}. Preverite, ali {{service}} ne deluje, in si oglejte zgodovino poročil.",
   "monitorYourWebsiteWithInstatus": "Spremljajte svojo spletno stran z Instatusom!",
-  "fromInstatus": "Od Instatus.com"
+  "fromInstatus": "Od Instatus.com",
+  "search": "Iskanje…",
+  "noOptions": "Ni možnosti",
+  "yourTimezone": "Vaš časovni pas",
+  "chooseTimezone": "Izberite časovni pas"
 }

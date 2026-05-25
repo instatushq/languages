@@ -318,5 +318,9 @@
   "serviceWebPageName": "Да ли је {{service}} пао? – {{service}} статус",
   "serviceWebPageDescription": "Праћење статуса и испада у реалном времену за {{service}}. Погледајте да ли {{service}} не ради и погледајте историју извештаја.",
   "monitorYourWebsiteWithInstatus": "Пратите свој веб-сајт уз Instatus!",
-  "fromInstatus": "Од Instatus.com"
+  "fromInstatus": "Од Instatus.com",
+  "search": "Претрага…",
+  "noOptions": "Нема опција",
+  "yourTimezone": "Ваша временска зона",
+  "chooseTimezone": "Изаберите временску зону"
 }

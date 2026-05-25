@@ -329,5 +329,9 @@
   "serviceWebPageName": "{{service}} è inattivo? – Stato {{service}}",
   "serviceWebPageDescription": "Monitoraggio dello stato e delle interruzioni in tempo reale per {{service}}. Verifica se {{service}} è inattivo e visualizza la cronologia dei rapporti.",
   "monitorYourWebsiteWithInstatus": "Monitora il tuo sito web con Instatus!",
-  "fromInstatus": "Da Instatus.com"
+  "fromInstatus": "Da Instatus.com",
+  "search": "Cerca…",
+  "noOptions": "Nessuna opzione",
+  "yourTimezone": "Il tuo fuso orario",
+  "chooseTimezone": "Scegli un fuso orario"
 }

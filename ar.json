@@ -329,5 +329,9 @@
   "serviceWebPageName": "هل {{service}} معطل؟ – حالة {{service}}",
   "serviceWebPageDescription": "مراقبة الحالة والانقطاع في الوقت الفعلي لـ {{service}}. معرفة ما إذا كان {{service}} معطلاً وعرض سجل التقرير.",
   "monitorYourWebsiteWithInstatus": "راقب موقعك الإلكتروني الخاص باستخدام Instatus!",
-  "fromInstatus": "من Instatus.com"
+  "fromInstatus": "من Instatus.com",
+  "search": "بحث…",
+  "noOptions": "لا توجد خيارات",
+  "yourTimezone": "منطقتك الزمنية",
+  "chooseTimezone": "اختر المنطقة الزمنية"
 }

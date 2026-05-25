@@ -329,5 +329,9 @@
   "serviceWebPageName": "Kas {{service}} on maas? – {{service}} olek",
   "serviceWebPageDescription": "{{service}} oleku ja katkestuste reaalajas jälgimine. Vaadake, kas {{service}} on maas, ja vaadake aruannete ajalugu.",
   "monitorYourWebsiteWithInstatus": "Jälgi oma veebisaiti Instatusega!",
-  "fromInstatus": "Saidilt Instatus.com"
+  "fromInstatus": "Saidilt Instatus.com",
+  "search": "Otsi…",
+  "noOptions": "Valikud puuduvad",
+  "yourTimezone": "Sinu ajavöönd",
+  "chooseTimezone": "Vali ajavöönd"
 }

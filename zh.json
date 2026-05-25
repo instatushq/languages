@@ -329,5 +329,9 @@
   "serviceWebPageName": "{{service}} 挂了吗？ – {{service}} 状态",
   "serviceWebPageDescription": "{{service}} 的实时状态和断电监控。查看 {{service}} 是否已关闭并查看报告历史记录。",
   "monitorYourWebsiteWithInstatus": "使用 Instatus 监控您自己的网站！",
-  "fromInstatus": "来自 Instatus.com"
+  "fromInstatus": "来自 Instatus.com",
+  "search": "搜索…",
+  "noOptions": "无选项",
+  "yourTimezone": "您的时区",
+  "chooseTimezone": "选择时区"
 }

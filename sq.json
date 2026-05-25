@@ -329,5 +329,9 @@
   "serviceWebPageName": "A është {{service}} i dëmtuar? – Statusi {{service}}",
   "serviceWebPageDescription": "Monitorimi i statusit dhe ndërprerjeve në kohë reale për {{service}}. Shihni nëse {{service}} nuk funksionon dhe shikoni historikun e raportit.",
   "monitorYourWebsiteWithInstatus": "Monitoroni faqen tuaj të internetit me Instatus!",
-  "fromInstatus": "Nga Instatus.com"
+  "fromInstatus": "Nga Instatus.com",
+  "search": "Kërko…",
+  "noOptions": "Pa opsione",
+  "yourTimezone": "Zona juaj kohore",
+  "chooseTimezone": "Zgjidh zonën kohore"
 }

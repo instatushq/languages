@@ -329,5 +329,9 @@
   "serviceWebPageName": "Er {{service}} nede? – {{service}}-status",
   "serviceWebPageDescription": "Sanntidsstatus og strømbruddsovervåking for {{service}}. Se om {{service}} er nede og se rapportloggen.",
   "monitorYourWebsiteWithInstatus": "Overvåk ditt eget nettsted med Instatus!",
-  "fromInstatus": "Fra Instatus.com"
+  "fromInstatus": "Fra Instatus.com",
+  "search": "Søk…",
+  "noOptions": "Ingen alternativer",
+  "yourTimezone": "Din tidssone",
+  "chooseTimezone": "Velg tidssone"
 }

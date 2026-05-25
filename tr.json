@@ -329,5 +329,9 @@
   "serviceWebPageName": "{{service}} çalışmıyor mu? – {{service}} durumu",
   "serviceWebPageDescription": "{{service}} için gerçek zamanlı durum ve kesinti izleme. {{service}}'nin kapalı olup olmadığına bakın ve rapor geçmişini görüntüleyin.",
   "monitorYourWebsiteWithInstatus": "Kendi web sitenizi Instatus ile izleyin!",
-  "fromInstatus": "Instatus.com'dan"
+  "fromInstatus": "Instatus.com'dan",
+  "search": "Ara…",
+  "noOptions": "Seçenek yok",
+  "yourTimezone": "Saat diliminiz",
+  "chooseTimezone": "Saat dilimi seçin"
 }

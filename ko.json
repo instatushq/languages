@@ -329,5 +329,9 @@
   "serviceWebPageName": "{{service}}가 다운되었나요? – {{service}} 상태",
   "serviceWebPageDescription": "{{service}}에 대한 실시간 상태 및 중단 모니터링. {{service}}가 다운되었는지 확인하고 보고서 기록을 확인하세요.",
   "monitorYourWebsiteWithInstatus": "Instatus로 직접 웹사이트를 모니터링하세요!",
-  "fromInstatus": "Instatus.com 제공"
+  "fromInstatus": "Instatus.com 제공",
+  "search": "검색…",
+  "noOptions": "옵션 없음",
+  "yourTimezone": "내 시간대",
+  "chooseTimezone": "시간대 선택"
 }

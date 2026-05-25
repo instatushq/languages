@@ -329,5 +329,9 @@
   "serviceWebPageName": "Onko {{service}} alhaalla? – {{service}} tila",
   "serviceWebPageDescription": "Reaaliaikainen tilan ja katkosten valvonta {{service}}:lle. Katso, onko {{service}} alhaalla, ja tarkastele raporttihistoriaa.",
   "monitorYourWebsiteWithInstatus": "Valvo omaa verkkosivustoasi Instatusilla!",
-  "fromInstatus": "Instatus.comista"
+  "fromInstatus": "Instatus.comista",
+  "search": "Hae…",
+  "noOptions": "Ei vaihtoehtoja",
+  "yourTimezone": "Aikavyöhykkeesi",
+  "chooseTimezone": "Valitse aikavyöhyke"
 }

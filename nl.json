@@ -329,5 +329,9 @@
   "serviceWebPageName": "Is {{service}} uitgeschakeld? – {{service}}-status",
   "serviceWebPageDescription": "Realtime status- en uitvalmonitoring voor {{service}}. Kijk of {{service}} offline is en bekijk de rapportgeschiedenis.",
   "monitorYourWebsiteWithInstatus": "Monitor je eigen website met Instatus!",
-  "fromInstatus": "Van Instatus.com"
+  "fromInstatus": "Van Instatus.com",
+  "search": "Zoeken…",
+  "noOptions": "Geen opties",
+  "yourTimezone": "Jouw tijdzone",
+  "chooseTimezone": "Kies tijdzone"
 }

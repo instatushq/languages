@@ -329,5 +329,9 @@
   "serviceWebPageName": "O {{service}} está desativado? – Estado {{service}}",
   "serviceWebPageDescription": "Monitoramento de status e interrupções em tempo real para {{service}}. Veja se {{service}} está fora do ar e veja o histórico do relatório.",
   "monitorYourWebsiteWithInstatus": "Monitorize o seu próprio site com o Instatus!",
-  "fromInstatus": "Do Instatus.com"
+  "fromInstatus": "Do Instatus.com",
+  "search": "Procurar…",
+  "noOptions": "Sem opções",
+  "yourTimezone": "O seu fuso horário",
+  "chooseTimezone": "Escolher fuso horário"
 }

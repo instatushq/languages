@@ -329,5 +329,9 @@
   "serviceWebPageName": "{{service}} có bị hỏng không? – Trạng thái {{service}}",
   "serviceWebPageDescription": "Giám sát trạng thái thời gian thực và ngừng hoạt động của {{service}}. Xem liệu {{service}} có ngừng hoạt động hay không và xem lịch sử báo cáo.",
   "monitorYourWebsiteWithInstatus": "Theo dõi trang web của riêng bạn với Instatus!",
-  "fromInstatus": "Từ Instatus.com"
+  "fromInstatus": "Từ Instatus.com",
+  "search": "Tìm kiếm…",
+  "noOptions": "Không có lựa chọn",
+  "yourTimezone": "Múi giờ của bạn",
+  "chooseTimezone": "Chọn múi giờ"
 }

@@ -329,5 +329,9 @@
   "serviceWebPageName": "{{service}} est-il en panne ? – Statut {{service}}",
   "serviceWebPageDescription": "Surveillance en temps réel de l'état et des pannes de {{service}}. Vérifiez si {{service}} est en panne et consultez l'historique des signalements.",
   "monitorYourWebsiteWithInstatus": "Surveillez votre propre site web avec Instatus !",
-  "fromInstatus": "De Instatus.com"
+  "fromInstatus": "De Instatus.com",
+  "search": "Rechercher…",
+  "noOptions": "Aucune option",
+  "yourTimezone": "Votre fuseau horaire",
+  "chooseTimezone": "Choisir un fuseau horaire"
 }

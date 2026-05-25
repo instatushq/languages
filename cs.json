@@ -329,5 +329,9 @@
   "serviceWebPageName": "Je {{service}} nefunkční? – stav {{service}}",
   "serviceWebPageDescription": "Monitorování stavu a výpadků v reálném čase pro {{service}}. Podívejte se, zda je {{service}} nefunkční, a zobrazte historii hlášení.",
   "monitorYourWebsiteWithInstatus": "Sledujte vlastní web pomocí Instatus!",
-  "fromInstatus": "Z Instatus.com"
+  "fromInstatus": "Z Instatus.com",
+  "search": "Hledat…",
+  "noOptions": "Žádné možnosti",
+  "yourTimezone": "Vaše časové pásmo",
+  "chooseTimezone": "Vyberte časové pásmo"
 }
