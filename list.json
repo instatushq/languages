@@ -198,5 +198,55 @@
     "value": "el",
     "label": "Greek",
     "emoji": "🇬🇷"
+  },
+  {
+    "value": "es-mx",
+    "label": "Spanish - Latin America",
+    "emoji": "🇲🇽"
+  },
+  {
+    "value": "fr-ca",
+    "label": "French - Canada",
+    "emoji": "🇨🇦"
+  },
+  {
+    "value": "hr",
+    "label": "Croatian",
+    "emoji": "🇭🇷"
+  },
+  {
+    "value": "sk",
+    "label": "Slovak",
+    "emoji": "🇸🇰"
+  },
+  {
+    "value": "bg",
+    "label": "Bulgarian",
+    "emoji": "🇧🇬"
+  },
+  {
+    "value": "lt",
+    "label": "Lithuanian",
+    "emoji": "🇱🇹"
+  },
+  {
+    "value": "lv",
+    "label": "Latvian",
+    "emoji": "🇱🇻"
+  },
+  {
+    "value": "mr",
+    "label": "Marathi",
+    "emoji": "🇮🇳"
+  },
+  {
+    "value": "te",
+    "label": "Telugu",
+    "emoji": "🇮🇳"
+  },
+  {
+    "value": "sw",
+    "label": "Swahili",
+    "emoji": "🇰🇪"
   }
 ]
