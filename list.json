@@ -248,5 +248,115 @@
     "value": "sw",
     "label": "Swahili",
     "emoji": "🇰🇪"
+  },
+  {
+    "value": "kn",
+    "label": "Kannada",
+    "emoji": "🇮🇳"
+  },
+  {
+    "value": "pa",
+    "label": "Punjabi",
+    "emoji": "🇮🇳"
+  },
+  {
+    "value": "gu",
+    "label": "Gujarati",
+    "emoji": "🇮🇳"
+  },
+  {
+    "value": "ml",
+    "label": "Malayalam",
+    "emoji": "🇮🇳"
+  },
+  {
+    "value": "af",
+    "label": "Afrikaans",
+    "emoji": "🇿🇦"
+  },
+  {
+    "value": "az",
+    "label": "Azerbaijani",
+    "emoji": "🇦🇿"
+  },
+  {
+    "value": "kk",
+    "label": "Kazakh",
+    "emoji": "🇰🇿"
+  },
+  {
+    "value": "ca",
+    "label": "Catalan",
+    "emoji": "🇦🇩"
+  },
+  {
+    "value": "ne",
+    "label": "Nepali",
+    "emoji": "🇳🇵"
+  },
+  {
+    "value": "si",
+    "label": "Sinhala",
+    "emoji": "🇱🇰"
+  },
+  {
+    "value": "ka",
+    "label": "Georgian",
+    "emoji": "🇬🇪"
+  },
+  {
+    "value": "hy",
+    "label": "Armenian",
+    "emoji": "🇦🇲"
+  },
+  {
+    "value": "my",
+    "label": "Burmese",
+    "emoji": "🇲🇲"
+  },
+  {
+    "value": "km",
+    "label": "Khmer",
+    "emoji": "🇰🇭"
+  },
+  {
+    "value": "uz",
+    "label": "Uzbek",
+    "emoji": "🇺🇿"
+  },
+  {
+    "value": "ps",
+    "label": "Pashto",
+    "emoji": "🇦🇫"
+  },
+  {
+    "value": "am",
+    "label": "Amharic",
+    "emoji": "🇪🇹"
+  },
+  {
+    "value": "ha",
+    "label": "Hausa",
+    "emoji": "🇳🇬"
+  },
+  {
+    "value": "yo",
+    "label": "Yoruba",
+    "emoji": "🇳🇬"
+  },
+  {
+    "value": "bs",
+    "label": "Bosnian",
+    "emoji": "🇧🇦"
+  },
+  {
+    "value": "mk",
+    "label": "Macedonian",
+    "emoji": "🇲🇰"
+  },
+  {
+    "value": "be",
+    "label": "Belarusian",
+    "emoji": "🇧🇾"
   }
 ]
